@@ -71,7 +71,7 @@ Template for the bio:
 title: "Jane Doe"
 ---
 
-[{{< icon "github" >}} j11doe](https://github.com/j11doe) &nbsp;&middot;&nbsp; [{{< icon "linkedin" >}} jane-doe-17](https://at.linkedin.com/in/jane-doe-17)
+[{{< icon "github" >}} j11doe](https://github.com/j11doe)&nbsp&nbsp;&middot;&nbsp; [{{< icon "linkedin" >}} jane-doe-17](https://at.linkedin.com/in/jane-doe-17)
 
 _Jane's Kurzbiografie hier (Achtung: der Name kommt weiter unten noch einmal vor! Beispiele finden sich hier: https://en.ergie.at/authors/)_
 
@@ -79,12 +79,32 @@ Jane hat an den folgenden Inhalten mitgearbeitet:
 
 ```
 
+See [this author page](https://github.com/ait-energy/en.ergie.at/blob/main/content/authors/sstroemer/_index.md) for further ideas.
+
 ## Development
 
 ### Local setup
 
 1. Install Hugo: [gohugo.io/installation](https://gohugo.io/installation/)
-2. Execute `hugo server --buildDrafts`
+2. Clone this repository, e.g., `git clone https://github.com/ait-energy/en.ergie.at.git`
+3. Execute `git submodule update --init --recursive` to also get the (submodule-d) theme (this might take a bit)
+4. Execute `git submodule update --remote --merge` to update the theme
+5. Execute `hugo server --buildDrafts`
+
+### Contributing
+
+1. If you have access to this repository, create a branch for the change you intend to do. Otherwise, fork this repository
+2. Make your changes (see steps below)
+3. Push you changes and open a new pull request
+
+If you want your changes to be included in the live version of this page (most likely), then tag a new release --- or if
+you do not have the proper rights for that let someone tag it for you --- after your PR has been reviewed and merged
+into `main`. Based on [CalVer](https://calver.org/) we use the following versioning tags:
+
+`vYYYY.0M.MICRO`
+
+This means, for the first release tagged in December 2024, the tag looks like this: `v2024.12.0`. The next would then be
+`v2024.12.1`, and so on. As soon as a release happens in the next month (here January 2025), it changes to `v2025.01.0`.
 
 ### Creating a new page
 
