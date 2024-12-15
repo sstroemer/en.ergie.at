@@ -108,3 +108,5 @@ Regarding the last point, some examples:
 
 As you see the "tags" are always aligned with the folder names, "authors", "wissen", etc. Minor changes to language can
 be done as `wissen(fix): language`, pure typos as `daten(fix): type`.
+
+This also relates to "pure files", like the Impressum --- tag this with `impressum: add note on X`.
