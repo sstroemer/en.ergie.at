@@ -71,13 +71,15 @@ Template for the bio:
 title: "Jane Doe"
 ---
 
-[{{< icon "github" >}} j11doe](https://github.com/j11doe) &nbsp;&middot;&nbsp; [{{< icon "linkedin" >}} jane-doe-17](https://at.linkedin.com/in/jane-doe-17)
+[{{< icon "github" >}} j11doe](https://github.com/j11doe)&nbsp&nbsp;&middot;&nbsp; [{{< icon "linkedin" >}} jane-doe-17](https://at.linkedin.com/in/jane-doe-17)
 
 _Jane's Kurzbiografie hier (Achtung: der Name kommt weiter unten noch einmal vor! Beispiele finden sich hier: https://en.ergie.at/authors/)_
 
 Jane hat an den folgenden Inhalten mitgearbeitet:
 
 ```
+
+See [this author page](https://github.com/ait-energy/en.ergie.at/blob/main/content/authors/sstroemer/_index.md) for further ideas.
 
 ## Development
 
