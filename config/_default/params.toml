@@ -1,0 +1,161 @@
+colorScheme = "avocado"
+defaultAppearance = "light"
+autoSwitchAppearance = true
+
+enableSearch = true
+enableCodeCopy = true
+
+replyByEmail = false
+
+mainSections = ["wissen"]
+# robots = ""
+
+disableImageOptimization = false
+disableTextInHeader = false
+# backgroundImageWidth = 1200
+
+# defaultBackgroundImage = "IMAGE.jpg" # used as default for background images 
+# defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
+
+highlightCurrentMenuArea = true
+smartTOC = true
+smartTOCHideUnfocusedChildren = true
+
+# giteaDefaultServer = "https://git.fsfe.org"
+# forgejoDefaultServer = "https://v8.next.forgejo.org"
+
+[header]
+  layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
+
+[footer]
+  showMenu = true
+  showCopyright = true
+  showThemeAttribution = true
+  showAppearanceSwitcher = true
+  showScrollToTop = true
+
+[homepage]
+  layout = "card" # valid options: page, profile, hero, card, background, custom
+  homepageImage = "img/banner_front.jpg"
+  showRecent = true
+  showRecentItems = 5
+  showMoreLink = false
+  # showMoreLinkDest = "/posts/"
+  cardView = false
+  cardViewScreenWidth = false
+  layoutBackgroundBlur = false # only used when layout equals background
+
+[article]
+  showDate = true
+  showViews = false
+  showLikes = false
+  showDateOnlyInArticle = false
+  showDateUpdated = true
+  showAuthor = false
+  showHero = true
+  heroStyle = "thumbAndBackground" # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundBlur = true
+  # layoutBackgroundHeaderSpace = true  # only used when heroStyle equals background
+  showBreadcrumbs = true
+  showDraftLabel = true
+  showEdit = true
+  editURL = "https://github.com/ait-energy/en.ergie.at/tree/main/conent"
+  editAppendPath = true
+  seriesOpened = false
+  showHeadingAnchors = true
+  showPagination = false
+  # invertPagination = false
+  showReadingTime = true
+  showTableOfContents = true
+  showRelatedContent = false
+  # relatedContentLimit = 1
+  showTaxonomies = true
+  showAuthorsBadges = false
+  showWordCount = true
+  sharingLinks = [ "linkedin", "email", "whatsapp", "twitter", "telegram" ] # "bluesky", "mastodon", "reddit", "pinterest", "facebook", 
+  showZenMode = true
+
+[list]
+  showHero = false
+  # heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
+  # layoutBackgroundBlur = true
+  # layoutBackgroundHeaderSpace = true
+  showBreadcrumbs = false
+  showSummary = true
+  showViews = false
+  showLikes = false
+  showTableOfContents = false
+  showCards = false
+  orderByWeight = false
+  groupByYear = false
+  cardView = false
+  cardViewScreenWidth = false
+  constrainItemsWidth = false
+
+[sitemap]
+  excludedKinds = ["taxonomy", "term"]
+
+[taxonomy]
+  showTermCount = true
+  showHero = false
+  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showBreadcrumbs = false
+  showViews = false
+  showLikes = false
+  showTableOfContents = false
+  cardView = true
+  orderByWeight = true
+
+[term]
+  showHero = false
+  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showBreadcrumbs = false
+  showViews = false
+  showLikes = false
+  showTableOfContents = false
+  groupByYear = false
+  cardView = false
+  cardViewScreenWidth = false
+  orderByWeight = true
+
+[firebase]
+  # apiKey = "XXXXXX"
+  # authDomain = "XXXXXX"
+  # projectId = "XXXXXX"
+  # storageBucket = "XXXXXX"
+  # messagingSenderId = "XXXXXX"
+  # appId = "XXXXXX"
+  # measurementId = "XXXXXX"
+
+[fathomAnalytics]
+  # site = "ABC12345"
+  # domain = "llama.yoursite.com"
+
+[umamiAnalytics]
+  # websiteid = "ABC12345"
+  # domain = "llama.yoursite.com"
+  # dataDomains = "yoursite.com,yoursite2.com"
+  # scriptName = ""
+  # enableTrackEvent = true
+
+[selineAnalytics]
+  # token = "XXXXXX"
+  # enableTrackEvent = true
+
+[buymeacoffee]
+  # identifier = ""
+  # globalWidget = true
+  # globalWidgetMessage = "Hello"
+  # globalWidgetColor = "#FFDD00"
+  # globalWidgetPosition = "Right"
+
+[verification]
+  # google = ""
+  # bing = ""
+  # pinterest = ""
+  # yandex = ""
+  # fediverse = ""
+
+[rssnext]
+  # feedId = ""
+  # userId = ""
