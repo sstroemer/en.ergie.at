@@ -96,7 +96,7 @@ hugo new content content/path/to/file.md
 
 Read up on [conventionalcommits.org](https://www.conventionalcommits.org/), and stick to the following:
 
-- `chore`: for any general "chores" around the repository
+- `chore`: for any general "chores" around the repository, including changes to the CI (do not tag that as `ci: ...`)
 - `hugo`: any changes to the Hugo configuration, theme configuration, or the theme itself
 - otherwise tag the main "thing" that you are modifying improving (instead of the usual `fix`, `feat`, etc.)
 
