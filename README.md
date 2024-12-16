@@ -87,9 +87,9 @@ See [this author page](https://github.com/ait-energy/en.ergie.at/blob/main/conte
 
 1. Install Hugo: [gohugo.io/installation](https://gohugo.io/installation/)
 2. Clone this repository, e.g., `git clone https://github.com/ait-energy/en.ergie.at.git`
-3. Execute `git submodule update --init --recursive` to also get the (submodule-d) theme (this might take a bit)
-4. Execute `git submodule update --remote --merge` to update the theme
-5. Execute `hugo server --buildDrafts`
+3. Inside the folder `en.ergie.at`: execute `git submodule update --init --recursive` to also get the (submodule-d) theme (this might take a bit)
+4. Inside the folder `en.ergie.at`: execute `git submodule update --remote --merge` to update the theme
+5. Inside the folder `en.ergie.at`: execute `hugo server --buildDrafts`
 
 ### Contributing
 
