@@ -7,21 +7,26 @@ topics: ["test", "abc"]
 authors:
   - "fackerl"
 series: ["Strommärkte"]
-series_order: 2
-weight: 2
+series_order: 3
+weight: 3
 ---
 
-# Test
+## Test
+
 This is a test
 
 ## Creating new branch
+
 Test
 
 ## Pullrequest
+
 Testing PR
 
 ## Links
+
 Weitere Informationen:
+
 - [EPEX SPOT](https://www.epexspot.com/en/tradingproducts)  
   Informationen zu Handelsprodukten auf der European Power Exchange (EPEX).
 
