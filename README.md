@@ -96,7 +96,7 @@ See [this author page](https://github.com/ait-energy/en.ergie.at/blob/main/conte
 ### Local setup (Linux)
 
 1. Install Hugo: [gohugo.io/installation](https://gohugo.io/installation/)
-2. Clone this repository, e.g., `git clone https://github.com/ait-energy/en.ergie.at.git`
+2. Clone this repository, e.g., `git clone https://github.com/ait-energy/en.ergie.at.git`. If you don't have access, fork this repository.
 3. Inside the folder `en.ergie.at`: execute `git submodule update --init --recursive` to also get the (submodule-d) theme (this might take a bit)
 4. Inside the folder `en.ergie.at`: execute `git submodule update --remote --merge` to update the theme
 5. Inside the folder `en.ergie.at`: execute `hugo server --buildDrafts`
@@ -105,7 +105,7 @@ See [this author page](https://github.com/ait-energy/en.ergie.at/blob/main/conte
 
 Cloning a repository
 
-1. Open the repository's entry page in your browser  
+1. Open the repository's entry page in your browser `https://github.com/ait-energy/en.ergie.at.git`. If you have access to this repository, create a branch for the change you intend to do. Otherwise, fork this repository.
 2. Click on "Code" → Copy the provided URL  
 3. Open a new terminal in VSCode
 4. Navigate to your development folder using: `cd path/to/dev_folder`  
@@ -122,19 +122,6 @@ Setting up the local environment
 7. A link will be displayed in the terminal, open it to view the local website  
 
 ### Contributing
-
-1. If you have access to this repository, create a branch for the change you intend to do. Otherwise, fork this repository
-2. Make your changes (see steps below for a [detailed example](#creating-a-new-page))
-3. Push you changes and open a new pull request
-
-If you want your changes to be included in the live version of this page (most likely), then tag a new release --- or if
-you do not have the proper rights for that let someone tag it for you --- after your PR has been reviewed and merged
-into `main`. Based on [CalVer](https://calver.org/) we use the following versioning tags:
-
-`vYYYY.0M.MICRO`
-
-This means, for the first release tagged in December 2024, the tag looks like this: `v2024.12.0`. The next would then be
-`v2024.12.1`, and so on. As soon as a release happens in the next month (here January 2025), it changes to `v2025.01.0`.
 
 ### Creating a new page
 
@@ -183,7 +170,18 @@ This section showcase a common workflow, used when proposing a change, on the ex
 6. The pull request will appear in red until it has been reviewed (you may be asked to make changes)  
 7. Once your PR is approved, the changes will be merged into the main branch  
 8. Delete the old feature branch after the merge  
-9. Switch back to your `main` branch in VSCode and update it by clicking on the icon next to the branch name in the bottom-left corner  
+9. Switch back to your `main` branch in VSCode and update it by clicking on the icon next to the branch name in the bottom-left corner
+
+#### Tag release
+
+If you want your changes to be included in the live version of this page (most likely), then tag a new release --- or if
+you do not have the proper rights for that let someone tag it for you --- after your PR has been reviewed and merged
+into `main`. Based on [CalVer](https://calver.org/) we use the following versioning tags:
+
+`vYYYY.0M.MICRO`
+
+This means, for the first release tagged in December 2024, the tag looks like this: `v2024.12.0`. The next would then be
+`v2024.12.1`, and so on. As soon as a release happens in the next month (here January 2025), it changes to `v2025.01.0`.
 
 ### Commit messages
 
