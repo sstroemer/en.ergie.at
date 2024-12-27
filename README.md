@@ -158,7 +158,7 @@ This section showcase a common workflow, used when proposing a change, on the ex
 1. In the Explorer section, navigate to the `data/authors` directory
 2. Right-click and select "New File" to create `data/authors/jdoe.json`, with the content `{"name": "Jane Doe"}`, see [Templates](#templates)
 
-Creating a folder and index file for the author
+#### Creating a folder and index file for the author
 
 1. Navigate to the `content/authors` directory.
 2. Create a new folder with the author's abbreviation and create an `index.md` file inside the folder `content/authors/jdoe/_index.md`
