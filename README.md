@@ -9,6 +9,16 @@ This contains helpful information related to the [en.ergie.at](https://en.ergie.
 - Cite stuff that can be cited, link to stuff that can be linked to.
 - Use `<mark>` to highlight stuff, instead of over-using bold/italic text.
 - The "readmore" tag `<!--more-->` can be used.
+- Use ## (heading level 2) as the first allowed heading level, avoiding the use of # (heading level 1) altogether. This ensures consistency and aligns with the page's rendering style, as the title of the page is already rendered prominently on the website.
+
+### Markdownlink for formatting
+
+Install `markdownlint` to ensure proper markdown formatting in VSCode:
+
+1. Open the Extensions menu (last symbol in the left-side menu bar)
+2. Search for `markdownlint` and click install
+
+Once installed, `markdownlint` will automatically check your files as you type, highlighting formatting issues such as missing blank lines or inconsistent headers. By opening the "PROBLEMS" tab in the terminal section, you can view a list of all formatting issues and click on any item to jump directly to the corresponding line in your file.
 
 ### Highlighting content
 
@@ -83,7 +93,7 @@ See [this author page](https://github.com/ait-energy/en.ergie.at/blob/main/conte
 
 ## Development
 
-### Local setup
+### Local setup (Linux)
 
 1. Install Hugo: [gohugo.io/installation](https://gohugo.io/installation/)
 2. Clone this repository, e.g., `git clone https://github.com/ait-energy/en.ergie.at.git`
@@ -91,10 +101,30 @@ See [this author page](https://github.com/ait-energy/en.ergie.at/blob/main/conte
 4. Inside the folder `en.ergie.at`: execute `git submodule update --remote --merge` to update the theme
 5. Inside the folder `en.ergie.at`: execute `hugo server --buildDrafts`
 
+### Local Setup (Windows)
+
+Cloning a repository
+
+1. Open the repository's entry page in your browser  
+2. Click on "Code" → Copy the provided URL  
+3. Open a new terminal in VSCode
+4. Navigate to your development folder using: `cd path/to/dev_folder`  
+5. Clone the repository by entering: `git clone URL` (paste the repository's URL)
+
+Setting up the local environment
+
+1. Install Hugo: gohugo.io/installation
+2. Extract the `hugo.exe` file and copy it into your development folder  
+3. Open a new terminal in VSCode
+4. Inside the folder `en.ergie.at`, execute `git submodule update --init --recursive` to also get the (submodule-d) theme (this might take a bit)  
+5. Inside the folder `en.ergie.at`, execute `git submodule update --remote --merge` to update the theme  
+6. Inside the folder `en.ergie.at`, execute `./hugo.exe server --buildDrafts` to start the local server  
+7. A link will be displayed in the terminal, open it to view the local website  
+
 ### Contributing
 
 1. If you have access to this repository, create a branch for the change you intend to do. Otherwise, fork this repository
-2. Make your changes (see steps below)
+2. Make your changes (see steps below for a [detailed example](#creating-a-new-page))
 3. Push you changes and open a new pull request
 
 If you want your changes to be included in the live version of this page (most likely), then tag a new release --- or if
@@ -111,6 +141,47 @@ This means, for the first release tagged in December 2024, the tag looks like th
 ```shell
 hugo new content content/path/to/file.md
 ```
+
+### Making Changes in the Main Branch (e.g., Adding a New Author)
+
+Creating a new branch to make changes
+
+1. In VSCode click on "main" (located in the bottom-left corner)
+2. Select "create new branch"
+3. Give the branch a meaningful name in lowercase with hyphens (e.g., add-new-author)
+4. Your active branch will now display as "add-new-author" instead of "main", indicating which branch you’re working on
+
+Adding a new JSON file for the author’s data
+
+1. In the Explorer section, navigate to the `data/authors` directory
+2. Right-click and select "New File" to create `data/authors/jdoe.json`, with the content `{"name": "Jane Doe"}`, see [Templates](#templates)
+
+Creating a folder and index file for the author
+
+1. Navigate to the `content/authors` directory.
+2. Create a new folder with the author's abbreviation and create an index.md file inside the folder `content/authors/jdoe/_index.md`
+3. Write the content you want to display (e.g., author bio, description), see [Templates](#templates)
+
+Committing and pushing changes
+
+1. Once you are done making changes, make a commit
+2. Click on the 3rd icon in the left-hand sidebar ("Source Control")
+3. At the bottom, check that you're still on the correct branch (e.g., `add-new-author`)
+4. At the top, you should see the files you’ve modified, click the plus icon ("stage changes") next to each file to stage it for commit
+5. Add a commit message in the input field. For example, `authors: add jdoe` (see [Commit messages](#commit-messages) for guidelines), then click "commit"
+6. Click the three dots above the commit button in the top-right corner, select "push" to push the change
+
+Making a pull request (PR)
+
+1. After pushing, the new branch should appear on GitHub, click on "Compare & pull request"  
+2. Enter a title for the pull request, e.g., “Add a new author” (this is for internal use, to help reviewers understand the change)  
+3. To ensure that the person who should approve the PR is notified, tag them in the comment below using @abbreviation_of_the_person
+4. If this PR resolves an issue, write "fixes #1" in the comment (replace 1 with the issue number)
+5. Click on "create pull request"  
+6. The pull request will appear in red until it has been reviewed (you may be asked to make changes)  
+7. Once your PR is approved, the changes will be merged into the main branch  
+8. Delete the old feature branch after the merge  
+9. Switch back to your `main` branch in VSCode and update it by clicking on the icon next to the branch name in the bottom-left corner  
 
 ### Commit messages
 
