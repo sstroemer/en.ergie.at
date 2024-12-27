@@ -161,7 +161,7 @@ This section showcase a common workflow, used when proposing a change, on the ex
 Creating a folder and index file for the author
 
 1. Navigate to the `content/authors` directory.
-2. Create a new folder with the author's abbreviation and create an index.md file inside the folder `content/authors/jdoe/_index.md`
+2. Create a new folder with the author's abbreviation and create an `index.md` file inside the folder `content/authors/jdoe/_index.md`
 3. Write the content you want to display (e.g., author bio, description), see [Templates](#templates)
 
 Committing and pushing changes
