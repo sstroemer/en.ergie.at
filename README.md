@@ -142,7 +142,9 @@ This means, for the first release tagged in December 2024, the tag looks like th
 hugo new content content/path/to/file.md
 ```
 
-### Making Changes in the Main Branch (e.g., Adding a New Author)
+### Making a change
+
+This section showcase a common workflow, used when proposing a change, on the example of adding (yourself) as new author - which might very likely be the first change that you'll do.
 
 Creating a new branch to make changes
 
