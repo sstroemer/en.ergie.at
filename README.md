@@ -11,7 +11,7 @@ This contains helpful information related to the [en.ergie.at](https://en.ergie.
 - The "readmore" tag `<!--more-->` can be used.
 - Use ## (heading level 2) as the first allowed heading level, avoiding the use of # (heading level 1) altogether. This ensures consistency and aligns with the page's rendering style, as the title of the page is already rendered prominently on the website.
 
-### Markdownlink for formatting
+### `markdownlint` for formatting
 
 Install `markdownlint` to ensure proper markdown formatting in VSCode:
 
