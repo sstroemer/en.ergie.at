@@ -131,7 +131,7 @@ hugo new content content/path/to/file.md
 
 ### Making a change
 
-This section showcase a common workflow, used when proposing a change, on the example of adding (yourself) as new author - which might very likely be the first change that you'll do.
+This section showcases a common workflow, used when proposing a change, on the example of adding (yourself) as new author - which might very likely be the first change that you'll do.
 
 #### Creating a new branch to make changes
 
