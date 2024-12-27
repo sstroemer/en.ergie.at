@@ -146,7 +146,7 @@ hugo new content content/path/to/file.md
 
 This section showcase a common workflow, used when proposing a change, on the example of adding (yourself) as new author - which might very likely be the first change that you'll do.
 
-Creating a new branch to make changes
+#### Creating a new branch to make changes
 
 1. In VSCode click on "main" (located in the bottom-left corner)
 2. Select "create new branch"
