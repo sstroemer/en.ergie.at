@@ -153,7 +153,7 @@ This section showcase a common workflow, used when proposing a change, on the ex
 3. Give the branch a meaningful name in lowercase with hyphens (e.g., add-new-author)
 4. Your active branch will now display as "add-new-author" instead of "main", indicating which branch you’re working on
 
-Adding a new JSON file for the author’s data
+#### Adding a new JSON file for the author’s data
 
 1. In the Explorer section, navigate to the `data/authors` directory
 2. Right-click and select "New File" to create `data/authors/jdoe.json`, with the content `{"name": "Jane Doe"}`, see [Templates](#templates)
