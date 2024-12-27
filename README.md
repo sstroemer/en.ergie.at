@@ -173,7 +173,7 @@ This section showcase a common workflow, used when proposing a change, on the ex
 5. Add a commit message in the input field. For example, `authors: add jdoe` (see [Commit messages](#commit-messages) for guidelines), then click "commit"
 6. Click the three dots above the commit button in the top-right corner, select "push" to push the change
 
-Making a pull request (PR)
+#### Making a pull request (PR)
 
 1. After pushing, the new branch should appear on GitHub, click on "Compare & pull request"  
 2. Enter a title for the pull request, e.g., “Add a new author” (this is for internal use, to help reviewers understand the change)  
