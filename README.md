@@ -164,7 +164,7 @@ This section showcase a common workflow, used when proposing a change, on the ex
 2. Create a new folder with the author's abbreviation and create an `index.md` file inside the folder `content/authors/jdoe/_index.md`
 3. Write the content you want to display (e.g., author bio, description), see [Templates](#templates)
 
-Committing and pushing changes
+#### Committing and pushing changes
 
 1. Once you are done making changes, make a commit
 2. Click on the 3rd icon in the left-hand sidebar ("Source Control")
