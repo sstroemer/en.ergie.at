@@ -118,7 +118,7 @@ Setting up the local environment
 3. Open a new terminal in VSCode
 4. Inside the folder `en.ergie.at`, execute `git submodule update --init --recursive` to also get the (submodule-d) theme (this might take a bit)  
 5. Inside the folder `en.ergie.at`, execute `git submodule update --remote --merge` to update the theme  
-6. Inside the folder `en.ergie.at`, execute `./hugo.exe server --buildDrafts` to start the local server  
+6. Inside the folder `en.ergie.at`, execute `./hugo server --buildDrafts` to start the local server  
 7. A link will be displayed in the terminal, open it to view the local website  
 
 ### Contributing
