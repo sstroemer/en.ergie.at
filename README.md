@@ -107,11 +107,14 @@ See [this author page](https://github.com/ait-energy/en.ergie.at/blob/main/conte
 
 A fork is a personal copy of someone else's repository that lives under your GitHub account. It allows you to freely experiment with changes without affecting the original project, and you can propose updates back to the original repository through pull requests.
 
-1. Open the repository's entry page in your browser `https://github.com/ait-energy/en.ergie.at.git`. If you have access to this repository, create a branch for the change you intend to do. Otherwise, fork this repository.
+1. Open the repository's entry page in your browser `https://github.com/ait-energy/en.ergie.at.git` and fork the repository. Make sure the following steps are then done in your fork (your "own version of this repository").
 2. Click on "Code" → copy the provided URL  
 3. Open a new terminal in VSCode
 4. Navigate to your development folder using: `cd path/to/dev_folder`  
 5. Clone the repository by entering: `git clone URL` (paste the repository's URL)
+6. Inside the folder `en.ergie.at`, execute `git submodule update --init --recursive` to also get the (submodule-d) theme (this might take a bit)  
+
+> Inside the folder `en.ergie.at`, execute `git submodule update --remote --merge` to update the theme, whenever it changes upstream.
 
 #### Installing `Hugo`
 
@@ -119,9 +122,8 @@ Hugo is a fast and user-friendly tool for building websites by converting plain 
 
 The following assumes you are using Windows; if you are not, head over to the [install guide for your OS](https://gohugo.io/installation/) and pick whatever suits you.
 
-1. Install Hugo: gohugo.io/installation
+1. Pick the "prebuilt binaries" from this link: [Prebuilt binaries](https://gohugo.io/installation/windows/#prebuilt-binaries) -- instead of the general one
 2. Extract the `hugo.exe` file and copy it into your development folder
-3. Pick the "prebuilt binaries" from this link: [Prebuilt binaries](https://gohugo.io/installation/windows/#prebuilt-binaries) -- instead of the general one
 
 ### Launching a local server
 
@@ -130,14 +132,14 @@ Hugo can be used to launch a local webserver that displays the current state of 
 This can be done by:
 
 1. Open a new terminal in VSCode
-2. Inside the folder `en.ergie.at`, execute `git submodule update --init --recursive` to also get the (submodule-d) theme (this might take a bit)  
-3. Inside the folder `en.ergie.at`, execute `git submodule update --remote --merge` to update the theme  
-4. Inside the folder `en.ergie.at`, execute `./hugo server --buildDrafts` to start the local server  
-5. A link will be displayed in the terminal, open it to view the local website
+2. Inside the folder `en.ergie.at`, execute `./hugo server --buildDrafts` to start the local server  
+3. A link will be displayed in the terminal, open it to view the local website
 
 ### Your first contribution
 
 This section showcases a common workflow, used when proposing a change, on the example of adding (yourself) as new author - which might very likely be the first change that you'll do.
+
+> Note that the following steps can (and often should) already been done **while** working on a change. You can, e.g., already create a pull request while still working on some content. Just mark it as draft when creating it. This helps discussing and iterating on new content.
 
 #### Creating a new branch to make changes
 
