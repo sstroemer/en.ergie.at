@@ -39,7 +39,7 @@ Dauert die Störung länger als 30 Sekunden, wird die Sekundärregelreserve (<ab
 
 ## Regelenergiemarkt
 
-Die Beschaffung von Sekundär- und Tertiärregelleistung erfolgt auf nationaler Ebene. Der [Übertragungsnetzbetreiber](./wissen/akteure/index.md) und [Regelzonenführer](./wissen/akteure/index.md) <abbr title="Austrian Power Grid">APG</abbr>, als verantwortliche Instanz für die Netzregelung und den Zukauf von Regelreserven innerhalb der Regelzone Österreich, beschafft seinen Bedarf an Sekundär- und Tertiärregelenergie auf dem Regelenergiemarkt. Dieser Prozess erfolgt durch wöchentliche Ausschreibungen, die über die Plattform „RRAP – Regelreserveausschreibungsplattform der Austrian Power Grid AG“ abgewickelt werden.[^3] Die <abbr title="Austrian Power Grid">APG</abbr> schreibt ihre benötigte Regelenergie aus und Anbieter:innen können Gebote abgeben. Die Preise werden in einer [Merit-Order-Liste](./wissen/akteure/index.md) (<abbr title="Merit-Order-Liste">MOL</abbr>) in aufsteigender Reihenfolge angeordnet.
+Die Beschaffung von Sekundär- und Tertiärregelleistung erfolgt auf nationaler Ebene. Der [Übertragungsnetzbetreiber](./wissen/akteure/index.md) und [Regelzonenführer](./wissen/akteure/index.md) <abbr title="Austrian Power Grid">APG</abbr>, als verantwortliche Instanz für die Netzregelung und den Zukauf von Regelreserven innerhalb der Regelzone Österreich, beschafft seinen Bedarf an Sekundär- und Tertiärregelenergie auf dem Regelenergiemarkt. Dieser Prozess erfolgt durch wöchentliche Ausschreibungen, die über die Plattform „RRAP – Regelreserveausschreibungsplattform der Austrian Power Grid AG“ abgewickelt werden.[^3] Die <abbr title="Austrian Power Grid">APG</abbr> schreibt ihre benötigte Regelenergie aus und Anbieter:innen können Gebote abgeben. Die Preise werden in einer [Merit-Order-Liste](./wissen/merit-order/index.md) (<abbr title="Merit-Order-Liste">MOL</abbr>) in aufsteigender Reihenfolge angeordnet.
 
 ### Arbeits- und Leistungspreis
 
@@ -61,8 +61,7 @@ Die Tertiärregelung wird vollständig auf nationaler Ebene durchgeführt.[^8] D
 
 - Kapitel 3 und 10 der [Sonstigen Marktregeln Strom](https://www.e-control.at/bereich-recht/soma-strom)
 - [Marktbasierte Beschaffung Regelreserve](https://www.e-control.at/industrie/strom/strommarkt/marktbasierte-beschaffung-regelreserve)
-- •	Die Verordnung zur [Festlegung einer Leitlinie über den Systemausgleich im Elektrizitätsversorgungssystem (EB Guideline)](https://www.e-control.at/marktteilnehmer/strom/network-codes-und-guidelines) der Europäischen Kommission gibt den Rahmen für die nationale Beschaffung und Abrechnung sowie internationale Kooperationsprojekte vor 
-
+- Die Verordnung zur [Festlegung einer Leitlinie über den Systemausgleich im Elektrizitätsversorgungssystem (EB Guideline)](https://www.e-control.at/marktteilnehmer/strom/network-codes-und-guidelines) der Europäischen Kommission gibt den Rahmen für die nationale Beschaffung und Abrechnung sowie internationale Kooperationsprojekte vor
 
 <!-- evtl. andere Seiten vom Kompendium verlinken -->
 
