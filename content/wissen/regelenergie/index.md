@@ -28,7 +28,6 @@ Die Primärregelung, auch als Primärregelleistung, Primärreserveleistung (<abb
 <!-- Details zum Markteintritt für jede Reserveart..? -->
 <!-- Bild wie das von next Kraftwerke wäre nice -->
 
-
 ### Sekundärregelreserve
 
 Dauert die Störung länger als 30 Sekunden, wird die Sekundärregelreserve (<abbr title="Sekundärregelreserve">SRR</abbr>) bzw. Sekundärregelleistung oder Sekundärreserveleistung (<abbr title="Sekundärreserveleistung">SRL</abbr>) aktiviert. Diese ist der <abbr title="Primärregelreserve">PRR</abbr> nachgeordnet und soll diese entlasten und dafür sorgen, dass die <abbr title="Primärregelreserve">PRR</abbr> wieder frei wird, um ihre Funktion zu erbringen. Sie muss innerhalb von 5 Minuten aktiviert werden, wobei die Aktivierung automatisch erfolgt.[^1]
@@ -40,7 +39,7 @@ Dauert die Störung länger als 30 Sekunden, wird die Sekundärregelreserve (<ab
 
 ## Regelenergiemarkt
 
-Die Beschaffung von Sekundär- und Tertiärregelleistung erfolgt auf nationaler Ebene. Der [Übertragungsnetzbetreiber](./wissen/akteure/index.md) und [Regelzonenführer](./wissen/akteure/index.md) <abbr title="Austrian Power Grid">APG</abbr>, als verantwortliche Instanz für die Netzregelung und den Zukauf von Regelreserven innerhalb der Regelzone Österreich, beschafft seinen Bedarf an Sekundär- und Tertiärregelenergie auf dem Regelenergiemarkt. Dieser Prozess erfolgt durch wöchentliche Ausschreibungen, die über die Plattform „RRAP – Regelreserveausschreibungsplattform der Austrian Power Grid AG“ abgewickelt werden.[^3] Die <abbr title="Austrian Power Grid">APG</abbr> schreibt ihre benötigte Regelenergie aus und Anbieter:innen können Gebote abgeben. Die Preise werden in einer [Merit-Order-Liste](./wissen/akteure/index.md) <abbr title="Merit-Order-Liste">MOL</abbr> in aufsteigender Reihenfolge angeordnet.
+Die Beschaffung von Sekundär- und Tertiärregelleistung erfolgt auf nationaler Ebene. Der [Übertragungsnetzbetreiber](./wissen/akteure/index.md) und [Regelzonenführer](./wissen/akteure/index.md) <abbr title="Austrian Power Grid">APG</abbr>, als verantwortliche Instanz für die Netzregelung und den Zukauf von Regelreserven innerhalb der Regelzone Österreich, beschafft seinen Bedarf an Sekundär- und Tertiärregelenergie auf dem Regelenergiemarkt. Dieser Prozess erfolgt durch wöchentliche Ausschreibungen, die über die Plattform „RRAP – Regelreserveausschreibungsplattform der Austrian Power Grid AG“ abgewickelt werden.[^3] Die <abbr title="Austrian Power Grid">APG</abbr> schreibt ihre benötigte Regelenergie aus und Anbieter:innen können Gebote abgeben. Die Preise werden in einer [Merit-Order-Liste](./wissen/akteure/index.md) (<abbr title="Merit-Order-Liste">MOL</abbr>) in aufsteigender Reihenfolge angeordnet.
 
 ### Arbeits- und Leistungspreis
 
