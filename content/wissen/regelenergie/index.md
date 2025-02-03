@@ -26,6 +26,8 @@ Es wird zwischen Primärregelleistung, Sekundärregelleistung und Tertiärregell
 Die Primärregelung, auch als Primärregelleistung, Primärreserveleistung (<abbr title="Primärreserveleistung">PRL</abbr>) oder Primärregelreserve (<abbr title="Primärregelreserve">PRR</abbr>) bezeichnet, wird als erste Maßnahme eingesetzt, um die Netzfrequenz zu jeder Zeit in einem Toleranzbereich zwischen 49,99 und 50,01 Hertz zu halten. Dieser Bereich wird auch als "Totband" bezeichnet. Wird der Toleranzbereich aufgrund eines Ungleichgewichts zwischen Erzeugung und Verbrauch über- oder unterschritten, wird die Abweichung automatisch durch entsprechende Regelung von Anlagen kompensiert. Die Primärregelleistung muss innerhalb von 30 Sekunden verfügbar sein, um die unvorhergesehenen Schwankungen auszugleichen und für mindestens 15 Minuten zur Verfügung stehen. Der Markt für Primärregelreserve hat nur eine Leistungsausschreibung (siehe [Regelenergiemarkt](#regelenergiemarkt)), da Frequenzabweichungen schnell ausgeglichen werden müssen und sich die positiven und negativen Mengen oft im Durchschnitt ausgleichen. Daher ist der Aufwand für eine separate Abrechnung im Vergleich zum Nutzen zu hoch.[^5] [^6] <!--evtl unten in Kapitel Unterschiede zwischen Regelenergiearten-->
 <!-- 15 oder 30 Minuten?? -->
 <!-- Details zum Markteintritt für jede Reserveart..? -->
+<!-- Bild wie das von next Kraftwerke wäre nice -->
+
 
 ### Sekundärregelreserve
 
@@ -49,7 +51,7 @@ Im Rahmen der Ausschreibungen erhalten die Anbieter:innen mit den niedrigsten Ge
 
 ### Unterschiede zwischen den Regelreservearten
 
-Im Falle der Sekundärregelleistung findet die Beschaffung über Ausschreibungen zwar national innerhalb der Regelzone Österreich statt, der eigentliche Abruf passiert jedoch über eine Kooperation mit dem deutschen Regelenergiemarkt. Die bezuschlagten Angebote werden zu einer gemeinsamen Merit Order Liste zusammengeführt, welche als Common Merit Order List (C-MOL) bezeichnet wird. Diese beinhaltet die entsprechenden Zuschläge sowohl für den österreichischen als auch für den deutschen Bedarf an SRL.[^7]
+Im Falle der Sekundärregelleistung findet die Beschaffung über Ausschreibungen zwar national innerhalb der Regelzone Österreich statt, der eigentliche Abruf passiert jedoch über eine Kooperation mit dem deutschen Regelenergiemarkt. Die bezuschlagten Angebote werden zu einer gemeinsamen Merit Order Liste zusammengeführt, welche als Common Merit-Order-List (<abbr title="Common Merit-Order-List">C-MOL</abbr>) bezeichnet wird. Diese beinhaltet die entsprechenden Zuschläge sowohl für den österreichischen als auch für den deutschen Bedarf an SRL.[^7]
 <!-- C-MOL nur für Sekundär, oder? (doublecheck), noch aktuell, dass TRL rein national ist? ... Unterschied C-MOL zu Imbalance Netting... -->
 
 Die Tertiärregelung wird vollständig auf nationaler Ebene durchgeführt.[^8] Die Primärregelung hingegen erfolgt zentralisiert über den zentraleuropäischen Übertragungsnetzbetreiber [ENTSO-E](./wissen/akteure/index.md) (European Network of Transmission System Operators for Electricity) in Zusammenarbeit mit anderen [Übertragungsnetzbetreibern](./wissen/akteure/index.md).[^5]
@@ -58,8 +60,12 @@ Die Tertiärregelung wird vollständig auf nationaler Ebene durchgeführt.[^8] D
 
 ### Weitere Informationen
 
-- [Econtrol: Regelreserve und Ausgleichsenergie](https://www.e-control.at/industrie/strom/strommarkt/regelreserve-und-ausgleichsenergien)
-- [Next Kraftwerke: Regelenergie in Österreich](https://www.next-kraftwerke.at/wissen/regelenergie#vorhaltung-und-einsatz-der-regelleistung)
+- Kapitel 3 und 10 der [Sonstigen Marktregeln Strom](https://www.e-control.at/bereich-recht/soma-strom)
+- [Marktbasierte Beschaffung Regelreserve](https://www.e-control.at/industrie/strom/strommarkt/marktbasierte-beschaffung-regelreserve)
+- •	Die Verordnung zur [Festlegung einer Leitlinie über den Systemausgleich im Elektrizitätsversorgungssystem (EB Guideline)](https://www.e-control.at/marktteilnehmer/strom/network-codes-und-guidelines) der Europäischen Kommission gibt den Rahmen für die nationale Beschaffung und Abrechnung sowie internationale Kooperationsprojekte vor 
+
+
+<!-- evtl. andere Seiten vom Kompendium verlinken -->
 
 [^1] [A1 Energy Solutions: Regelenergie kurz erklärt](https://www.a1energysolutions.at/regelenergie-pool/)
 [^2] [APCS: Regelenergie](https://www.apcs.at/de/regelenergie)
