@@ -19,10 +19,10 @@ Die folgende Grafik stellt vier Kraftwerke dar, die entsprechend ihrer Stromerze
 
 *Abb. 1: Merit Order im Strommarkt*
 
+### Weitere Informationen
 
-### Weitere Informationen:
 - [EPEX SPOT: Basics of the Power Market](https://www.epexspot.com/en/basicspowermarket#merit-order-and-marginal-cost-the-price-formation-process)
 
 [^1] [Merit-Order-Prinzip](https://energie.gv.at/glossary/merit-order-prinzip)
 
-<!-- Vorteile für Erneuerbare, evtl. Graph zur Veranschaulichung -->
+<!-- Vorteile für Erneuerbare-->
