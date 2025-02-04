@@ -1,0 +1,36 @@
+---
+draft: true
+
+title: "Österreichisches Strommarktmodell"
+description: "Ein Überblick über Bilanzgruppen und Ausgleichsenergie."
+topics: ["Bilanzgruppen"]
+authors:
+  - "fackerl"
+series: ["Strommärkte"]
+series_order: 9
+weight: 9
+---
+
+<!-- Nummerierung überarbeiten -->
+<!-- Bild von Econtrol einfügen? -->
+
+## Bilanzgruppen
+
+Bilanzgruppen sind virtuelle Gruppen, in denen Stromerzeuger und -lieferanten zusammengefasst werden. Jede Bilanzgruppe ist verpflichtet, den Verbrauch und die Erzeugung von Strom innerhalb der Gruppe ausgeglichen zu halten. Dazu erstellen sie Prognosen für die erwartete Stromerzeugung und den Verbrauch für den Folgetag.
+
+### Ausgleichsenergie
+
+Kommt es zu einer unvorhergesehenen Abweichung von der Prognose, die die Bilanzgruppe nicht selbst ausgleichen kann, muss die fehlende oder überschüssige Energiemenge durch Ausgleichsenergie gedeckt werden. Diese gleicht die Differenz zwischen geplanter und realer Einspeisung bzw. Entnahme aus dem Netz aus.
+
+In der Regelzone Österreich gibt es zahlreiche Bilanzgruppen. Der Saldo der Ausgleichsenergie über alle Bilanzgruppen ergibt den Bedarf an [Regelenergie](./wissen/regelenergie/index.md), für welchen der Regelzonenführer APG zu sorgen hat. Die Summe der benötigten Ausgleichsenergie kann dabei deutlich höher sein als die tatsächlich eingesetzte Regelenergie, da sich einige Abweichungen innerhalb der Bilanzgruppen gegenseitig ausgleichen können. Unabhängig davon, wie viel Regelenergie am Ende tatsächlich eingesetzt wird, muss jede Bilanzgruppe für ihre eigene Prognoseabweichung Ausgleichsenergie bezahlen. Jede Bilanzgruppe hat einen Bilanzgruppenverantwortlichen, der die Bilanzgruppe vertritt und für die angefallene Menge an Ausgleichsenergie haftet. [^3]
+
+### Unterschied Ausgleichsenergie - Regelenergie
+
+Zusammengefasst gleicht Ausgleichsenergie die Prognoseabweichungen einzelner Bilanzgruppen aus und wird diesen in Rechnung gestellt. Regelenergie hingegen dient dazu, das gesamte Stromnetz stabil zu halten, wenn es aufgrund der einzelnen Abweichungen in den Bilanzgruppen zu einem Ungleichgewicht in der gesamten Regelzone kommt. Vereinfacht gesagt ist die Abweichung der Prognose in einer Bilanzgruppe die Ausgleichsenergie und die Prognoseabweichung in der gesamten Regelzone die Regelenergie.
+
+<!-- Link zu Übersicht welche Bilanzgruppen es gibt wäre nice -->
+
+
+[^1] [APG: Österreichisches Strommarktmodell](https://markt.apg.at/strommarkt/oesterreichisches-strommarktmodell/)
+[^2] [E-Control: Regelreserve und Ausgleichsenergie](https://www.e-control.at/marktteilnehmer/strom/strommarkt/regelreserve-und-ausgleichsenergie)
+[^3] [Next Kraftwerke: Ausgleichsenergie](https://www.next-kraftwerke.at/wissen/ausgleichsenergie)
