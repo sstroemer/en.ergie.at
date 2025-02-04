@@ -13,6 +13,16 @@ weight: 7
 
 Die Merit-Order bestimmt die Reihenfolge, in der Kraftwerke zur Stromerzeugung genutzt werden. Zunächst kommen die kostengünstigsten Energiequellen, wie Solar- und Windkraft, zum Einsatz. Ist der Gesamtstrombedarf damit nicht gedeckt, werden nach und nach teurere Kraftwerke zugeschaltet. Der Strompreis wird durch das teuerste noch benötigte Kraftwerk bestimmt – häufig sind dies Gaskraftwerke. Alle Energieanbieter erhalten für ihren Strom unabhängig von ihren tatsächlichen Produktionskosten diesen einheitlichen Preis.[^1]
 
+Die folgende Grafik stellt vier Kraftwerke dar, die entsprechend ihrer Stromerzeugungskosten in der Merit Order sortiert und der Reihe nach zugeschaltet werden, um den Strombedarf zu decken.
+
+<img src="merit_order.png" alt="Merit Order" width="65%">
+
+*Abb. 1: Merit Order im Strommarkt*
+
+
+### Weitere Informationen:
+- [EPEX SPOT: Basics of the Power Market](https://www.epexspot.com/en/basicspowermarket#merit-order-and-marginal-cost-the-price-formation-process)
+
 [^1] [Merit-Order-Prinzip](https://energie.gv.at/glossary/merit-order-prinzip)
 
 <!-- Vorteile für Erneuerbare, evtl. Graph zur Veranschaulichung -->
