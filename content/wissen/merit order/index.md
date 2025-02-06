@@ -17,7 +17,7 @@ Die folgende Grafik stellt vier Kraftwerke dar, die entsprechend ihrer Stromerze
 
 <img src="merit_order.png" alt="Merit Order" width="65%">
 
-*Abb. 1: Merit Order im Strommarkt*
+*Abb. 1: Merit Order im Strommarkt © 2025 AIT Austrian Institute of Technology GmbH*
 
 ### Weitere Informationen
 
