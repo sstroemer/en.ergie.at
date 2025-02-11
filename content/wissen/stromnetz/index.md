@@ -35,3 +35,5 @@ Die Umspannungsebenen hingegen sorgen dafür, dass die Spannung von einer hohen 
 
 [1] [E-Control: Das Stromnetz](https://www.e-control.at/konsumenten/das-stromnetz)
 [2] [Wien Energie: Das österreichische Stromnetz](https://positionen.wienenergie.at/wissenshub/einfach-erklaert/rund-um-die-energiewende/oesterreichisches-stromnetz/)
+
+<!---https://www.apg.at/stromnetz/stromnetz-oesterreich/ !! -> unten: "Stromkreislauf und das Stromnetz"--> 
