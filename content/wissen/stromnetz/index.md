@@ -13,7 +13,7 @@ weight: 10
 
 Das österreichische Stromnetz bildet die grundlegende Infrastruktur für die Übertragung elektrischer Energie. Es leitet den in Kraftwerken erzeugten Strom zu Umspannwerken, von wo aus er weiterverteilt und schließlich den Endverbraucher:innen bereitgestellt wird. Die Organisation des Netzes erfolgt je nach Netzebene durch [Übertragungs- bzw. Verteilnetzbetreiber](./wissen/akteure/index.md).
 
-Das österreichische Stromnetz ist in sieben Netzebenen unterteilt, die sich durch ihr jeweiliges Spannungsniveau unterscheiden. Dabei gibt es vier [Spannungsebenen](#spannungsebenen) (Netzebenen 1, 3, 5 und 7) sowie drei [Umspannungsebenen](#umspannungsebenen) (Netzebenen 2, 4 und 6), die den Übergang zwischen den Spannungsstufen ermöglichen.[^1] [^2] Die folgende Grafik zeigt das vom TSO APG betriebene Höchst- und Hochspannungsnetz.[^3]
+Das österreichische Stromnetz ist in sieben Netzebenen unterteilt, die sich durch ihr jeweiliges Spannungsniveau unterscheiden. Dabei gibt es vier [Spannungsebenen](#spannungsebenen) (Netzebenen 1, 3, 5 und 7) sowie drei [Umspannungsebenen](#umspannungsebenen) (Netzebenen 2, 4 und 6), die den Übergang zwischen den Spannungsstufen ermöglichen.[^1] [^2] Die folgende Grafik zeigt das vom Übertragungsnetzbetreiber <abbr title="Austrian Power Grid">APG</abbr> betriebene Höchst- und Hochspannungsnetz.[^3]
 
 <img src="APG_Netzgrafik.jpg" alt="Stromnetz" width="80%">
 
