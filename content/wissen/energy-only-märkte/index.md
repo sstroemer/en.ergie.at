@@ -13,7 +13,7 @@ weight: 5
 
 ## Hintergrund
 
-Seit der Liberalisierung der Strommärkte in den 1990er Jahren hat sich im Großteil der europäischen Länder, darunter auch in Österreich, das Marktdesign des Energy-Only-Marktes (<abbr title="Energy-Only-Markt">EOM</abbr>) etabliert. Der <abbr title="Energy-Only-Markt">EOM</abbr> basiert auf dem Handel von tatsächlich erzeugter Energie. Im Gegensatz dazu steht das Konzept der [Kapazitätsmärkte](./wissen/kapazitätsmärkte/index.md), das unter anderem in Frankreich genutzt wird und auf dem Handel von Stromerzeugungskapazitäten beruht.[^1]
+Seit der Liberalisierung der Strommärkte in den 1990er Jahren hat sich im Großteil der europäischen Länder, darunter auch in Österreich, das Marktdesign des Energy-Only-Marktes (EOM) etabliert. Der <abbr title="Energy-Only-Markt">EOM</abbr> basiert auf dem Handel von tatsächlich erzeugter Energie. Im Gegensatz dazu steht das Konzept der [Kapazitätsmärkte](./wissen/kapazitätsmärkte/index.md), das unter anderem in Frankreich genutzt wird und auf dem Handel von Stromerzeugungskapazitäten beruht.[^1]
 
 ## Marktprinzip
 
@@ -21,12 +21,12 @@ Der Energy-Only-Markt ist ein reiner Energiemarkt. Stromerzeuger:innen können n
 
 ## Versorgungssicherheit
 
-Die Versorgungssicherheit im Energy-Only-Markt (EOM) wird durch den [Regelenergiemarkt](./wissen/regelenergie/index.md) gewährleistet, der Schwankungen zwischen Stromproduktion und -verbrauch ausgleicht. Hier leisten steuerbare Kraftwerke und Unternehmen mit flexibel anpassbarem Stromverbrauch einen wichtigen Beitrag, indem sie sogenannte Regelenergie bereitstellen, um die Stabilität der Netzfrequenz bei 50 Hz zu gewährleisten.[^3] Zusätzlich gibt es [weitere Mechanismen](./wissen/mechanismen-netzstabilisierung/index.md) zur Stabilisierung des Stromnetzes in Österreich, wie beispielsweise Redispatch und Peak Shaving.
+Die Versorgungssicherheit im <abbr title="Energy-Only-Markt">EOM</abbr> wird durch den [Regelenergiemarkt](./wissen/regelenergie/index.md) gewährleistet, der Schwankungen zwischen Stromproduktion und -verbrauch ausgleicht. Hier leisten steuerbare Kraftwerke und Unternehmen mit flexibel anpassbarem Stromverbrauch einen wichtigen Beitrag, indem sie sogenannte Regelenergie bereitstellen, um die Stabilität der Netzfrequenz bei 50 Hertz zu gewährleisten.[^3] Zusätzlich gibt es [weitere Mechanismen](./wissen/mechanismen-netzstabilisierung/index.md) zur Stabilisierung des Stromnetzes in Österreich, wie beispielsweise Redispatch und Peak Shaving.
 
 ### Mehr Informationen
 
-[Next Kraftwerke: Energy-Only-Markt](https://www.next-kraftwerke.at/wissen/energy-only-markt#versorgungssicherheit-am-energy-only-markt)
+- [Next Kraftwerke: Energy-Only-Markt](https://www.next-kraftwerke.at/wissen/energy-only-markt)
 
-[^1]: [Next Kraftwerke: Energy-Only-Markt](https://www.next-kraftwerke.at/wissen/energy-only-markt#freie-preisbildung-und-versorgungssicherheit-auf-dem-energy-only-markt)
+[^1]: [Next Kraftwerke: Energy-Only-Markt](https://www.next-kraftwerke.at/wissen/energy-only-markt)
 [^2]: [Next Kraftwerke: Regelenergie in Österreich](https://www.next-kraftwerke.at/wissen/regelenergie)
 [^3]: [Next Kraftwerke: Regelenergie & Demand Response](https://www.next-kraftwerke.at/produkte/regelenergie)
