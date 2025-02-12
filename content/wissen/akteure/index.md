@@ -13,7 +13,7 @@ weight: 8
 
 ## Regelzonenführer
 
-Das europäische Stromnetz ist in [Regelzonen](./wissen/Strommarktmodell/index.md) eingeteilt. Der Regelzonenführer ist für die Einhaltung der Netzfrequenz von 50 Hertz in seiner Regelzone verantwortlich. Die Abläufe dazu sind unter [Regelenergie](./wissen/regelenergie/index.md) beschrieben. Für die Regelzone Österreich ist der Regelzonenführer die Austrian Power Grid AG (<abbr title="Austrian Power Grid">APG</abbr>).[^1]
+Das europäische Stromnetz ist in [Regelzonen](./wissen/regelzonen/index.md) eingeteilt. Der Regelzonenführer ist für die Einhaltung der Netzfrequenz von 50 Hertz in seiner Regelzone verantwortlich. Die Abläufe dazu sind unter [Regelenergie](./wissen/regelenergie/index.md) beschrieben. Für die Regelzone Österreich ist der Regelzonenführer die Austrian Power Grid AG (<abbr title="Austrian Power Grid">APG</abbr>).[^1]
 
 ## Bilanzgruppenkoordinator (BKO)
 
