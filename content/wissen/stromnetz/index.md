@@ -37,8 +37,6 @@ Die Mittelspannungsebene wird mit Spannungen von 1 kV bis 36 kV betrieben und ve
 
 Haushalte sowie kleinere Gewerbebetriebe erhalten ihren Strom über Netzebene 7, die mit 400 bis 230 V betrieben wird. Kleine PV-Anlagen und andere dezentrale Erzeuger speisen hier ein.[^1] [^2]
 
-<!-- was gehört zu Übertragungsnetz, was zu Verteilernetz bzw. bei AKTEUREN dazuschreiben was DSO und TSO alles macht -->
-
 ### Umspannungsebenen
 
 Die Umspannungsebenen sorgen dafür, dass die Spannung mit Hilfe von Umspannwerken von einer höheren auf eine niedrigere Netzebene herabgesetzt wird. Dabei verbindet Netzebene 2 die Höchst- mit der Hochspannungsebene, während Netzebene 4 den Übergang von Hoch- zu Mittelspannung bildet. In Netzebene 6 erfolgt schließlich die Transformation von Mittel- auf Niederspannung, sodass der Strom für Haushalte und Betriebe nutzbar wird.[^2] [^3]
