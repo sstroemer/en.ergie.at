@@ -17,7 +17,7 @@ Das europäische Stromnetz ist in [Regelzonen](./wissen/Strommarktmodell/index.m
 
 ## Bilanzgruppenkoordinator (BKO)
 
-Der Bilanzgruppenkoordinator (<abbr title="Bilanzgruppenkoordinator">BKO</abbr>) überwacht alle [Bilanzgruppen](./wissen/bilanzgruppen/index.md) in der [Regelzone](./wissen/Strommarktmodell/index.md) und sorgt dafür, dass die Abrechnung der [Ausgleichsenergie](./wissen/bilanzgruppen/index.md) korrekt erfolgt. Er vergleicht die geplanten Strommengen (Prognosen und Fahrpläne) mit den tatsächlich gemessenen Werten und ermittelt die notwendige Ausgleichsenergie für jede Bilanzgruppe. Diese verrechnet er dann mit den jeweiligen Bilanzgruppenverantwortlichen. Für die Regelzone <abbr title="Austrian Power Grid">APG</abbr> ist der <abbr title="Bilanzgruppenkoordinator">BKO</abbr> die APCS (Power Clearing and Settlement AG). [^1]
+Der Bilanzgruppenkoordinator (<abbr title="Bilanzgruppenkoordinator">BKO</abbr>) überwacht alle [Bilanzgruppen](./wissen/bilanzgruppen/index.md) in der [Regelzone](./wissen/Strommarktmodell/index.md) und sorgt dafür, dass die Abrechnung der [Ausgleichsenergie](./wissen/bilanzgruppen/index.md) korrekt erfolgt. Er vergleicht die geplanten Strommengen (Prognosen und Fahrpläne) mit den tatsächlich gemessenen Werten und ermittelt die notwendige Ausgleichsenergie für jede Bilanzgruppe. Diese verrechnet er dann mit den jeweiligen Bilanzgruppenverantwortlichen. Für die Regelzone <abbr title="Austrian Power Grid">APG</abbr> ist der <abbr title="Bilanzgruppenkoordinator">BKO</abbr> die APCS (Austrian Power Clearing and Settlement AG). [^1]
 
 ## Bilanzgruppenverantwortlicher (BGV)
 
@@ -33,7 +33,7 @@ Netzbetreiber sind für den zuverlässigen Transport elektrischer Energie und de
 
 ### Verteilnetzbetreiber (Distribution System Operator, DSO)
 
-Verteilernetzbetreiber übernehmen den Strom aus dem Übertragungsnetz und verteilen ihn über [Mittel- und Niederspannungsleitungen](./wissen/strommärkte/index.md) an Haushalte, Unternehmen und andere Endverbraucher:innen. In Österreich gibt es derzeit 114 Strom-Verteilnetzbetreiber, die zusammen rund 260.000 km an Leitungen betreiben.[^3]
+Verteilnetzbetreiber übernehmen den Strom aus dem Übertragungsnetz und verteilen ihn über [Mittel- und Niederspannungsleitungen](./wissen/strommärkte/index.md) an Haushalte, Unternehmen und andere Endverbraucher:innen. In Österreich gibt es derzeit 114 Strom-Verteilnetzbetreiber, die zusammen rund 260.000 km an Leitungen betreiben.[^3]
 
 ## Regulierungsbehörde
 
