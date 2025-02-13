@@ -37,6 +37,10 @@ Netzbetreiber sind für den zuverlässigen Transport elektrischer Energie und de
 
 Verteilnetzbetreiber (VNB; im Englischen _Distribution System Operator_, kurz DSO) übernehmen den Strom aus dem Übertragungsnetz und verteilen ihn über [Mittel- und Niederspannungsleitungen](./wissen/strommärkte/index.md) an Haushalte, Unternehmen und andere Endverbraucher:innen. In Österreich gibt es derzeit 114 Strom-Verteilnetzbetreiber, die zusammen rund 260.000 km an Leitungen betreiben.[^3]
 
+## Markt- und Verteilergebietsmanager
+
+Die [Austrian Gas Grid Management](https://www.aggm.at/) (AGGM) plant als Markt- und Verteilergebietsmanager in Kooperation mit den Gas- und Stromnetzbetreibern die Gasinfrastruktur mit einem integrierten Ansatz, der sämtliche Energiesektoren berücksichtigt.
+
 ## Regulierungsbehörde
 
 Die E-Control (kurz für „Energie-Control Austria für die Regulierung der Elektrizitäts- und Erdgaswirtschaft“) ist die zuständige Behörde für die Regulierung des österreichischen Strom- und Gasmarkts.[^4]
