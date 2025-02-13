@@ -6,9 +6,6 @@ description: "Ein Überblick zum österreichischen Stromnetz."
 topics: ["Stromnetz"]
 authors:
   - "fackerl"
-series: ["Strommärkte"]
-series_order: 10
-weight: 10
 ---
 
 ## Das Stromnetz
