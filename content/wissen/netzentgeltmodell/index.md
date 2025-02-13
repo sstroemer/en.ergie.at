@@ -17,7 +17,7 @@ Die Kosten für Betrieb und Wartung des Stromnetzes werden vom [Netzbetreiber](.
 
 Das Systemnutzungsentgelt fällt sowohl für die Entnahme von Strom als auch für die Einspeisung ins Netz an. Während Haushalte und Unternehmen für den Netzanschluss und die Stromabnahme zahlen, entrichten auch Erzeuger, beispielsweise Betreiber von Photovoltaikanlagen, ein Entgelt für die Einspeisung ihrer Energie.[^2]
 
-### Zusammensetzung des Systemnutzungsentgelts
+## Zusammensetzung des Systemnutzungsentgelts
 
 Das Systemnutzungsentgelt setzt sich aus sieben verschiedenen Kostenkomponenten zusammen:
 
