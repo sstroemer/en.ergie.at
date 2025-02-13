@@ -6,6 +6,10 @@ authors:
   - "fackerl"
 ---
 
+Das Systemnutzungsentgelt wird von allen Nutzer:innen des Stromnetzes gezahlt und deckt die Kosten für den Betrieb und die Wartung des Netzes. Es variiert je nach Spannungsebene und wird von der Regulierungsbehörde E-Control festgelegt. Dieser Artikel gibt einen Überblick darüber, wie sich das Entgelt zusammensetzt und welche verschiedenen Kostenkomponenten dabei eine Rolle spielen.
+
+<!--more-->
+
 ## Übersicht
 
 Die Kosten für Betrieb und Wartung des Stromnetzes werden vom [Netzbetreiber](/wissen/akteure/) durch das sogenannte Systemnutzungsentgelt gedeckt, das von allen angeschlossenen Nutzer:innen entrichtet wird. Es variiert je nach genutzter [Spannungsebene](/wissen/stromnetz/) und wird von der österreichischen [Regulierungsbehörde](/wissen/akteure/) E-Control per Verordnung festgelegt.[^1]
