@@ -2,4 +2,4 @@ public/
 .hugo_build.lock
 
 # Ignoring for people that drop the binary directly into the root.
-hugo.exe
+./hugo.exe
