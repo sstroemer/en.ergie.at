@@ -17,7 +17,7 @@ Das europäische Stromnetz ist in [Regelzonen](./wissen/regelzonen/index.md) ein
 
 ## Bilanzgruppenkoordinator (BKO)
 
-Der Bilanzgruppenkoordinator (<abbr title="Bilanzgruppenkoordinator">BKO</abbr>) überwacht alle [Bilanzgruppen](./wissen/bilanzgruppen/index.md) in der [Regelzone](./wissen/Strommarktmodell/index.md) und sorgt dafür, dass die Abrechnung der [Ausgleichsenergie](./wissen/bilanzgruppen/index.md) korrekt erfolgt. Er vergleicht die geplanten Strommengen (Prognosen und Fahrpläne) mit den tatsächlich gemessenen Werten und ermittelt die notwendige Ausgleichsenergie für jede Bilanzgruppe. Diese verrechnet er dann mit den jeweiligen Bilanzgruppenverantwortlichen. Für die Regelzone <abbr title="Austrian Power Grid">APG</abbr> ist der <abbr title="Bilanzgruppenkoordinator">BKO</abbr> die Austrian Power Clearing and Settlement AG (<abbr title="Austrian Power Clearing and Settlement">APCS</abbr>). [^1]
+Der Bilanzgruppenkoordinator (<abbr title="Bilanzgruppenkoordinator">BKO</abbr>) überwacht alle [Bilanzgruppen](./wissen/bilanzgruppen/index.md) in der [Regelzone](./wissen/Strommarktmodell/index.md) und sorgt dafür, dass die Abrechnung der [Ausgleichsenergie](./wissen/bilanzgruppen/index.md) korrekt erfolgt. Er vergleicht die geplanten Strommengen (Prognosen und Fahrpläne) mit den tatsächlich gemessenen Werten und ermittelt die notwendige Ausgleichsenergie für jede Bilanzgruppe. Diese verrechnet er dann mit den jeweiligen Bilanzgruppenverantwortlichen. Für die Regelzone <abbr title="Austrian Power Grid">APG</abbr> ist der <abbr title="Bilanzgruppenkoordinator">BKO</abbr> die Austrian Power Clearing and Settlement AG (<abbr title="Austrian Power Clearing and Settlement">APCS</abbr>).[^1]
 
 ## Bilanzgruppenverantwortlicher (BGV)
 
@@ -45,8 +45,8 @@ Die [Austrian Gas Grid Management](https://www.aggm.at/) (<abbr title="Austrian 
 
 Die E-Control (kurz für „Energie-Control Austria für die Regulierung der Elektrizitäts- und Erdgaswirtschaft“) ist die zuständige Behörde für die Regulierung des österreichischen Strom- und Gasmarkts.[^4]
 
-[^1] [E-Control: Die Marktteilnehmer und deren Rollen](https://www.e-control.at/marktteilnehmer/strom/strommarkt/marktteilnehmer)
-[^2] [APG: Stromnetz Österreich](https://www.apg.at/stromnetz/stromnetz-oesterreich/)
-[^3] [E-Control: Netz und Netzbetreiber in Österreich](https://www.e-control.at/konsumenten/netz-und-netzbetreiber-in-oesterreich)
-[^4] [E-Control](https://energie.gv.at/glossary/e-control)
-[^5] [AGGM: Austrian Gas Grid Management](https://www.aggm.at/)
+[^1]: [E-Control: Die Marktteilnehmer und deren Rollen](https://www.e-control.at/marktteilnehmer/strom/strommarkt/marktteilnehmer)
+[^2]: [APG: Stromnetz Österreich](https://www.apg.at/stromnetz/stromnetz-oesterreich/)
+[^3]: [E-Control: Netz und Netzbetreiber in Österreich](https://www.e-control.at/konsumenten/netz-und-netzbetreiber-in-oesterreich)
+[^4]: [E-Control](https://energie.gv.at/glossary/e-control)
+[^5]: [AGGM: Austrian Gas Grid Management](https://www.aggm.at/)
