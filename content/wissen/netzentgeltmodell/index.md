@@ -11,6 +11,8 @@ series_order: 11
 weight: 11
 ---
 
+## Übersicht
+
 Die Kosten für Betrieb und Wartung des Stromnetzes werden vom [Netzbetreiber](./wissen/akteure/index.md) durch das sogenannte Systemnutzungsentgelt gedeckt, das von allen angeschlossenen Nutzer:innen entrichtet wird. Es variiert je nach genutzter [Spannungsebene](./wissen/stromnetz/index.md) und wird von der österreichischen [Regulierungsbehörde](./wissen/akteure/index.md) E-Control per Verordnung festgelegt.[^1]
 
 Das Systemnutzungsentgelt fällt sowohl für die Entnahme von Strom als auch für die Einspeisung ins Netz an. Während Haushalte und Unternehmen für den Netzanschluss und die Stromabnahme zahlen, entrichten auch Erzeuger, beispielsweise Betreiber von Photovoltaikanlagen, ein Entgelt für die Einspeisung ihrer Energie.[^2]
