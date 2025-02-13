@@ -29,7 +29,7 @@ Netzbetreiber sind für den zuverlässigen Transport elektrischer Energie und de
 
 ### Übertragungsnetzbetreiber (Transmission System Operator, TSO)
 
-Übertragungsnetzbetreiber betreiben das [Höchst- und Hochspannungsnetz](./wissen/strommärkte/index.md) und gewährleisten den Transport großer Strommengen über weite Strecken zu den regionalen Verteilern. Zudem wickeln sie den grenzüberschreitenden Stromtransit ab. In Österreich übernimmt diese Aufgabe die <abbr title="Austrian Power Grid">APG</abbr>, die rund 7.000 km Leitungen betreibt.[^1] [^2]
+Übertragungsnetzbetreiber (ÜNB; im Englischen _Transmission System Operator_, kurz TSO) betreiben das [Höchst- und Hochspannungsnetz](./wissen/strommärkte/index.md) und gewährleisten den Transport großer Strommengen über weite Strecken zu den regionalen Verteilern. Zudem wickeln sie den grenzüberschreitenden Stromtransit ab. In Österreich übernimmt diese Aufgabe die <abbr title="Austrian Power Grid">APG</abbr>, die rund 7000 km Leitungen betreibt.[^1] [^2]
 
 ### Verteilnetzbetreiber (Distribution System Operator, DSO)
 
