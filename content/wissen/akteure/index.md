@@ -6,9 +6,6 @@ description: "Ein Überblick über relevante Akteure und Stakeholder im österre
 topics: ["Akteure"]
 authors:
   - "fackerl"
-series: ["Strommärkte"]
-series_order: 8
-weight: 8
 ---
 
 ## Regelzonenführer
