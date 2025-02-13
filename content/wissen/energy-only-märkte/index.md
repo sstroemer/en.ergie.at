@@ -6,9 +6,6 @@ description: "Ein Überblick zu Energy-Only-Märkten."
 topics: ["Energy-Only-Märkte"]
 authors:
   - "fackerl"
-series: ["Strommärkte"]
-series_order: 5
-weight: 5
 ---
 
 ## Hintergrund
