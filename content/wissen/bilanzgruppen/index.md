@@ -6,9 +6,6 @@ description: "Ein Überblick über Bilanzgruppen und Ausgleichsenergie."
 topics: ["Bilanzgruppen"]
 authors:
   - "fackerl"
-series: ["Strommärkte"]
-series_order: 9
-weight: 9
 ---
 
 <!-- Nummerierung überarbeiten -->
