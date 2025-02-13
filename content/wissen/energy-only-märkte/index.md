@@ -6,6 +6,10 @@ authors:
   - "fackerl"
 ---
 
+Der Energy-Only-Markt prägt seit den 1990er Jahren den Stromhandel in vielen europäischen Ländern, darunter auch Österreich. In diesem Artikel erfährst du, wie dieser Markt funktioniert und wie die Versorgungssicherheit dabei gewährleistet wird.
+
+<!--more-->
+
 ## Hintergrund
 
 Seit der Liberalisierung der Strommärkte in den 1990er Jahren hat sich im Großteil der europäischen Länder, darunter auch in Österreich, das Marktdesign des Energy-Only-Marktes (EOM) etabliert. Der <abbr title="Energy-Only-Markt">EOM</abbr> basiert auf dem Handel von tatsächlich erzeugtem Strom. Im Gegensatz dazu steht das Konzept der [Kapazitätsmärkte](/wissen/kapazitätsmärkte/), das unter anderem in Frankreich genutzt wird und auf dem Handel von Stromerzeugungskapazitäten beruht.[^1]
