@@ -35,7 +35,13 @@ Folgende Grafik bietet einen Überblick über die Struktur des Systemnutzungsent
 
 *Abb. 1: Überblick über die Komponenten des Systemnutzungsentgelts © E-Control [^2]*
 
+## Ausnahmen und Sonderfälle 
+
+### Energiegemeinschaften
+
 Im Rahmen von [Energiegemeinschaften](./wissen/energiegemeinschaften/index.md) können bestimmte Kostenkomponenten reduziert werden.
+
+<!-- Reduktion von Kosten für Bezugsleistung monatlichem Peak bei aFRR? -->
 
 ## Weitere Informationen
 
