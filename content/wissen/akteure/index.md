@@ -2,7 +2,7 @@
 draft: true
 
 title: "Akteure und Stakeholder"
-description: "Ein Überblick über relevante Marktteilnehmer im österreichischen Strommarkt."
+description: "Ein Überblick über relevante Akteure und Stakeholder im österreichischen Energiesystem."
 topics: ["Akteure"]
 authors:
   - "fackerl"
