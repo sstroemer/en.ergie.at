@@ -17,7 +17,7 @@ Das europäische Stromnetz ist in [Regelzonen](./wissen/regelzonen/index.md) ein
 
 ## Bilanzgruppenkoordinator (BKO)
 
-Der Bilanzgruppenkoordinator (<abbr title="Bilanzgruppenkoordinator">BKO</abbr>) überwacht alle [Bilanzgruppen](./wissen/bilanzgruppen/index.md) in der [Regelzone](./wissen/Strommarktmodell/index.md) und sorgt dafür, dass die Abrechnung der [Ausgleichsenergie](./wissen/bilanzgruppen/index.md) korrekt erfolgt. Er vergleicht die geplanten Strommengen (Prognosen und Fahrpläne) mit den tatsächlich gemessenen Werten und ermittelt die notwendige Ausgleichsenergie für jede Bilanzgruppe. Diese verrechnet er dann mit den jeweiligen Bilanzgruppenverantwortlichen. Für die Regelzone <abbr title="Austrian Power Grid">APG</abbr> ist der <abbr title="Bilanzgruppenkoordinator">BKO</abbr> die APCS (Austrian Power Clearing and Settlement AG). [^1]
+Der Bilanzgruppenkoordinator (<abbr title="Bilanzgruppenkoordinator">BKO</abbr>) überwacht alle [Bilanzgruppen](./wissen/bilanzgruppen/index.md) in der [Regelzone](./wissen/Strommarktmodell/index.md) und sorgt dafür, dass die Abrechnung der [Ausgleichsenergie](./wissen/bilanzgruppen/index.md) korrekt erfolgt. Er vergleicht die geplanten Strommengen (Prognosen und Fahrpläne) mit den tatsächlich gemessenen Werten und ermittelt die notwendige Ausgleichsenergie für jede Bilanzgruppe. Diese verrechnet er dann mit den jeweiligen Bilanzgruppenverantwortlichen. Für die Regelzone <abbr title="Austrian Power Grid">APG</abbr> ist der <abbr title="Bilanzgruppenkoordinator">BKO</abbr> die Austrian Power Clearing and Settlement AG (<abbr title="Austrian Power Clearing and Settlement">APCS</abbr>). [^1]
 
 ## Bilanzgruppenverantwortlicher (BGV)
 
