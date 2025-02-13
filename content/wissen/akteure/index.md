@@ -35,7 +35,7 @@ Netzbetreiber sind für den zuverlässigen Transport elektrischer Energie und de
 
 ### Verteilnetzbetreiber
 
-Verteilnetzbetreiber übernehmen den Strom aus dem Übertragungsnetz und verteilen ihn über [Mittel- und Niederspannungsleitungen](./wissen/strommärkte/index.md) an Haushalte, Unternehmen und andere Endverbraucher:innen. In Österreich gibt es derzeit 114 Strom-Verteilnetzbetreiber, die zusammen rund 260.000 km an Leitungen betreiben.[^3]
+Verteilnetzbetreiber (VNB; im Englischen _Distribution System Operator_, kurz DSO) übernehmen den Strom aus dem Übertragungsnetz und verteilen ihn über [Mittel- und Niederspannungsleitungen](./wissen/strommärkte/index.md) an Haushalte, Unternehmen und andere Endverbraucher:innen. In Österreich gibt es derzeit 114 Strom-Verteilnetzbetreiber, die zusammen rund 260.000 km an Leitungen betreiben.[^3]
 
 ## Regulierungsbehörde
 
