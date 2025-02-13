@@ -36,7 +36,7 @@ Verteilnetzbetreiber (VNB; im Englischen _Distribution System Operator_, kurz DS
 
 ## Markt- und Verteilergebietsmanager
 
-Die [Austrian Gas Grid Management](https://www.aggm.at/) (<abbr title="Austrian Gas Grid Management">AGGM</abbr>) arbeitet als Markt- und Verteilergebietsmanager eng mit den Gas- und Stromnetzbetreibern zusammen, um die Gasinfrastruktur unter Berücksichtigung eines integrierten Ansatzes zu planen, der sämtliche Energiesektoren einbezieht.[^4]
+Die [Austrian Gas Grid Management](https://www.aggm.at/) (<abbr title="Austrian Gas Grid Management">AGGM</abbr>) arbeitet als Markt- und Verteilergebietsmanager eng mit den Gas- und Stromnetzbetreibern zusammen, um die Gasinfrastruktur unter Berücksichtigung eines integrierten Ansatzes zu planen, der sämtliche Energiesektoren einbezieht.[^aggm]
 
 ## Regulierungsbehörde
 
@@ -46,4 +46,4 @@ Die E-Control (kurz für „Energie-Control Austria für die Regulierung der Ele
 [^2]: [APG: Stromnetz Österreich](https://www.apg.at/stromnetz/stromnetz-oesterreich/)
 [^3]: [E-Control: Netz und Netzbetreiber in Österreich](https://www.e-control.at/konsumenten/netz-und-netzbetreiber-in-oesterreich)
 [^4]: [E-Control](https://energie.gv.at/glossary/e-control)
-[^5]: [AGGM: Austrian Gas Grid Management](https://www.aggm.at/)
+[^aggm]: [AGGM: Austrian Gas Grid Management](https://www.aggm.at/)
