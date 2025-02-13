@@ -31,9 +31,9 @@ Folgende Grafik bietet einen Überblick über die Struktur des Systemnutzungsent
 
 <img src="econtrol_systemnutzungsentgelte.png" alt="Überblick Systemnutzungsentgelte © E-Control" />
 
-*Abb. 1: Überblick Systemnutzungsentgelte © E-Control [^2]*
+*Abb. 1: Überblick über die Komponenten des Systemnutzungsentgelts © E-Control [^2]*
 
-<!---Im Rahmen von [Energiegemeinschaften](./wissen/energiegemeinschaften/index.md) können bestimmte Kostenkomponenten reduziert werden.-->
+Im Rahmen von [Energiegemeinschaften](./wissen/energiegemeinschaften/index.md) können bestimmte Kostenkomponenten reduziert werden.
 
 #### Weitere Informationen
 
