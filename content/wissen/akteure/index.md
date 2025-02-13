@@ -33,13 +33,13 @@ Netzbetreiber sind für den zuverlässigen Transport elektrischer Energie und de
 
 Übertragungsnetzbetreiber (ÜNB; im Englischen _Transmission System Operator_, kurz TSO) betreiben das [Höchst- und Hochspannungsnetz](./wissen/strommärkte/index.md) und gewährleisten den Transport großer Strommengen über weite Strecken zu den regionalen Verteilern. Zudem wickeln sie den grenzüberschreitenden Stromtransit ab. In Österreich übernimmt diese Aufgabe die <abbr title="Austrian Power Grid">APG</abbr>, die rund 7000 km Leitungen betreibt.[^1] [^2]
 
-### Verteilnetzbetreiber
+#### Verteilnetzbetreiber
 
 Verteilnetzbetreiber (VNB; im Englischen _Distribution System Operator_, kurz DSO) übernehmen den Strom aus dem Übertragungsnetz und verteilen ihn über [Mittel- und Niederspannungsleitungen](./wissen/strommärkte/index.md) an Haushalte, Unternehmen und andere Endverbraucher:innen. In Österreich gibt es derzeit 114 Strom-Verteilnetzbetreiber, die zusammen rund 260.000 km an Leitungen betreiben.[^3]
 
 ## Markt- und Verteilergebietsmanager
 
-Die [Austrian Gas Grid Management](https://www.aggm.at/) (AGGM) plant als Markt- und Verteilergebietsmanager in Kooperation mit den Gas- und Stromnetzbetreibern die Gasinfrastruktur mit einem integrierten Ansatz, der sämtliche Energiesektoren berücksichtigt.
+Die [Austrian Gas Grid Management](https://www.aggm.at/) (<abbr title="Austrian Gas Grid Management">AGGM</abbr>) arbeitet als Markt- und Verteilergebietsmanager eng mit den Gas- und Stromnetzbetreibern zusammen, um die Gasinfrastruktur unter Berücksichtigung eines integrierten Ansatzes zu planen, der sämtliche Energiesektoren einbezieht.[^4]
 
 ## Regulierungsbehörde
 
@@ -49,3 +49,4 @@ Die E-Control (kurz für „Energie-Control Austria für die Regulierung der Ele
 [^2] [APG: Stromnetz Österreich](https://www.apg.at/stromnetz/stromnetz-oesterreich/)
 [^3] [E-Control: Netz und Netzbetreiber in Österreich](https://www.e-control.at/konsumenten/netz-und-netzbetreiber-in-oesterreich)
 [^4] [E-Control](https://energie.gv.at/glossary/e-control)
+[^5] [AGGM: Austrian Gas Grid Management](https://www.aggm.at/)
