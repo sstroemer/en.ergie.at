@@ -6,9 +6,6 @@ description: "Ein Überblick zum Netzentgeltmodell des österreichischen Stromne
 topics: ["Netzentgeltmodell"]
 authors:
   - "fackerl"
-series: ["Strommärkte"]
-series_order: 11
-weight: 11
 ---
 
 ## Übersicht
