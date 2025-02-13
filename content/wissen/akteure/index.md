@@ -1,6 +1,4 @@
 ---
-draft: true
-
 title: "Akteure und Stakeholder"
 description: "Ein Überblick über relevante Akteure und Stakeholder im österreichischen Energiesystem."
 topics: ["Akteure"]

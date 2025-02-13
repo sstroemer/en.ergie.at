@@ -1,6 +1,4 @@
 ---
-draft: true
-
 title: "Energy-Only-Märkte"
 description: "Ein Überblick zu Energy-Only-Märkten."
 topics: ["Energy-Only-Märkte"]

@@ -1,6 +1,4 @@
 ---
-draft: true
-
 title: "Das österreichische Stromnetz"
 description: "Ein Überblick zum österreichischen Stromnetz."
 topics: ["Stromnetz"]

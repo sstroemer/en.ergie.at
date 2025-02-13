@@ -1,6 +1,4 @@
 ---
-draft: true
-
 title: "Merit-Order"
 description: "Begriffserklärung"
 topics: ["Merit-Order"]

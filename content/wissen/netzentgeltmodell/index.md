@@ -1,6 +1,4 @@
 ---
-draft: true
-
 title: "Netzentgeltmodell"
 description: "Ein Überblick zum Netzentgeltmodell des österreichischen Stromnetzes."
 topics: ["Netzentgeltmodell"]

@@ -1,6 +1,4 @@
 ---
-draft: true
-
 title: "Österreichisches Strommarktmodell"
 description: "Ein Überblick über Bilanzgruppen und Ausgleichsenergie."
 topics: ["Bilanzgruppen"]
