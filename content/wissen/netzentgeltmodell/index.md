@@ -7,7 +7,6 @@ authors:
 ---
 
 Das Systemnutzungsentgelt wird von allen Nutzer:innen des Stromnetzes entrichtet und deckt die Kosten für den Betrieb und die Wartung des Netzes. Es variiert je nach Spannungsebene und wird von der Regulierungsbehörde E-Control festgelegt. Dieser Artikel gibt einen Überblick darüber, wie sich das Entgelt zusammensetzt und welche verschiedenen Kostenkomponenten dabei eine Rolle spielen.
-
 <!--more-->
 
 ## Übersicht
