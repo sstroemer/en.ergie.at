@@ -2,13 +2,14 @@
 title: "Akteure und Stakeholder"
 description: "Ein Überblick über relevante Akteure und Stakeholder im österreichischen Energiesystem."
 topics: ["Akteure"]
+weight: 1
 authors:
   - "fackerl"
 ---
 
 Ein Überblick über relevante Akteure und Stakeholder im österreichischen Energiesystem: Das österreichische Energiesystem basiert auf einem komplexen Zusammenspiel verschiedener Akteure, die für Netzstabilität, Energieverteilung und Marktregulierung sorgen. Von der Steuerung der Stromflüsse bis zur Abrechnung der Energieverbrauchsdaten arbeiten spezialisierte Institutionen eng zusammen. Wer diese Akteure sind und welche Rolle sie spielen, erfährst du hier.
 
-<!--more-->
+<!-- more -->
 
 ## Regelzonenführer
 

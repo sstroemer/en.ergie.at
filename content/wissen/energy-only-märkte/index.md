@@ -2,13 +2,14 @@
 title: "Energy-Only-Märkte"
 description: "Ein Überblick zu Energy-Only-Märkten."
 topics: ["Energy-Only-Märkte"]
+weight: 1
 authors:
   - "fackerl"
 ---
 
 Der Energy-Only-Markt prägt seit den 1990er Jahren den Stromhandel in vielen europäischen Ländern, darunter auch Österreich. In diesem Artikel erfährst du, wie dieser Markt funktioniert und wie die Versorgungssicherheit dabei gewährleistet wird.
 
-<!--more-->
+<!-- more -->
 
 ## Hintergrund
 
