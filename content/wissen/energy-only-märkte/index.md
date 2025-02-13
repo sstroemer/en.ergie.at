@@ -21,7 +21,7 @@ Der Energy-Only-Markt ist ein reiner Energiemarkt. Stromerzeuger:innen können n
 
 ## Versorgungssicherheit
 
-Die Versorgungssicherheit im <abbr title="Energy-Only-Markt">EOM</abbr> wird durch den [Regelenergiemarkt](./wissen/regelenergie/index.md) gewährleistet, der Schwankungen zwischen Stromproduktion und -verbrauch ausgleicht. Hier leisten steuerbare Kraftwerke und Unternehmen mit flexibel anpassbarem Stromverbrauch einen wichtigen Beitrag, indem sie sogenannte Regelenergie bereitstellen, um die Stabilität der Netzfrequenz bei 50 Hertz zu gewährleisten.[^3] Zusätzlich gibt es weitere Mechanismen zur Stabilisierung des Stromnetzes in Österreich, wie beispielsweise [Redispatch](./wissen/redispatch/index.md) und [Peak Shaving](./wissen/peakshaving/index.md).
+Die kurzfristige Versorgungssicherheit im <abbr title="Energy-Only-Markt">EOM</abbr> wird durch den [Regelenergiemarkt](./wissen/regelenergie/index.md) gewährleistet, der Schwankungen zwischen Stromproduktion und -verbrauch ausgleicht. Hier leisten steuerbare Kraftwerke und Unternehmen mit flexibel anpassbarem Stromverbrauch einen wichtigen Beitrag, indem sie sogenannte Regelenergie bereitstellen, um die Stabilität der Netzfrequenz bei 50 Hertz zu gewährleisten.[^3] Zusätzlich gibt es weitere Mechanismen zur Stabilisierung des Stromnetzes in Österreich, wie beispielsweise [Redispatch](./wissen/redispatch/index.md) und [Peak Shaving](./wissen/peakshaving/index.md).
 
 ### Mehr Informationen
 
