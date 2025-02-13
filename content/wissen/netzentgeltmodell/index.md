@@ -35,7 +35,7 @@ Folgende Grafik bietet einen Überblick über die Struktur des Systemnutzungsent
 
 Im Rahmen von [Energiegemeinschaften](./wissen/energiegemeinschaften/index.md) können bestimmte Kostenkomponenten reduziert werden.
 
-#### Weitere Informationen
+## Weitere Informationen
 
 - Detaillierte Informationen zu den einzelnen Kostenkomponenten: [E-Control: Systemnutzungsentgelte](https://www.e-control.at/industrie/strom/strompreis/systemnutzungsentgelte)
 - Rechtsvorschrift und Höhe der Entgelte: [Systemnutzungsentgelte-Verordnung, Fassung vom 10.02.2025](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010107)
