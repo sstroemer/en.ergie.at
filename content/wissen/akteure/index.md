@@ -6,13 +6,17 @@ authors:
   - "fackerl"
 ---
 
+Ein Überblick über relevante Akteure und Stakeholder im österreichischen Energiesystem: Das österreichische Energiesystem basiert auf einem komplexen Zusammenspiel verschiedener Akteure, die für Netzstabilität, Energieverteilung und Marktregulierung sorgen. Von der Steuerung der Stromflüsse bis zur Abrechnung der Energieverbrauchsdaten arbeiten spezialisierte Institutionen eng zusammen. Wer diese Akteure sind und welche Rolle sie spielen, erfährst du hier.
+
+<!--more-->
+
 ## Regelzonenführer
 
 Das europäische Stromnetz ist in [Regelzonen](/wissen/regelzonen/) eingeteilt. Der Regelzonenführer ist für die Einhaltung der Netzfrequenz von 50 Hertz in seiner Regelzone verantwortlich. Die Abläufe dazu sind unter [Regelenergie](/wissen/regelenergie/) beschrieben. Für die Regelzone Österreich ist der Regelzonenführer die Austrian Power Grid AG (<abbr title="Austrian Power Grid">APG</abbr>).[^1]
 
 ## Bilanzgruppenkoordinator (BKO)
 
-Der Bilanzgruppenkoordinator (<abbr title="Bilanzgruppenkoordinator">BKO</abbr>) überwacht alle [Bilanzgruppen](/wissen/bilanzgruppen/) in der [Regelzone](/wissen/Strommarktmodell/) und sorgt dafür, dass die Abrechnung der [Ausgleichsenergie](/wissen/bilanzgruppen/) korrekt erfolgt. Er vergleicht die geplanten Strommengen (Prognosen und Fahrpläne) mit den tatsächlich gemessenen Werten und ermittelt die notwendige Ausgleichsenergie für jede Bilanzgruppe. Diese verrechnet er dann mit den jeweiligen Bilanzgruppenverantwortlichen. Für die Regelzone <abbr title="Austrian Power Grid">APG</abbr> ist der <abbr title="Bilanzgruppenkoordinator">BKO</abbr> die Austrian Power Clearing and Settlement AG (<abbr title="Austrian Power Clearing and Settlement">APCS</abbr>).[^1]
+Der Bilanzgruppenkoordinator (<abbr title="Bilanzgruppenkoordinator">BKO</abbr>) überwacht alle [Bilanzgruppen](/wissen/bilanzgruppen/) in der [Regelzone](/wissen/regelzonen/) und sorgt dafür, dass die Abrechnung der [Ausgleichsenergie](/wissen/bilanzgruppen/) korrekt erfolgt. Er vergleicht die geplanten Strommengen (Prognosen und Fahrpläne) mit den tatsächlich gemessenen Werten und ermittelt die notwendige Ausgleichsenergie für jede Bilanzgruppe. Diese verrechnet er dann mit den jeweiligen Bilanzgruppenverantwortlichen. Für die Regelzone <abbr title="Austrian Power Grid">APG</abbr> ist der <abbr title="Bilanzgruppenkoordinator">BKO</abbr> die Austrian Power Clearing and Settlement AG (<abbr title="Austrian Power Clearing and Settlement">APCS</abbr>).[^1]
 
 ## Bilanzgruppenverantwortlicher (BGV)
 
@@ -24,11 +28,11 @@ Netzbetreiber sind für den zuverlässigen Transport elektrischer Energie und de
 
 #### Übertragungsnetzbetreiber
 
-Übertragungsnetzbetreiber (ÜNB; im Englischen _Transmission System Operator_, kurz TSO) betreiben das [Höchst- und Hochspannungsnetz](/wissen/strommärkte/) und gewährleisten den Transport großer Strommengen über weite Strecken zu den regionalen Verteilern. Zudem wickeln sie den grenzüberschreitenden Stromtransit ab. In Österreich übernimmt diese Aufgabe die <abbr title="Austrian Power Grid">APG</abbr>, die rund 7000 km Leitungen betreibt.[^1] [^2]
+Übertragungsnetzbetreiber (ÜNB; im Englischen _Transmission System Operator_, kurz TSO) betreiben das [Höchst- und Hochspannungsnetz](/wissen/stromnetz/) und gewährleisten den Transport großer Strommengen über weite Strecken zu den regionalen Verteilern. Zudem wickeln sie den grenzüberschreitenden Stromtransit ab. In Österreich übernimmt diese Aufgabe die <abbr title="Austrian Power Grid">APG</abbr>, die rund 7000 km Leitungen betreibt.[^1] [^2]
 
 #### Verteilnetzbetreiber
 
-Verteilnetzbetreiber (VNB; im Englischen _Distribution System Operator_, kurz DSO) übernehmen den Strom aus dem Übertragungsnetz und verteilen ihn über [Mittel- und Niederspannungsleitungen](/wissen/strommärkte/) an Haushalte, Unternehmen und andere Endverbraucher:innen. In Österreich gibt es derzeit 114 Strom-Verteilnetzbetreiber, die zusammen rund 260.000 km an Leitungen betreiben.[^3]
+Verteilnetzbetreiber (VNB; im Englischen _Distribution System Operator_, kurz DSO) übernehmen den Strom aus dem Übertragungsnetz und verteilen ihn über [Mittel- und Niederspannungsleitungen](/wissen/stromnetz/) an Haushalte, Unternehmen und andere Endverbraucher:innen. In Österreich gibt es derzeit 114 Strom-Verteilnetzbetreiber, die zusammen rund 260.000 km an Leitungen betreiben.[^3]
 
 ## Markt- und Verteilergebietsmanager
 
