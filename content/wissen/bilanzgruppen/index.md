@@ -1,7 +1,7 @@
 ---
 title: "Bilanzgruppen"
 description: "Ein Überblick über Bilanzgruppen und Ausgleichsenergie."
-topics: ["Bilanzgruppen"]
+topics: ["Bilanzgruppen", "Ausgleichsenergie"]
 authors:
   - "fackerl"
 ---
