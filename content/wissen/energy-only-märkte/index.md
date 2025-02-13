@@ -13,7 +13,7 @@ weight: 5
 
 ## Hintergrund
 
-Seit der Liberalisierung der Strommärkte in den 1990er Jahren hat sich im Großteil der europäischen Länder, darunter auch in Österreich, das Marktdesign des Energy-Only-Marktes (EOM) etabliert. Der <abbr title="Energy-Only-Markt">EOM</abbr> basiert auf dem Handel von tatsächlich erzeugter Energie. Im Gegensatz dazu steht das Konzept der [Kapazitätsmärkte](./wissen/kapazitätsmärkte/index.md), das unter anderem in Frankreich genutzt wird und auf dem Handel von Stromerzeugungskapazitäten beruht.[^1]
+Seit der Liberalisierung der Strommärkte in den 1990er Jahren hat sich im Großteil der europäischen Länder, darunter auch in Österreich, das Marktdesign des Energy-Only-Marktes (EOM) etabliert. Der <abbr title="Energy-Only-Markt">EOM</abbr> basiert auf dem Handel von tatsächlich erzeugtem Strom. Im Gegensatz dazu steht das Konzept der [Kapazitätsmärkte](./wissen/kapazitätsmärkte/index.md), das unter anderem in Frankreich genutzt wird und auf dem Handel von Stromerzeugungskapazitäten beruht.[^1]
 
 ## Marktprinzip
 
