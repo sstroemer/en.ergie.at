@@ -22,8 +22,6 @@ Jede Bilanzgruppe hat einen Bilanzgruppenverantwortlichen (<abbr title="Bilanzgr
 
 ## Netzbetreiber
 
-### Strom
-
 Netzbetreiber sind für den zuverlässigen Transport elektrischer Energie und den Betrieb der Stromnetze verantwortlich. Sie sorgen dafür, dass Strom von den Erzeugungsanlagen zu den Verbraucher:innen gelangt, indem sie den Netzbetrieb steuern, die erforderliche Infrastruktur bereitstellen und die Netzentgelte verwalten. Weil das Stromnetz ein natürliches Monopol darstellt, unterliegen Netzbetreiber einer strengen Regulierung durch die [Regulierungsbehörde](#regulierungsbehörde) E-Control. Es wird zwischen Übertragungsnetzbetreibern für den großräumigen Stromtransport und Verteilnetzbetreibern für die regionale Stromverteilung unterschieden.[^1]
 
 #### Übertragungsnetzbetreiber
