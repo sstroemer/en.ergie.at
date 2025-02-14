@@ -2,6 +2,8 @@
 title: "Redispatch"
 description: ""
 topics: []
+series: ["Systemdienstleistungen"]
+series_order: 2
 authors: []
 ---
 
