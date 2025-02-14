@@ -17,7 +17,7 @@ Die Merit-Order bestimmt die Reihenfolge, in der Kraftwerke zur Stromerzeugung g
 
 Die folgende Grafik stellt vier Kraftwerke dar, die entsprechend ihrer Stromerzeugungskosten in der Merit-Order sortiert und der Reihe nach zugeschaltet werden, um den Strombedarf zu decken. Das letzte Kraftwerk bestimmt den Strompreis.
 
-<img src="./merit_order.PNG" alt="Merit Order" width="85%">
+<img src="./merit_order.PNG" alt="Merit Order" width="100%">
 
 *Abb. 1: Merit-Order im Strommarkt © 2025 AIT Austrian Institute of Technology GmbH*
 
