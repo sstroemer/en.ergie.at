@@ -22,6 +22,12 @@
   pageRef = "series/strommärkte"
   weight = 20
 
+[[main]]
+  name = "Systemdienstleistungen"
+  parent = "Wissen"
+  pageRef = "series/systemdienstleistungen"
+  weight = 30
+
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
 # >> main >> DATEN                                                            #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
