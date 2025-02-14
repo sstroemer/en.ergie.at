@@ -1,10 +1,14 @@
 ---
 title: "Intraday Markt"
 description: ""
-topics: ["ID"]
+topics: ["Markt", "Intraday"]
 series: ["Strommärkte"]
 series_order: 5
-authors: []
+authors: [sstroemer]
 ---
 
-Wir arbeiten gerade an diesem Artikel. Schau bald wieder vorbei!
+Ähnlich wie am [Day-Ahead Markt](/wissen/markt-day-ahead) findet der Handel von Strom am Intraday Markt sowohl über Börsen wie die [EPEX Spot](https://www.epexspot.com/en), oder im [Over-the-Counter (OTC) Handel](/wissen/otc/) statt. Im Gegensatz handelt es sich hier aber um einen kontinuierlichen Kauf und Verkauf von Strom, der noch am gleichen Tag geliefert wird.
+
+<!-- more -->
+
+> Wir arbeiten gerade an diesem Artikel. Schau bald wieder vorbei!
