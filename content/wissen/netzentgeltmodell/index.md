@@ -31,7 +31,7 @@ Das Systemnutzungsentgelt setzt sich aus sieben verschiedenen Kostenkomponenten 
 
 Folgende Grafik bietet einen Überblick über die Struktur des Systemnutzungsentgelts in Österreich und zeigt die einzelnen Kostenkomponenten für Einspeisende und Entnehmer:innen. [^2]
 
-<img src="econtrol_systemnutzungsentgelte.png" alt="Überblick Systemnutzungsentgelte © E-Control" />
+<img src="./econtrol_systemnutzungsentgelte.png" alt="Überblick Systemnutzungsentgelte © E-Control" />
 
 *Abb. 1: Überblick über die Komponenten des Systemnutzungsentgelts © E-Control [^2]*
 

@@ -17,7 +17,7 @@ Das österreichische Stromnetz bildet die grundlegende Infrastruktur für die Ü
 
 Das österreichische Stromnetz ist in sieben Netzebenen unterteilt, die sich durch ihr jeweiliges Spannungsniveau unterscheiden. Dabei gibt es vier [Spannungsebenen](#spannungsebenen) (Netzebenen 1, 3, 5 und 7) sowie drei [Umspannungsebenen](#umspannungsebenen) (Netzebenen 2, 4 und 6), die den Übergang zwischen den Spannungsstufen ermöglichen.[^1] [^2] Die folgende Grafik zeigt das vom Übertragungsnetzbetreiber <abbr title="Austrian Power Grid">APG</abbr> betriebene Höchstspannungsnetz.[^3]
 
-<img src="APG_Netzgrafik.jpg" alt="Stromnetz" width="80%">
+<img src="./APG_Netzgrafik.jpg" alt="Stromnetz" width="80%">
 
 *Abb. 1: Das österreichische Höchst- und Hochspannungsnetz © 2024 Austrian Power Grid AG [^3]*
 
