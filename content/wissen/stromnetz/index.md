@@ -21,25 +21,25 @@ Das österreichische Stromnetz ist in sieben Netzebenen unterteilt, die sich dur
 
 *Abb. 1: Das österreichische Höchst- und Hochspannungsnetz © 2024 Austrian Power Grid AG [^3]*
 
-### Spannungsebenen
+## Spannungsebenen
 
-#### Höchstspannungsebene (Netzebene 1)
+### Höchstspannungsebene (Netzebene 1)
 
 Die Höchstspannungsebene umfasst Leitungen mit Spannungen von 220 kV und 380 kV. Diese ermöglichen einen verlustarmen Transport großer Energiemengen über weite Distanzen und ermöglicht den international Stromaustausch. Großkraftwerke, wie große Wasserkraftwerke, speisen ihre erzeugte Energie in dieser Netzebene ein.[^1]
 
-#### Hochspannungsebene (Netzebene 3)
+### Hochspannungsebene (Netzebene 3)
 
 In der Hochspannungsebene wird Strom mit einer Spannung von 110 kV transportiert. Sie dient der ersten großflächigen Verteilung zur Versorgung von Städten und großen Industrieanlagen. Mittelgroße Kraftwerke speisen hier ein, darunter der Großteil der erneuerbaren Energieanlagen.[^2] [^4]
 
-#### Mittelspannungsebene (Netzebene 5)
+### Mittelspannungsebene (Netzebene 5)
 
 Die Mittelspannungsebene wird mit Spannungen von 1 kV bis 36 kV betrieben und versorgt einzelne Stadtteile und Ortschaften. Hier speisen auch kleinere, städtische Kraftwerke ein.[^2] [^3]
 
-#### Niederspannungsebene (Netzebene 7)
+### Niederspannungsebene (Netzebene 7)
 
 Haushalte sowie kleinere Gewerbebetriebe erhalten ihren Strom über Netzebene 7, die mit 400 bis 230 V betrieben wird. Kleine PV-Anlagen und andere dezentrale Erzeuger speisen hier ein.[^1] [^2]
 
-### Umspannungsebenen
+## Umspannungsebenen
 
 Die Umspannungsebenen sorgen dafür, dass die Spannung mit Hilfe von Umspannwerken von einer höheren auf eine niedrigere Netzebene herabgesetzt wird. Dabei verbindet Netzebene 2 die Höchst- mit der Hochspannungsebene, während Netzebene 4 den Übergang von Hoch- zu Mittelspannung bildet. In Netzebene 6 erfolgt schließlich die Transformation von Mittel- auf Niederspannung, sodass der Strom für Haushalte und Betriebe nutzbar wird.[^2] [^3]
 
