@@ -1,9 +1,9 @@
 ---
-title: "Kapazitätsmärkte"
+title: "Intraday Markt"
 description: ""
-topics: []
+topics: ["ID"]
 series: ["Strommärkte"]
-series_order: 4
+series_order: 5
 authors: []
 ---
 

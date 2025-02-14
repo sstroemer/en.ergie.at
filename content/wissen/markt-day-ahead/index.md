@@ -1,9 +1,9 @@
 ---
-title: "Kapazitätsmärkte"
+title: "Day-Ahead Markt"
 description: ""
-topics: []
+topics: ["DA"]
 series: ["Strommärkte"]
-series_order: 4
+series_order: 1
 authors: []
 ---
 
