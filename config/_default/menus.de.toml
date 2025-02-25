@@ -4,8 +4,8 @@
 
 [[main]]
   name = "Atlas"
-  pageRef = "las"
-  weight = 10
+  pageRef = "atlas"
+  weight = 1
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
 # >> main >> WISSEN                                                            #
@@ -14,19 +14,28 @@
 [[main]]
   name = "Wissen"
   pageRef = "wissen"
-  weight = 10
+  weight = 11
 
 [[main]]
   name = "Strommärkte"
   parent = "Wissen"
   pageRef = "series/strommärkte"
-  weight = 20
+  weight = 12
 
 [[main]]
   name = "Systemdienstleistungen"
   parent = "Wissen"
   pageRef = "series/systemdienstleistungen"
-  weight = 30
+  weight = 13
+
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
+# >> main >> THEMEN                                                            #
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
+
+[[main]]
+  name = "Themen"
+  pageRef = "themen"
+  weight = 21
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
 # >> main >> DATEN                                                            #
@@ -35,7 +44,16 @@
 [[main]]
   name = "Daten"
   pageRef = "daten"
-  weight = 30
+  weight = 31
+
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
+# >> main >> PROJEKTE                                                          #
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
+
+[[main]]
+  name = "Projekte"
+  pageRef = "projekte"
+  weight = 41
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
 # >> main >> GITHUB                                                            #
