@@ -1,4 +1,5 @@
 ---
+url: /las
 title: "Energieatlas"
 ---
 
