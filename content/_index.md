@@ -2,8 +2,8 @@
 
 Daten, Fakten, Einblicke und Wissenswertes rund um Energie in Österreich.
 
-[**Atlas**](/las) --- _wo Karten & Österreichs Energiesystem aufeinander treffen._
+[**Atlas**]({{< ref "/atlas" >}}) --- _wo Karten & Österreichs Energiesystem aufeinander treffen._
 
-[**Wissen**](/wissen) --- _und Wissenswertes, thematisch gruppiert und verständlich aufbereitet._
+[**Wissen**]({{< ref "/wissen" >}}) --- _und Wissenswertes, thematisch gruppiert und verständlich aufbereitet._
 
-[**Daten**](/daten) --- _und alles was dazugehört._
+[**Daten**]({{< ref "/daten" >}}) --- _und alles was dazugehört._
