@@ -3,8 +3,7 @@ title: "Bilanzgruppen"
 description: "Ein Überblick über Bilanzgruppen und Ausgleichsenergie."
 topics: ["Bilanzgruppen", "Ausgleichsenergie"]
 weight: 1
-authors:
-  - "fackerl"
+authors: [fackerl]
 ---
 
 Bilanzgruppen sind zentrale Elemente im österreichischen Strommarkt, die dafür sorgen, dass Stromverbrauch und -erzeugung ausgeglichen bleiben. Bei unvorhergesehenen Abweichungen wird Ausgleichsenergie eingesetzt, um die Differenz zu decken. Dieser Artikel gibt einen Überblick über die Funktionsweise von Bilanzgruppen und deren Bedeutung für die Netzstabilität.

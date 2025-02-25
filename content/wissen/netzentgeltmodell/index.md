@@ -3,8 +3,7 @@ title: "Netzentgeltmodell"
 description: "Ein Überblick zum Netzentgeltmodell des österreichischen Stromnetzes."
 topics: ["Netzentgeltmodell"]
 weight: 1
-authors:
-  - "fackerl"
+authors: [fackerl]
 ---
 
 Das Systemnutzungsentgelt wird von allen Nutzer:innen des Stromnetzes entrichtet und deckt die Kosten für den Betrieb und die Wartung des Netzes. Es variiert je nach Spannungsebene und wird von der Regulierungsbehörde E-Control festgelegt. Dieser Artikel gibt einen Überblick darüber, wie sich das Entgelt zusammensetzt und welche verschiedenen Kostenkomponenten dabei eine Rolle spielen.

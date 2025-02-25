@@ -1,12 +1,12 @@
 ---
+url: /wissen/merit-order
 title: "Merit-Order"
 description: "Begriffserklärung"
 topics: ["Merit-Order"]
 weight: 1
 series: ["Strommärkte"]
 series_order: 3
-authors:
-  - "fackerl"
+authors: [fackerl]
 ---
 
 Die Merit-Order regelt, in welcher Reihenfolge Kraftwerke zur Stromerzeugung eingesetzt werden. Der Artikel gibt einen Einblick, wie diese Reihenfolge den Strompreis beeinflusst und welche Rolle dabei verschiedene Energiequellen spielen.

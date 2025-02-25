@@ -3,8 +3,7 @@ title: "Das österreichische Stromnetz"
 description: "Ein Überblick zum österreichischen Stromnetz."
 topics: ["Stromnetz"]
 weight: 1
-authors:
-  - "fackerl"
+authors: [fackerl]
 ---
 
 Das österreichische Stromnetz bildet die Grundlage für den Transport elektrischer Energie von Kraftwerken zu Endverbraucher:innen. Es besteht aus sieben Netzebenen, die sich durch ihre Funktionen und Spannungsniveaus unterscheiden und durch Übertragungs- und Verteilnetzbetreiber organisiert werden. Dieser Artikel gibt einen Überblick über die verschiedenen Netzebenen und ihre jeweilige Rollen im Stromnetz.

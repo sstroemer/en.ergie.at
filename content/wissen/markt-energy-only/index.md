@@ -5,8 +5,7 @@ topics: ["EOM"]
 weight: 1
 series: ["Strommärkte"]
 series_order: 2
-authors:
-  - "fackerl"
+authors: [fackerl]
 ---
 
 Der Energy-Only Markt prägt seit den 1990er Jahren den Stromhandel in vielen europäischen Ländern, darunter auch Österreich. In diesem Artikel erfährst du, wie dieser Markt funktioniert und wie die kurzfristige Versorgungssicherheit dabei gewährleistet wird.
