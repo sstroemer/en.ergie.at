@@ -1,5 +1,5 @@
 ---
-title: "Systemdienstleistungen"
+url: /serien/systemdienstleistungen
+translationKey: series-systemdienstleistungen
+title: Systemdienstleistungen
 ---
-
-Alles rund um Systemdienstleistungen.

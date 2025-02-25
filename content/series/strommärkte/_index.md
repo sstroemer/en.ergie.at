@@ -1,5 +1,5 @@
 ---
-title: "Strommärkte"
+url: /serien/strommärkte
+translationKey: series-strommärkte
+title: Strommärkte
 ---
-
-Alles rund um Strommärkte.

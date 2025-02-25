@@ -14,7 +14,7 @@ title = "en.ergie.at"
   # description = "My awesome website"
   copyright = "&copy; AIT Austrian Institute of Technology GmbH"
 
-[params.author]
+# [params.author]
 #   name = "Your name here"
 #   email = "youremail@example.com"
 #   image = "img/blowfish_logo.png"
