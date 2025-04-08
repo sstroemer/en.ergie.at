@@ -191,8 +191,9 @@ Read up on [conventionalcommits.org](https://www.conventionalcommits.org/), and 
 Regarding the last point, some examples:
 
 - Modifying something in an author's page: `authors: update XY bio`
-- Adding some page to the section `wissen`: `wissen: add balancing energy market page`
-- Fixing something in the section `daten`: `daten(fix): update interval of ABC`
+- Adding some page to the section `wissen: wissen: add balancing energy market page`
+- Fixing something in the section `daten: daten(fix): update interval of ABC`
+- Modifying a project's content: `projekte(projektkurzname): change X to Y`
 
 As you see the "tags" are always aligned with the folder names, "authors", "wissen", etc. Minor changes to language can
 be done as `wissen(fix): language`, pure typos as `daten(fix): type`.
