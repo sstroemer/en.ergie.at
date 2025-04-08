@@ -25,7 +25,7 @@ Dies ist ein wichtiges <mark>Thema</mark>.
 
 These are not supposed to be used for topics that are better cross-referenced, e.g., `DA market` (for day-ahead market) can be used, but should then be used as link `[DA market](/wissen/...)`.
 
-#### Sub- and suberscribts
+#### Sub- and superscripts
 
 ```markdown
 H<sub>2</sub>O
