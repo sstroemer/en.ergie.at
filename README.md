@@ -25,7 +25,7 @@ Dies ist ein wichtiges <mark>Thema</mark>.
 
 These are not supposed to be used for topics that are better cross-referenced, e.g., `DA market` (for day-ahead market) can be used, but should then be used as link `[DA market](/wissen/...)`.
 
-#### Sub- and suberscribts
+#### Sub- and superscripts
 
 ```markdown
 H<sub>2</sub>O
@@ -193,6 +193,7 @@ Regarding the last point, some examples:
 - Modifying something in an author's page: `authors: update XY bio`
 - Adding some page to the section `wissen`: `wissen: add balancing energy market page`
 - Fixing something in the section `daten`: `daten(fix): update interval of ABC`
+- Modifying a project's content: `projekte(projektkurzname): change X to Y`
 
 As you see the "tags" are always aligned with the folder names, "authors", "wissen", etc. Minor changes to language can
 be done as `wissen(fix): language`, pure typos as `daten(fix): type`.
