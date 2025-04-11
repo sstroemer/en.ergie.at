@@ -61,6 +61,12 @@
   pageRef = "projekte/transpairent-energy"
   weight = 42
 
+[[main]]
+  name = "TeKaVe"
+  parent = "Projekte"
+  pageRef = "projekte/tekave"
+  weight = 43
+
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
 # >> main >> GITHUB                                                            #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
