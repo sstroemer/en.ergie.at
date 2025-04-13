@@ -1,9 +1,13 @@
 ---
 title: "Energiegemeinschaften"
 description: ""
-topics: []
+topics: ["Energiegemeinschaften"]
 authors: [fackerl]
 ---
+
+Energiegemeinschaften ermöglichen es, Energie gemeinschaftlich zu erzeugen und zu nutzen. In diesem Artikel erfährst du, welche Formen von Energiegemeinschaften es gibt, wie sie funktionieren und welche Vorteile sie bieten.
+
+<!-- more -->
 
 ## Was sind Energiegemeinschaften?
 
