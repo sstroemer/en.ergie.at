@@ -1,7 +1,7 @@
 {{ $parent := .Page.RelPermalink }}
 <section class="space-y-10 w-full">
     {{ $RelPermalink := .Get "link" }}
-    {{ range ( where .Site.RegularPages "RelPermalink" $RelPermalink | first 1 ) }}
+    {{ range ( where .Site.AllPages "RelPermalink" $RelPermalink | first 1 ) }}
         {{ if not (eq .RelPermalink $parent) }}
             {{ partial "article-link/card.html" . }}
         {{ end }}
