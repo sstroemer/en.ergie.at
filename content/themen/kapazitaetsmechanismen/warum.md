@@ -20,7 +20,3 @@ Energy-Only-Märkte (EOM) basieren auf der Annahme, dass Versorgungssicherheit a
 Test Einbettung:
 
 {{< embed_article link="/themen/kapazitaetsmechanismen/warum/analyse_der_voraussetzungen" >}}
-
-{{< alert >}}
-**Warning!** This action is destructive!
-{{< /alert >}}
