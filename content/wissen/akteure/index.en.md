@@ -1,7 +1,7 @@
 ---
-title: "Akteure und Stakeholder"
-description: "Ein Überblick über relevante Akteure und Stakeholder im österreichischen Energiesystem."
-topics: ["Akteure"]
+title: "Actors and Stakeholders"
+description: "An overview of relevant actors and stakeholders in the Austrian energy system."
+topics: ["Actors"]
 weight: 1
 authors: [fackerl]
 ---
@@ -12,7 +12,7 @@ The Austrian energy system is based on complex interactions of various actors wh
 
 ## Control Area Manager ("Regelzonenführer")
 
-The European electricity grid is divided into [control areas](/wissen/regelzonen/). The control area manager is responsible for maintaining the grid frequency of 50 Hz in their control area. The processes involved are described under [balancing energy](/wissen/regelenergie/). For the control area of Austria, the control area manager is Austrian Power Grid AG (<abbr title="Austrian Power Grid">APG</abbr>).[^1]
+The European electricity grid is divided into [control areas](/wissen/regelzonen/). The control area manager is responsible for maintaining the grid frequency of 50 Hertz in their control area. The processes involved are described under [balancing reserve](/wissen/regelenergie/). For the control area of Austria, the control area manager is Austrian Power Grid AG (<abbr title="Austrian Power Grid">APG</abbr>).[^1]
 
 ## Balance Group Coordinator ("Bilanzgruppenkoordinator")
 
@@ -20,7 +20,7 @@ The balance group coordinator monitors all [balance groups](/wissen/bilanzgruppe
 
 ## Balance Group Representative ("Bilanzgruppenverantwortlicher")
 
-Each balance group has a balance group representative (<abbr title="Bilanzgruppenverantwortlicher">BGV</abbr>) who represents it towards other market participants. The [BGV] coordinates the forecasts for generation and consumption within the balance group and prepares schedules based on them. They also receive the settlement of the balancing energy from the balance group coordinator and settle this with the members of the balance group.[^1]
+Each balance group has a balance group representative who represents it towards other market participants. The balance group representative coordinates the forecasts for generation and consumption within the balance group and prepares schedules based on them. They also receive the settlement of the balancing energy from the balance group coordinator and settle this with the members of the balance group.[^1]
 
 ## Network Operator ("Netzbetreiber")
 
