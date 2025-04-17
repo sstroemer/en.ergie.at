@@ -8,10 +8,10 @@ Energy-Only-Märkte (EOM) basieren auf der Annahme, dass Versorgungssicherheit a
 
 <!-- more -->
 
-<br>
 {{< alert >}}
 Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per [GitHub Issue melden](https://github.com/ait-energy/en.ergie.at/issues).
 {{< /alert >}}
+<br>
 
 {{< embed_article link="/themen/kapazitaetsmechanismen/warum/voraussetzung_eines_EOM" >}}
 <div class="h-8"></div>
