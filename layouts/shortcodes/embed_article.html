@@ -1,9 +1,22 @@
-{{ $parent := .Page.RelPermalink }}
+{{ $link := .Get "link" }}
+{{ $showHeader := .Get "showHeader" | default "true" }}
 <section class="space-y-10 w-full">
-    {{ $RelPermalink := .Get "link" }}
-    {{ range ( where .Site.AllPages "RelPermalink" $RelPermalink | first 1 ) }}
-        {{ if not (eq .RelPermalink $parent) }}
-            {{ partial "article-link/card.html" . }}
-        {{ end }}
-    {{end}}
+  {{ with site.GetPage $link }}
+    {{/* Capture the rendered output of the standard partial into a variable */}}
+    {{ $card := partial "article-link/card.html" . | safeHTML }}
+    {{ if eq $showHeader "false" }}
+      <div class="hide-article-header" style="position: relative;">
+        {{/* Inline CSS here targets header elements within this embed only.
+            Adjust the selector based on the theme’s markup.
+            In the provided partial, the subpage title is rendered inside an element with classes "font-bold text-xl".
+         */}}
+        <style>
+          .hide-article-header .font-bold.text-xl { display: none !important; }
+        </style>
+        {{ $card }}
+      </div>
+    {{ else }}
+      {{ $card }}
+    {{ end }}
+  {{ end }}
 </section>
