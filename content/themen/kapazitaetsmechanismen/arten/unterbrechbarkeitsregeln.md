@@ -1,20 +1,18 @@
 ---
-draft: true
-
 title: "Unterbrechbarkeitsregeln"
-description: "Add a short description here."
-#summary: "Es gibt verschiedene Arten von Kapazitätsmechanismen. Ganz allgemein kann man zwischen Gezielten und Marktweiten, sowie zwischen Volumen- & Preisbasierten Mechanismen unterscheiden. Diese werden in diesem Abschnitt detaillierter vorgestellt."
-topics: 
-authors:
-  - "yournamegoeshere"
-# date: 2025-04-08
-# series: ["NameOfSeries"]
-# series_order: 1
-# weight: 1
+topics: []
+authors: ["afischer"]
 ---
+
+<br>
+{{< alert >}}
+Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per [GitHub Issue melden](https://github.com/ait-energy/en.ergie.at/issues).
+{{< /alert >}}
+
 Unterbrechbarkeitsregelungen ermöglichen eine kurzfristige Reduktion industrieller Lasten zur Stabilisierung des Stromnetzes. Großverbraucher stellen ihre Nachfrage flexibel bereit und können bei Netzengpässen auf Anforderung vom Netz genommen werden.
 
 ## Beschreibung
+
 Unterbrechbarkeitsregelungen sind spezielle Programme zur kurzfristigen Stabilisierung des Stromsystems. Sie basieren auf vertraglich gesicherter Lastreduktion durch industrielle Großverbraucher. Ziel ist es, in Situationen mit akuten Netzengpässen oder drohendem Versorgungsengpass eine sofortige Reduktion der Stromnachfrage zu ermöglichen – und so Netzfrequenz sowie Systemstabilität zu wahren.
 
 Teilnehmende Unternehmen verpflichten sich, ihren Stromverbrauch auf Anforderung des Übertragungsnetzbetreibers (ÜNB) kurzfristig zu reduzieren oder vollständig zu unterbrechen. Diese Abrufe erfolgen in der Regel ohne Vorankündigung und können mehrere Stunden andauern. Die Maßnahmen sind ausschließlich für flexible Nachfrageseite gedacht, d. h. für sogenannte Demand-Response-Kapazitäten.
@@ -24,6 +22,7 @@ Die Beschaffung dieser unterbrechbaren Lasten erfolgt meist im Rahmen standardis
 Die Vergütung setzt sich in der Regel aus einer festen Kapazitätszahlung pro bereitgestelltem MW und einer leistungsabhängigen Zahlung im Abruffall zusammen. Die Programme sind so gestaltet, dass sie hohe Versorgungssicherheit gewährleisten und gleichzeitig Anreize für energieflexible Industrieprozesse bieten. Unterbrechbarkeitsregelungen sind damit ein wesentliches Element zur kurzfristigen Netzstabilisierung, insbesondere in Systemen mit steigendem Anteil volatiler Erzeugung.
 
 ## Analyse
+
 Die Vorteile und Herausforderungen von Unterbrechbarkeitsregelungen sind in folgender Tabelle zusammengefasst.
 
 <table style="border-collapse: collapse; width: 100%;">

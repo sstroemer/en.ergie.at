@@ -1,20 +1,18 @@
 ---
-draft: true
-
 title: "Strategische Reserve"
-description: "Add a short description here."
-#summary: "Es gibt verschiedene Arten von Kapazitätsmechanismen. Ganz allgemein kann man zwischen Gezielten und Marktweiten, sowie zwischen Volumen- & Preisbasierten Mechanismen unterscheiden. Diese werden in diesem Abschnitt detaillierter vorgestellt."
-topics: 
-authors:
-  - "yournamegoeshere"
-# date: 2025-04-08
-# series: ["NameOfSeries"]
-# series_order: 1
-# weight: 1
+topics: []
+authors: ["afischer"]
 ---
+
+<br>
+{{< alert >}}
+Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per [GitHub Issue melden](https://github.com/ait-energy/en.ergie.at/issues).
+{{< /alert >}}
+
 Strategische Reserven dienen der Versorgungssicherheit in Ausnahmesituationen und werden außerhalb des Strommarkts vorgehalten. Ihr Design zielt auf Marktunabhängigkeit und technische Verfügbarkeit, bei gleichzeitig begrenztem Einfluss auf den Wettbewerb.
 
 ## Beschreibung
+
 Strategische Reserven sind Kapazitätsmechanismen, die gezielt außerhalb des regulären Strommarktes vorgehalten werden, um die Versorgungssicherheit in Extremsituationen zu gewährleisten. Im Gegensatz zu marktbasierten Mechanismen wie Kapazitätsausschreibungen werden strategische Reserven nur in Ausnahmesituationen aktiviert – typischerweise bei drohendem Strommangel oder wenn der Spotmarktpreis seine festgelegte Obergrenze erreicht.
 
 Die Beschaffung dieser Reserve erfolgt meist im Rahmen regulärer Ausschreibungen. Teilnahmeberechtigt sind unterschiedliche Technologien wie thermische Kraftwerke, Speicher oder Nachfragesteuerung (Demand Response), sofern sie bestimmte technische Anforderungen erfüllen – beispielsweise in Bezug auf Verfügbarkeit, Anfahrtszeit oder Mindestleistung.
@@ -26,6 +24,7 @@ Ein zentrales Merkmal strategischer Reserven ist ihre Marktunabhängigkeit: Einh
 Als Instrument der letzten Instanz dienen strategische Reserven der Sicherstellung von Systemstabilität und sind besonders in liberalisierten Strommärkten relevant, in denen Kapazitätsengpässe bei hoher Nachfrage oder sinkender konventioneller Erzeugung auftreten können.
 
 ## Analyse
+
 Eine strategische Reserve sollte gemäß der Elektrizitätsverordnung die erste Wahl sein. Ihr Design ist im Vergleich zu anderen KMs im Gesetz wesentlich detaillierter. Ein Vorteil des hohen Detaillierungsgrads in der EU-Rechtsvorschrift ist der voraussichtlich vereinfachte und verkürzte Genehmigungsprozess durch die EU-Kommission.
 Der Hauptvorteil einer strategischen Reserve besteht darin, dass nur die Festlegung fester Kapazitäten und die Regulierung der Verfügbarkeit der Einheiten innerhalb der Reserve erforderlich sind. Dies ist eine unkomplizierte Aufgabe, wenn die Reserve überwiegend aus thermischen Spitzenlastanlagen mit hohen variablen Kosten besteht.
 Darüber hinaus hat eine strategische Reserve nicht dieselben Anforderungen an die grenzüberschreitende Teilnahme, was zu einem weniger komplexen Beschaffungsprozess und geringeren Beschaffungskosten führt.

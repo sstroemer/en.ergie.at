@@ -1,20 +1,16 @@
 ---
-draft: true
-
 title: "Frankreich"
-description: "Add a short description here."
-#summary: "Es gibt verschiedene Arten von Kapazitätsmechanismen. Ganz allgemein kann man zwischen Gezielten und Marktweiten unterschieden werden in denen jeweils der Preis oder das Volumen der Kapazität festgelegt wird und sich der andere Faktor am Markt bildet. Dieser Abschnitt beinhaltet eine Übersicht über mögliche Kapazitätsmechanismen."
-topics: 
-authors:
-  - "yournamegoeshere"
-
-# series: ["NameOfSeries"]
-# series_order: 1
-# weight: 1
+topics: []
+authors: ["afischer"]
 ---
-Einleitungstext...
+
+<br>
+{{< alert >}}
+Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per [GitHub Issue melden](https://github.com/ait-energy/en.ergie.at/issues).
+{{< /alert >}}
 
 ## Ausschreibungen für neue Kapazitäten (AOLT)
+
 Ausschreibung. In Frankreich sind Ausschreibungen für neue Kapazitäten darauf ausgelegt, die Energiesicherheit zu gewährleisten und neue Investitionen in Erzeugungskapazitäten zu fördern. Daher gibt der für Energie zuständige Minister jedes Jahr eine Aufforderung zur Einreichung von Angeboten für neue Kapazitäten heraus, wenn ein Nutzen für das soziale Wohlergehen festgestellt wird. Dieser Prozess findet vier Jahre vor dem Lieferjahr statt und zielt darauf ab, Sichtbarkeit und einen stabilen Preis zu bieten, um neue Investitionen zu erleichtern  [35].
 
 Vergütung. Der garantierte Preis, der am Ende jeder Ausschreibung festgelegt wird, dient als Referenzpreis für die vergebenen Verträge. Bieter, die Angebote unter dem garantierten Preis einreichen, werden ausgewählt und erhalten einen Differenzvertrag (CFD- contract for differences). Dieser Vertrag stellt über einen garantierten Preis eine stabile Vergütung für einen Zeitraum von sieben Jahren sicher. Während des Ausschreibungszeitraums erhalten erfolgreiche Bieter die Differenz, wenn der garantierte Preis den marktbestimmten Preis übersteigt. Umgekehrt muss der Bieter die Differenz zahlen, wenn der marktbestimmte Preis höher ist [35].
@@ -22,9 +18,11 @@ Vergütung. Der garantierte Preis, der am Ende jeder Ausschreibung festgelegt wi
 Teilnahme. Berechtigte Erzeugungskapazitäten müssen bestimmte Kriterien erfüllen: Sie müssen sich in Frankreich befinden, dürfen nicht von bestehenden Unterstützungsmechanismen profitieren und dürfen keinen vorherigen Zertifizierungsanträgen oder Anschlussvereinbarungen unterliegen, bevor die Gewinner benannt werden. Außerdem muss eine neue Betriebsgenehmigung aufgrund einer Erhöhung der installierten Leistung um mindestens 20 % oder einer Änderung der primären Energiequelle vorliegen. Ebenso muss die berechtigte Lastreduzierungskapazität in Frankreich angesiedelt sein. Sie darf vor dem 29. Dezember 2028 nicht von der Vergütung für Lastreduzierungen in Marktmechanismen profitiert haben oder muss ihre Vertragsleistung seit der letzten Teilnahme vor diesem Datum um mindestens 20 % erhöht haben. Sie darf nicht mehr als sechs Jahre Vergütung aus Nachfragereaktion oder neuen Kapazitätsausschreibungen erhalten haben und sollte nicht von Unterstützungsmechanismen profitieren. Darüber hinaus dürfen die Bieter nur ein einziges Lastreduzierungskapazitätsprojekt vorschlagen [35].
 
 ## Unterbrechbarkeitsregeln
+
 In Frankreich wurde die minimale förderfähige Kapazität und die Mindestgebotsgröße 2023 auf bis zu 10 MW gesenkt. Ab 2024 wird das Interruptibilitätsprogramm im Rahmen eines Experiments auf Mittelspannungsstandorte ausgeweitet, mit der Möglichkeit der Aggregation bis zu einer Grenze von 100 MW [48].
 
 ## Marktweiter Kapazitätsmechanismus mit dezentralem Käufer
+
 In Frankreich sind Stromlieferanten, große Verbraucher sowie der Übertragungsnetzbetreiber verpflichtet, Kapazitätsnachweise in dem Umfang zu beschaffen, der ihrem Beitrag zur Systemspitzenlast entspricht. Diese Kapazitätsgarantien werden an Betreiber von Erzeugungsanlagen oder Demand Response-Ressourcen vergeben – abhängig von deren Verfügbarkeit während Spitzenlastzeiten.
 
 Ausschreibung. Im französischen dezentralen Kapazitätsmechanismus können Kapazitätszertifikate entweder bilateral am OTC-Markt oder über Auktionen gehandelt werden, die von EPEX SPOT organisiert werden. Für jedes Lieferjahr finden insgesamt 15 Auktionen über einen Zeitraum von vier Jahren statt: eine in DY-4, vier in DY-3, vier in DY-2 und sechs in DY-1. Es gilt eine implizite Preisobergrenze von 40.000 €/MW, die mit dem Höchstwert für Ausgleichsenergieabrechnungen übereinstimmt. Konkrete Angebotsgrenzen sind nicht festgelegt, jedoch wird von Anbietern mit überschüssigen Zertifikaten erwartet, diese dem Markt zur Verfügung zu stellen – ohne dass konkrete Durchsetzungsmechanismen beschrieben sind. Netzengpässe innerhalb Frankreichs werden im Mechanismus nicht adressiert.

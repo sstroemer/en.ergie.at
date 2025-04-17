@@ -1,19 +1,15 @@
 ---
-draft: False
-
 title: "Sind die Voraussetzungen derzeit, historisch und in der absehbaren Zukunft hinreichend erfüllt?"
-description: "Analyse - In welchem Ausmaß sind diese Voraussetzungen historisch und zukünftig erfüllt?"
-summary: "Inwieweit sind die Voraussetzungen für einen funktionierenden Energy Only Markt aktuell und in absehbarer Zukunft erfüllt? Der Abschnitt geht der Frage nach, ob die theoretisch erforderlichen Bedingungen in der Praxis hinreichend gegeben sind."
-topics: 
-#authors:
-#  - "yournamegoeshere"
-
-# series: ["NameOfSeries"]
-# series_order: 1
-# weight: 1
+topics: []
+authors: ["afischer"]
 ---
-Im folgenden Abschnitt wird evaluiert, ob die Voraussetzungen eines reinen EOM Marktes (<- Link einfügen) aktuell und in der absehbaren Zukunft gegeben sind.
 
+<br>
+{{< alert >}}
+Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per [GitHub Issue melden](https://github.com/ait-energy/en.ergie.at/issues).
+{{< /alert >}}
+
+Im folgenden Abschnitt wird evaluiert, ob die Voraussetzungen eines reinen EOM Marktes (<- Link einfügen) aktuell und in der absehbaren Zukunft gegeben sind.
 
 ## Ideale Märkte
 
@@ -39,8 +35,6 @@ Im folgenden Abschnitt wird evaluiert, ob die Voraussetzungen eines reinen EOM M
   </details>
 </div>
 
-
-
 ### Freier Marktzutritt
 
 <div style="border: 1px solid #333333; background-color: #fdfdf5; padding: 1em; margin-bottom: 1.5em; font-size: 1em; line-height: 1.5;">
@@ -57,8 +51,6 @@ Im folgenden Abschnitt wird evaluiert, ob die Voraussetzungen eines reinen EOM M
     Der Strommarkt ist grundsätzlich frei zugänglich. Die Barriere für die Errichtung von zusätzlichen Kapazitäten für etablierte Anbieter scheint überwindbar. Ebenso scheinen kaum signifikante Eintrittsbarrieren für neue Anbieter zu bestehen. Vor allem im Bereich der Erneuerbaren (z. B. Wind und PV) haben sich in den letzten Jahren eine Vielzahl von Akteuren etabliert.
   </div>
 </div>
-
-
 
 ### Marktaustritt muss ‚kostenlos‘ sein
 
@@ -77,7 +69,6 @@ Im folgenden Abschnitt wird evaluiert, ob die Voraussetzungen eines reinen EOM M
   </div>
 </div>
 
-
 ### Symmetrische Information
 
 <div style="border: 1px solid #3c763d; background-color: #f4fdf4; padding: 1em; margin-bottom: 1.5em; font-size: 1em; line-height: 1.5;">
@@ -94,7 +85,6 @@ Im folgenden Abschnitt wird evaluiert, ob die Voraussetzungen eines reinen EOM M
     Transparenz über existierende Anbieter, die derzeitige und zukünftige Nachfrage, Wetterlage etc. sind für Marktteilnehmer sehr gut einsehbar. Darüber hinaus handelt es sich bei Strom um ein sehr homogenes Gut, wodurch Unsicherheiten bezüglich der Qualität de-facto eliminiert sind und nicht Grund für ein potenzielles Marktversagen durch adverse Selektion oder Informationsasymmetrie im Sinne von [7] sein können.
   </div>
 </div>
-
 
 ### Marktteilnehmer als Mengenanpasser
 
@@ -153,10 +143,10 @@ Im folgenden Abschnitt wird evaluiert, ob die Voraussetzungen eines reinen EOM M
   </div>
 </div>
 
-
 ## Ausreichende Planungssicherheit
 
 ### Existenz liquider langfristiger Märkte
+
 <div style="border: 1px solid #333333; background-color: #fdfdf5; padding: 1em; margin-bottom: 1.5em; font-size: 1em; line-height: 1.5;">
 
   <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 1em; margin-bottom: 0.75em;">
@@ -175,8 +165,8 @@ Im folgenden Abschnitt wird evaluiert, ob die Voraussetzungen eines reinen EOM M
   </div>
 </div>
 
-
 ### Absehbarkeit von regulatorischen Eingriffen
+
 <div style="border: 1px solid #a94442; background-color: #fdf3f3; padding: 1em; margin-bottom: 1.5em; font-size: 1em; line-height: 1.5;">
 
   <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 1em; margin-bottom: 0.75em;">
@@ -194,10 +184,10 @@ Im folgenden Abschnitt wird evaluiert, ob die Voraussetzungen eines reinen EOM M
   </div>
 </div>
 
-
 ## Ausreichend Knappheitspreise
 
 ### Keine expliziten Preisobergrenzen
+
 <div style="border: 1px solid #3c763d; background-color: #f4fdf4; padding: 1em; margin-bottom: 1.5em; font-size: 1em; line-height: 1.5;">
 
   <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 1em; margin-bottom: 0.75em;">
@@ -236,8 +226,8 @@ Im folgenden Abschnitt wird evaluiert, ob die Voraussetzungen eines reinen EOM M
   </div>
 </div>
 
-
 ### Ausreichend Zahlungsbereitschaft
+
 <div style="border: 1px solid #333333; background-color: #fdfdf5; padding: 1em; margin-bottom: 1.5em; font-size: 1em; line-height: 1.5;">
 
   <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 1em; margin-bottom: 0.75em;">
@@ -254,5 +244,3 @@ Im folgenden Abschnitt wird evaluiert, ob die Voraussetzungen eines reinen EOM M
     Es könnte eher das Gegenteil der Fall sein, da Versorgungssicherheit den Charakter eines öffentlichen Guts aufweist und somit eine mangelnde Zahlungsbereitschaft vorhanden ist [24]
   </div>
 </div>
-
-

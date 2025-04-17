@@ -1,50 +1,55 @@
 ---
-draft: true
-
 title: "Arten von Kapazitätsmechanismen"
-description: "Add a short description here."
-#summary: "Es gibt verschiedene Arten von Kapazitätsmechanismen. Ganz allgemein kann man zwischen Gezielten und Marktweiten unterschieden werden in denen jeweils der Preis oder das Volumen der Kapazität festgelegt wird und sich der andere Faktor am Markt bildet. Dieser Abschnitt beinhaltet eine Übersicht über mögliche Kapazitätsmechanismen."
-topics: 
-authors:
-  - "yournamegoeshere"
-
-# series: ["NameOfSeries"]
-# series_order: 1
-# weight: 1
+topics: []
+authors: ["afischer"]
 ---
 
 Um ausreichende Kapazitäten für eine zuverlässige Stromversorgung sicherzustellen, wurden verschiedene Arten von Kapazitätsmechanismen entwickelt. Allgemein unterscheidet man zwischen gezielten Mechanismen (z. B. strategische Reserven), die nur ausgewählte Kraftwerke umfassen, und marktweiten Mechanismen, an denen alle Kapazitätsanbieter teilnehmen können. Zusätzlich lässt sich differenzieren, ob bei diesen Mechanismen der Preis oder die Kapazitätsmenge zentral festgelegt wird, während sich der jeweils andere Faktor am Markt bildet. Dieser Abschnitt bietet eine detaillierte Übersicht über die verschiedenen Arten, ihre Funktionsweise und die jeweiligen Vor- und Nachteile.
 
 <!-- more -->
 
+<br>
+{{< alert >}}
+Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per [GitHub Issue melden](https://github.com/ait-energy/en.ergie.at/issues).
+{{< /alert >}}
+
 Eine Übersicht der Arten von Kapazitätsmechanismen ist in folgender Abbildung dargestellt.
 ![Übersicht der Kapazitätsmechanismen](./Übersicht_Kapazitätsmechanismen.jpg)
 *Quelle: [European Commission](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52016SC0385&from=EN)*
 
-## Gezielte Mechanismen: 
+## Gezielte Mechanismen
+
 Belohnen nur bestimmte Technologien. Sie identifizieren die zusätzlich benötigte Kapazität, die über das hinausgeht, was der Markt natürlicherweise bereitstellen würde, und unterstützen nur diese zusätzliche „Top-up“'-Kapazität. Es gibt drei Haupttypen:
-### 1. Ausschreibung für neue Kapazität: 
+
+### 1. Ausschreibung für neue Kapazität
+
 {{< embed_article link="/themen/kapazitaetsmechanismen/arten/ausschreibung_fuer_neue_kapazität" showHeader="false" >}}
 
-### 2. Strategische Reserve: 
+### 2. Strategische Reserve:
+
 {{< embed_article link="/themen/kapazitaetsmechanismen/arten/strategische_reserve" showHeader="false" >}}
 
-### 3. Gezielte Kapazitätszahlung: 
+### 3. Gezielte Kapazitätszahlung:
+
 {{< embed_article link="/themen/kapazitaetsmechanismen/arten/gezielte_kapazitaetszahlungen" showHeader="false" >}}
 
-## Marktweite Mechanismen:
+## Marktweite Mechanismen
+
 Bei einem marktweiten Mechanismus erhalten alle Kapazitäten, die zur Sicherstellung der Versorgungssicherheit notwendig sind, Zahlungen, wobei sowohl bestehende als auch neue Kapazitätsanbieter abgedeckt werden. Dies schafft effektiv einen eigenständigen Markt für 'Kapazität', getrennt vom 'Strommarkt'. Es gibt drei Grundtypen:
-### 1. Zentraler Käufer: 
+
+### 1. Zentraler Käufer
+
 Eine zentral festgelegte Gesamtkapazität wird durch ein zentrales Ausschreibungsverfahren beschafft, wobei der Markt den Preis bestimmt. [Mehr Erfahren]({{< relref "arten/marktweit_dezentraler_kaeufer.md" >}})
 
-### 2. Dezentrale Verpflichtung: 
+### 2. Dezentrale Verpflichtung
+
 Stromlieferanten/Händler sind verpflichtet, Verträge mit Kapazitätsanbietern abzuschließen, um die Gesamtkapazität zu sichern, die benötigt wird, um die Nachfrage ihrer Verbraucher zu decken, wobei die Marktkräfte den Preis ohne ein zentrales Ausschreibungsverfahren bestimmen. [Mehr Erfahren]({{< relref "arten/marktweit_dezentraler_kaeufer.md" >}})
 
-### 3. Marktweite Kapazitätszahlung: 
+### 3. Marktweite Kapazitätszahlung
+
 Ein zentral festgelegter Kapazitätspreis, basierend auf Schätzungen, die erforderlich sind, um eine ausreichende Gesamtkapazität zu gewährleisten, wird an alle Kapazitätsanbieter des Marktes gezahlt. [Mehr Erfahren]({{< relref "arten/marktweit_dezentraler_kaeufer.md" >}})
 
 Die Modelle des zentralen Käufers und der dezentralen Verpflichtung sind volumenbasiert und legen die erforderliche Kapazitätsmenge im Voraus fest, wobei die Preise durch den Markt bestimmt werden. Das Modell der marktweiten Kapazitätszahlung ist preisbasiert und legt den Kapazitätspreis im Voraus fest, wobei die Kapazitätsmenge variabel und auf die Marktreaktion basierend ist.
-
 
 <!-- #
 
@@ -61,8 +66,6 @@ Bei einem marktweiten Mechanismus erhalten alle Kapazitäten, die zur Sicherstel
 2.	Dezentrale Verpflichtung: Stromlieferanten/Händler sind verpflichtet, Verträge mit Kapazitätsanbietern abzuschließen, um die Gesamtkapazität zu sichern, die benötigt wird, um die Nachfrage ihrer Verbraucher zu decken, wobei die Marktkräfte den Preis ohne ein zentrales Ausschreibungsverfahren bestimmen.
 3.	Marktweite Kapazitätszahlung: Ein zentral festgelegter Kapazitätspreis, basierend auf Schätzungen, die erforderlich sind, um eine ausreichende Gesamtkapazität zu gewährleisten, wird an alle Kapazitätsanbieter des Marktes gezahlt.
 Die Modelle des zentralen Käufers und der dezentralen Verpflichtung sind volumenbasiert und legen die erforderliche Kapazitätsmenge im Voraus fest, wobei die Preise durch den Markt bestimmt werden. Das Modell der marktweiten Kapazitätszahlung ist preisbasiert und legt den Kapazitätspreis im Voraus fest, wobei die Kapazitätsmenge variabel und auf die Marktreaktion basierend ist.
-
-
 
 - **Gezielte Mechanismen**
   - Belohnen nur bestimmte Technologien (z. B. strategische Reserve in Deutschland)

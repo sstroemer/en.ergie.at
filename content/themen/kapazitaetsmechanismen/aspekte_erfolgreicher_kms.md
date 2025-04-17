@@ -1,20 +1,18 @@
 ---
-draft: true
-
 title: "Aspekte eines erfolgreichen Kapazitätsmechanismus"
-description: "Add a short description here."
-#summary: "Es gibt verschiedene Arten von Kapazitätsmechanismen. Ganz allgemein kann man zwischen Gezielten und Marktweiten unterschieden werden in denen jeweils der Preis oder das Volumen der Kapazität festgelegt wird und sich der andere Faktor am Markt bildet. Dieser Abschnitt beinhaltet eine Übersicht über mögliche Kapazitätsmechanismen."
-topics: 
-authors:
-  - "yournamegoeshere"
-
-# series: ["NameOfSeries"]
-# series_order: 1
-# weight: 1
+topics: []
+authors: ["afischer"]
 ---
+
 Was macht einen Kapazitätsmechanismus erfolgreich?
 Damit Strom auch in Zukunft sicher und bezahlbar bleibt, braucht es geeignete Anreize und Strukturen im Energiesystem. Kapazitätsmechanismen spielen dabei eine zentrale Rolle. Sie helfen, systemische Knappheiten zu adressieren – sei es durch fehlende Erzeugungskapazität zu Spitzenzeiten oder durch einen Mangel an verfügbarer Energie über längere Zeiträume. Welche Aspekte dabei entscheidend sind, zeigt dieser Beitrag.
+
 <!-- more -->
+
+<br>
+{{< alert >}}
+Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per [GitHub Issue melden](https://github.com/ait-energy/en.ergie.at/issues).
+{{< /alert >}}
 
 Um den geeignetsten Mechanismus festzulegen, ist es entscheidend zu verstehen, welche Art von Knappheit im Energiesystem auftreten kann. Grundsätzlich gibt es zwei Typen von Engpässen: Kapazitäts- und Energieengpässe.
 In kapazitätsbeschränkten Systemen entsteht Knappheit, wenn die installierte Leistung (MW) nicht ausreicht, um die Nachfrage zu bestimmten Spitzenzeiten abzudecken. Ursachen hierfür können der plötzliche Ausfall von thermischen Kraftwerken oder geringe Windleistung sein. Obwohl insgesamt über den Tag verteilt genügend Energie verfügbar wäre, fehlt es in diesen kritischen Momenten an ausreichender installierter Kapazität.
@@ -23,7 +21,6 @@ Ein kapazitätsbeschränktes System sollte daher die Fähigkeit der Akteure hono
 
 ## Übersicht der Aspekte eines erfolgreichen Kapazitätsmechanismus:
 ![Übersicht der Kapazitätsmechanismen](./saeulen_eines_erfolgeichen_kms.png)
-
 
 ## 1. Anreize
 

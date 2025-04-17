@@ -1,16 +1,18 @@
 ---
-draft: true
 title: "Länderübersicht"
-description: "Add a short description here."
-topics: 
-authors:
-  - "yournamegoeshere"
+topics: [] 
+authors: ["afischer"]
 ---
 
-Will be designed soon. Overview with Graphic and links to country pages. Will be designed soon. Overview with Graphic and links to country pages. Will be designed soon. Overview with Graphic and links to country pages.
+<!-- Will be designed soon. Overview with Graphic and links to country pages. -->
 
-<!-- more -->
+<br>
+{{< alert >}}
+Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per [GitHub Issue melden](https://github.com/ait-energy/en.ergie.at/issues).
+{{< /alert >}}
+<br>
 
+<!--
 {{< embed_article link="/themen/kapazitaetsmechanismen/laenderuebersicht/deutschland" >}}
 <div class="h-8"></div>
 {{< embed_article link="/themen/kapazitaetsmechanismen/laenderuebersicht/finnland" >}}
@@ -28,3 +30,4 @@ Will be designed soon. Overview with Graphic and links to country pages. Will be
 {{< embed_article link="/themen/kapazitaetsmechanismen/laenderuebersicht/irland" >}}
 <div class="h-8"></div>
 {{< embed_article link="/themen/kapazitaetsmechanismen/laenderuebersicht/italien" >}}
+-->
