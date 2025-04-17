@@ -12,6 +12,7 @@ authors:
 # series_order: 1
 # weight: 1
 ---
+Strategische Reserven dienen der Versorgungssicherheit in Ausnahmesituationen und werden außerhalb des Strommarkts vorgehalten. Ihr Design zielt auf Marktunabhängigkeit und technische Verfügbarkeit, bei gleichzeitig begrenztem Einfluss auf den Wettbewerb.
 
 ## Beschreibung
 Strategische Reserven sind Kapazitätsmechanismen, die gezielt außerhalb des regulären Strommarktes vorgehalten werden, um die Versorgungssicherheit in Extremsituationen zu gewährleisten. Im Gegensatz zu marktbasierten Mechanismen wie Kapazitätsausschreibungen werden strategische Reserven nur in Ausnahmesituationen aktiviert – typischerweise bei drohendem Strommangel oder wenn der Spotmarktpreis seine festgelegte Obergrenze erreicht.

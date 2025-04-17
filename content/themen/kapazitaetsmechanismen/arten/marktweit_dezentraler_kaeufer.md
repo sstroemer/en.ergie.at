@@ -12,6 +12,8 @@ authors:
 # series_order: 1
 # weight: 1
 ---
+Dezentrale Kapazitätsmärkte verpflichten Stromversorger und Großverbraucher, ihren Bedarf an gesicherter Leistung eigenständig zu decken. Sie fördern Wettbewerb und technologische Vielfalt, stellen aber hohe Anforderungen an Koordination, Markttransparenz und Überwachung.
+
 ## Beschreibung:
 Dezentrale Kapazitätsmechanismen beruhen auf der Verpflichtung einzelner Marktakteure – insbesondere Stromversorger, große Verbraucher oder Netzbetreiber –, Kapazitätsnachweise in Höhe ihres prognostizierten Verbrauchs zu beschaffen. Anders als bei zentral organisierten Kapazitätsmärkten wird hier keine zentrale Beschaffung durch eine öffentliche Stelle durchgeführt. Stattdessen obliegt es den Verpflichteten selbst, den benötigten Umfang über bilaterale Verträge oder standardisierte Auktionsformate zu decken.
 

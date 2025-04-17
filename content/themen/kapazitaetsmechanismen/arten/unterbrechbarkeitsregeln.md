@@ -12,6 +12,8 @@ authors:
 # series_order: 1
 # weight: 1
 ---
+Unterbrechbarkeitsregelungen ermöglichen eine kurzfristige Reduktion industrieller Lasten zur Stabilisierung des Stromnetzes. Großverbraucher stellen ihre Nachfrage flexibel bereit und können bei Netzengpässen auf Anforderung vom Netz genommen werden.
+
 ## Beschreibung
 Unterbrechbarkeitsregelungen sind spezielle Programme zur kurzfristigen Stabilisierung des Stromsystems. Sie basieren auf vertraglich gesicherter Lastreduktion durch industrielle Großverbraucher. Ziel ist es, in Situationen mit akuten Netzengpässen oder drohendem Versorgungsengpass eine sofortige Reduktion der Stromnachfrage zu ermöglichen – und so Netzfrequenz sowie Systemstabilität zu wahren.
 

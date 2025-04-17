@@ -12,6 +12,10 @@ authors:
 # series_order: 1
 # weight: 1
 ---
+Ausschreibungen für neue Kapazitäten fördern gezielt Investitionen in Versorgungssicherheit. Sie ermöglichen eine wettbewerbliche, staatlich gesteuerte Vergabe neuer Projekte – mit Planungssicherheit, klaren Vorgaben und stabilen Erlösmodellen.
+
+<!-- more -->
+
 ## Beschreibung:
 Ausschreibungen für neue Kapazitäten sind ein zentrales Instrument, um die Versorgungssicherheit im Strommarkt zu gewährleisten und gezielt Investitionen in neue Erzeugungs- oder Lastreduzierungskapazitäten anzureizen. Sie ermöglichen es staatlichen Stellen oder Marktorganisationen, benötigte Kapazitäten wettbewerblich zu beschaffen – häufig im Rahmen langfristiger Verträge, die Planungssicherheit für Investoren bieten.
 

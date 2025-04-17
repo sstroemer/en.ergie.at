@@ -25,7 +25,7 @@ Ein kapazitätsbeschränktes System sollte daher die Fähigkeit der Akteure hono
 ![Übersicht der Kapazitätsmechanismen](./saeulen_eines_erfolgeichen_kms.png)
 
 
-### 1. Anreize
+## 1. Anreize
 
 - **Investitionsanreize für Betreiber:**  
   Ein wirksamer Kapazitätsmechanismus (KM) muss sicherstellen, dass Energieerzeuger ausreichende Anreize erhalten, in neue Kapazitäten zu investieren. Dies ist entscheidend, um Versorgungssicherheit bei hoher Nachfrage oder beim Ausfall bestehender Anlagen zu gewährleisten. Der Mechanismus sollte langfristige Investitionen in moderne und effiziente Kraftwerke fördern, um die Stabilität des Stromnetzes zu sichern.
@@ -36,7 +36,7 @@ Ein kapazitätsbeschränktes System sollte daher die Fähigkeit der Akteure hono
 - **Anreize zur Verfügbarkeit in Knappheitssituationen:**  
   Als Gegenleistung für Investitionsförderungen wird von teilnehmenden Kapazitätsanbietern erwartet, ihre geförderte Kapazität in Phasen von Systemstress tatsächlich am Markt anzubieten. Dies erfolgt entweder über Verpflichtungen oder finanzielle Anreize.
 
-### 2. Effizienz
+## 2. Effizienz
 
 - **Kontrolle der Systemkosten:**  
   Ein effektiver KM muss die Systemkosten im Blick behalten und darf diese nicht unkontrolliert ansteigen lassen, um wirtschaftliche Belastungen zu vermeiden. Ein Beispiel dafür ist die Situation in der Ukraine, wo trotz Vermeidung eines Blackouts extrem hohe Preise auftraten. Der KM sollte Versorgungssicherheit sicherstellen, ohne Endverbraucher erheblich zu belasten.
@@ -44,10 +44,10 @@ Ein kapazitätsbeschränktes System sollte daher die Fähigkeit der Akteure hono
 - **Vermeidung von Marktverzerrungen:**  
   Der KM sollte bestehende Energiemärkte nicht verzerren. Idealerweise fügt er sich nahtlos in die vorhandenen Marktstrukturen ein, um den Wettbewerb und die Effizienz des gesamten Marktes zu erhalten.
 
-### 3. Klima- und Technologieneutralität
+## 3. Klima- und Technologieneutralität
 
 Ein KM muss klima- und technologieneutral ausgestaltet sein. Er sollte keine spezifischen Technologien bevorzugen oder benachteiligen, aber gleichzeitig emissionsarme oder emissionsfreie Technologien zur Teilnahme motivieren.
 
-### 4. Lösung für das „Missing Money“-Problem
+## 4. Lösung für das „Missing Money“-Problem
 
 Ein KM muss eine Lösung für das sogenannte „Missing Money“-Problem bieten, indem er zusätzliche Einnahmequellen schafft oder Anreize setzt, die sicherstellen, dass Erzeuger trotz volatiler Marktbedingungen angemessen vergütet werden.

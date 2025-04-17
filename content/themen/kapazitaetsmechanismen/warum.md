@@ -1,5 +1,5 @@
 ---
-draft: False
+draft: true
 
 title: "Warum könnten Kapazitätsmechanismen notwendig sein?"
 description: "Add a short description here."
@@ -17,6 +17,8 @@ Energy-Only-Märkte (EOM) basieren auf der Annahme, dass Versorgungssicherheit a
 
 <!-- more -->
 
-Test Einbettung:
-
+{{< embed_article link="/themen/kapazitaetsmechanismen/warum/voraussetzung_eines_EOM" >}}
+<div class="h-8"></div>
 {{< embed_article link="/themen/kapazitaetsmechanismen/warum/analyse_der_voraussetzungen" >}}
+
+

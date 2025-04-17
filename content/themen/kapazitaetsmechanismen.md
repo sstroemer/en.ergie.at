@@ -1,5 +1,5 @@
 ---
-draft: False
+draft: true
 
 title: "Kapazitätsmechanismen"
 description: "Add a short description here."
@@ -16,3 +16,21 @@ Versorgungssicherheit ist heute wichtiger denn je: Steigende Anteile erneuerbare
 <!-- more -->
 
 Der Strommarkt unterliegt starken Schwankungen und Markteingriffen, die die Versorgungssicherheit langfristig beeinflussen. Steigende Anteile erneuerbarer Energien erhöhen die Volatilität und erfordern mehr Flexibilität sowie zusätzliche Erzeugungs- und Speicherkapazitäten. Gleichzeitig sinken die Volllaststunden konventioneller Kraftwerke, was zu hohen Preisspitzen führt, ihre Finanzierung allein über den Energy-Only-Markt (EOM) erschwert und zu Investitionshemmnissen führen kann. Die Energiekrise infolge des russischen Angriffs auf die Ukraine verschärfte diese Lage und verstärkte Preisspitzen zusätzlich – hohe Strompreise werden jedoch gesellschaftlich kritisch betrachtet. Die Diskussion ob ein reiner EOM ausreichend Anreize setzt wird verstärkt geführt. Viele europäische Länder nutzen daher bereits unterschiedliche Kapazitätsmechanismen wie zentrale oder dezentrale Kapazitätsmärkte und strategische Reserven. Zukunftsfähige Lösungen müssen sämtliche Akteure – steuerbare Erzeuger, Speichertechnologien, Demand Response sowie erneuerbare Energien – einbeziehen und aufgrund langer Vorlaufzeiten schon heute gestaltet werden, um Versorgungssicherheit und ambitionierte Dekarbonisierungsziele gleichermaßen zu gewährleisten.
+
+
+
+## Warum könnten Kapazitätsmechanismen notwendig sein?
+{{< embed_article link="/themen/kapazitaetsmechanismen/warum" showHeader="false" >}}
+<div class="h-8"></div>
+
+## Länderübersicht
+{{< embed_article link="/themen/kapazitaetsmechanismen/laenderuebersicht" showHeader="false" >}}
+<div class="h-8"></div>
+
+## Erfolgsfaktoren erfolgreicher Kapazitätsmechanismen
+{{< embed_article link="/themen/kapazitaetsmechanismen/aspekte_erfolgreicher_kms" showHeader="false" >}}
+<div class="h-8"></div>
+
+## Arten von Kapazitätsmechanismen
+{{< embed_article link="/themen/kapazitaetsmechanismen/arten" showHeader="false" >}}
+

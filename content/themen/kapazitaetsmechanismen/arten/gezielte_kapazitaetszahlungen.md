@@ -12,6 +12,8 @@ authors:
 # series_order: 1
 # weight: 1
 ---
+Gezielte Kapazitätszahlungen setzen auf finanzielle Anreize für bestimmte Anlagen, um systemrelevante Funktionen wie Reserveleistung oder den Ausgleich struktureller Umbrüche im Strommarkt sicherzustellen – jenseits marktweiter Mechanismen.
+
 ## Beschreibung
 Gezielte Kapazitätszahlungen dienen dazu, spezifische Herausforderungen im Stromsystem zu adressieren – etwa die Unterstützung bestimmter Erzeugungstechnologien, die Sicherstellung von Betriebsreserven oder die Begleitung des Kohleausstiegs. Sie unterscheiden sich von marktweiten Mechanismen, da sie auf einzelne Technologien oder Anlagen zugeschnitten sind.
 
