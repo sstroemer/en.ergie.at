@@ -37,6 +37,12 @@
   pageRef = "themen"
   weight = 21
 
+[[main]]
+  name = "Kapazitätsmechanismen"
+  parent = "Themen"
+  pageRef = "themen/kapazitaetsmechanismen"
+  weight = 22
+
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
 # >> main >> DATEN                                                            #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
