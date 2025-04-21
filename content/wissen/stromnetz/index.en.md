@@ -6,7 +6,7 @@ weight: 1
 authors: [fackerl]
 ---
 
-The Austrian electricity grid forms the foundation for the transport of electrical energy from power plants to end consumers. It consists of seven grid levels, which differ in their functions and voltage levels and are organized by transmission and distribution system operators. This article provides an overview of the different grid levels and their respective roles in the electricity grid.
+The Austrian electricity grid forms the foundation for the transport of electrical energy from power plants to end consumers. It consists of seven grid levels, which differ in their functions and voltage levels, and are organized by transmission and distribution system operators. This article provides an overview of the different grid levels and their respective roles in the electricity grid.
 
 <!-- more -->
 
@@ -14,7 +14,7 @@ The Austrian electricity grid forms the foundation for the transport of electric
 
 The Austrian electricity grid constitutes the basic infrastructure for the transmission of electrical energy. It transports the electricity generated in power plants to substations, from where it is further distributed and finally made available to end consumers. The organization of the grid is carried out by [transmission or distribution system operators](/wissen/akteure/), depending on the grid level.
 
-The Austrian electricity grid is divided into seven grid levels, which differ based on their voltage levels. There are four [voltage levels](#voltage-levels) (grid levels 1, 3, 5, and 7) and three [transformation levels](#transformation-levels) (grid levels 2, 4, and 6), which enable transitions between the voltage stages.[^1] [^2] The following graphic shows the extra-high voltage grid operated by the transmission system operator <abbr title="Austrian Power Grid">APG</abbr>.[^3]
+The Austrian electricity grid is divided into seven grid levels, which differ based on their voltage levels. There are four [voltage levels](#voltage-levels) (grid levels 1, 3, 5, and 7) and three [transformation levels](#transformation-levels) (grid levels 2, 4, and 6), which enable transitions between the voltage stages.[^1] [^2] The illustration below shows the extra-high voltage grid operated by the [transmission system operator](wissen/akteure/) <abbr title="Austrian Power Grid">APG</abbr>.[^3]
 
 <img src="./APG_Netzgrafik.jpg" alt="Electricity Grid" width="100%">
 
