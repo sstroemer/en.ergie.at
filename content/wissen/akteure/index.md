@@ -26,11 +26,11 @@ Jede Bilanzgruppe hat einen Bilanzgruppenverantwortlichen (<abbr title="Bilanzgr
 
 Netzbetreiber sind für den zuverlässigen Transport elektrischer Energie und den Betrieb der Stromnetze verantwortlich. Sie sorgen dafür, dass Strom von den Erzeugungsanlagen zu den Verbraucher:innen gelangt, indem sie den Netzbetrieb steuern, die erforderliche Infrastruktur bereitstellen und die Netzentgelte verwalten. Weil das Stromnetz ein natürliches Monopol darstellt, unterliegen Netzbetreiber einer strengen Regulierung durch die [Regulierungsbehörde](#regulierungsbehörde) E-Control. Es wird zwischen Übertragungsnetzbetreibern für den großräumigen Stromtransport und Verteilnetzbetreibern für die regionale Stromverteilung unterschieden.[^1]
 
-#### Übertragungsnetzbetreiber
+### Übertragungsnetzbetreiber
 
 Übertragungsnetzbetreiber (ÜNB; im Englischen _Transmission System Operator_, kurz TSO) betreiben das [Höchst- und Hochspannungsnetz](/wissen/stromnetz/) und gewährleisten den Transport großer Strommengen über weite Strecken zu den regionalen Verteilern. Zudem wickeln sie den grenzüberschreitenden Stromtransit ab. In Österreich übernimmt diese Aufgabe die <abbr title="Austrian Power Grid">APG</abbr>, die rund 7000 km Leitungen betreibt.[^1] [^2]
 
-#### Verteilnetzbetreiber
+### Verteilnetzbetreiber
 
 Verteilnetzbetreiber (VNB; im Englischen _Distribution System Operator_, kurz DSO) übernehmen den Strom aus dem Übertragungsnetz und verteilen ihn über [Mittel- und Niederspannungsleitungen](/wissen/stromnetz/) an Haushalte, Unternehmen und andere Endverbraucher:innen. In Österreich gibt es derzeit 114 Strom-Verteilnetzbetreiber, die zusammen rund 260.000 km an Leitungen betreiben.[^3]
 
