@@ -32,7 +32,7 @@ Transmission system operators (TSOs) operate the [extra-high and high voltage gr
 
 ### Distribution System Operator ("Verteilnetzbetreiber")
 
-Distribution system operators (DSOs) take over electricity from the transmission system and distribute it via [medium and low voltage lines](/wissen/stromnetz/) to households, businesses, and other end consumers. In Austria, there are currently 114 electricity distribution system operators operating a total of around 260,000 km of lines.[^3]
+Distribution system operators (DSOs) take over electricity from the transmission system and distribute it via [medium and low voltage lines](/wissen/stromnetz/) to households, businesses, and other end consumers. In Austria, there are currently 114 electricity distribution system operators operating a total of around 260000 km of lines.[^3]
 
 ## Market and Distribution Area Manager (Markt- und Verteilergebietsmanager)
 
