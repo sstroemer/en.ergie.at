@@ -30,7 +30,7 @@ Network operators are responsible for the reliable transport of electrical energ
 
 Transmission system operators (TSOs) operate the [extra-high and high voltage grid](/wissen/stromnetz/) and ensure the transport of large volumes of electricity over long distances to regional distributors. They also handle cross-border electricity transit. In Austria, this task is performed by [APG](/wissen/stromnetz/), which operates around 7,000 km of transmission lines.[^1] [^2]
 
-#### Distribution System Operator ("Verteilnetzbetreiber")
+### Distribution System Operator ("Verteilnetzbetreiber")
 
 Distribution system operators (DSOs) take over electricity from the transmission system and distribute it via [medium and low voltage lines](/wissen/stromnetz/) to households, businesses, and other end consumers. In Austria, there are currently 114 electricity distribution system operators operating a total of around 260,000 km of lines.[^3]
 
