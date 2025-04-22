@@ -26,7 +26,7 @@ Each balancing group has a balancing group representative who represents it towa
 
 Network operators are responsible for the reliable transport of electrical energy and the operation of the electricity grids. They ensure that electricity flows from generation plants to consumers by managing grid operations, providing the necessary infrastructure, and handling grid charges. Since the electricity grid constitutes a natural monopoly, network operators are subject to strict regulation by the [regulatory authority](#regulierungsbehörde) E-Control. A distinction is made between transmission system operators for large-scale electricity transport and distribution system operators for regional electricity distribution.[^1]
 
-#### Transmission System Operator ("Übertragungsnetzbetreiber")
+### Transmission System Operator ("Übertragungsnetzbetreiber")
 
 Transmission system operators (TSOs) operate the [extra-high and high voltage grid](/wissen/stromnetz/) and ensure the transport of large volumes of electricity over long distances to regional distributors. They also handle cross-border electricity transit. In Austria, this task is performed by [APG](/wissen/stromnetz/), which operates around 7,000 km of transmission lines.[^1] [^2]
 
