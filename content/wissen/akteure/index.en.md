@@ -1,12 +1,12 @@
 ---
 title: "Actors and Stakeholders"
-description: "An overview of relevant actors and stakeholders in the Austrian energy system."
+description: "An overview of key actors and stakeholders in the Austrian energy system."
 topics: ["Actors"]
 weight: 1
 authors: [fackerl]
 ---
 
-The Austrian energy system is based on complex interactions of various actors who ensure grid stability, energy distribution, and market regulation. Specialized institutions work closely together, from controlling electricity flows to billing energy consumption data. You can find out here who these actors are and what role they play.
+The Austrian energy system is based on complex interactions between various actors who ensure grid stability, energy distribution, and market regulation. Specialized institutions work closely together, from controlling electricity flows to billing energy consumption data. This article provides an overview of who these actors are and the roles they play.
 
 <!-- more -->
 
@@ -16,19 +16,19 @@ The European electricity grid is divided into [control areas](/wissen/regelzonen
 
 ## Balancing Group Coordinator ("Bilanzgruppenkoordinator")
 
-The balancing group coordinator monitors all [balancing groups](/wissen/bilanzgruppen/) in the [control area](/wissen/regelzonen/) and ensures that the settlement of [balancing energy](/wissen/bilanzgruppen/) is carried out correctly. They compare the scheduled electricity volumes (forecasts and schedules) with the actual measured values and determine the necessary balancing energy for each balancing group. They then settle this with the respective balancing group representatives. For the control area [APG](https://www.apg.at/), the [balancing group coordinator](https://www.apcs.at/) is Austrian Power Clearing and Settlement AG (<abbr title="Austrian Power Clearing and Settlement">APCS</abbr>).[^1]
+The balancing group coordinator monitors all [balancing groups](/wissen/bilanzgruppen/) in the [control area](/wissen/regelzonen/) and ensures that the [imbalance settlement](/wissen/bilanzgruppen/) is carried out correctly. They compare the scheduled electricity volumes (forecasts and schedules) with the actual measured values and determine the necessary imbalance settlement for each balancing group. They then settle this with the respective balancing group representatives. For the control area [APG](https://www.apg.at/), the [balancing group coordinator](https://www.apcs.at/) is Austrian Power Clearing and Settlement AG (<abbr title="Austrian Power Clearing and Settlement">APCS</abbr>).[^1]
 
 ## Balancing Group Representative ("Bilanzgruppenverantwortlicher")
 
-Each balancing group has a balancing group representative who represents it towards other market participants. The balancing group representative coordinates the forecasts for generation and consumption within the balancing group and prepares schedules based on them. They also receive the settlement of the balancing energy from the balancing group coordinator and settle this with the members of the balancing group.[^1]
+Each balancing group has a balancing group representative who acts on its behalf towards other market participants. Balancing group representatives coordinate generation and consumption forecasts within their balancing group and prepare schedules accordingly. They also receive the imbalance settlement statement from the balancing group coordinator and allocate the resulting costs to the members of the balancing group.[^1]
 
 ## Network Operator ("Netzbetreiber")
 
-Network operators are responsible for the reliable transport of electrical energy and the operation of the electricity grids. They ensure that electricity flows from generation plants to consumers by managing grid operations, providing the necessary infrastructure, and handling grid charges. Since the electricity grid constitutes a natural monopoly, network operators are subject to strict regulation by the [regulatory authority](#regulierungsbehörde) E-Control. A distinction is made between transmission system operators for large-scale electricity transport and distribution system operators for regional electricity distribution.[^1]
+Network operators are responsible for the reliable transport of electrical energy and the operation of the electricity grids. They ensure that electricity flows from generation plants to consumers by managing grid operations, providing the necessary infrastructure, and handling grid charges. Since the electricity grid constitutes a natural monopoly, network operators are subject to strict regulation by the [regulatory authority](#regulatory-authority-regulierungsbehörde) E-Control. A distinction is made between transmission system operators for large-scale electricity transport and distribution system operators for regional electricity distribution.[^1]
 
 ### Transmission System Operator ("Übertragungsnetzbetreiber")
 
-Transmission system operators (TSOs) operate the [extra-high and high voltage grid](/wissen/stromnetz/) and ensure the transport of large volumes of electricity over long distances to regional distributors. They also handle cross-border electricity transit. In Austria, this task is performed by [APG](/wissen/stromnetz/), which operates around 7,000 km of transmission lines.[^1] [^2]
+Transmission system operators (TSOs) operate the [extra-high and high voltage grid](/wissen/stromnetz/) and ensure the transport of large volumes of electricity over long distances to regional distributors. They also handle cross-border electricity transit. In Austria, this task is performed by [APG](/wissen/stromnetz/), which operates around 7000 km of transmission lines.[^1] [^2]
 
 ### Distribution System Operator ("Verteilnetzbetreiber")
 
