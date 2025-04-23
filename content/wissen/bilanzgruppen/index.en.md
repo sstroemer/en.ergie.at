@@ -22,7 +22,7 @@ There are numerous balancing groups in the Austrian control area. The combined i
 
 The central entity responsible for handling imbalance settlement in the Austrian electricity market is Austrian Power Clearing and Settlement AG (<abbr title="Austrian Power Clearing and Settlement">APCS</abbr>), which acts as the [balancing group coordinator](/wissen/akteure/). <abbr title="Austrian Power Clearing and Settlement">APCS</abbr> determines and settles the difference between the planned and actual grid feed-in or withdrawal for each balancing group.[^1] [^4]
 
-### Difference between imbalance settlement and balancing reserve
+### Difference between Imbalance Settlement and Balancing Reserve
 
 In summary, imbalance settlement compensates for forecast deviations of individual balancing groups and is charged to them. [Balancing reserve](/wissen/regelreserve/), on the other hand, is used to stabilize the entire electricity grid when the forecast deviations within the balancing groups cause an imbalance in the control area as a whole. Simply put, the forecast deviation within a balancing group corresponds to imbalance settlement, while the forecast deviation across the entire control area corresponds to balancing reserve.[^2]
 
