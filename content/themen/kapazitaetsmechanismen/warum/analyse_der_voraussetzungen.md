@@ -13,13 +13,12 @@ Im folgenden Abschnitt wird evaluiert, ob die Voraussetzungen eines reinen EOM M
 
 ## Ideale Märkte
 
-### Test Begründungen ausklappbar
+### Transparenz
 
 <div style="border: 1px solid #3c763d; background-color: #f4fdf4; padding: 1em; margin-bottom: 1.5em; font-size: 1em; line-height: 1.5;">
-
   <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.75em;">
     <div>
-      <strong>Bewertung:</strong> Erfüllt – Transparenz für Marktteilnehmer ist gegeben.
+      <strong>Bewertung:</strong> Transparenz für Marktteilnehmer ist gegeben.
     </div>
     <div style="display: flex; flex-direction: column; align-items: center;">
       <span style="font-size: 1.6em; color: #3c763d;">&#x2705;</span>
@@ -37,36 +36,44 @@ Im folgenden Abschnitt wird evaluiert, ob die Voraussetzungen eines reinen EOM M
 
 ### Freier Marktzutritt
 
-<div style="border: 1px solid #333333; background-color: #fdfdf5; padding: 1em; margin-bottom: 1.5em; font-size: 1em; line-height: 1.5;">
-
-  <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 1em; margin-bottom: 0.75em;">
-    <div style="font-weight: 600; padding-top: 0.3em;">Bewertung</div>
+<div style="border: 1px solid #3c763d; background-color: #f4fdf4; padding: 1em; margin-bottom: 1.5em; font-size: 1em; line-height: 1.5;">
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.75em;">
+    <div>
+      <strong>Bewertung:</strong> Der Strommarkt ist grundsätzlich frei zugänglich.
+    </div>
     <div style="display: flex; flex-direction: column; align-items: center; line-height: 1.2;">
-      <span style="font-size: 1.6em; color: #d9534f;">&#x2753;</span>
-      <span style="font-size: 0.9em; color: #f0ad4e; font-weight: bold; margin-top: 0.3em;">Fraglich</span>
+      <span style="font-size: 1.6em; color: #3c763d;">&#x2705;</span>
+      <span style="font-size: 0.9em; color: #5cb85c; font-weight: bold;">Erfüllt</span>
     </div>
   </div>
 
-  <div style="text-align: justify;">
-    Der Strommarkt ist grundsätzlich frei zugänglich. Die Barriere für die Errichtung von zusätzlichen Kapazitäten für etablierte Anbieter scheint überwindbar. Ebenso scheinen kaum signifikante Eintrittsbarrieren für neue Anbieter zu bestehen. Vor allem im Bereich der Erneuerbaren (z. B. Wind und PV) haben sich in den letzten Jahren eine Vielzahl von Akteuren etabliert.
-  </div>
+  <details>
+    <summary style="cursor: pointer; font-weight: 500; color: #3c763d;">➤ Begründung anzeigen</summary>
+    <div style="margin-top: 0.75em; text-align: justify;">
+      <p>Die Barriere für die Errichtung von zusätzlichen Kapazitäten für etablierte Anbieter scheint überwindbar. Ebenso scheinen kaum signifikante Eintrittsbarrieren für neue Anbieter zu bestehen. Vor allem im Bereich der Erneuerbaren (z.B. Wind und PV) haben sich in den letzten Jahren eine Vielzahl von Akteuren etabliert.</p>
+    </div>
+  </details>
 </div>
 
-### Marktaustritt muss ‚kostenlos‘ sein
+### Marktaustritt
 
 <div style="border: 1px solid #333333; background-color: #fdfdf5; padding: 1em; margin-bottom: 1.5em; font-size: 1em; line-height: 1.5;">
-
-  <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 1em; margin-bottom: 0.75em;">
-    <div style="font-weight: 600; padding-top: 0.3em;">Bewertung</div>
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.75em;">
+    <div>
+      <strong>Bewertung:</strong> Problem der Sunk Costs.
+    </div>
     <div style="display: flex; flex-direction: column; align-items: center; line-height: 1.2;">
       <span style="font-size: 1.6em; color: #d9534f;">&#x2753;</span>
       <span style="font-size: 0.9em; color: #f0ad4e; font-weight: bold; margin-top: 0.3em;">Fraglich</span>
     </div>
   </div>
 
-  <div style="text-align: justify;">
- Der Bau von Kraftwerken ist mit signifikanten versunkenen Kosten verbunden, ein großer Teil der Kosten ist ‚irreversibel‘. In Kombination mit fehlender Planungssicherheit können Sunk Costs somit hinderlich sein für Investitionen.
-  </div>
+  <details>
+    <summary style="cursor: pointer; font-weight: 500; color: #d9534f;">➤ Begründung anzeigen</summary>
+    <div style="margin-top: 0.75em; text-align: justify;">
+      <p>Der Bau von Kraftwerken ist mit signifikanten versunkenen Kosten verbunden, ein großer Teil der Kosten ist ‚irreversibel‘. In Kombination mit fehlender Planungssicherheit können Sunk Costs somit hinderlich sein für Investitionen.</p>
+    </div>
+  </details>
 </div>
 
 ### Symmetrische Information
