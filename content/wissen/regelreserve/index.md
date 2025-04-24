@@ -1,10 +1,10 @@
 ---
 title: "Regelreserve"
-description: ""
-topics: []
+description: "Ein Überblick zum Thema Regelreserve"
+topics: ["Regelreserve", "Regelenergie"]
 series: ["Systemdienstleistungen"]
 series_order: 1
-authors: []
+authors: [fackerl]
 ---
 
-Wir arbeiten gerade an diesem Artikel. Schau bald wieder vorbei!
+## Grundlagen
