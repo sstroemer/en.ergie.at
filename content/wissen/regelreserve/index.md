@@ -9,36 +9,38 @@ authors: [fackerl]
 
 ## Grundlagen
 
-Um Schwankungen im Stromnetz auszugleichen und die Netzfrequenz stabil bei 50 Hertz zu halten, wird sowohl positive als auch negative Regelenergie benötigt. Positive Regelenergie kommt zum Einsatz, wenn der Strombedarf höher ist, als die ins Netz eingespeiste Menge. In solchen Fällen muss entweder die Stromproduktion erhöht oder der Verbrauch gesenkt werden. Negative Regelenergie hingegen wird verwendet, um einen Überschuss an Energie zu regulieren. Zu einem Überangebot kann es unter anderem bei unerwartet hoher Wind- oder Solarproduktion oder durch Starkregen in der Wasserkraft kommen. Hierbei wird die Energie im Netz reduziert, indem entweder die Stromproduktion verringert oder der Verbrauch gezielt erhöht wird. [^kraftwerke.at] [^A1]
+Um Schwankungen im Stromnetz auszugleichen und die Netzfrequenz stabil bei 50 Hertz zu halten, wird sowohl positive als auch negative Regelenergie benötigt. Positive Regelenergie kommt zum Einsatz, wenn der Strombedarf höher ist, als die ins Netz eingespeiste Menge. In solchen Fällen muss entweder die Stromproduktion erhöht oder der Verbrauch gesenkt werden. Negative Regelenergie hingegen wird verwendet, um einen Überschuss an Energie zu regulieren. Zu einem Überangebot kann es unter anderem bei unerwartet hoher Wind- oder Solarproduktion oder durch Starkregen in der Wasserkraft kommen. Hierbei wird die Energie im Netz reduziert, indem entweder die Stromproduktion verringert oder der Verbrauch gezielt erhöht wird. [^kraftwerke.at] [^A1] [^regelleistung.net]
 
 Regelreserve kann sowohl von Stromerzeuger:innen als auch von Stromverbraucher:innen bereitgestellt werden. Hierzu zählen beispielsweise konventionelle Kraftwerke, Stromspeicher, Flexibilitäten wie Wärmepumpen sowie Unternehmen, die ihren Stromverbrauch flexibel anpassen können. Für das Vorhalten dieser Regelleistung sowie für das Bereitstellen von Regelenergie erhalten die Anbieter:innen eine finanzielle Entschädigung. [^kraftwerke.de]
 
 ### Begriffserklärung
 
-Die Begriffe Regelreserve, Regelleistung und Regelenergie werden oft synonym verwendet, bezeichnen aber genau genommen unterschiedliche Aspekte des Ausgleichsprozesses. Regelreserve, auch Regelleistung genannt, beschreibt die in Megawatt vorgehaltene Leistung, die bei Bedarf zur Stabilisierung des Stromnetzes bereitsteht. Regelenergie bzw. Regelarbeit bezeichnet hingegen die tatsächlich eingesetzte Energiemenge in Megawattstunden, die abgerufen wird, um Frequenzabweichungen zu korrigieren. Als Überbegriff wird oftmals Regelreserve verwendet. [^regelleistung.net]
+Die Begriffe Regelreserve und Regelenergie werden oft synonym verwendet, bezeichnen aber genau genommen unterschiedliche Aspekte des Ausgleichsprozesses. Regelreserve, auch Regelleistung genannt, beschreibt die in Megawatt vorgehaltene Leistung, die bei Bedarf zur Stabilisierung des Stromnetzes bereitsteht. Regelenergie bzw. Regelarbeit bezeichnet hingegen die tatsächlich eingesetzte Energiemenge in Megawattstunden, die abgerufen wird, um Frequenzabweichungen zu korrigieren. [^regelleistung.net] Als Überbegriff wird oftmals Regelreserve verwendet. 
 
 ## Regelreservearten
 
-Es wird zwischen Primärregelreserve, Sekundärregelreserve und Tertiärregelreserve unterschieden. Diese Arten der Regelreserve variieren hinsichtlich ihrer Organisation, Aktivierungszeit und Reaktionsgeschwindigkeit, was in den jeweiligen Artikeln im Detail erklärt wird.[^2]
+Es wird zwischen drei Arten der Regelreserve unterschieden: Primärregelreserve, Sekundärregelreserve und Tertiärregelreserve. Diese Arten der Regelreserve variieren hinsichtlich ihrer Organisation, Aktivierungszeit und Reaktionsgeschwindigkeit, was in den jeweiligen Artikeln im Detail beschrieben wird. [^APCS]
 <!-- Seiten erstellen und verlinken -->
 
 ## Beschaffung von Regelreserve
 
-Die Beschaffung der benötigten Regelreserve erfolgt durch den Regelzonenführer APG. Die APG organisiert dafür regelmäßige Ausschreibungen, welche für PRR, SRR und TRR getrennt stattfinden. Der Bedarf an Regelreserve wird ausgeschrieben und qualifizierte Kraftwerksbetreiber, Stromerzeuguer und flexible Verbraucher können ihre Gebote abgeben. Die Preise werden in einer [Merit-Order-Liste](./wissen/akteure/index.md) (<abbr title="Merit-Order-Liste">MOL</abbr>) in aufsteigender Reihenfolge angeordnet.
+Die Beschaffung der benötigten Regelreserve erfolgt durch den Regelzonenführer APG. Zu diesem Zweck organisiert die APG regelmäßig Ausschreibungen, die für PRR, SRR und TRR getrennt stattfinden. Der Bedarf an Regelreserve wird ausgeschrieben und qualifizierte Kraftwerksbetreiber:innen, Stromerzeuger:innen sowie flexible Verbraucher:innen können ihre Gebote abgeben. Die Preise werden in einer [Merit-Order-Liste](/wissen/merit-order/) in aufsteigender Reihenfolge angeordnet. [^kraftwerke.at] [^APG]
 
-<!-- Achtung, Kommentar von Stefan , QUELLEN -->
+Im Rahmen der Ausschreibungen erhalten die Anbieter:innen mit den niedrigsten Gebotspreisen für den [Leistungspreis](#vergütungsmodell) den Zuschlag für die Bereitstellung. Wird im Betrieb dann Regelenergie tatsächlich in Anspruch genommen, werden aus dem Pool der zugeschlagenen Anbieter:innen diejenigen mit den niedrigsten gebotenen [Arbeitspreisen](#vergütungsmodell) zur Erbringung der Regelenergie ausgewählt. [^kraftwerke.at]
+
+<!-- Achtung, Kommentar von Stefan , QUELLEN, geht der Link zu Merit Order seite? -->
 
 ### Vergütungsmodell
 
-Dabei werden Gebote für zwei voneinander unabhängige Preise abgegeben: den Leistungspreis und den Arbeitspreis. Der Leistungspreis stellt die Vergütung für die reine Vorhaltung von Regelleistung dar. Die Erzeugungs- oder Verbrauchsanlage verpflichtet sich, die angebotene Regelleistung während der vereinbarten Zeitscheibe jederzeit abrufbereit zu halten. Für diese garantierte Verfügbarkeit wird ein fester Preis pro Megawatt (Leistungspreis) entrichtet. Die Vergütung für die im Bedarfsfall tatsächlich abgerufene Energie wird als Arbeitspreis bezeichnet und pro bereitgestellter Megawattstunde gezahlt.[^1] [^3]
+Im Rahmen der Ausschreibungen werden Gebote für zwei voneinander unabhängige Preise abgegeben: den Leistungspreis und den Arbeitspreis. Der Leistungspreis stellt die Vergütung für die reine Vorhaltung von Regelleistung dar. Die Erzeugungs- oder Verbrauchsanlage verpflichtet sich, die angebotene Regelleistung während der vereinbarten Zeitscheibe jederzeit abrufbereit zu halten. Für diese garantierte Verfügbarkeit wird ein fester Preis pro Megawatt (Leistungspreis) entrichtet. Die Vergütung für die im Bedarfsfall tatsächlich abgerufene Energie wird als Arbeitspreis bezeichnet und pro bereitgestellter Megawattstunde gezahlt. [^kraftwerke.at]
 
-Im Rahmen der Ausschreibungen erhalten die Anbieter:innen mit den niedrigsten Gebotspreisen für den Leistungspreis den Zuschlag für die Bereitstellung. Wird im Betrieb dann Regelenergie tatsächlich in Anspruch genommen, werden aus dem Pool der zugeschlagenen Anbieter:innen diejenigen mit den niedrigsten gebotenen Arbeitspreisen zur Erbringung der Regelenergie ausgewählt.[^1] [^4]
 <!-- Achtung, Kommentar von Stefan -->
 
-Weitere Informationen:
 
 [^regelleistung.net]: [Regelleistung.net: Was ist Regelreserve?](https://www.regelleistung.net/de-de/Grundlagen-Regelreserve/Was-ist-Regelreserve)
 [^kraftwerke.at]: [Next Kraftwerke: Regelenergie in Österreich](https://www.next-kraftwerke.at/wissen/regelenergie)
 [^kraftwerke.de]: [Next Kraftwerke: Was ist Regelenergie?](https://www.next-kraftwerke.de/wissen/regelenergie)
-[^primär]: [Next Kraftwerke: Was ist Primärreserveleistung?](https://www.next-kraftwerke.at/wissen/primaerregelung-prl)
 [^A1]: [A1 Energy Solutions: Regelenergie kurz erklärt](https://www.a1energysolutions.at/regelenergie-pool/)
+[^econtrol]:[E-Control: Marktbasierte Beschaffung Regelreserve](https://www.e-control.at/industrie/strom/strommarkt/marktbasierte-beschaffung-regelreserve#:~:text=In%20%C3%96sterreich%20erfolgt%20die%20vollst%C3%A4ndig,werden%20Erzeugern%20und%20Bilanzgruppen%20verrechnet)
+[^APG]: [APG: Netzregelung](https://markt.apg.at/netz/netzregelung/)
+[^APCS]: [APCS: Regelenergie](https://www.apcs.at/de/regelenergie)
