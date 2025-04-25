@@ -30,7 +30,7 @@ Die Beschaffung der benötigten Regelreserve erfolgt durch den Regelzonenführer
 
 ### Vergütungsmodell
 
-Dabei werden Gebote für zwei voneinander unabhängige Preise abgegeben: den Leistungspreis und den Arbeitspreis. Der Leistungspreis stellt die Vergütung für die reine Vorhaltung von Regelleistung dar. Die Erzeugungs- oder Verbrauchsanlage verpflichtet sich, die angebotene Regelleistung während der vereinbarten Zeitscheibe jederzeit abrufbereit zu halten. Für diese garantierte Verfügbarkeit wird ein fester Preis pro Megawatt (Leistungspreis) entrichtet. Die Vergütung für die im Bedarfsfall tatsächlich abgerufene Energie wird als Arbeitspreis bezeichnet und pro bereitgestellter Megawattstunde gezahlt.[^1] [^3] 
+Dabei werden Gebote für zwei voneinander unabhängige Preise abgegeben: den Leistungspreis und den Arbeitspreis. Der Leistungspreis stellt die Vergütung für die reine Vorhaltung von Regelleistung dar. Die Erzeugungs- oder Verbrauchsanlage verpflichtet sich, die angebotene Regelleistung während der vereinbarten Zeitscheibe jederzeit abrufbereit zu halten. Für diese garantierte Verfügbarkeit wird ein fester Preis pro Megawatt (Leistungspreis) entrichtet. Die Vergütung für die im Bedarfsfall tatsächlich abgerufene Energie wird als Arbeitspreis bezeichnet und pro bereitgestellter Megawattstunde gezahlt.[^1] [^3]
 
 Im Rahmen der Ausschreibungen erhalten die Anbieter:innen mit den niedrigsten Gebotspreisen für den Leistungspreis den Zuschlag für die Bereitstellung. Wird im Betrieb dann Regelenergie tatsächlich in Anspruch genommen, werden aus dem Pool der zugeschlagenen Anbieter:innen diejenigen mit den niedrigsten gebotenen Arbeitspreisen zur Erbringung der Regelenergie ausgewählt.[^1] [^4]
 <!-- Achtung, Kommentar von Stefan -->
