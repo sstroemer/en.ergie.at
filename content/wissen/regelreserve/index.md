@@ -7,6 +7,10 @@ series_order: 1
 authors: [fackerl]
 ---
 
+ Regelreserve dient der Stabilisierung der Netzfrequenz bei Ungleichgewichten zwischen Stromerzeugung und -verbrauch. In diesem Artikel erfährst du, wie Regelreserve funktioniert, wer sie bereitstellt und wie sie beschafft wird.
+
+ <!-- more -->
+
 ## Grundlagen
 
 Um Schwankungen im Stromnetz auszugleichen und die Netzfrequenz stabil bei 50 Hertz zu halten, wird sowohl positive als auch negative Regelenergie benötigt. Positive Regelenergie kommt zum Einsatz, wenn der Strombedarf höher ist als die ins Netz eingespeiste Menge. In solchen Fällen muss entweder die Stromproduktion erhöht oder der Verbrauch gesenkt werden. Negative Regelenergie hingegen wird verwendet, um einen Überschuss an Energie zu regulieren. Zu einem Überangebot kann es unter anderem bei unerwartet hoher Wind- oder Solarproduktion oder durch Starkregen in der Wasserkraft kommen. Hierbei wird die Energie im Netz reduziert, indem entweder die Stromproduktion verringert oder der Verbrauch gezielt erhöht wird. [^kraftwerke.at] [^A1] [^regelleistung.net]
