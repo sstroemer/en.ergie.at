@@ -9,10 +9,10 @@ authors: [fackerl]
 
 Die Primärregelung, auch als Primärregelleistung, Primärreserveleistung (<abbr title="Primärreserveleistung">PRL</abbr>) oder Primärregelreserve (<abbr title="Primärregelreserve">PRR</abbr>) bezeichnet, wird als erste Maßnahme eingesetzt, um die Netzfrequenz zu jeder Zeit in einem Bereich zwischen 49,8 und 50,2 Hertz zu halten. [^APG]
 
-Die <abbr title="Primärreserveleistung">PRL</abbr> wird automatisch durch den Befehl eines Frequenzmessers direkt an der Anlage aktiviert [^kraftwerke.at], muss innerhalb von 30 Sekunden bereitgestellt werden [^APCS] [^APG]  und für mindestens 30 Minuten verfügbar bleiben. [^APG] [^A1]
+Die <abbr title="Primärregelreserve">PRR</abbr> wird automatisch durch den Befehl eines Frequenzmessers direkt an der Anlage aktiviert [^kraftwerke.at], muss innerhalb von 30 Sekunden bereitgestellt werden [^APCS] [^APG]  und für mindestens 30 Minuten verfügbar bleiben. [^APG] [^A1]
 <!-- next-kraftwerke sagt 15 Minuten -->
 
-Flexible Kraftwerke wie <abbr title="Blockheizkraftwerke">BHKW</abbr>, Industrie- und Gewerbeanlagen sowie auch Batterien eignen sich für die Bereitstellung von <abbr title="Primärreserveleistung">PRL</abbr>, da sie sehr schnell auf Frequenzabweichungen reagieren und ihre Leistung innerhalb weniger Sekunden anpassen können. Wichtig sind schnelle Reaktionszeiten, hohe Zuverlässigkeit und eine stabile Energiequelle, um die technisch anspruchsvollen Anforderungen der Primärreserve zu erfüllen. [^APG] [^kraftwerke_primär]
+Flexible Kraftwerke wie <abbr title="Blockheizkraftwerke">BHKW</abbr>, Industrie- und Gewerbeanlagen sowie auch Batterien eignen sich für die Bereitstellung von <abbr title="Primärregelreserve">PRR</abbr>, da sie sehr schnell auf Frequenzabweichungen reagieren und ihre Leistung innerhalb weniger Sekunden anpassen können. Wichtig sind schnelle Reaktionszeiten, hohe Zuverlässigkeit und eine stabile Energiequelle, um die technisch anspruchsvollen Anforderungen der Primärreserve zu erfüllen. [^APG] [^kraftwerke_primär]
 
 Die Primärregelreserve wird im Verbund der zentraleuropäischen Übertragungsnetzbetreiber [ENTSO-E](./wissen/akteure/index.md) koordiniert im Synchronbereich Kontinentaleuropas beschafft. [^kraftwerke_primär] Hierfür werden insgesamt rund ± 3000 MW bereitgehalten. Jede Regelzone trägt anteilig dazu bei - Österreich Stand 2025 mit ± 65 MW. [^APG_primär]
 
