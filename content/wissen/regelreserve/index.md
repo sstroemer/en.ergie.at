@@ -20,7 +20,6 @@ Die Begriffe Regelreserve und Regelenergie werden oft synonym verwendet, bezeich
 ## Regelreservearten
 
 Es wird zwischen drei Arten der Regelreserve unterschieden: [Primärregelreserve](/wissen/primärregelreserve/), [Sekundärregelreserve](/wissen/sekundärregelreserve/) und [Tertiärregelreserve](/wissen/tertiärregelreserve/). Diese Arten der Regelreserve variieren hinsichtlich ihrer Organisation, Aktivierungszeit und Reaktionsgeschwindigkeit. Details dazu werden in den jeweiligen Artikeln beschrieben. [^APCS]
-<!-- Seiten erstellen und verlinken -->
 
 ## Beschaffung von Regelreserve
 
