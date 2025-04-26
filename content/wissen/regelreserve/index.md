@@ -15,16 +15,16 @@ Regelreserve kann sowohl von Stromerzeuger:innen als auch von Stromverbraucher:i
 
 ### Begriffserklärung
 
-Die Begriffe Regelreserve und Regelenergie werden oft synonym verwendet, bezeichnen aber genau genommen unterschiedliche Aspekte des Ausgleichsprozesses. Regelreserve, auch Regelleistung genannt, beschreibt die in Megawatt vorgehaltene Leistung, die bei Bedarf zur Stabilisierung des Stromnetzes bereitsteht. Regelenergie bzw. Regelarbeit bezeichnet hingegen die tatsächlich eingesetzte Energiemenge in Megawattstunden, die abgerufen wird, um Frequenzabweichungen zu korrigieren. [^regelleistung.net] Als Überbegriff wird oftmals Regelreserve verwendet. 
+Die Begriffe Regelreserve und Regelenergie werden oft synonym verwendet, bezeichnen aber genau genommen unterschiedliche Aspekte des Ausgleichsprozesses. Regelreserve, auch Regelleistung genannt, beschreibt die in Megawatt vorgehaltene Leistung, die bei Bedarf zur Stabilisierung des Stromnetzes bereitsteht. Regelenergie bzw. Regelarbeit bezeichnet hingegen die tatsächlich eingesetzte Energiemenge in Megawattstunden, die abgerufen wird, um Frequenzabweichungen zu korrigieren. [^regelleistung.net] Als Überbegriff wird oftmals Regelreserve verwendet.
 
 ## Regelreservearten
 
-Es wird zwischen drei Arten der Regelreserve unterschieden: Primärregelreserve, Sekundärregelreserve und Tertiärregelreserve. Diese Arten der Regelreserve variieren hinsichtlich ihrer Organisation, Aktivierungszeit und Reaktionsgeschwindigkeit. Details dazu werden in den jeweiligen Artikeln beschrieben. [^APCS]
+Es wird zwischen drei Arten der Regelreserve unterschieden: [Primärregelreserve](/wissen/primärregelreserve/), [Sekundärregelreserve](/wissen/sekundärregelreserve/) und [Tertiärregelreserve](/wissen/tertiärregelreserve/). Diese Arten der Regelreserve variieren hinsichtlich ihrer Organisation, Aktivierungszeit und Reaktionsgeschwindigkeit. Details dazu werden in den jeweiligen Artikeln beschrieben. [^APCS]
 <!-- Seiten erstellen und verlinken -->
 
 ## Beschaffung von Regelreserve
 
-Die Beschaffung der benötigten Regelreserve erfolgt durch den Regelzonenführer <abbr title="Austrian Power Grid">APG</abbr>. Zu diesem Zweck organisiert die <abbr title="Austrian Power Grid">APG</abbr> regelmäßig Ausschreibungen, die für Primärregelreserve, Sekundärregelreserve und Tertiärregelreserve getrennt stattfinden. Der Bedarf an Regelreserve wird ausgeschrieben und qualifizierte Kraftwerksbetreiber:innen, Stromerzeuger:innen sowie flexible Verbraucher:innen können ihre Gebote abgeben. Die Preise werden in einer [Merit-Order-Liste](/wissen/merit-order/) in aufsteigender Reihenfolge angeordnet. [^kraftwerke.at] [^APG]
+Die Beschaffung der benötigten Regelreserve erfolgt durch den Regelzonenführer <abbr title="Austrian Power Grid">APG</abbr>. Zu diesem Zweck organisiert die <abbr title="Austrian Power Grid">APG</abbr> regelmäßig Ausschreibungen, die für [Primärregelreserve](/wissen/primärregelreserve/), [Sekundärregelreserve](/wissen/sekundärregelreserve/) und [Tertiärregelreserve](/wissen/tertiärregelreserve/) getrennt stattfinden. Der Bedarf an Regelreserve wird ausgeschrieben und qualifizierte Kraftwerksbetreiber:innen, Stromerzeuger:innen sowie flexible Verbraucher:innen können ihre Gebote abgeben. Die Preise werden in einer [Merit-Order-Liste](/wissen/merit-order/) in aufsteigender Reihenfolge angeordnet. [^kraftwerke.at] [^APG] [^econtrol]
 
 Im Rahmen der Ausschreibungen erhalten die Anbieter:innen mit den niedrigsten Gebotspreisen für den [Leistungspreis](#vergütungsmodell) den Zuschlag für die Bereitstellung. Wird im Betrieb dann Regelenergie tatsächlich in Anspruch genommen, werden aus dem Pool der zugeschlagenen Anbieter:innen diejenigen mit den niedrigsten gebotenen [Arbeitspreisen](#vergütungsmodell) zur Erbringung der Regelenergie ausgewählt. [^kraftwerke.at]
 
