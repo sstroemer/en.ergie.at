@@ -7,11 +7,11 @@ series_order: 1
 authors: [fackerl]
 ---
 
-Nach großeren Störungen im Stromnetz übernimmt die Tertiärregelreserve (TRR) die Stabilisierung der Frequenz. Dieser Artikel erklärt die Funktionsweise, die Abläufe bei der Beschaffung und die typischen Teilnehmer am TRR-Markt.
+Nach größeren Störungen im Stromnetz stabilisiert die Tertiärregelreserve (TRR) die Frequenz. Dieser Artikel erklärt ihre Funktionsweise, den Ablauf der Beschaffung sowie die typischen Teilnehmer am TRR-Markt.
 
 <!--more-->
 
-Die Tertiärregelreserve (<abbr title="Tertiärregelreserve">TRR</abbr>) bzw. Tertiärregelleistung (<abbr title="Tertiärregelleistung">TRL</abbr>) wird insbesondere nach Kraftwerksausfällen eingesetzt, um die [Sekundärregelreserve](/wissen/regelreserve/sekundärregelreserve/) zu entlasten. [^kraftwerke_tertiär] [^APCS] Sie ist die langsamste Form der [Regelenergie](/wissen/regelreserve/) und muss erst nach 10 Minuten bereitstehen. [^APCS] [^A1] Aus diesem Grund kommen viele Erzeugungs- und Verbrauchsanlagen für die Bereitstellung in Frage. Überwiegend werden Pumpspeicherkraftwerke oder flexible Gaskraftwerke eingesetzt, jedoch nehmen auch immer mehr kleine, dezentrale Stromerzeuger, Stromspeicher oder flexible Stromverbraucher am <abbr title="Tertiärregelreserve">TRR</abbr>-Markt teil. [^kraftwerke_tertiär]
+Die Tertiärregelreserve (<abbr title="Tertiärregelreserve">TRR</abbr>) bzw. Tertiärregelleistung (<abbr title="Tertiärregelleistung">TRL</abbr>) wird insbesondere nach Kraftwerksausfällen eingesetzt, um die [Sekundärregelreserve](/wissen/regelreserve/sekundärregelreserve/) zu entlasten. [^kraftwerke_tertiär] [^APCS] Sie ist die langsamste Form der [Regelenergie](/wissen/regelreserve/) und muss erst innerhalb von 10 Minuten bereitstehen. [^APCS] [^A1] Aus diesem Grund eignen sich eine Vielzahl von Erzeugungs- und Verbrauchsanlagen für die Bereitstellung. Überwiegend werden Pumpspeicherkraftwerke oder flexible Gaskraftwerke eingesetzt, jedoch nehmen auch immer mehr kleine, dezentrale Stromerzeuger, Stromspeicher oder flexible Stromverbraucher am <abbr title="Tertiärregelreserve">TRR</abbr>-Markt teil. [^kraftwerke_tertiär]
 
 <!-- Kraftwerke sagt 15 Minuten aber auch 10 Minuten im gleichen Artikel (https://www.next-kraftwerke.at/wissen/tertiaerregelung-trl), APG sagt 15 Minuten für SRR und TRR gemeinsam (https://markt.apg.at/netz/netzregelung/) -->
 
