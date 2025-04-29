@@ -19,7 +19,7 @@ Die Beschaffung der <abbr title="Sekundärregelreserve">SRR</abbr> findet über 
 
 Reicht die automatisch aktivierte <abbr title="Sekundärregelreserve">SRR</abbr> nicht aus, um das entstandene Ungleichgewicht auszugleichen, wird zusätzlich die manuell aktivierte [Tertiärregelreserve](wissen/regelreserve/tertiärregelreserve/) eingesetzt. [^APG]
 
-### Weitere Informationen:
+### Weitere Informationen
 
 - Grundlagen und Hintergrundinfos zum Thema Regelreserve findest du hier: [Regelreserve](/wissen/regelreserve/)
 
