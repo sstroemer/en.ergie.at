@@ -44,6 +44,10 @@ Für den [leistungsbezogenen Teil des Netznutzungsentgeltes](/wissen/netzentgelt
 
 Im Gegensatz zu Erneuerbaren Energiegemeinschaften kann in Bürgerenergiegemeinschaften ausschließlich Strom gehandelt werden. Dieser muss nicht zwingend aus erneuerbaren Quellen stammen. <abbr title="Bürgerenergiegemeinschaft">BEG</abbr>en sind geografisch nicht eingeschränkt und können sich über ganz Österreich erstrecken. Dadurch lassen sich innerhalb einer <abbr title="Bürgerenergiegemeinschaft">BEG</abbr> größere Erzeugungskapazitäten realisieren. In <abbr title="Bürgerenergiegemeinschaft">BEG</abbr>en gibt es jedoch keine finanziellen Vergünstigungen. Elektrizitätsunternehmen und Großunternehmen dürfen an <abbr title="Bürgerenergiegemeinschaft">BEG</abbr>en teilnehmen, die Kontrolle muss jedoch bei natürlichen Personen, Gemeinden oder kleinen Unternehmen liegen. [^BEG]
 
+## Weitere Informationen
+
+- Ausführliche Informationen zu rechtlichen Hintergründen findest du hier: [Rechtsgrundlagen](https://energiegemeinschaften.gv.at/rechtsgrundlagen/)
+
 [^EU]: [European Commission: Energy communities](https://energy.ec.europa.eu/topics/markets-and-consumers/energy-consumers-and-prosumers/energy-communities_en)
 [^orf]: [ORF: Strom teilen: Energiegemeinschaften boomen](https://help.orf.at/stories/3228840/)
 [^EG_Formen]: [Österreichische Koordinationsstelle für Energiegemeinschaften: Was sind Energiegemeinschaften?](https://energiegemeinschaften.gv.at/formen-von-energiegemeinschaften/)
@@ -52,7 +56,3 @@ Im Gegensatz zu Erneuerbaren Energiegemeinschaften kann in Bürgerenergiegemeins
 [^EG_Recht]: [Österreichische Koordinationsstelle für Energiegemeinschaften: Rechtsgrundlagen](https://energiegemeinschaften.gv.at/rechtsgrundlagen/)
 [^EG_FAQ]: [Österreichische Koordinationsstelle für Energiegemeinschaften: FAQs - häufig gestellte Fragen](https://energiegemeinschaften.gv.at/faqs/)
 [^Econtrol]: [E-Control: Energiegemeinschaften](https://www.e-control.at/energiegemeinschaften)
-
-## Weitere Informationen
-
-- Ausführliche Informationen zu rechtlichen Hintergründen findest du hier: [Rechtsgrundlagen](https://energiegemeinschaften.gv.at/rechtsgrundlagen/)
