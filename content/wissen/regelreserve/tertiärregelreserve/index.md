@@ -15,7 +15,7 @@ Die Tertiärregelreserve (<abbr title="Tertiärregelreserve">TRR</abbr>) bzw. Te
 
 <!-- Kraftwerke sagt 15 Minuten aber auch 10 Minuten im gleichen Artikel (https://www.next-kraftwerke.at/wissen/tertiaerregelung-trl), APG sagt 15 Minuten für SRR und TRR gemeinsam (https://markt.apg.at/netz/netzregelung/) -->
 
-Die <abbr title="Tertiärregelreserve">TRR</abbr> wird auf nationaler Ebene beschafft und ist, ähnlich wie die [Sekundärregelreserve](/wissen/regelreserve/sekundärregelreserve/), in eine [Leistungs- und eine Arbeitsausschreibung](/wissen/regelreserve) gegliedert. Für die Leistungsausschreibung sind innerhalb der Regelzone <abbr title="Austrian Power Grid">APG</abbr> ±255 MW an <abbr title="Tertiärregelreserve">TRR</abbr> vorgesehen. [^APG_tertiär] Die Aktivierung der <abbr title="Tertiärregelreserve">TRR</abbr> erfolgt manuell. [^APG]
+Die <abbr title="Tertiärregelreserve">TRR</abbr> wird auf nationaler Ebene beschafft und ist, ähnlich wie die [Sekundärregelreserve](/wissen/regelreserve/sekundärregelreserve/), in eine [Leistungs- und eine Arbeitsausschreibung](/wissen/regelreserve) gegliedert. Für die Leistungsausschreibung sind (Stand 2025) innerhalb der Regelzone <abbr title="Austrian Power Grid">APG</abbr> +255 MW (positiv), sowie -170 MW (negativ) an <abbr title="Tertiärregelreserve">TRR</abbr> vorgesehen. [^APG_tertiär] Die Aktivierung der <abbr title="Tertiärregelreserve">TRR</abbr> erfolgt manuell. [^APG]
 
 ### Weitere Informationen
 
