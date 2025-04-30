@@ -7,7 +7,7 @@ series_order: 3
 authors: [fackerl]
 ---
 
-Bei der Lastspitzenkappung, auch „Peak Shaving“ genannt, wird der Stromverbrauch strategisch gesteuert, um Belastungsspitzen im Netz zu vermeiden. Der Artikel erklärt, welche Maßnahmen dafür eingesetzt werden und welche Vorteile sich daraus ergeben können.
+Bei der Lastspitzenkappung, auch "Peak Shaving" genannt, wird der Stromverbrauch strategisch gesteuert, um Belastungsspitzen im Netz zu vermeiden. Der Artikel erklärt, welche Maßnahmen dafür eingesetzt werden und welche Vorteile sich daraus ergeben können.
 
 <!-- more -->
 
