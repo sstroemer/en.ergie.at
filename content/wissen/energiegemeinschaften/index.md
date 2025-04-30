@@ -35,7 +35,7 @@ Für den Strombezug innerhalb einer <abbr title="Erneuerbare Energiegemeinschaft
 
 - Lokalbereich: Sind die Mitglieder über das Niederspannungsnetz und eine gemeinsame Transformatorstation direkt miteinander verbunden, reduziert sich der Arbeitspreis für das Netznutzungsentgelt um 57%. [^EEG] [^EG_Recht]
 
-- Regionalbereich: Ist für die Verbindung der Mitglieder eine Leitung über das Mittelspannungsnetz erforderlich, spricht man von einem Regionalbereich. Sind alle Mitglieder direkt an Mittelspannungsanlagen (Netzebene 4/5) angeschlossen, reduziert sich der Arbeitspreis des Netznutzungsentgelts um 64%.
+- Regionalbereich: Ist für die Verbindung der Mitglieder eine Leitung über das Mittelspannungsnetz erforderlich, spricht man von einem Regionalbereich. Sind alle Mitglieder direkt an Mittelspannungsanlagen ([Netzebene](/wissen/stromnetz/) 4/5) angeschlossen, reduziert sich der Arbeitspreis des Netznutzungsentgelts um 64%.
 Sind die Mitglieder hingegen an Niederspannungsanlagen (Netzebene 6/7) angeschlossen, jedoch über das Mittelspannungsnetz miteinander verbunden, beträgt die Reduktion 28%. [^EEG] [^EG_Recht]
 
 Für den [leistungsbezogenen Teil des Netznutzungsentgeltes](/wissen/netzentgeltmodell/) gilt folgende Erleichterung: Die bezogene Leistung aus dem öffentlichen Netz wird um die innerhalb der <abbr title="Erneuerbare Energiegemeinschaft">EEG</abbr> bezogene Leistung vermindert. [^EG_FAQ]
