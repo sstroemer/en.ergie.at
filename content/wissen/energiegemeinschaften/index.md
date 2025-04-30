@@ -19,7 +19,7 @@ Eine Energiegemeinschaft (<abbr title="Energiegemeinschaft">EG</abbr>) ist ein Z
 
 Es gibt zwei Arten von Energiegemeinschaften: <mark>Bürgerenergiegemeinschaften</mark> und <mark>Erneuerbare Energiegemeinschaften</mark>, die sich in vielen grundlegenden Punkten voneinander unterscheiden.
 
-### Erneuerbare Energiegemeinschaften (<abbr title="Erneuerbare Energiegemeinschaft">EEG</abbr>s)
+### Erneuerbare Energiegemeinschaften (<abbr title="Erneuerbare Energiegemeinschaft">EEG</abbr>en)
 
 Im Rahmen von Erneuerbaren Energiegemeinschaften kann Energie aus erneuerbaren Quellen gemeinschaftlich produziert, gespeichert und genutzt werden. Dabei handelt es sich vorrangig um erneuerbaren Strom, das Konzept steht jedoch auch erneuerbarer Wärme und erneuerbarem Gas offen. [^EEG] Mit Stand April 2025 gibt es in Österreich über 3000 Erneuerbare Energiegemeinschaften im Strombereich. In den Bereichen Wärme und Gas gibt es bisher noch keine Anwendungsfälle. [^orf]
 
@@ -40,7 +40,7 @@ Sind die Mitglieder hingegen an Niederspannungsanlagen (Netzebene 6/7) angeschlo
 
 Für den [leistungsbezogenen Teil des Netznutzungsentgeltes](/wissen/netzentgeltmodell/) gilt folgende Erleichterung: Die bezogene Leistung aus dem öffentlichen Netz wird um die innerhalb der <abbr title="Erneuerbare Energiegemeinschaft">EEG</abbr> bezogene Leistung vermindert. [^EG_FAQ]
 
-### Bürgerenergiegemeinschaften (<abbr title="Bürgerenergiegemeinschaft">BEG</abbr>s)
+### Bürgerenergiegemeinschaften (<abbr title="Bürgerenergiegemeinschaft">BEG</abbr>en)
 
 Im Gegensatz zu Erneuerbaren Energiegemeinschaften kann in Bürgerenergiegemeinschaften ausschließlich Strom gehandelt werden. Dieser muss nicht zwingend aus erneuerbaren Quellen stammen. <abbr title="Bürgerenergiegemeinschaft">BEG</abbr>en sind geografisch nicht eingeschränkt und können sich über ganz Österreich erstrecken. Dadurch lassen sich innerhalb einer <abbr title="Bürgerenergiegemeinschaft">BEG</abbr> größere Erzeugungskapazitäten realisieren. In <abbr title="Bürgerenergiegemeinschaft">BEG</abbr>en gibt es jedoch keine finanziellen Vergünstigungen. Elektrizitätsunternehmen und Großunternehmen dürfen an <abbr title="Bürgerenergiegemeinschaft">BEG</abbr>en teilnehmen, die Kontrolle muss jedoch bei natürlichen Personen, Gemeinden oder kleinen Unternehmen liegen. [^BEG]
 
