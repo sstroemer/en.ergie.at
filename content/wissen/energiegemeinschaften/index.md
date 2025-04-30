@@ -17,7 +17,7 @@ Eine Energiegemeinschaft (<abbr title="Energiegemeinschaft">EG</abbr>) ist ein Z
 
 ## Arten von Energiegemeinschaften
 
-Es gibt zwei Arten von Energiegemeinschaften: Bürgerenergiegemeinschaften und Erneuerbare Energiegemeinschaften, die sich in vielen grundlegenden Punkten voneinander unterscheiden.
+Es gibt zwei Arten von Energiegemeinschaften: <mark>Bürgerenergiegemeinschaften</mark> und <mark>Erneuerbare Energiegemeinschaften</mark>, die sich in vielen grundlegenden Punkten voneinander unterscheiden.
 
 ### Erneuerbare Energiegemeinschaften (<abbr title="Erneuerbare Energiegemeinschaft">EEG</abbr>s)
 
