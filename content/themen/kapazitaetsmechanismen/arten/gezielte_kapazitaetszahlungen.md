@@ -4,12 +4,12 @@ topics: []
 authors: ["afischer"]
 ---
 
+Gezielte Kapazitätszahlungen setzen auf finanzielle Anreize für bestimmte Anlagen, um systemrelevante Funktionen wie Reserveleistung oder den Ausgleich struktureller Umbrüche im Strommarkt sicherzustellen – jenseits marktweiter Mechanismen.
+
 <br>
 {{< alert >}}
 Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per [GitHub Issue melden](https://github.com/ait-energy/en.ergie.at/issues).
 {{< /alert >}}
-
-Gezielte Kapazitätszahlungen setzen auf finanzielle Anreize für bestimmte Anlagen, um systemrelevante Funktionen wie Reserveleistung oder den Ausgleich struktureller Umbrüche im Strommarkt sicherzustellen – jenseits marktweiter Mechanismen.
 
 ## Beschreibung
 

@@ -13,9 +13,9 @@ Um ausreichende Kapazitäten für eine zuverlässige Stromversorgung sicherzuste
 Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per [GitHub Issue melden](https://github.com/ait-energy/en.ergie.at/issues).
 {{< /alert >}}
 
-Eine Übersicht der Arten von Kapazitätsmechanismen ist in folgender Abbildung dargestellt.
-![Übersicht der Kapazitätsmechanismen](./Übersicht_Kapazitätsmechanismen.jpg)
-*Quelle: [European Commission](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52016SC0385&from=EN)*
+![Übersicht der Kapazitätsmechanismen](/images/arten/uebersicht_kapazitaetsmechanismen.jpg)
+*Quelle: [Übersicht der Kapazitätsmechanismen]*
+
 
 ## Gezielte Mechanismen
 
@@ -39,7 +39,7 @@ Bei einem marktweiten Mechanismus erhalten alle Kapazitäten, die zur Sicherstel
 
 ### 1. Zentraler Käufer
 
-Eine zentral festgelegte Gesamtkapazität wird durch ein zentrales Ausschreibungsverfahren beschafft, wobei der Markt den Preis bestimmt. [Mehr Erfahren]({{< relref "arten/marktweit_dezentraler_kaeufer.md" >}})
+Eine zentral festgelegte Gesamtkapazität wird durch ein zentrales Ausschreibungsverfahren beschafft, wobei der Markt den Preis bestimmt. [Mehr Erfahren]({{< relref "marktweit_zentraler_kaeufer.md" >}})
 
 ### 2. Dezentrale Verpflichtung
 
@@ -47,9 +47,98 @@ Stromlieferanten/Händler sind verpflichtet, Verträge mit Kapazitätsanbietern 
 
 ### 3. Marktweite Kapazitätszahlung
 
-Ein zentral festgelegter Kapazitätspreis, basierend auf Schätzungen, die erforderlich sind, um eine ausreichende Gesamtkapazität zu gewährleisten, wird an alle Kapazitätsanbieter des Marktes gezahlt. [Mehr Erfahren]({{< relref "arten/marktweit_dezentraler_kaeufer.md" >}})
+Ein zentral festgelegter Kapazitätspreis, basierend auf Schätzungen, die erforderlich sind, um eine ausreichende Gesamtkapazität zu gewährleisten, wird an alle Kapazitätsanbieter des Marktes gezahlt.
 
 Die Modelle des zentralen Käufers und der dezentralen Verpflichtung sind volumenbasiert und legen die erforderliche Kapazitätsmenge im Voraus fest, wobei die Preise durch den Markt bestimmt werden. Das Modell der marktweiten Kapazitätszahlung ist preisbasiert und legt den Kapazitätspreis im Voraus fest, wobei die Kapazitätsmenge variabel und auf die Marktreaktion basierend ist.
+
+## Vergleich Gezielte vs. Marktweite Mechanismen (ggf. verschieben)
+
+<table style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr>
+      <th style="text-align:left; border: 1px solid black; padding: 8px;">Eigenschaft</th>
+      <th style="text-align:left; border: 1px solid black; padding: 8px;">Gezielter KM (Strategische Reserve)</th>
+      <th style="text-align:left; border: 1px solid black; padding: 8px;">Marktweiter KM</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">Einfluss auf EOM</td>
+      <td style="border: 1px solid black; padding: 8px;">klein</td>
+      <td style="border: 1px solid black; padding: 8px;">groß</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">Verknüpfung mit dem Strommarkt</td>
+      <td style="border: 1px solid black; padding: 8px;">schwach: ineffiziente Verwendung verfügbarer Ressourcen</td>
+      <td style="border: 1px solid black; padding: 8px;">stark: effiziente Verwendung verfügbarer Ressourcen</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">Verwaltung des Kapazitätsbedarfs</td>
+      <td style="border: 1px solid black; padding: 8px;">Reaktiv: kurzfristige Kapazitätsauktionen mit kurzen Lieferzeiträumen</td>
+      <td style="border: 1px solid black; padding: 8px;">Proaktiv: Kapazitätsauktionen mit langen Lieferzeiträumen</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">Genehmigungsprozess bei der EC</td>
+      <td style="border: 1px solid black; padding: 8px;">Schnell</td>
+      <td style="border: 1px solid black; padding: 8px;">Langsam</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">Aufwand für den TSO sowie für die Anlagenbetreiber</td>
+      <td style="border: 1px solid black; padding: 8px;">Klein</td>
+      <td style="border: 1px solid black; padding: 8px;">Groß</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">Beschaffungsdesign</td>
+      <td style="border: 1px solid black; padding: 8px;">Geringer Komplexitätsgrad</td>
+      <td style="border: 1px solid black; padding: 8px;">Hoher Komplexitätsgrad</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">Anreize für Neuinvestitionen</td>
+      <td style="border: 1px solid black; padding: 8px;">Niedrig</td>
+      <td style="border: 1px solid black; padding: 8px;">Hoch</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">Konsument:innenschutz</td>
+      <td style="border: 1px solid black; padding: 8px;">Schwach</td>
+      <td style="border: 1px solid black; padding: 8px;">Stark</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;">Effekte auf Marktmacht</td>
+      <td style="border: 1px solid black; padding: 8px;">Hoch: hoher Anteil an Kapazität, der außerhalb des Marktes gehalten wird</td>
+      <td style="border: 1px solid black; padding: 8px;">Niedrig</td>
+    </tr>
+  </tbody>
+  <caption style="caption-side: bottom; text-align: left; padding-top: 8px;">
+    Vergleich von gezielten und marktweiten Kapazitätsmechanismen (basierend auf [58])
+  </caption>
+</table>
+
+
+##	Weitere Mechanismen der Investitionsanreizung zur Steigerung der Versorgungssicherheit
+
+### 1. Leistbarkeitsoptionen
+
+{{< embed_article link="/themen/kapazitaetsmechanismen/arten/leistbarkeitsoptionen" showHeader="false" >}}
+
+### 2. Kapazitätsabonnements
+
+{{< embed_article link="/themen/kapazitaetsmechanismen/arten/kapazitaetsabonnements" showHeader="false" >}}
+
+### 3. Contracts for Differences
+
+{{< embed_article link="/themen/kapazitaetsmechanismen/arten/contracts_for_differences" showHeader="false" >}}
+
+### 4. Zielgerichtete Unterstützungsprogramme
+
+{{< embed_article link="/themen/kapazitaetsmechanismen/arten/zielgerichtete_unterstuetzungsprog" showHeader="false" >}}
+
+### 5. Peak Shaving Produkte
+
+{{< embed_article link="/themen/kapazitaetsmechanismen/arten/peak_shaving_prods.md" showHeader="false" >}}
+
+### 6. Langzeit Power-Purchase-Agreements
+
+{{< embed_article link="/themen/kapazitaetsmechanismen/arten/langzeit_ppas.md" showHeader="false" >}}
 
 <!-- #
 

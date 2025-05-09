@@ -16,3 +16,5 @@ Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder
 {{< embed_article link="/themen/kapazitaetsmechanismen/warum/voraussetzung_eines_EOM" >}}
 <div class="h-8"></div>
 {{< embed_article link="/themen/kapazitaetsmechanismen/warum/analyse_der_voraussetzungen" >}}
+<div class="h-8"></div>
+{{< embed_article link="/themen/kapazitaetsmechanismen/warum/missing_money_quantitativ_historische_analyse.md" >}}

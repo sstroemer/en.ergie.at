@@ -4,12 +4,12 @@ topics: []
 authors: ["afischer"]
 ---
 
+Strategische Reserven dienen der Versorgungssicherheit in Ausnahmesituationen und werden außerhalb des Strommarkts vorgehalten. Ihr Design zielt auf Marktunabhängigkeit und technische Verfügbarkeit, bei gleichzeitig begrenztem Einfluss auf den Wettbewerb.
+
 <br>
 {{< alert >}}
 Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per [GitHub Issue melden](https://github.com/ait-energy/en.ergie.at/issues).
 {{< /alert >}}
-
-Strategische Reserven dienen der Versorgungssicherheit in Ausnahmesituationen und werden außerhalb des Strommarkts vorgehalten. Ihr Design zielt auf Marktunabhängigkeit und technische Verfügbarkeit, bei gleichzeitig begrenztem Einfluss auf den Wettbewerb.
 
 ## Beschreibung
 

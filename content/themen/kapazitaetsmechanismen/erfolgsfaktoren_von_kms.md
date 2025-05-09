@@ -1,5 +1,5 @@
 ---
-title: "Aspekte eines erfolgreichen Kapazitätsmechanismus"
+title: "Erfolgsfaktoren von Kapazitätsmechanismen"
 topics: []
 authors: ["afischer"]
 ---
@@ -20,7 +20,9 @@ In energiebegrenzten Systemen ist es genau umgekehrt: Hier entsteht Knappheit, w
 Ein kapazitätsbeschränktes System sollte daher die Fähigkeit der Akteure honorieren, kurzfristig Leistung bereitzustellen, um Spitzenlasten auszugleichen. Ein energiebegrenztes System hingegen sollte Anreize setzen, Ressourcen langfristig so zu bewirtschaften, dass sie insbesondere in Zeiten knapper Energie (z. B. in trockenen Jahren) verfügbar bleiben.
 
 ## Übersicht der Aspekte eines erfolgreichen Kapazitätsmechanismus:
-![Übersicht der Kapazitätsmechanismen](./saeulen_eines_erfolgeichen_kms.png)
+
+![Säulen eines erfolgreichen KMs](/images/erfolgsfaktoren_von_kms/saeulen_eines_erfolgeichen_kms.png)
+*Abb. 1: Säulen eines erfolgreichen Kapazitätsmechanismuses*
 
 ## 1. Anreize
 
