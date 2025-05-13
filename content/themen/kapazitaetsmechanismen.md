@@ -32,3 +32,7 @@ Der Strommarkt unterliegt starken Schwankungen und Markteingriffen, die die Vers
 ## Erfolgsfaktoren von Kapazitätsmechanismen
 {{< embed_article link="/themen/kapazitaetsmechanismen/erfolgsfaktoren_von_kms" showHeader="false" >}}
 <div class="h-8"></div>
+
+## Schlussfolgerungen
+{{< embed_article link="/themen/kapazitaetsmechanismen/schlussfolgerungen" showHeader="false" >}}
+<div class="h-8"></div>

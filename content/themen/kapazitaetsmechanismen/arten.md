@@ -51,67 +51,54 @@ Ein zentral festgelegter Kapazitätspreis, basierend auf Schätzungen, die erfor
 
 Die Modelle des zentralen Käufers und der dezentralen Verpflichtung sind volumenbasiert und legen die erforderliche Kapazitätsmenge im Voraus fest, wobei die Preise durch den Markt bestimmt werden. Das Modell der marktweiten Kapazitätszahlung ist preisbasiert und legt den Kapazitätspreis im Voraus fest, wobei die Kapazitätsmenge variabel und auf die Marktreaktion basierend ist.
 
+<details>
+<summary><strong>Analyse Marktweiter Mechanismen (ein-/ausklappen)</strong></summary>
+
+<br>
+
+Marktweite Mechanismen werden in den EU-Rechtsvorschriften weniger detailliert behandelt als strategische Reserven, wodurch mehr Gestaltungsmöglichkeiten bestehen, um ein geeignetes Design basierend auf nationalen Anforderungen auszuwählen.  
+In einem marktweiten Kapazitätsmechanismus bestimmen die Kapazitätsanbieter selbst, wann sie produzieren, basierend auf Preissignalen im Strommarkt. Anforderungen und Anreize für die Verfügbarkeit können ebenfalls hinzugefügt werden. Die starke Verknüpfung mit dem Strommarkt ermöglicht eine effiziente Nutzung der verfügbaren Ressourcen, vorausgesetzt, dass etwaige Anforderungen oder Anreize im Mechanismus die Gebotsstrategien der Betreiber nicht so beeinflussen, dass die Gebote von den variablen Kosten abweichen.
+
+Ein Hauptvorteil marktweiter Kapazitätsmechanismen liegt darin, dass sie eine proaktive Verwaltung von Kapazitätsbedarfen ermöglichen, die in den kommenden Jahren zu erwarten sind. Dies ist besonders wichtig, wenn der erwartete Bedarf an Kapazität die Versorgung durch bestehende Anlagen übersteigt, die noch nicht am Strommarkt teilnehmen. Zusätzliche Kapazität kann durch Vorwärtsauktionen mit langen Lieferzeiträumen beschafft werden, was Anreize für neue Investitionen schaffen sollte.
+
+Ein weiterer Aspekt ist, dass marktweite Kapazitätsmechanismen so gestaltet werden können, dass sie das Potenzial für Marktmacht von Produzenten begrenzen, während sie gleichzeitig Preisabsicherung für Kunden und Produzenten bieten.
+
+Als Nachteile können der zeitaufwändige Genehmigungsprozess bei der Europäischen Kommission (EK) und die komplexe Gestaltung des Beschaffungsprozesses mit Anforderungen an die grenzüberschreitende Teilnahme aufgeführt werden. Außerdem kann es notwendig sein, dass die Teilnehmer eine Art Vorausqualifikation und Verifizierungsverfahren durchlaufen müssen. Dies bedeutet zusätzlichen Aufwand für den ÜNB sowie für den Anlagenbetreiber, was kleinere Anbieter wie DR-Anbieter möglicherweise von der Teilnahme abhält.
+
+Eine weitere Komplexität ergibt sich aus den De-Rating-Faktoren, die verwendet werden, um Gebote unterschiedlicher Technologien vergleichbar zu machen. Diese sind komplex fair zu berechnen und können zu Verzerrungen im Markt führen.
+
+Zudem kann ein marktweiter Kapazitätsmechanismus zu einer verringerten Rentabilität (Preisschwankungen) flexibler Ressourcen in einem EOM führen. Dies gilt insbesondere, wenn der zentrale Käufer (bspw. ÜNB) zu viel Kapazität im Vergleich zum idealen Niveau beschafft, was zu einem Überangebot und niedrigen Preisen auf dem Energiemarkt führt. Da die erwarteten Einnahmen aus dem Energiemarkt sinken, steigen die Vergütungsanforderungen und Auktionsergebnisse auf den Kapazitätsmärkten. Ein überdimensionierter Kapazitätsmechanismus kann daher dazu führen, dass das Volumen neuer Investitionen vollständig durch einen ÜNB bestimmt wird, wodurch die grundlegende Funktion des deregulierten EOM untergraben wird [^1].
+
+Ein marktweiter Kapazitätsmechanismus ist nicht kosteneffektiv, wenn der Bedarf an zusätzlicher Kapazität zur Erfüllung des nationalen Zuverlässigkeitsstandards minimal und vorübergehend ist und nur eine geringe Anzahl an Betriebsstunden erwartet wird – besonders dann, wenn der Kapazitätsbedarf mit vorhandener Kapazität gedeckt werden kann, die ansonsten aus Rentabilitätsgründen stillgelegt würde.
+
+</details>
+
+
+
 ## Vergleich Gezielte vs. Marktweite Mechanismen (ggf. verschieben)
 
-<table style="border-collapse: collapse; width: 100%;">
-  <thead>
-    <tr>
-      <th style="text-align:left; border: 1px solid black; padding: 8px;">Eigenschaft</th>
-      <th style="text-align:left; border: 1px solid black; padding: 8px;">Gezielter KM (Strategische Reserve)</th>
-      <th style="text-align:left; border: 1px solid black; padding: 8px;">Marktweiter KM</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border: 1px solid black; padding: 8px;">Einfluss auf EOM</td>
-      <td style="border: 1px solid black; padding: 8px;">klein</td>
-      <td style="border: 1px solid black; padding: 8px;">groß</td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid black; padding: 8px;">Verknüpfung mit dem Strommarkt</td>
-      <td style="border: 1px solid black; padding: 8px;">schwach: ineffiziente Verwendung verfügbarer Ressourcen</td>
-      <td style="border: 1px solid black; padding: 8px;">stark: effiziente Verwendung verfügbarer Ressourcen</td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid black; padding: 8px;">Verwaltung des Kapazitätsbedarfs</td>
-      <td style="border: 1px solid black; padding: 8px;">Reaktiv: kurzfristige Kapazitätsauktionen mit kurzen Lieferzeiträumen</td>
-      <td style="border: 1px solid black; padding: 8px;">Proaktiv: Kapazitätsauktionen mit langen Lieferzeiträumen</td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid black; padding: 8px;">Genehmigungsprozess bei der EC</td>
-      <td style="border: 1px solid black; padding: 8px;">Schnell</td>
-      <td style="border: 1px solid black; padding: 8px;">Langsam</td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid black; padding: 8px;">Aufwand für den TSO sowie für die Anlagenbetreiber</td>
-      <td style="border: 1px solid black; padding: 8px;">Klein</td>
-      <td style="border: 1px solid black; padding: 8px;">Groß</td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid black; padding: 8px;">Beschaffungsdesign</td>
-      <td style="border: 1px solid black; padding: 8px;">Geringer Komplexitätsgrad</td>
-      <td style="border: 1px solid black; padding: 8px;">Hoher Komplexitätsgrad</td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid black; padding: 8px;">Anreize für Neuinvestitionen</td>
-      <td style="border: 1px solid black; padding: 8px;">Niedrig</td>
-      <td style="border: 1px solid black; padding: 8px;">Hoch</td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid black; padding: 8px;">Konsument:innenschutz</td>
-      <td style="border: 1px solid black; padding: 8px;">Schwach</td>
-      <td style="border: 1px solid black; padding: 8px;">Stark</td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid black; padding: 8px;">Effekte auf Marktmacht</td>
-      <td style="border: 1px solid black; padding: 8px;">Hoch: hoher Anteil an Kapazität, der außerhalb des Marktes gehalten wird</td>
-      <td style="border: 1px solid black; padding: 8px;">Niedrig</td>
-    </tr>
-  </tbody>
-  <caption style="caption-side: bottom; text-align: left; padding-top: 8px;">
-    Vergleich von gezielten und marktweiten Kapazitätsmechanismen (basierend auf [58])
-  </caption>
-</table>
+<details>
+<summary><strong>Klicken zum Ein-/Ausklappen der Tabelle</strong></summary>
+
+<br>
+
+| **Eigenschaft**                                           | **Gezielter KM (Strategische Reserve)**                                                | **Marktweiter KM**                                                |
+|-----------------------------------------------------------|-----------------------------------------------------------------------------------------|-------------------------------------------------------------------|
+| Einfluss auf EOM                                          | klein                                                                                   | groß                                                              |
+| Verknüpfung mit dem Strommarkt                            | schwach: ineffiziente Verwendung verfügbarer Ressourcen                                 | stark: effiziente Verwendung verfügbarer Ressourcen               |
+| Verwaltung des Kapazitätsbedarfs                          | Reaktiv: kurzfristige Kapazitätsauktionen mit kurzen Lieferzeiträumen                  | Proaktiv: Kapazitätsauktionen mit langen Lieferzeiträumen        |
+| Genehmigungsprozess bei der EC                            | Schnell                                                                                 | Langsam                                                           |
+| Aufwand für den TSO sowie für die Anlagenbetreiber        | Klein                                                                                   | Groß                                                              |
+| Beschaffungsdesign                                        | Geringer Komplexitätsgrad                                                              | Hoher Komplexitätsgrad                                            |
+| Anreize für Neuinvestitionen                              | Niedrig                                                                                 | Hoch                                                              |
+| Konsument:innenschutz                                     | Schwach                                                                                 | Stark                                                             |
+| Effekte auf Marktmacht                                    | Hoch: hoher Anteil an Kapazität, der außerhalb des Marktes gehalten wird               | Niedrig                                                           |
+
+*Tabelle 1: Vergleich von gezielten und marktweiten Kapazitätsmechanismen (basierend auf [^2])*
+
+</details>
+
+
 
 
 ##	Weitere Mechanismen der Investitionsanreizung zur Steigerung der Versorgungssicherheit
@@ -143,6 +130,12 @@ Die Modelle des zentralen Käufers und der dezentralen Verpflichtung sind volume
 ### 7. Unterbechbarkeitsregeln
 
 {{< embed_article link="/themen/kapazitaetsmechanismen/arten/unterbrechbarkeitsregeln.md" showHeader="false" >}}
+
+<!-- Fußnoten -->
+[^1]: D. Newbery, “Missing money and missing markets: Reliability, capacity auctions and interconnectors,” Energy Policy, vol. 94, pp. 401–410, Jul. 2016, doi: 10.1016/j.enpol.2015.10.028.
+
+[^2]: Svenska kraftnät proposes a future capacity mechanism to ensure resource adequacy in the electricity market. Accessed: Apr. 18, 2024. [Online]. Available: https://www.svk.se/en/about-us/news/news/svenska-kraftnat-proposes-a-future-capacity-mechanism-to-ensure-resource-adequacy-in-the-electricity-market/
+
 
 <!-- #
 
