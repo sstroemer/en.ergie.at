@@ -140,6 +140,10 @@ Die Modelle des zentralen Käufers und der dezentralen Verpflichtung sind volume
 
 {{< embed_article link="/themen/kapazitaetsmechanismen/arten/langzeit_ppas.md" showHeader="false" >}}
 
+### 7. Unterbechbarkeitsregeln
+
+{{< embed_article link="/themen/kapazitaetsmechanismen/arten/unterbrechbarkeitsregeln.md" showHeader="false" >}}
+
 <!-- #
 
 ## Gezielte Mechanismen: 

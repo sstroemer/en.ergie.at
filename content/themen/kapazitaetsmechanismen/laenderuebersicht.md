@@ -12,13 +12,13 @@ Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder
 {{< /alert >}}
 <br>
 
+### Übersicht
 Es gibt acht EU-Mitgliedstaaten mit aktiven Kapazitätsmechanismen: Belgien, Finnland, Frankreich, Deutschland, Irland (SEM), Italien, Polen und Schweden. Drei von ihnen (Finnland, Deutschland und Schweden) haben strategische Reserven eingerichtet, während die fünf anderen Mitgliedstaaten marktweite Kapazitätsmechanismen unterhalten. Spanien und Portugal haben keinen aktiven Kapazitätsmechanismus, aber einige langfristige Altverträge (gezielte Kapazitätszahlungen) gelten noch. 
-
-![Überblick über aktive und in Diskussion befindliche Kapazitätsmechanismen in Europa (basierend auf [29])](./laenderuebersicht_aktive_diskutierte_KMs_Europa.png)
 
 ![Überblick über aktive und in Diskussion befindliche Kapazitätsmechanismen in Europa (basierend auf [29])](/images/laenderuebersicht/laenderuebersicht_aktive_diskutierte_KMs_Europa.png)
 
 
+### Einzelseiten zu Kapazitätsmechanismen in den Ländern:
 - [Belgien]({{< ref "laenderuebersicht/be" >}})
 - [Deutschland]({{< ref "laenderuebersicht/de" >}})
 - [Finnland]({{< ref "laenderuebersicht/fi" >}})
@@ -31,23 +31,3 @@ Es gibt acht EU-Mitgliedstaaten mit aktiven Kapazitätsmechanismen: Belgien, Fin
 - [Schweden]({{< ref "laenderuebersicht/se" >}})
 - [Spanien]({{< ref "laenderuebersicht/es" >}})
 - [Vereinigtes Königreich]({{< ref "laenderuebersicht/uk" >}})
-
-<!--
-{{< embed_article link="/themen/kapazitaetsmechanismen/laenderuebersicht/deutschland" >}}
-<div class="h-8"></div>
-{{< embed_article link="/themen/kapazitaetsmechanismen/laenderuebersicht/finnland" >}}
-<div class="h-8"></div>
-{{< embed_article link="/themen/kapazitaetsmechanismen/laenderuebersicht/frankreich" >}}
-<div class="h-8"></div>
-{{< embed_article link="/themen/kapazitaetsmechanismen/laenderuebersicht/kroatien" >}}
-<div class="h-8"></div>
-{{< embed_article link="/themen/kapazitaetsmechanismen/laenderuebersicht/portugal" >}}
-<div class="h-8"></div>
-{{< embed_article link="/themen/kapazitaetsmechanismen/laenderuebersicht/schweden" >}}
-<div class="h-8"></div>
-{{< embed_article link="/themen/kapazitaetsmechanismen/laenderuebersicht/spanien" >}}
-<div class="h-8"></div>
-{{< embed_article link="/themen/kapazitaetsmechanismen/laenderuebersicht/irland" >}}
-<div class="h-8"></div>
-{{< embed_article link="/themen/kapazitaetsmechanismen/laenderuebersicht/italien" >}}
--->

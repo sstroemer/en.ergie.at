@@ -5,25 +5,26 @@ authors: ["afischer"]
 ---
 
 ## 1. Kernfragestellung und methodischer Ansatz
-Der folgende Abschnitt fokussiert auf die Frage, ob bestehende Kraftwerkskapazitäten im Setting eines Energy-Only-Markts ausreichend finanziert werden können. Ziel der Analyse ist somit ein ‚quantitativer Nachweis‘ des Missing Money auf historischer Basis für Österreich. 
+Der folgende Abschnitt fokussiert auf die Frage, ob bestehende Kraftwerkskapazitäten im Setting eines [Energy-Only-Markts]({{< ref "wissen/markt-energy-only/index.md" >}}) ausreichend finanziert werden können. Ziel der Analyse ist somit ein ‚quantitativer Nachweis‘ des Missing Money auf historischer Basis für Österreich. 
 
 Dazu werden für die Kraftwerkstechnologien
 
--	Gas und Dampfkraftwerk (CCGT, Combined Cycle Gas Turbine)
+-	Gas und Dampfkraftwerk (<abbr title="Combined Cycle Gas Turbine">CCGT</abbr>)
 -	Gas Turbine
 -	Kohle
 
-werden die historischen Kosten (auf Basis der beobachtbaren Börsenpreise für Gas, Kohle und Co2) und Erlöse (auf Basis der stündlichen Day-ahead Marktergebnisse) gegenübergestellt und beurteilt, ob die Investitionen (auf Basis CAPEX/OPEX Werte der Danish Technology Database) finanzierbar sind.
+werden die historischen Kosten (auf Basis der beobachtbaren Börsenpreise für Gas, Kohle und Co2) und Erlöse (auf Basis der stündlichen [Day-ahead]({{< ref "wissen/markt-energy-only/index.md" >}}) Marktergebnisse) gegenübergestellt und beurteilt, ob die Investitionen (auf Basis <abbr title="Capital Expenditure">CAPEX</abbr>/
+<abbr title="Operational Expenditure">OPEX</abbr> Werte der Danish Technology Database) finanzierbar sind.
 Zur Determinierung des stündlichen Kraftwerkseinsatzes wurden zwei verschiedene Ansätze verfolgt
 -	**Theoretisch optimaler Kraftwerkseinsatz**: Voller Einsatz, in Stunden mit positivem Deckungsbeitrag (Erlöse > Grenzkosten)
--	**Historisch beobachteter Kraftwerkseinsatz**: historischer Kraftwerkseinsatz laut entso-e [25] für den gesamten Österreichischen ‚Gas‘ Kraftwerkspark
+-	**Historisch beobachteter Kraftwerkseinsatz**: historischer Kraftwerkseinsatz laut entso-e [^1] für den gesamten Österreichischen ‚Gas‘ Kraftwerkspark
 Die Analyse erfolgt auf historischer Basis für die Jahre 2015-2023.
 
 
 ## 2. Annahmen und Eingangsgrößen
 
 ### 2.1 Preisentwicklung
-Zur Entwicklung der Strompreise wurden die stündlichen Werte der EPEX Day-ahead 60-Minuten Auktion herangezogen, Zugriff via https://transparency.entsoe.eu/ [25]. Für die Ermittlung der Grenzkosten der jeweiligen Kraftwerke wurden die Preise der Rohstoffe näherungsweise bestimmt. Dazu wurden die grafischen Informationen von tradingeconomics.com für Gas, Kohle und Co2 verwertet [26], [27], [28] und die (näherungsweise) tatsächlichen Werte mittels https://plotdigitizer.com/ extrahiert. Anschließend wurden die Werte auf Tagesbasis interpoliert und in einem weiteren Schritt auf Monatsbasis gemittelt. 
+Zur Entwicklung der Strompreise wurden die stündlichen Werte der EPEX [Day-ahead]({{< ref "wissen/markt-energy-only/index.md" >}}) 60-Minuten Auktion herangezogen, Zugriff via https://transparency.entsoe.eu/ [^1]. Für die Ermittlung der Grenzkosten der jeweiligen Kraftwerke wurden die Preise der Rohstoffe näherungsweise bestimmt. Dazu wurden die grafischen Informationen von tradingeconomics.com für Gas, Kohle und Co2 verwertet [^2], [^3], [^4] und die (näherungsweise) tatsächlichen Werte mittels https://plotdigitizer.com/ extrahiert. Anschließend wurden die Werte auf Tagesbasis interpoliert und in einem weiteren Schritt auf Monatsbasis gemittelt. 
 
 ![Preisentwicklung Commodities und Strom](/images/missing_money_quantitativ_historische_analyse/preisentwicklung_commodities_und_strom.png)
 *Abb. 1: Preisentwicklung Commodities und Strom*
@@ -39,7 +40,7 @@ Abbildung 3 zeigt den gleichen Zusammenhang auf einer stündlichen Ebene. Auch h
 *Abb. 3: Zusammenhang Strompreis und Grenzkosten: monatlich*
 
 ### 2.2 CAPEX, OPEX, Inflation und technische Annahmen
-Des Weiteren wurden generische Annahmen bezüglich der Investitions- und Betriebskosten der jeweiligen Kraftwerkstechnologie auf Basis des ‚Technology Catalogues‘ der Dänischen Energieagentur herangezogen [29]. Eine Zusammenfassung der Werte ist in Tabelle 1 dargestellt. Für die Analyse wurden Werte für das Jahr 2030 herangezogen um bewusst optimistische Werte auszuwählen. Darüber hinaus wurden Annahmen zur Co2-Intensität der jeweiligen Energieträger getroffen. Diese sind in Tabelle 2 zusammengefasst.
+Des Weiteren wurden generische Annahmen bezüglich der Investitions- und Betriebskosten der jeweiligen Kraftwerkstechnologie auf Basis des ‚Technology Catalogues‘ der Dänischen Energieagentur herangezogen [^5]. Eine Zusammenfassung der Werte ist in Tabelle 1 dargestellt. Für die Analyse wurden Werte für das Jahr 2030 herangezogen um bewusst optimistische Werte auszuwählen. Darüber hinaus wurden Annahmen zur Co2-Intensität der jeweiligen Energieträger getroffen. Diese sind in Tabelle 2 zusammengefasst.
 
 |                          | GT     | CCGT   | Coal   |
 |--------------------------|--------|--------|--------|
@@ -49,7 +50,7 @@ Des Weiteren wurden generische Annahmen bezüglich der Investitions- und Betrieb
 | **Fixed O&M (€/MW/y)**   | 18600  | 27800  | 30355  |
 | **Variable O&M (€/MWh)** | 4.2    | 4.2    | 2.8    |
 
-*Tabelle 1: Annahmen zu den Investitions- und Betriebskosten [29]*
+*Tabelle 1: Annahmen zu den Investitions- und Betriebskosten [^5]*
 
 |                             | Gas  | Coal |
 |-----------------------------|------|------|
@@ -57,7 +58,7 @@ Des Weiteren wurden generische Annahmen bezüglich der Investitions- und Betrieb
 
 *Tabelle 2: Annahmen zur CO2-Intensität*
 
-Die nominalen Geldwerte hinsichtlich der Strom- und Commoditypreise wurden auf reale Werte 2015 angepasst, basierend auf den Inflationsdaten für Österreich laut des Harmonisierten Verbraucherpreisindex (HICP) von Eurostat [30], um den Geldwerteinheiten der Dänischen Energieagentur zu entsprechen.
+Die nominalen Geldwerte hinsichtlich der Strom- und Commoditypreise wurden auf reale Werte 2015 angepasst, basierend auf den Inflationsdaten für Österreich laut des Harmonisierten Verbraucherpreisindex (HICP) von Eurostat [^6], um den Geldwerteinheiten der Dänischen Energieagentur zu entsprechen.
 
 | Year   | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 |
 |--------|------|------|------|------|------|------|------|------|------|
@@ -75,15 +76,15 @@ Das ist eine direkte Folge der impliziten idealen Flexibilität, die das modelli
 *Abb. 4: Jährliche Kraftwerksauslastung für Kohle/GuD für historischen/theoretischen Kraftwerkseinsatz*
 
 ![Stündliche Kraftwerksauslastung für Kohle/GuD für historischen/theoretischen Kraftwerkseinsatz](/images/missing_money_quantitativ_historische_analyse/stündliche_kraftwerksauslastung_für_kohle_gud_für_historischen_theoretischen_kraftwerkseinsatz.png)
-*Abb. 5: Stündliche Kraftwerksauslastung für Kohle/GuD für historischen/theoretischen Kraftwerkseinsatz*
+*Abb. 5: Stündliche Kraftwerksauslastung für Kohle/<abbr title="Gas- und Dampfkraftwerk">GuD</abbr> für historischen/theoretischen Kraftwerkseinsatz*
 
 ### 3.2 Deckungsbeiträge
-Abbildung 6 stellt den auf Basis des Kraftwerkseinsatzes (theoretisch/historisch) ermittelten Deckungsbeitrag mit den Fixkosten gegenüber. Die Fixkosten setzen sich zusammen aus 1) den einsatzunabhängigen O&M-Kosten auf jährlicher Basis sowie 2) den Kosten für die Abschreibung des Kapitaleinsatzes. Wie zu erwarten ergeben sich im ‚theoretischen‘ Ansatz deutlich höhere Deckungsbeiträge.
+Abbildung 6 stellt den auf Basis des Kraftwerkseinsatzes (theoretisch/historisch) ermittelten Deckungsbeitrag mit den Fixkosten gegenüber. Die Fixkosten setzen sich zusammen aus 1) den einsatzunabhängigen <abbr title="Operations and Maintenance">O&M</abbr>-Kosten auf jährlicher Basis sowie 2) den Kosten für die Abschreibung des Kapitaleinsatzes. Wie zu erwarten ergeben sich im ‚theoretischen‘ Ansatz deutlich höhere Deckungsbeiträge.
 
 ![Deckungsbeitrag im Vergleich zu den Fixkosten im theoretischen bzw. historischen Ansatz](/images/missing_money_quantitativ_historische_analyse/deckungsbeitrag_im_vergleich_zu_den_fixkosten_im_theoretischen_bzw._historischen_ansatz.png)
 *Abb. 6: Deckungsbeitrag im Vergleich zu den Fixkosten im theoretischen bzw. historischen Ansatz*
 
-Abbildung 7 illustriert das Missing Money explizit. Daraus ergibt sich ein differenziertes Bild. In der ‚theoretischen‘ Betrachtung ergeben sich Verluste von rund 5€k/MW/a für ein idealtypisches GuD-Kraftwerk, Überschüsse von etwa 25 €k/MW/a für ein idealtypisches Kohlekraftwerk und Verluste von 40 €k/MW/a für eine idealtypische Gasturbine.
+Abbildung 7 illustriert das Missing Money explizit. Daraus ergibt sich ein differenziertes Bild. In der ‚theoretischen‘ Betrachtung ergeben sich Verluste von rund 5€k/MW/a für ein idealtypisches <abbr title="Gas- und Dampfkraftwerk">GuD</abbr>-Kraftwerk, Überschüsse von etwa 25 €k/MW/a für ein idealtypisches Kohlekraftwerk und Verluste von 40 €k/MW/a für eine idealtypische Gasturbine.
 
 ![Missing money in der theoretischen Betrachtung (positive Werte = Verluste)](/images/missing_money_quantitativ_historische_analyse/missing_money_in_der_theoretischen_betrachtung_positive_werte_verluste.png)
 *Abb. 7: Deckungsbeitrag im Vergleich zu den Fixkosten im theoretischen bzw. historischen Ansatz*
@@ -103,7 +104,7 @@ Mit einem Blick auf den zeitlichen Verlauf der Erlöse relativieren sich daher d
 ## 4 Schlussfolgerung, Einordnung und Limitation
 
 ### 4.1 Kernaussagen
--	Auf Basis der historischen Preisentwicklung ergeben sich keine starken Investitionsanreize in GuD, Kohle oder GT
+-	Auf Basis der historischen Preisentwicklung ergeben sich keine starken Investitionsanreize in <abbr title="Gas- und Dampfkraftwerk">GuD</abbr>, Kohle oder <abbr title="Gas Turbine">GT</abbr>
 -	Die genannten Technologien können im betrachteten Zeitraum ausreichend Deckungsbeitrag zur Deckung der Fixkosten erwirtschaften.
 -	Diese Erkenntnis steht und fällt jedoch mit dem Auftreten des Jahres 2022 und ist äußerst sensitiv auf die Ex/Inklusion dieses Jahres
 
@@ -123,3 +124,17 @@ Sämtlichen hier genannten Limitationen sprechen tendenziell für eine <u>Über<
 - Keine Erlöse aus Regelenergie berücksichtigt
 - Keine Erlöse aus Redispatch  berücksichtigt
 - Keine Erlöse aus Wärmeauskopplung (für KWK)
+
+<!-- Fußnoten -->
+
+[^1]: ENTSO-E, “ENTSO-E Transparency Platform,” ENTSO-E Transparency Platform. Accessed: Aug. 03, 2024. [Online]. Available: https://transparency.entsoe.eu
+
+[^2]: Trading Economics, “Trading Economics Gas,” EU Natural Gas TTF. Accessed: Aug. 03, 2024. [Online]. Available: https://tradingeconomics.com/commodity/eu-natural-gas
+
+[^3]: Trading Economics, “Trading Economics Coal,” Trading Economics Coal. Accessed: Aug. 03, 2024. [Online]. Available: https://tradingeconomics.com/commodity/coal
+
+[^4]: Trading Economics, “Trading Economics EU-ETS,” EU Carbon Permits. Accessed: Aug. 03, 2024. [Online]. Available: https://tradingeconomics.com/commodity/carbon
+
+[^5]: Danish Energy Agency, “Technology Data for Power and Heat Production Plants,” Copenhagen, Apr. 2024. [Online]. Available: https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating
+
+[^6]: Eurostat, “Harmonised index of consumer prices (HICP).” doi: https://doi.org/10.2908/PRC_HICP_AIND.

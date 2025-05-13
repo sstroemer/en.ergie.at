@@ -3,7 +3,6 @@ title: "Ausgestaltungsfaktoren von Kapazitätsmärkten"
 topics: []
 authors: ["afischer"]
 ---
-
 Kapazitätsmechanismen sind komplexe Instrumente zur Gewährleistung der Versorgungssicherheit in Strommärkten. Sie bestehen aus einer Vielzahl ineinandergreifender Elemente, deren Ausgestaltung erheblich variiert. Diese Seite bietet einen systematischen Überblick über zentrale Gestaltungsaspekte wie das [Auktionsdesign](#auktionsdesign), die [Definition und Zertifizierung von Kapazität](#kapazitätsdefinition), [Derating-Faktoren](#derating) sowie [vertragliche Rahmenbedingungen](#vertragsparameter). Darüber hinaus werden Fragen der [Vergütungsstruktur](#verguetungsstruktur), [Kostenallokation](#kostenallokation) und [institutionellen Zuständigkeiten](#governance) beleuchtet. Anhand konkreter Beispiele aus europäischen Ländern werden unterschiedliche Mechanismendesigns dargestellt, um ein besseres Verständnis für deren Aufbau, Funktionen und praktische Umsetzung zu ermöglichen.
 
 {{< timeline >}}
@@ -143,6 +142,18 @@ Kapazitätsmechanismen sind komplexe Instrumente zur Gewährleistung der Versorg
 
 {{< /timelineItem >}}
 
+## Governance & Institutionelle Zuständigkeiten {#governance .sr-only}
+{{% timelineItem icon="shield" subheader="ÜNB, Regulierungsbehörden & dezentrale Modelle" %}}
+## Governance & Institutionelle Zuständigkeiten {#governance}
+
+<ul>
+  <li><strong>Zentrale Rolle der ÜNB:</strong> Übertragungsnetzbetreiber agieren insb. bei zentralen organisierten KMs als Beschaffungsstellen, koordinieren Ausschreibungen (z. B. Belgien, Polen) und überwachen die Vertragserfüllung der Kapazitätsanbieter.</li>
+  <li><strong>Aufgabe der Regulierungsbehörden:</strong> Genehmigung von Auktionsparametern, Festlegung von Preisobergrenzen und Bewertungsverfahren (z. B. Irland) – für Transparenz, Nichtdiskriminierung und Kostenkontrolle.</li>
+  <li><strong>Dezentrale Modelle:</strong> Verantwortung liegt bei Marktakteuren (Stromlieferanten, Großverbraucher, Verteilnetzbetreiber), die Kapazitätszertifikate nach ihrem Spitzenlastanteil erwerben müssen (z. B. Frankreich). Dezentrale Strukturen ermöglichen regionale Nachfrageabbildung, sind aber administrativ aufwendiger und verursachen höhere Transaktionskosten.</li>
+  <li><strong>Einfluss auf Effizienz & Integration:</strong> Die institutionelle Zuständigkeit bestimmt maßgeblich Effizienz, Steuerbarkeit und Integration des Kapazitätsmechanismus in bestehenden Marktstrukturen.</li>
+</ul>
+{{% /timelineItem %}}
 {{< /timeline >}}
+
 
 {{< backtotop >}}

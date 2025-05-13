@@ -38,15 +38,15 @@ Ein kapazitätsbeschränktes System sollte daher die Fähigkeit der Akteure hono
 ## 2. Effizienz
 
 - **Kontrolle der Systemkosten:**  
-  Ein effektiver KM muss die Systemkosten im Blick behalten und darf diese nicht unkontrolliert ansteigen lassen, um wirtschaftliche Belastungen zu vermeiden. Ein Beispiel dafür ist die Situation in der Ukraine, wo trotz Vermeidung eines Blackouts extrem hohe Preise auftraten. Der KM sollte Versorgungssicherheit sicherstellen, ohne Endverbraucher erheblich zu belasten.
+  Ein effektiver <abbr title="Kapazitätsmechanismus">KM</abbr> muss die Systemkosten im Blick behalten und darf diese nicht unkontrolliert ansteigen lassen, um wirtschaftliche Belastungen zu vermeiden. Ein Beispiel dafür ist die Situation in der Ukraine, wo trotz Vermeidung eines Blackouts extrem hohe Preise auftraten. Der <abbr title="Kapazitätsmechanismus">KM</abbr> sollte Versorgungssicherheit sicherstellen, ohne Endverbraucher erheblich zu belasten.
 
 - **Vermeidung von Marktverzerrungen:**  
-  Der KM sollte bestehende Energiemärkte nicht verzerren. Idealerweise fügt er sich nahtlos in die vorhandenen Marktstrukturen ein, um den Wettbewerb und die Effizienz des gesamten Marktes zu erhalten.
+  Der <abbr title="Kapazitätsmechanismus">KM</abbr> sollte bestehende Energiemärkte nicht verzerren. Idealerweise fügt er sich nahtlos in die vorhandenen Marktstrukturen ein, um den Wettbewerb und die Effizienz des gesamten Marktes zu erhalten.
 
 ## 3. Klima- und Technologieneutralität
 
-Ein KM muss klima- und technologieneutral ausgestaltet sein. Er sollte keine spezifischen Technologien bevorzugen oder benachteiligen, aber gleichzeitig emissionsarme oder emissionsfreie Technologien zur Teilnahme motivieren.
+Ein <abbr title="Kapazitätsmechanismus">KM</abbr> muss klima- und technologieneutral ausgestaltet sein. Er sollte keine spezifischen Technologien bevorzugen oder benachteiligen, aber gleichzeitig emissionsarme oder emissionsfreie Technologien zur Teilnahme motivieren.
 
 ## 4. Lösung für das „Missing Money“-Problem
 
-Ein KM muss eine Lösung für das sogenannte „Missing Money“-Problem bieten, indem er zusätzliche Einnahmequellen schafft oder Anreize setzt, die sicherstellen, dass Erzeuger trotz volatiler Marktbedingungen angemessen vergütet werden.
+Ein <abbr title="Kapazitätsmechanismus">KM</abbr> muss eine Lösung für das sogenannte „Missing Money“-Problem bieten, indem er zusätzliche Einnahmequellen schafft oder Anreize setzt, die sicherstellen, dass Erzeuger trotz volatiler Marktbedingungen angemessen vergütet werden.
