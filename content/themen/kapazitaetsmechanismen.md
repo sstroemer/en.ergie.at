@@ -22,7 +22,7 @@ Der Strommarkt unterliegt starken Schwankungen und Markteingriffen, die die Vers
 ## Arten von Kapazitätsmechanismen
 {{< embed_article link="/themen/kapazitaetsmechanismen/arten" showHeader="false" >}}
 
-## Länderübersicht
+## Länder & Auktionen
 {{< embed_article link="/themen/kapazitaetsmechanismen/laenderuebersicht" showHeader="false" >}}
 <div class="h-8"></div>
 
