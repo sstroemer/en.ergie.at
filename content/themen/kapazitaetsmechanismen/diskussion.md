@@ -30,6 +30,24 @@ Die Studie analysiert die Notwendigkeit und Ausgestaltung eines Kapazitätsmecha
 
 {{< /timelineItem >}}
 
+<!-- ===================================== ENTSOE Policy Paper on CM =================================================================== -->
+
+{{< timelineItem icon="comment" header="The role of Capacity Mechanisms to enable a secure and competitive energy transition" badge="16.04.2025" subheader="Von: Frontier Economics" >}}
+
+<blockquote>
+Das ENTSO-E-Positionspapier diskutiert die Rolle von Kapazitätsmechanismen (KMs) in Europa. Kapazitätsmechanismen, die früher als temporäre Lösungen galten, werden nun als potenzielle strukturelle Bestandteile der Strommärkte betrachtet. Das Papier skizziert zentrale Gestaltungsprinzipien für effektive KMs. Es betont außerdem die Bedeutung grenzüberschreitender Teilnahme und Koordination der Übertragungsnetzbetreiber (TSOs). ENTSO-E formuliert Empfehlungen an politische Entscheidungstäger, um KMs mit übergeordneten Zielen wie Dekarbonisierung und Marktintegration in Einklang zu bringen.
+</blockquote>
+
+<u>Informationen</u>:<br>
+<ul>
+  <li><a href="https://eepublicdownloads.blob.core.windows.net/public-cdn-container/clean-documents/Publications/Position%20papers%20and%20reports/2025/entso-e_pp_capacity_mechanisms_250415.pdf"><mark>Gesamte Studie hier lesen!</mark></a></li>
+  <li><a href="ENTSO-E Paper on the role of Capacity Mechanisms to enable a secure and competitive energy transition">ENTSO-E Paper on the role of Capacity Mechanisms to enable a secure and competitive energy transition</a></li>
+</ul>
+
+{{< /timelineItem >}}
+
+<!-- ===================================== Frontier Kombinierter Kapazitätsmarkt =================================================================== -->
+
 {{< timelineItem icon="comment" header="Kombinierter Kapazitätsmarkt - eine Analyse der Vor- und Nachteile" badge="14.11.2024" subheader="Von: Frontier Economics" >}}
 
 <blockquote>
