@@ -10,10 +10,25 @@ Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder
 {{< /alert >}}
 <br>
 
-Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos. abc
 
-<!-- =============================================================================================================== -->
+<!-- ===================================== Studie Kapazitätsmarkt Österrreich =================================================================== -->
 {{< timeline >}}
+
+{{< timelineItem icon="comment" header="Studie Kapazitätsmarkt Österreich" badge="14.04.2025" subheader="Von: Fraunhofer Institut für System- und Innovationsforschung ISI" >}}
+
+<blockquote>
+Die Studie analysiert die Notwendigkeit und Ausgestaltung eines Kapazitätsmechanismus für den österreichischen Strommarkt. Die Autoren schlagen einen kombinierten Kapazitätsmarkt vor, der zentrale und dezentrale Elemente integriert, um Versorgungssicherheit und Investitionsanreize zu gewährleisten. 
+</blockquote>
+
+<u>Informationen</u>:<br>
+<ul>
+  <li><a href="https://positionen.wienenergie.at/wp-content/uploads/2025/05/Kapazitaetsmarkt-Oesterreich_Fraunhofer-ISI.pdf"><mark>Gesamte Studie hier lesen!</mark></a></li>
+  <li><a href="https://positionen.wienenergie.at/studien/kapazitaetsmarkt-studie/">Ein kombinierter Kapazitätsmarkt für Österreich</a></li>
+  <li><a href="https://positionen.wienenergie.at/blog/nachbericht-11-energiewirtschaftliches-kolloquium/">Nachbericht zum 11. Energiewirtschaftlichen Kolloquium der Wien Energie</a></li>
+</ul>
+
+{{< /timelineItem >}}
 
 {{< timelineItem icon="comment" header="Kombinierter Kapazitätsmarkt - eine Analyse der Vor- und Nachteile" badge="14.11.2024" subheader="Von: Frontier Economics" >}}
 
