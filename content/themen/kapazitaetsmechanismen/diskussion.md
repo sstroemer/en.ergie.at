@@ -63,6 +63,21 @@ Die Kurzstudie analysiert die Integration dezentraler Flexibilitäten wie Speich
 
 {{< /timelineItem >}}
 
+<!-- ===================================== European Comission Report on streamlining CMs =================================================================== -->
+
+{{< timelineItem icon="comment" header="BERICHT DER KOMMISSION AN DAS EUROPÄISCHE PARLAMENT UND DEN RAT über die Bewertung – gemäß Artikel 69 Absatz 3 der Verordnung (EU) 2019/943 – der Möglichkeiten zur Straffung und Vereinfachung des Verfahrens für die Anwendung eines Kapazitätsmechanismus gemäß Kapitel IV der Verordnung (EU) 2019/943 " badge="03.03.2025" subheader="Von: Europäische Kommission" >}}
+
+<blockquote>
+Der Bericht beschreibt den Status der Implementierung der EU Rahmenbedingungen bezüglich Kapazitätsmechanismen und den daraus gewonnenen "main lessons learned". Außerdem schlägt die EU Kommission Prozesse für die Straffung und Simplifizierung des Genehmigungsverfahrens für Kapazitätsmechanismen vor.  
+</blockquote>
+
+<u>Informationen</u>:<br>
+<ul>
+  <li><a href="https://op.europa.eu/en/publication-detail/-/publication/10c8f42f-f9d5-11ef-b7db-01aa75ed71a1/language-de"><mark>Gesamten Bericht hier lesen!</mark></a></li>
+</ul>
+
+{{< /timelineItem >}}
+
 <!-- ===================================== Frontier Kombinierter Kapazitätsmarkt =================================================================== -->
 
 {{< timelineItem icon="comment" header="Kombinierter Kapazitätsmarkt - eine Analyse der Vor- und Nachteile" badge="14.11.2024" subheader="Von: Frontier Economics" >}}
