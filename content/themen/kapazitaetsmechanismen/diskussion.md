@@ -15,7 +15,7 @@ Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapi
 <!-- ===================================== Studie Kapazitätsmarkt Österrreich =================================================================== -->
 {{< timeline >}}
 
-{{< timelineItem icon="comment" header="Studie Kapazitätsmarkt Österreich" badge="14.04.2025" subheader="Von: Fraunhofer Institut für System- und Innovationsforschung ISI" >}}
+{{< timelineItem icon="comment" header="Studie Kapazitätsmarkt Österreich" badge="14.04.2025" subheader="Von: Fraunhofer ISI" >}}
 
 <blockquote>
 Die Studie analysiert die Notwendigkeit und Ausgestaltung eines Kapazitätsmechanismus für den österreichischen Strommarkt. Die Autoren schlagen einen kombinierten Kapazitätsmarkt vor, der zentrale und dezentrale Elemente integriert, um Versorgungssicherheit und Investitionsanreize zu gewährleisten. 
