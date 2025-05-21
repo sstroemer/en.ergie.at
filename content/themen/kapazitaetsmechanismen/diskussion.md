@@ -15,10 +15,9 @@ Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapi
 <!-- ===================================== Studie Kapazitätsmarkt Österrreich =================================================================== -->
 {{< timeline >}}
 
-{{< timelineItem icon="comment" header="Studie Kapazitätsmarkt Österreich" badge="14.04.2025" >}}
+{{< timelineItem icon="comment" header="Studie Kapazitätsmarkt Österreich" badge="14.04.2025" subheader="Von: Fraunhofer ISI">}}
 
-<div style="margin-top: -1.5em; margin-bottom: -1.5em;">
-  <h4>Von: Fraunhofer ISI</h4>
+<div style="margin-bottom: -1.5em;">
   <details>
     <summary><span style="cursor: pointer; font-weight: 500;">Anzeigen: <u>Zusammenfassung</u></span></summary>
     <blockquote>
