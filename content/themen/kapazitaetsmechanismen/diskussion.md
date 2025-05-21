@@ -49,8 +49,8 @@ Das ENTSO-E-Positionspapier diskutiert die Rolle von Kapazitätsmechanismen (KMs
 
 <u>Informationen</u>:<br>
 <ul>
-  <li><a href="https://eepublicdownloads.blob.core.windows.net/public-cdn-container/clean-documents/Publications/Position%20papers%20and%20reports/2025/entso-e_pp_capacity_mechanisms_250415.pdf"><mark>Gesamte Studie hier lesen!</mark></a></li>
-  <li><a href="https://www.entsoe.eu/2025/04/16/entso-e-paper-on-the-role-of-capacity-mechanisms-to-enable-a-secure-and-competitive-energy-transition/">ENTSO-E Paper on the role of Capacity Mechanisms to enable a secure and competitive energy transition</a></li>
+  <li><a href="https://eepublicdownloads.blob.core.windows.net/public-cdn-container/clean-documents/Publications/Position%20papers%20and%20reports/2025/entso-e_pp_capacity_mechanisms_250415.pdf" target="_blank"><mark>Gesamte Studie hier lesen!</mark></a></li>
+  <li><a href="https://www.entsoe.eu/2025/04/16/entso-e-paper-on-the-role-of-capacity-mechanisms-to-enable-a-secure-and-competitive-energy-transition/" target="_blank">ENTSO-E Paper on the role of Capacity Mechanisms to enable a secure and competitive energy transition</a></li>
 </ul>
 
 {{< /timelineItem >}}
@@ -65,9 +65,9 @@ Die Kurzstudie analysiert die Integration dezentraler Flexibilitäten wie Speich
 
 <u>Informationen</u>:<br>
 <ul>
-  <li><a href="https://www.frontier-economics.com/media/yhoparih/frontier-economics-kurzstudie-fuer-bdew-zu-flexibilitaet-im-ikm-2025-03-15-stc.pdf"><mark>Gesamte Studie hier lesen!</mark></a></li>
-  <li><a href="https://www.frontier-economics.com/de/de/nachrichten-einblicke/news/news-article-i21310-mittel-und-wege-zur-einbindung-von-dezentraler-flexibilitaet-in-einen-integrierten-kapazitaetsmarkt/#:~:text=In%20einer%20Studie%20f%C3%BCr%20den%20Bundesverband%20der%20Energie-,in%20einem%20integrierten%20Kapazit%C3%A4tsmarkt%20vielf%C3%A4ltig%20angereizt%20werden%20kann.">Mittel und Wege zur Einbindung von dezentraler Flexibilität in einen integrierten Kapazitätsmarkt</a></li>
-  <li><a href="https://www.bdew.de/service/publikationen/einbindung-dezentraler-flexibilitaet-in-einen-integrierten-kapazitaetsmarkt/">Einbindung dezentraler Flexibilität in einen integrierten Kapazitätsmarkt</a></li>
+  <li><a href="https://www.frontier-economics.com/media/yhoparih/frontier-economics-kurzstudie-fuer-bdew-zu-flexibilitaet-im-ikm-2025-03-15-stc.pdf" target="_blank"><mark>Gesamte Studie hier lesen!</mark></a></li>
+  <li><a href="https://www.frontier-economics.com/de/de/nachrichten-einblicke/news/news-article-i21310-mittel-und-wege-zur-einbindung-von-dezentraler-flexibilitaet-in-einen-integrierten-kapazitaetsmarkt/#:~:text=In%20einer%20Studie%20f%C3%BCr%20den%20Bundesverband%20der%20Energie-,in%20einem%20integrierten%20Kapazit%C3%A4tsmarkt%20vielf%C3%A4ltig%20angereizt%20werden%20kann." target="_blank">Mittel und Wege zur Einbindung von dezentraler Flexibilität in einen integrierten Kapazitätsmarkt</a></li>
+  <li><a href="https://www.bdew.de/service/publikationen/einbindung-dezentraler-flexibilitaet-in-einen-integrierten-kapazitaetsmarkt/" target="_blank">Einbindung dezentraler Flexibilität in einen integrierten Kapazitätsmarkt</a></li>
 </ul>
 
 {{< /timelineItem >}}
@@ -82,7 +82,7 @@ Der Bericht beschreibt den Status der Implementierung der EU Rahmenbedingungen b
 
 <u>Informationen</u>:<br>
 <ul>
-  <li><a href="https://op.europa.eu/en/publication-detail/-/publication/10c8f42f-f9d5-11ef-b7db-01aa75ed71a1/language-de"><mark>Gesamten Bericht hier lesen!</mark></a></li>
+  <li><a href="https://op.europa.eu/en/publication-detail/-/publication/10c8f42f-f9d5-11ef-b7db-01aa75ed71a1/language-de" target="_blank"><mark>Gesamten Bericht hier lesen!</mark></a></li>
 </ul>
 
 {{< /timelineItem >}}
@@ -97,8 +97,8 @@ Die Studie bewertet kritisch den vom (deutschen) Bundesministerium für Wirtscha
 
 <u>Informationen</u>:<br>
 <ul>
-  <li><a href="https://www.frontier-economics.com/media/hqiiv3hf/frontier-economcis-kurzstudie-zum-kombinierten-kapazitaetsmarkt-14-11-2024-stc.pdf"><mark>Gesamte Studie hier lesen!</mark></a></li>
-  <li><a href="https://www.frontier-economics.com/de/de/nachrichten-einblicke/news/news-article-i21042-kombinierter-kapazitaetsmarkt-fuer-deutschlands-strommarkt-warum-das-keine-gute-idee-ist/">Kombinierter Kapazitätsmarkt für Deutschlands Strommarkt– Warum das keine gute Idee ist</a></li>
+  <li><a href="https://www.frontier-economics.com/media/hqiiv3hf/frontier-economcis-kurzstudie-zum-kombinierten-kapazitaetsmarkt-14-11-2024-stc.pdf" target="_blank"><mark>Gesamte Studie hier lesen!</mark></a></li>
+  <li><a href="https://www.frontier-economics.com/de/de/nachrichten-einblicke/news/news-article-i21042-kombinierter-kapazitaetsmarkt-fuer-deutschlands-strommarkt-warum-das-keine-gute-idee-ist/" target="_blank">Kombinierter Kapazitätsmarkt für Deutschlands Strommarkt– Warum das keine gute Idee ist</a></li>
 </ul>
 
 {{< /timelineItem >}}
