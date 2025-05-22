@@ -10,7 +10,8 @@ Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder
 {{< /alert >}}
 <br>
 
-Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos. abc
+Dieser Abschnitt soll einen Überlick den zeitlichen Verlauf der Diskussion bezüglich Kapazitätsmechanismen in Europa geben. Die zuletzt erschienenen Studien
+und Berichte unterschiedlicher Stakeholder sind in der dargestellten Timeline entsprechend ihrem Erscheinungsdatum angeordnet und es werden jeweils eine kurze inhaltliche Zusammenfassung und weiterführende Links zur Verfügung gestellt. 
 
 <!-- ===================================== Studie Kapazitätsmarkt Österrreich =================================================================== -->
 {{< timeline >}}
