@@ -65,17 +65,22 @@ und Berichte unterschiedlicher Stakeholder sind in der dargestellten Timeline en
 <!-- ===================================== Frontier Economics DR in CMs =================================================================== -->
 
 {{< timelineItem icon="comment" header="Einbindung von dezentraler Flexibilität in einen integrierten Kapazitätsmarkt" badge="17.03.2025" subheader="Von: Frontier Economics" >}}
-
-<blockquote>
-Die Kurzstudie analysiert die Integration dezentraler Flexibilitäten wie Speicher und Lastmanagement in einen Integrierten Kapazitätsmarkt (IKM). Sie empfiehlt einen technologieoffenen Ansatz mit zentralen Ausschreibungen, um Investitionssicherheit zu gewährleisten und Flexibilitäten effizient einzubinden. Durch explizite Anreize in den Ausschreibungen sowie durch dynamische Umlagesysteme können dezentrale Flexibilitäten aktiviert werden. Internationale Erfahrungen zeigen, dass zentrale Märkte Flexibilität effektiv integrieren können, wenn geeignete Instrumente eingesetzt werden. 
-</blockquote>
-
-<u>Informationen</u>:<br>
-<ul>
-  <li><a href="https://www.frontier-economics.com/media/yhoparih/frontier-economics-kurzstudie-fuer-bdew-zu-flexibilitaet-im-ikm-2025-03-15-stc.pdf" target="_blank"><mark>Gesamte Studie hier lesen!</mark></a></li>
-  <li><a href="https://www.frontier-economics.com/de/de/nachrichten-einblicke/news/news-article-i21310-mittel-und-wege-zur-einbindung-von-dezentraler-flexibilitaet-in-einen-integrierten-kapazitaetsmarkt/#:~:text=In%20einer%20Studie%20f%C3%BCr%20den%20Bundesverband%20der%20Energie-,in%20einem%20integrierten%20Kapazit%C3%A4tsmarkt%20vielf%C3%A4ltig%20angereizt%20werden%20kann." target="_blank">Mittel und Wege zur Einbindung von dezentraler Flexibilität in einen integrierten Kapazitätsmarkt</a></li>
-  <li><a href="https://www.bdew.de/service/publikationen/einbindung-dezentraler-flexibilitaet-in-einen-integrierten-kapazitaetsmarkt/" target="_blank">Einbindung dezentraler Flexibilität in einen integrierten Kapazitätsmarkt</a></li>
-</ul>
+<div style="margin-bottom: -1.5em;">
+  <details>
+    <summary><span style="cursor: pointer; font-weight: 500;">Anzeigen: <u>Zusammenfassung</u></span></summary>
+    <blockquote>
+    Die Kurzstudie analysiert die Integration dezentraler Flexibilitäten wie Speicher und Lastmanagement in einen Integrierten Kapazitätsmarkt (IKM). Sie empfiehlt einen technologieoffenen Ansatz mit zentralen Ausschreibungen, um Investitionssicherheit zu gewährleisten und Flexibilitäten effizient einzubinden. Durch explizite Anreize in den Ausschreibungen sowie durch dynamische Umlagesysteme können dezentrale Flexibilitäten aktiviert werden. Internationale Erfahrungen zeigen, dass zentrale Märkte Flexibilität effektiv integrieren können, wenn geeignete Instrumente eingesetzt werden. 
+    </blockquote>
+  </details>
+  <details>
+  <summary><span style="cursor: pointer; font-weight: 500;">Anzeigen: <u>Weitere Informationen</u></span></summary>
+  <ul>
+    <li><a href="https://www.frontier-economics.com/de/de/nachrichten-einblicke/news/news-article-i21310-mittel-und-wege-zur-einbindung-von-dezentraler-flexibilitaet-in-einen-integrierten-kapazitaetsmarkt/#:~:text=In%20einer%20Studie%20f%C3%BCr%20den%20Bundesverband%20der%20Energie-,in%20einem%20integrierten%20Kapazit%C3%A4tsmarkt%20vielf%C3%A4ltig%20angereizt%20werden%20kann." target="_blank">Mittel und Wege zur Einbindung von dezentraler Flexibilität in einen integrierten Kapazitätsmarkt</a></li>
+    <li><a href="https://www.bdew.de/service/publikationen/einbindung-dezentraler-flexibilitaet-in-einen-integrierten-kapazitaetsmarkt/" target="_blank">Einbindung dezentraler Flexibilität in einen integrierten Kapazitätsmarkt</a></li>
+  </ul>
+  </details>
+<a href="https://www.frontier-economics.com/media/yhoparih/frontier-economics-kurzstudie-fuer-bdew-zu-flexibilitaet-im-ikm-2025-03-15-stc.pdf" class="bg-primary-100 dark:bg-primary-300 rounded-md font-semibold text-center text-neutral-800 dark:text-neutral-800" style="display: block; width: 100%; margin-top: 1.5em" target="_blank">Gesamte Studie hier lesen!</a>
+</div>
 
 {{< /timelineItem >}}
 
@@ -83,14 +88,16 @@ Die Kurzstudie analysiert die Integration dezentraler Flexibilitäten wie Speich
 
 {{< timelineItem icon="comment" header="BERICHT DER KOMMISSION AN DAS EUROPÄISCHE PARLAMENT UND DEN RAT über die Bewertung – gemäß Artikel 69 Absatz 3 der Verordnung (EU) 2019/943 – der Möglichkeiten zur Straffung und Vereinfachung des Verfahrens für die Anwendung eines Kapazitätsmechanismus gemäß Kapitel IV der Verordnung (EU) 2019/943 " badge="03.03.2025" subheader="Von: Europäische Kommission" >}}
 
-<blockquote>
-Der Bericht beschreibt den Status der Implementierung der EU Rahmenbedingungen bezüglich Kapazitätsmechanismen und den daraus gewonnenen "main lessons learned". Außerdem schlägt die EU Kommission Prozesse für die Straffung und Simplifizierung des Genehmigungsverfahrens für Kapazitätsmechanismen vor.  
-</blockquote>
+<div style="margin-bottom: -1.5em;">
+  <details>
+    <summary><span style="cursor: pointer; font-weight: 500;">Anzeigen: <u>Zusammenfassung</u></span></summary>
+  <blockquote>
+    Der Bericht beschreibt den Status der Implementierung der EU Rahmenbedingungen bezüglich Kapazitätsmechanismen und den daraus gewonnenen "main lessons learned". Außerdem schlägt die EU Kommission Prozesse für die Straffung und Simplifizierung des Genehmigungsverfahrens für Kapazitätsmechanismen vor.  
+  </blockquote>
+</details>
 
-<u>Informationen</u>:<br>
-<ul>
-  <li><a href="https://op.europa.eu/en/publication-detail/-/publication/10c8f42f-f9d5-11ef-b7db-01aa75ed71a1/language-de" target="_blank"><mark>Gesamten Bericht hier lesen!</mark></a></li>
-</ul>
+<a href="https://op.europa.eu/en/publication-detail/-/publication/10c8f42f-f9d5-11ef-b7db-01aa75ed71a1/language-de" class="bg-primary-100 dark:bg-primary-300 rounded-md font-semibold text-center text-neutral-800 dark:text-neutral-800" style="display: block; width: 100%; margin-top: 1.5em" target="_blank">Gesamten Bericht hier lesen!</a>
+</div>
 
 {{< /timelineItem >}}
 
@@ -98,15 +105,22 @@ Der Bericht beschreibt den Status der Implementierung der EU Rahmenbedingungen b
 
 {{< timelineItem icon="comment" header="Kombinierter Kapazitätsmarkt - eine Analyse der Vor- und Nachteile" badge="14.11.2024" subheader="Von: Frontier Economics" >}}
 
-<blockquote>
-Die Studie bewertet kritisch den vom (deutschen) Bundesministerium für Wirtschaft und Klimaschutz vorgeschlagenen Kombinierten Kapazitätsmarkt (KKM). Sie kommt zu dem Schluss, dass die erwarteten Vorteile des KKM, insbesondere im Hinblick auf die Einbindung dezentraler Flexibilitätsoptionen, in der Praxis voraussichtlich nicht realisiert werden. Die Studie hebt erhebliche Komplexitäten und praktische Nachteile des KKM hervor und schlägt stattdessen zentralisierte, umfassende Ausschreibungen als wirksameren Ansatz zur Sicherstellung von Investitionen und zur effizienten Integration flexibler Ressourcen vor.
-</blockquote>
+<div style="margin-bottom: -1.5em;">
+  <details>
+   <summary><span style="cursor: pointer; font-weight: 500;">Anzeigen: <u>Zusammenfassung</u></span></summary>
+    <blockquote>
+      Die Studie bewertet kritisch den vom (deutschen) Bundesministerium für Wirtschaft und Klimaschutz vorgeschlagenen Kombinierten Kapazitätsmarkt (KKM). Sie kommt zu dem Schluss, dass die erwarteten Vorteile des KKM, insbesondere im Hinblick auf die Einbindung dezentraler Flexibilitätsoptionen, in der Praxis voraussichtlich nicht realisiert werden. Die Studie hebt erhebliche Komplexitäten und praktische Nachteile des KKM hervor und schlägt stattdessen zentralisierte, umfassende Ausschreibungen als wirksameren Ansatz zur Sicherstellung von Investitionen und zur effizienten Integration flexibler Ressourcen vor.
+    </blockquote>
+  </details>
 
-<u>Informationen</u>:<br>
-<ul>
-  <li><a href="https://www.frontier-economics.com/media/hqiiv3hf/frontier-economcis-kurzstudie-zum-kombinierten-kapazitaetsmarkt-14-11-2024-stc.pdf" target="_blank"><mark>Gesamte Studie hier lesen!</mark></a></li>
-  <li><a href="https://www.frontier-economics.com/de/de/nachrichten-einblicke/news/news-article-i21042-kombinierter-kapazitaetsmarkt-fuer-deutschlands-strommarkt-warum-das-keine-gute-idee-ist/" target="_blank">Kombinierter Kapazitätsmarkt für Deutschlands Strommarkt– Warum das keine gute Idee ist</a></li>
-</ul>
+<details>
+  <summary><span style="cursor: pointer; font-weight: 500;">Anzeigen: <u>Weitere Informationen</u></span></summary>
+  <ul>
+    <li><a href="https://www.frontier-economics.com/de/de/nachrichten-einblicke/news/news-article-i21042-kombinierter-kapazitaetsmarkt-fuer-deutschlands-strommarkt-warum-das-keine-gute-idee-ist/" target="_blank">Kombinierter Kapazitätsmarkt für Deutschlands Strommarkt– Warum das keine gute Idee ist</a></li>
+  </ul>
+</details>
+<a href="https://www.frontier-economics.com/media/hqiiv3hf/frontier-economcis-kurzstudie-zum-kombinierten-kapazitaetsmarkt-14-11-2024-stc.pdf" class="bg-primary-100 dark:bg-primary-300 rounded-md font-semibold text-center text-neutral-800 dark:text-neutral-800" style="display: block; width: 100%; margin-top: 1.5em" target="_blank">Gesamte Studie hier lesen!</a>
+</div>
 
 {{< /timelineItem >}}
 
