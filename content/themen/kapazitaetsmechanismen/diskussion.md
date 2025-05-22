@@ -101,6 +101,23 @@ und Berichte unterschiedlicher Stakeholder sind in der dargestellten Timeline en
 
 {{< /timelineItem >}}
 
+<!-- ===================================== European Comission Draft Framework for State Aid measures =================================================================== -->
+
+{{< timelineItem icon="comment" header="DRAFT COMMUNICATION FROM THE COMMISSION Framework for State Aid measures to support the Clean Industrial Deal (Clean Industrial Deal State Aid Framework)" badge="11.03.2025" subheader="Von: Europäische Kommission" >}}
+
+<div style="margin-bottom: -1.5em;">
+  <details>
+    <summary><span style="cursor: pointer; font-weight: 500;">Anzeigen: <u>Zusammenfassung</u></span></summary>
+  <blockquote>
+  Anhang 1 dieses Gesetzesentwurfs beschreibt die maßgeblichen Kriterien für eine zügige Bewertung und Genehmigung der Anfragen von Mitgliedstaaten zu Kapazitätsmechanismen durch die Kommission. Im Rahmen des beschleunigten Genehmigungsverfahrens gelten zwei Kapazitätsmechanismen als zulässig: eine strategische Reserve und ein marktweites zentrales Käufermodell. 
+  </blockquote>
+</details>
+
+<a href="https://competition-policy.ec.europa.eu/document/download/45b532ce-53fb-4907-975c-79edaa31a166_en?filename=2025_CISAF_draft_EC_communication.pdf" class="bg-primary-100 dark:bg-primary-300 rounded-md font-semibold text-center text-neutral-800 dark:text-neutral-800" style="display: block; width: 100%; margin-top: 1.5em" target="_blank">Gesamten Bericht hier lesen!</a>
+</div>
+
+{{< /timelineItem >}}
+
 <!-- ===================================== Frontier Kombinierter Kapazitätsmarkt =================================================================== -->
 
 {{< timelineItem icon="comment" header="Kombinierter Kapazitätsmarkt - eine Analyse der Vor- und Nachteile" badge="14.11.2024" subheader="Von: Frontier Economics" >}}
