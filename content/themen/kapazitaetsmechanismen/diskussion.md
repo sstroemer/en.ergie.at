@@ -168,6 +168,29 @@ Auf Grundlage dieser Befunde ziehen die Autoren zwei zentrale Schlussfolgerungen
 
 {{< /timelineItem >}}
 
+<!-- ===================================== Florence School of Regulation: An easy fix to streamline capacity markets =================================================================== -->
+
+{{< timelineItem icon="comment" header="An easy fix to streamline capacity markets" badge="22.11.2024" subheader="Von: Florence School of Regulation" >}}
+
+<div style="margin-bottom: -1.5em;">
+  <details>
+    <summary><span style="cursor: pointer; font-weight: 500;">Anzeigen: <u>Zusammenfassung</u></span></summary>
+  <blockquote>
+Dieser Policy Brief untersucht die Verpflichtung in einem Kapazitätsmechanismus explizite grenzüberschreitende Teilnahme zu ermöglichen und stellt deren Wirksamkeit bei der Minderung grenzüberschreitender Effekte infrage. Die Autoren gehen der Frage nach, ob diese Anforderung durch implizite Teilnahme ersetzt werden kann – ein Ansatz, der einfacher umzusetzen ist und vergleichbare Vorteile bietet. Ihre Analyse zeigt, dass die explizite Teilnahme komplex, kostenintensiv und häufig ineffektiv ist. Kurzfristig empfiehlt der Policy Brief, implizite Teilnahme zuzulassen. Langfristig sprechen sich die Autoren für eine Harmonisierung der Kapazitätsmechanismen auf europäischer Ebene aus, um grenzüberschreitende Effekte zu vermeiden und die Ressourcenbeschaffung in einem integrierten Strommarkt besser zu koordinieren.
+  </blockquote>
+</details>
+
+<details>
+  <summary><span style="cursor: pointer; font-weight: 500;">Anzeigen: <u>Weitere Informationen</u></span></summary>
+  <ul>
+    <li><a href="https://fsr.eui.eu/publications/?handle=1814/77492" target="_blank">An easy fix to streamline capacity markets</a></li>
+  </ul>
+  </details>
+
+<a href="https://cadmus.eui.eu/server/api/core/bitstreams/9e1f872a-4169-5f12-a1dd-abf08c0e3de3/content" class="bg-primary-100 dark:bg-primary-300 rounded-md font-semibold text-center text-neutral-800 dark:text-neutral-800" style="display: block; width: 100%; margin-top: 1.5em" target="_blank">Gesamten Policy Brief hier lesen!</a>
+</div>
+
+{{< /timelineItem >}}
 <!-- ===================================== Frontier Kombinierter Kapazitätsmarkt =================================================================== -->
 
 {{< timelineItem icon="comment" header="Kombinierter Kapazitätsmarkt - eine Analyse der Vor- und Nachteile" badge="14.11.2024" subheader="Von: Frontier Economics" >}}
