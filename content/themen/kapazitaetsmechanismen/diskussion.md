@@ -113,7 +113,31 @@ und Berichte unterschiedlicher Stakeholder sind in der dargestellten Timeline en
   </blockquote>
 </details>
 
-<a href="https://competition-policy.ec.europa.eu/document/download/45b532ce-53fb-4907-975c-79edaa31a166_en?filename=2025_CISAF_draft_EC_communication.pdf" class="bg-primary-100 dark:bg-primary-300 rounded-md font-semibold text-center text-neutral-800 dark:text-neutral-800" style="display: block; width: 100%; margin-top: 1.5em" target="_blank">Gesamten Bericht hier lesen!</a>
+<a href="https://competition-policy.ec.europa.eu/document/download/45b532ce-53fb-4907-975c-79edaa31a166_en?filename=2025_CISAF_draft_EC_communication.pdf" class="bg-primary-100 dark:bg-primary-300 rounded-md font-semibold text-center text-neutral-800 dark:text-neutral-800" style="display: block; width: 100%; margin-top: 1.5em" target="_blank">Gesamten Gesetzesentwurf hier lesen!</a>
+</div>
+
+{{< /timelineItem >}}
+
+<!-- ===================================== ACER Security of Supply Monitoring Report 2024 =================================================================== -->
+
+{{< timelineItem icon="comment" header="Security of EU electricity supply 2024 Monitoring Report" badge="16.12.2024" subheader="Von: ACER" >}}
+
+<div style="margin-bottom: -1.5em;">
+  <details>
+    <summary><span style="cursor: pointer; font-weight: 500;">Anzeigen: <u>Zusammenfassung</u></span></summary>
+  <blockquote>
+  Der 2024 Monitoring Bericht zeigt auf, dass die Kosten für Kapazitätsmechanismen 2023 um 40% auf 7,4 Milliarden Euro angestiegen sind. Dabei entfallen 85% der Zahlungen für 2035 auf fossile Erzeuger, was die Dekarbonisierung behindern könnte. Weiters wird die Umsetzung des EU-Rahmens zur Versorgungssicherheit in den Mitgliedstaaten als uneinheitlich identifiziert. Insbesondere treten Unterschiede in der Berechnung der Angemessenheitsmetriken auf nationaler Ebene auf. Außerdem wurde der ERAA Bericht 2023 erstmals von ACER genehmigt, trotzdem ist noch weiterer Verbesserungsbedarf notwendig.
+  </blockquote>
+</details>
+
+<details>
+  <summary><span style="cursor: pointer; font-weight: 500;">Anzeigen: <u>Weitere Informationen</u></span></summary>
+  <ul>
+    <li><a href="https://www.acer.europa.eu/monitoring/MMR/security_EU_supply_2024" target="_blank">Security of EU electricity supply</a></li>
+  </ul>
+  </details>
+
+<a href="https://www.acer.europa.eu/sites/default/files/documents/Publications/Security_of_EU_electricity_supply_2024.pdf" class="bg-primary-100 dark:bg-primary-300 rounded-md font-semibold text-center text-neutral-800 dark:text-neutral-800" style="display: block; width: 100%; margin-top: 1.5em" target="_blank">Gesamten Bericht hier lesen!</a>
 </div>
 
 {{< /timelineItem >}}
