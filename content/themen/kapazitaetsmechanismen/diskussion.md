@@ -142,6 +142,32 @@ und Berichte unterschiedlicher Stakeholder sind in der dargestellten Timeline en
 
 {{< /timelineItem >}}
 
+<!-- ===================================== Florence School of Regulation  Cross-Border participation =================================================================== -->
+
+{{< timelineItem icon="comment" header="Cross-Border participation: A false hope for fixing capacity market externalities?" badge="22.11.2024" subheader="Von: Florence School of Regulation" >}}
+
+<div style="margin-bottom: -1.5em;">
+  <details>
+    <summary><span style="cursor: pointer; font-weight: 500;">Anzeigen: <u>Zusammenfassung</u></span></summary>
+  <blockquote>
+In dieser Arbeit wird die Wirksamkeit von „expliziter“ und „impliziter“ grenzüberschreitender Teilnahme zur Begrenzung externer Effekte eines nationalen Kapazitätsmechanismus auf ein benachbartes System ohne eigenen Mechanismus untersucht. Die modellbasierten Analysen führen zu drei zentralen Ergebnissen: Erstens kann grenzüberschreitende Teilnahme die externen Auswirkungen auf Verbraucher, Erzeuger und Interkonnektoren im Nachbarsystem nicht vollständig kompensieren. Zweitens führen implizite und explizite grenzüberschreitende Teilnahme zu vergleichbaren Ergebnissen. Drittens können die grenzüberschreitenden Effekte nationaler Kapazitätsmärkte deren primäres Ziel – die Gewährleistung der Versorgungssicherheit – erheblich beeinträchtigen.
+
+Auf Grundlage dieser Befunde ziehen die Autoren zwei zentrale Schlussfolgerungen: Mittelfristig sollte sich die Europäische Union von rein national ausgestalteten Kapazitätsmechanismen zu einem europäisch koordinierten Angemessenheitsmechanismus weiterentwickeln, um Versorgungssicherheit effizient zu gewährleisten und negative grenzüberschreitende Effekte zu vermeiden. Kurzfristig erscheint aufgrund der einfacheren Umsetzbarkeit und der vergleichbaren Wirksamkeit eine Umstellung von expliziter auf implizite grenzüberschreitende Teilnahme in Kapazitätsmechanismen sinnvoll.
+  </blockquote>
+</details>
+
+<details>
+  <summary><span style="cursor: pointer; font-weight: 500;">Anzeigen: <u>Weitere Informationen</u></span></summary>
+  <ul>
+    <li><a href="https://www.acer.europa.eu/monitoring/MMR/security_EU_supply_2024" target="_blank">Cross-border participation : a false hope for fixing capacity market externalities?</a></li>
+  </ul>
+  </details>
+
+<a href="https://cadmus.eui.eu/server/api/core/bitstreams/59f5ad95-8002-50dc-b5c8-ee0b8b39396f/content" class="bg-primary-100 dark:bg-primary-300 rounded-md font-semibold text-center text-neutral-800 dark:text-neutral-800" style="display: block; width: 100%; margin-top: 1.5em" target="_blank">Gesamte Arbeit hier lesen!</a>
+</div>
+
+{{< /timelineItem >}}
+
 <!-- ===================================== Frontier Kombinierter Kapazitätsmarkt =================================================================== -->
 
 {{< timelineItem icon="comment" header="Kombinierter Kapazitätsmarkt - eine Analyse der Vor- und Nachteile" badge="14.11.2024" subheader="Von: Frontier Economics" >}}
