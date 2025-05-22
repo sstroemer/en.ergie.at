@@ -43,15 +43,22 @@ und Berichte unterschiedlicher Stakeholder sind in der dargestellten Timeline en
 
 {{< timelineItem icon="comment" header="The role of Capacity Mechanisms to enable a secure and competitive energy transition" badge="16.04.2025" subheader="Von: ENTSO-E" >}}
 
-<blockquote>
-Das ENTSO-E-Positionspapier diskutiert die Rolle von Kapazitätsmechanismen (KMs) in Europa. Kapazitätsmechanismen, die früher als temporäre Lösungen galten, werden nun als potenzielle strukturelle Bestandteile der Strommärkte betrachtet. Das Papier skizziert zentrale Gestaltungsprinzipien für effektive KMs. Es betont außerdem die Bedeutung grenzüberschreitender Teilnahme und Koordination der Übertragungsnetzbetreiber (TSOs). ENTSO-E formuliert Empfehlungen an politische Entscheidungstäger, um KMs mit übergeordneten Zielen wie Dekarbonisierung und Marktintegration in Einklang zu bringen.
-</blockquote>
+<div style="margin-bottom: -1.5em;">
+  <details>
+    <summary><span style="cursor: pointer; font-weight: 500;">Anzeigen: <u>Zusammenfassung</u></span></summary>
+  <blockquote>
+  Das ENTSO-E-Positionspapier diskutiert die Rolle von Kapazitätsmechanismen (KMs) in Europa. Kapazitätsmechanismen, die früher als temporäre Lösungen galten, werden nun als potenzielle strukturelle Bestandteile der Strommärkte betrachtet. Das Papier skizziert zentrale Gestaltungsprinzipien für effektive KMs. Es betont außerdem die Bedeutung grenzüberschreitender Teilnahme und Koordination der Übertragungsnetzbetreiber (TSOs). ENTSO-E formuliert Empfehlungen an politische Entscheidungstäger, um KMs mit übergeordneten Zielen wie Dekarbonisierung und Marktintegration in Einklang zu bringen.
+  </blockquote>
+</details>
 
-<u>Informationen</u>:<br>
-<ul>
-  <li><a href="https://eepublicdownloads.blob.core.windows.net/public-cdn-container/clean-documents/Publications/Position%20papers%20and%20reports/2025/entso-e_pp_capacity_mechanisms_250415.pdf" target="_blank"><mark>Gesamte Studie hier lesen!</mark></a></li>
-  <li><a href="https://www.entsoe.eu/2025/04/16/entso-e-paper-on-the-role-of-capacity-mechanisms-to-enable-a-secure-and-competitive-energy-transition/" target="_blank">ENTSO-E Paper on the role of Capacity Mechanisms to enable a secure and competitive energy transition</a></li>
-</ul>
+<details>
+    <summary><span style="cursor: pointer; font-weight: 500;">Anzeigen: <u>Weitere Informationen</u></span></summary>
+    <ul>
+     <li><a href="https://www.entsoe.eu/2025/04/16/entso-e-paper-on-the-role-of-capacity-mechanisms-to-enable-a-secure-and-competitive-energy-transition/" target="_blank">ENTSO-E Paper on the role of Capacity Mechanisms to enable a secure and competitive energy transition</a></li>
+    </ul>
+  </details>
+   <a href="https://eepublicdownloads.blob.core.windows.net/public-cdn-container/clean-documents/Publications/Position%20papers%20and%20reports/2025/entso-e_pp_capacity_mechanisms_250415.pdf" class="bg-primary-100 dark:bg-primary-300 rounded-md font-semibold text-center text-neutral-800 dark:text-neutral-800" style="display: block; width: 100%; margin-top: 1.5em" target="_blank">Gesamte Studie hier lesen!</a>
+</div>
 
 {{< /timelineItem >}}
 
