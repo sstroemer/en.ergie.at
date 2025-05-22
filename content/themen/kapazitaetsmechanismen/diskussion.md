@@ -214,4 +214,39 @@ Dieser Policy Brief untersucht die Verpflichtung in einem Kapazitätsmechanismus
 
 {{< /timelineItem >}}
 
+<!-- ===================================== Consentec Kombinierter Kapazitätsmarkt =================================================================== -->
+
+{{< timelineItem icon="comment" header="Überblick zur Ausgestaltung eines kombinierten Kapazitätsmarkts" badge="10.09.2024" subheader="Von: Consentec, energy consulting und Öko-Institut e.V." >}}
+
+<div style="margin-bottom: -1.5em;">
+  <details>
+   <summary><span style="cursor: pointer; font-weight: 500;">Anzeigen: <u>Zusammenfassung</u></span></summary>
+    <blockquote>
+      Die deutsche Bundesregierung plant die Einführung eines technologieneutralen Kapazitätsmechanismus, der ab 2028 in Betrieb gehen soll. Im Zentrum der aktuellen Diskussion steht die Auswahl eines geeigneten Modells. Diese Studie präsentiert den „Kombinierten Kapazitätsmarkt (KKM)“ als vielversprechenden Ansatz. Dieses Konzept vereint zentrale und dezentrale Marktelemente und kann – bei entsprechender Ausgestaltung – die jeweiligen Vorteile beider Systeme nutzen, während es deren Nachteile reduziert. Der KKM verspricht eine effektive Integration dezentraler Flexibilitätsoptionen sowie eine effiziente Nutzung von lokalem Wissen über die Entwicklung der Nachfrage. Gleichzeitig bietet er Investitionssicherheit für neue Kapazitäten und kann so einen stabilen Beitrag zur Versorgungssicherheit leisten.
+    </blockquote>
+  </details>
+
+<details>
+  <summary><span style="cursor: pointer; font-weight: 500;">Anzeigen: <u>Weitere Informationen</u></span></summary>
+   <ul>
+    <li><a href="https://consentec.de/beitrag/inputpapier-kombinierter-kapazitaetsmarkt-kkm-veroeffentlicht/" target="_blank">Inputpapier Kombinierter Kapazitätsmarkt (KKM) veröffentlicht</a></li>
+  </ul>
+  <ul>
+    <li><a href="https://www.oeko.de/publikation/ueberblick-zur-ausgestaltung-eines-kombinierten-kapazitaetsmarkts/" target="_blank">Überblick zur Ausgestaltung eines kombinierten Kapazitätsmarkts</a></li>
+  </ul>
+  <ul>
+    <li><a href="https://www.r2b-energy.com/inputpapier-zum-kombinierten-kapazitaetsmarkt-veroeffentlicht/" target="_blank">Inputpapier zum kombinierten Kapazitätsmarkt veröffentlicht</a></li>
+  </ul>
+  <ul>
+    <li><a href="https://www.frontier-economics.com/de/de/nachrichten-einblicke/news/news-article-i20884-kombinierter-kapazitaetsmarkt-eine-gute-idee/" target="_blank">Kombinierter Kapazitätsmarkt – Eine gute Idee?</a></li>
+  </ul>
+    <ul>
+    <li><a href="https://www.energate-messenger.de/news/246559/wie-der-kapazitaetsmarkt-der-zukunft-aussehen-koennte" target="_blank">Wie der Kapazitätsmarkt der Zukunft aussehen könnte</a></li>
+  </ul>
+</details>
+<a href="https://www.bmwk.de/Redaktion/DE/Downloads/klimaschutz/ag3-inputpapier-kombinierter-kapazitaetsmarkt-kkm.pdf?__blob=publicationFile&v=6" class="bg-primary-100 dark:bg-primary-300 rounded-md font-semibold text-center text-neutral-800 dark:text-neutral-800" style="display: block; width: 100%; margin-top: 1.5em" target="_blank">Gesamte Studie hier lesen!</a>
+</div>
+
+{{< /timelineItem >}}
+
 {{< /timeline >}}
