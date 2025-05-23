@@ -3,15 +3,14 @@ title: "Diskussion im Verlauf der Zeit"
 topics: [] 
 authors: [sstroemer, dkrainer]
 ---
+Dieser Abschnitt soll einen Überblick über den zeitlichen Verlauf der Diskussion zu Kapazitätsmechanismen in Europa vermitteln. Die zuletzt erschienenen Studien
+und Berichte unterschiedlicher Stakeholder sind in der dargestellten Timeline entsprechend ihrem Erscheinungsdatum angeordnet und es werden jeweils eine kurze inhaltliche Zusammenfassung und weiterführende Links zur Verfügung gestellt. 
 
 <br>
 {{< alert >}}
 Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per [GitHub Issue melden](https://github.com/ait-energy/en.ergie.at/issues).
 {{< /alert >}}
 <br>
-
-Dieser Abschnitt soll einen Überblick über den zeitlichen Verlauf der Diskussion zu Kapazitätsmechanismen in Europa vermitteln. Die zuletzt erschienenen Studien
-und Berichte unterschiedlicher Stakeholder sind in der dargestellten Timeline entsprechend ihrem Erscheinungsdatum angeordnet und es werden jeweils eine kurze inhaltliche Zusammenfassung und weiterführende Links zur Verfügung gestellt. 
 
 
 {{< timeline >}}
