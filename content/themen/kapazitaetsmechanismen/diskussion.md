@@ -275,4 +275,32 @@ Dieser Policy Brief untersucht die Verpflichtung in einem Kapazitätsmechanismus
 
 {{< /timelineItem >}}
 
+<!-- ===================================== DE TSOs Studie zentraler KM =================================================================== -->
+
+{{< timelineItem icon="comment" header="Ausarbeitung eines Kapazitätsmechanismus für den deutschen Strommarkt" badge="15.05.2024" subheader="Von: Consentec" >}}
+
+<div style="margin-bottom: -1.5em;">
+  <details>
+   <summary><span style="cursor: pointer; font-weight: 500;">Anzeigen: <u>Zusammenfassung</u></span></summary>
+    <blockquote>
+      In der von den vier deutschen Übertragungsnetzbetreibern beauftragten Studie wird die Ausgestaltung eines umfassenden, zentralen Kapazitätsmarkt diskutiert. 
+      50hertz, Amprion, TenneT and Transnet BW sprechen sich für einen zentralen Kapazitätsmarkt mit lokaler Komponente aus. Dabei sollen
+      Ausschreibungen derart gestaltet sein, dass nicht nur die Verfügbarkeit von Leistung im gesamten Bundesgebiet beanreizt wird, sondern dass lokale Investitionsanreize entstehen.  Die vier deutschen Übertragungsnetzbetreiber erwarten sich durch die lokale Komponente eine Verringerung der CO2-Emissionen, des Redispatch- und Netzreservebedarfs, der Kosten für Systemdienstleistungen sowie folglich auch der Netzentgelte.
+    </blockquote>
+  </details>
+
+<details>
+  <summary><span style="cursor: pointer; font-weight: 500;">Anzeigen: <u>Weitere Informationen</u></span></summary>
+   <ul>
+    <li><a href="https://www.netztransparenz.de/de-de/Strommarktdesign/Kapazit%C3%A4tsmechanismus/4%C3%9CNB-Studie-zur-Ausarbeitung-eines-Kapazit%C3%A4tsmechanismus-f%C3%BCr-den-deutschen-Strommarkt" target="_blank">4ÜNB-Studie zur Ausarbeitung eines Kapazitätsmechanismus für den deutschen Strommarkt</a></li>
+  </ul>
+  <ul>
+    <li><a href="https://consentec.de/publikation/ausarbeitung-eines-kapazitaetsmechanismus-fuer-den-deutschen-strommarkt/" target="_blank">Ausarbeitung eines Kapazitätsmechanismus für den deutschen Strommarkt</a></li>
+  </ul>
+</details>
+<a href="https://www.netztransparenz.de/xspproxy/api/staticfiles/ntp-relaunch/dokumente/strommarktdesign/4%C3%BCnb-studie%20zur%20ausarbeitung%20eines%20kapazit%C3%A4tsmechanismus%20f%C3%BCr%20den%20deutschen%20strommarkt/consentececologic_4%C3%BCnb_kapm_endbericht_final_inkl.begleitschreiben.pdf" class="bg-primary-100 dark:bg-primary-300 rounded-md font-semibold text-center text-neutral-800 dark:text-neutral-800" style="display: block; width: 100%; margin-top: 1.5em" target="_blank">Gesamte Studie hier lesen!</a>
+</div>
+
+{{< /timelineItem >}}
+
 {{< /timeline >}}
