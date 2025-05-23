@@ -13,8 +13,33 @@ Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder
 Dieser Abschnitt soll einen Überlick den zeitlichen Verlauf der Diskussion bezüglich Kapazitätsmechanismen in Europa geben. Die zuletzt erschienenen Studien
 und Berichte unterschiedlicher Stakeholder sind in der dargestellten Timeline entsprechend ihrem Erscheinungsdatum angeordnet und es werden jeweils eine kurze inhaltliche Zusammenfassung und weiterführende Links zur Verfügung gestellt. 
 
-<!-- ===================================== Studie Kapazitätsmarkt Österrreich =================================================================== -->
+
 {{< timeline >}}
+<!-- ===================================== Studie Die Ausgestaltung der Absicherungspflicht =================================================================== -->
+{{< timelineItem icon="comment" header="Die Ausgestaltung der Absicherungspflicht. Marktwirtschaftliche Organisation der Versorgungssicherheit im Strommarkt." badge="08.04.2025" subheader="Von: Connect Energy Economics">}}
+
+<div style="margin-bottom: -1.5em;">
+  <details>
+    <summary><span style="cursor: pointer; font-weight: 500;">Anzeigen: <u>Zusammenfassung</u></span></summary>
+    <blockquote>
+    Im Auftrag des BNE Bundesverband neue Energiewirtschaft e.V., der DIHK Deutsche Industrie- und Handelskammer, Die Familienunternehmer e.V., der EEX European Energy Exchange AG, der VEA Bundesverband der Energie-Abnehmer e.V. und des ZVEI Verband der Elektro- und Digitalindustrie e.V. hat Connect Energy Economics eine konkrete Ausgestaltung der Absicherungspflicht erarbeitet. Die Absicherungspflicht wird dabei als Alternative zu einem Kapazitätsmarkt in Deutschland hervorgehoben. Sie soll bestehende Marktprozesse ergänzen, indem eine frühzeitige Absicherung der Stromnachfrage die Vorhaltung steuerbarer Leistung in einem technologieoffenen Wettbewerb anreizt.
+    <blockquote>
+  </details>
+
+  <details>
+    <summary><span style="cursor: pointer; font-weight: 500;">Anzeigen: <u>Weitere Informationen</u></span></summary>
+    <ul>
+      <li><a href="https://www.connect-ee.com/2025/04/08/studie-die-ausgestaltung-der-absicherungspflicht/" target="_blank">Studie: Die Ausgestaltung der Absicherungspflicht</a></li>
+    </ul>
+  </details>
+
+  <a href="https://www.connect-ee.com/wp-content/uploads/2025/04/Connect_Ausgestaltung_der_Absicherungspflicht_2025.pdf" class="bg-primary-100 dark:bg-primary-300 rounded-md font-semibold text-center text-neutral-800 dark:text-neutral-800" style="display: block; width: 100%; margin-top: 1.5em" target="_blank">Gesamte Studie hier lesen!</a>
+</div>
+
+{{< /timelineItem >}}
+
+
+<!-- ===================================== Studie Kapazitätsmarkt Österrreich =================================================================== -->
 
 {{< timelineItem icon="comment" header="Studie Kapazitätsmarkt Österreich" badge="14.04.2025" subheader="Von: Fraunhofer ISI">}}
 
