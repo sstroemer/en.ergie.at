@@ -249,4 +249,30 @@ Dieser Policy Brief untersucht die Verpflichtung in einem Kapazitätsmechanismus
 
 {{< /timelineItem >}}
 
+<!-- ===================================== BMWK Strommarktdesign der Zukunft =================================================================== -->
+
+{{< timelineItem icon="comment" header="Strommarktdesign der Zukunft. Optionen für ein sicheres, bezahlbares und nachhaltiges Stromsystem" badge="04.09.2024" subheader="Von: Bundesministerium für Wirtschaft und Energie" >}}
+
+<div style="margin-bottom: -1.5em;">
+  <details>
+   <summary><span style="cursor: pointer; font-weight: 500;">Anzeigen: <u>Zusammenfassung</u></span></summary>
+    <blockquote>
+      In dem Papier Strommarktdesign der Zukunft stellt die deutsche Bundesregierung verschiedene Optionen für ein sicheres, bezahlbares und nachhaltiges Marktdesign vor und stellt diese zur Diskussion. Zur Sicherstellung der Finanzierung steuerbarer Kapazitäten werden vier Optionen diskutiert: Kapazitätsabsicherungsmechanismus durch Spitzenpreishedging, Dezentraler Kapazitätsmarkt, Zentraler Kapazitätsmarkt, Kombinierter Kapazitätsmarkt. Aus Sicht des BMWK wird zum Zeitpunkt der Veröffentlichung der Kombinierte Kapazitätsmarkt als die kosteneffizienteste Option bewertet, um die Versorgungssicherheit langfristig zu gewährleisten. 
+    </blockquote>
+  </details>
+
+<details>
+  <summary><span style="cursor: pointer; font-weight: 500;">Anzeigen: <u>Weitere Informationen</u></span></summary>
+   <ul>
+    <li><a href="https://www.bdew.de/presse/presseinformationen/kapazitaetsmarkt-muss-nun-zuegig-in-die-ausgestaltung-gehen/" target="_blank">Kapazitätsmarkt muss nun zügig in die Ausgestaltung gehen</a></li>
+  </ul>
+  <ul>
+    <li><a href="https://www.bmwk.de/Redaktion/DE/Pressemitteilungen/2024/07/20240705-klimaneutrale-stromerzeugung-kraftwerkssicherheitsgesetz.html" target="_blank">Auf dem Weg zur klimaneutralen Stromerzeugung: Grünes Licht für Kraftwerkssicherheitsgesetz</a></li>
+  </ul>
+</details>
+<a href="https://www.bmwk.de/Redaktion/DE/Publikationen/Energie/20240801-strommarktdesign-der-zukunft.pdf?__blob=publicationFile&v=18" class="bg-primary-100 dark:bg-primary-300 rounded-md font-semibold text-center text-neutral-800 dark:text-neutral-800" style="display: block; width: 100%; margin-top: 1.5em" target="_blank">Gesamtes Papier hier lesen!</a>
+</div>
+
+{{< /timelineItem >}}
+
 {{< /timeline >}}
