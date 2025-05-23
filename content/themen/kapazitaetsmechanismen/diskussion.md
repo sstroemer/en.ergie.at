@@ -10,7 +10,7 @@ Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder
 {{< /alert >}}
 <br>
 
-Dieser Abschnitt soll einen Überlick den zeitlichen Verlauf der Diskussion bezüglich Kapazitätsmechanismen in Europa geben. Die zuletzt erschienenen Studien
+Dieser Abschnitt soll einen Überblick über den zeitlichen Verlauf der Diskussion zu Kapazitätsmechanismen in Europa vermitteln. Die zuletzt erschienenen Studien
 und Berichte unterschiedlicher Stakeholder sind in der dargestellten Timeline entsprechend ihrem Erscheinungsdatum angeordnet und es werden jeweils eine kurze inhaltliche Zusammenfassung und weiterführende Links zur Verfügung gestellt. 
 
 
