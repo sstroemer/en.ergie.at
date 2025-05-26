@@ -108,6 +108,21 @@ Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder
 
 {{< /timelineItem >}}
 
+<!-- ===================================== Frontier Economics DE:Kapazitätsmarkt + Kraftwerksstrategie neuer CM =================================================================== -->
+
+{{< timelineItem icon="comment" header="Versorgungssicherheit Strom. Wie geht es weiter bei Kraftwerksstrategie und Kapazitätsmarkt?" badge="15.03.2025" subheader="Von: Frontier Economics" >}}
+<div style="margin-bottom: -1.5em;">
+  <details>
+    <summary><span style="cursor: pointer; font-weight: 500;">Anzeigen: <u>Zusammenfassung</u></span></summary>
+    <blockquote>
+In dieser Präsentation von Frontier Economics wird ein kurzer Überblick über die bisherige Diskussion zur Einführung der Kraftwerksstrategie und eines Kapazitätsmarkts in Deutschland gegeben. Dabei werden die Pläne der gescheiterten Ampelkoalition beschrieben und analysiert, inwiefern sich diese unter der neuen Bundesregierung aus CDU, CSU und SPD ändern könnten. Frontier Economics gibt eine erste Einschätzung ab, wonach ein Festhalten der neuen Bundesregierung am kombinierten Kapazitätsmarkt als unwahrscheinlich gilt und stattdessen ein zentraler Kapazitätsmarkt als realistischer eingeschätzt wird.
+    </blockquote>
+  </details>
+<a href="https://media.licdn.com/dms/document/media/v2/D4E1FAQEXU1ZuF_-ybg/feedshare-document-pdf-analyzed/B4EZWyo9paG0Ao-/0/1742458848752?e=1749081600&v=beta&t=zy78TDcjvJlTUhWQiPkTp0kwD1pI0ZWuZS7pCD3IeRw" class="bg-primary-100 dark:bg-primary-300 rounded-md font-semibold text-center text-neutral-800 dark:text-neutral-800" style="display: block; width: 100%; margin-top: 1.5em" target="_blank">Gesamte Präsentation hier lesen!</a>
+</div>
+
+{{< /timelineItem >}}
+
 <!-- ===================================== European Comission Report on streamlining CMs =================================================================== -->
 
 {{< timelineItem icon="comment" header="BERICHT DER KOMMISSION AN DAS EUROPÄISCHE PARLAMENT UND DEN RAT über die Bewertung – gemäß Artikel 69 Absatz 3 der Verordnung (EU) 2019/943 – der Möglichkeiten zur Straffung und Vereinfachung des Verfahrens für die Anwendung eines Kapazitätsmechanismus gemäß Kapitel IV der Verordnung (EU) 2019/943 " badge="03.03.2025" subheader="Von: Europäische Kommission" >}}
