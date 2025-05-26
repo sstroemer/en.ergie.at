@@ -96,19 +96,19 @@ These can be achieved by using the following footnote content with slight variat
 
 which can then be used anywhere in the text by inserting `[^core_consulting_fact]`.
 
-#### Topics
+### Topics
 
 Please stick to these topics to prevent duplicated entries (e.g., we use "markets" and not "market")
 
 - `markets`
 
-#### Series
+### Series
 
 The following series currently exist:
 
 - `Strommärkte`
 
-#### Creating a new author
+### Creating a new author
 
 Assuming a new author named `Jane Doe`:
 
