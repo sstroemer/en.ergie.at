@@ -10,7 +10,8 @@ Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder
 {{< /alert >}}
 
 ## Aktuelle Entwicklungen
-Die erste Ausschreibung für die Strategische Reserve fand im Jahr 2019 [^Clean_Energy_Wire] [^netztransparenz_de_SR2020-2022] statt und wird seit dem Winterhalbjahr 2020/2021 außerhalb des Strommarkts vorgehalten[^netztransparenz_de_SR]. Derzeit wird in Deutschland die Einführung eines Kapazitätsmarktes geplant, der bis 2028 operativ sein soll [^BMWK_CM_bis2028]. Die 2024 zerbrochene Ampelkoalition bestehend aus SPD, FDP und Grünen hat sich dabei für einen kombinierten Kapaztätsmarkt bestehend aus zentralen und dezentralen Elementen ausgesprochen. Ob die neue deutsche Bundesregierung bestehend aus CDU, CSU und SPD diesen Weg fortsetzt bleibt abzuwarten. Laut einer ersten Einschätzung von Frontier Economics erscheint es unwahrscheinlich, dass die Bundesregierung am kombinierten Modell festhält und sieht die Einführung eines zentralen Kapazitätsmarkts nach belgischem oder britischem Vorbild als wahrscheinlicher [^Frontier_Koalition_DE]. 
+Die erste Ausschreibung für die Strategische Reserve fand im Jahr 2019 [^Clean_Energy_Wire] [^netztransparenz_de_SR2020-2022] statt und wird seit dem Winterhalbjahr 2020/2021 außerhalb des Strommarkts vorgehalten[^netztransparenz_de_SR]. Derzeit wird in Deutschland die Einführung eines Kapazitätsmarktes geplant, der bis 2028 operativ sein soll [^BMWK_CM_bis2028]. Die 2024 zerbrochene Ampelkoalition bestehend aus SPD, FDP und Grünen hat sich dabei für einen kombinierten Kapazitätsmarkt bestehend aus zentralen und dezentralen Elementen ausgesprochen. Ob die neue deutsche Bundesregierung bestehend aus CDU, CSU und SPD diesen Weg fortsetzt bleibt abzuwarten. Laut einer ersten Einschätzung von Frontier Economics erscheint es unwahrscheinlich, dass die Bundesregierung am kombinierten Modell festhält und sieht die Einführung eines zentralen Kapazitätsmarkts nach belgischem oder britischem Vorbild als wahrscheinlicher [^Frontier_Koalition_DE].
+Weiters diskutiert die neue, deutsche Bundesregierung den Einsatz der Strategischen Reserve zur Stabilisierung der Strompreise zusätzlich zur Vermeidung von Versorgungsengpässen [^CDU_CSU_SPD].
 
 ## Strategische Reserve
 
@@ -69,3 +70,5 @@ Kraftwerke dürfen nicht mehr aktiv am Strommarkt teilnehmen und können ihre Le
 [^BMWK_CM_bis2028]: [Auf dem Weg zur klimaneutralen Stromerzeugung: Grünes Licht für Kraftwerkssicherheitsgesetz<br>(bmwk.de)](https://www.bmwk.de/Redaktion/DE/Pressemitteilungen/2024/07/20240705-klimaneutrale-stromerzeugung-kraftwerkssicherheitsgesetz.html)
 
 [^Frontier_Koalition_DE]: [Versorgungssicherheit Strom. Wie geht es weiter bei Kraftwerksstrategie und Kapazitätsmarkt?<br>(Frontier Economics)](https://media.licdn.com/dms/document/media/v2/D4E1FAQEXU1ZuF_-ybg/feedshare-document-pdf-analyzed/B4EZWyo9paG0Ao-/0/1742458848752?e=1749081600&v=beta&t=zy78TDcjvJlTUhWQiPkTp0kwD1pI0ZWuZS7pCD3IeRw) 
+
+[^CDU_CSU_SPD]: [Verantwortung für Deutschland. Koalitionsvertrag zwischen CDU, CSU und SPD. 21. Legislaturperiode<br>(CDU, CSU und SPD)](https://www.cdu.de/app/uploads/2025/04/Koalitionsvertrag-2025-1.pdf)
