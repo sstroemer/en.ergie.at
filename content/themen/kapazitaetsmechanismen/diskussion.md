@@ -86,6 +86,21 @@ Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder
 
 {{< /timelineItem >}}
 
+<!-- ===================================== Frontier Economics DE:Rückkehr SR in Markt =================================================================== -->
+
+{{< timelineItem icon="comment" header="Kurzanalyse zum Beitrag von Reservekraftwerken im Strommarkt" badge="31.03.2025" subheader="Von: Frontier Economics" >}}
+<div style="margin-bottom: -1.5em;">
+  <details>
+    <summary><span style="cursor: pointer; font-weight: 500;">Anzeigen: <u>Zusammenfassung</u></span></summary>
+    <blockquote>
+In dieser Präsentation von Frontier Economics wird die Idee der neuen deutschen Bundesregierung analysiert, Reservekraftwerke zur Stabilisierung der Strompreise einzusetzen. In der statischen Analyse zeigt sich eine Reduzierung der Großhandelsstrompreise um 4&nbsp;€/MWh im Jahresmittel. Gleichzeitig verdrängt bzw. ersetzt die Rückkehr der Reservekraftwerke Investitionen, die ansonsten getätigt worden wären. Die dynamische Analyse weist hingegen eine moderate Reduzierung der Strompreise um weniger als 1&nbsp;€/MWh auf, wobei sich die Preisveränderung vor allem auf die teuersten Stunden konzentriert.
+    </blockquote>
+  </details>
+<a href="https://media.licdn.com/dms/document/media/v2/D4E1FAQHPTz0fEwjkJg/feedshare-document-pdf-analyzed/B4EZXsSkRnGwAY-/0/1743426051155?e=1749081600&v=beta&t=iaKW1qnlgIGrRdbx79oKR-B3EWJ-hrh3UFbAjtG_UKs" class="bg-primary-100 dark:bg-primary-300 rounded-md font-semibold text-center text-neutral-800 dark:text-neutral-800" style="display: block; width: 100%; margin-top: 1.5em" target="_blank">Gesamte Präsentation hier lesen!</a>
+</div>
+
+{{< /timelineItem >}}
+
 <!-- ===================================== Frontier Economics DR in CMs =================================================================== -->
 
 {{< timelineItem icon="comment" header="Einbindung von dezentraler Flexibilität in einen integrierten Kapazitätsmarkt" badge="17.03.2025" subheader="Von: Frontier Economics" >}}
