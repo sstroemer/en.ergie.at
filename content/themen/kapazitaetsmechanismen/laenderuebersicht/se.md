@@ -9,6 +9,10 @@ authors: ["afischer", "dkrainer"]
 Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per [GitHub Issue melden](https://github.com/ait-energy/en.ergie.at/issues).
 {{< /alert >}}
 
+## Aktuelle Entwicklungen
+Die Strategische Reserve in Schweden war seit dem Jahr 2003 aktiv[^3] und ist mit 15.&nbsp;März 2025 ausgelaufen[^Svenska_CM]. Svenska kraftnät sieht langfristig den Bedarf für einen Kapazitätsmechanismus und spricht sich für die Einführung eines marktweiten Kapazitätsmechanismus aus[^Svenska_CM]. Dieser soll als zentraler Kapazitätsmarkt ausgestaltet werden, wobei eine geografische Trennung nach Gebotszonen vorgesehen ist[^Svenska_Studie].
+
+
 ## Strategische Reserve
 
 ### Ausschreibung 
@@ -22,10 +26,15 @@ An der strategischen Reserve können sowohl Stromerzeuger, die über Backup-Kraf
 
 <!-- Fußnoten -->
 
-[^1]: P. C. Bhagwat, J. C. Richstein, E. J. L. Chappin, and L. J. de Vries, “The effectiveness of a strategic reserve in the presence of a high portfolio share of renewable energy sources,” Util. Policy, vol. 39, pp. 13–28, Apr. 2016, doi: 10.1016/j.jup.2016.01.007.
+[^1]: [The effectiveness of a strategic reserve in the presence of a high portfolio share of renewable energy sources<br>(Bhagwat et al., 2016)](https://www.sciencedirect.com/science/article/pii/S0957178716300169)
 
-[^2]: “GreenVolt Nordic.” Accessed: Apr. 17, 2024. [Online]. Available: https://www.greenvolt.se/post/power-reserve-in-sweden-a-deep-dive
+<!-- [^2]: “GreenVolt Nordic.” Accessed: Apr. 17, 2024. [Online]. Available: https://www.greenvolt.se/post/power-reserve-in-sweden-a-deep-dive -->
 
-[^3]: European Comission, “COMMISSION STAFF WORKING DOCUMENT Accompanying the document REPORT FROM THE COMMISSION Final Report of the Sector Inquiry on Capacity Mechanisms.” 2016. Accessed: Apr. 08, 2024. [Online]. Available: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52016SC0385&from=EN
+[^3]: [COMMISSION STAFF WORKING DOCUMENT Accompanying the document REPORT FROM THE COMMISSION Final Report of the Sector Inquiry on Capacity Mechanisms<br>(European Comission)](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52016SC0385&from=EN)
 
-[^4]: Svenska Kraftnät, “Power reserve.” Accessed: Apr. 17, 2024. [Online]. Available: https://www.svk.se/en/national-grid/operations-and-electricity-markets/power-reserve/
+[^4]: [Power reserve<br>(svk.se)](https://web.archive.org/web/20230509155815/https://www.svk.se/en/national-grid/operations-and-electricity-markets/power-reserve/)
+<!--https://www.svk.se/en/national-grid/operations-and-electricity-markets/power-reserve/-->
+
+[^Svenska_CM]: [Svenska kraftnät proposes a future capacity mechanism to ensure resource adequacy in the electricity market<br>(svk.se)](https://www.svk.se/en/about-us/news/news/svenska-kraftnat-proposes-a-future-capacity-mechanism-to-ensure-resource-adequacy-in-the-electricity-market/)
+
+[^Svenska_Studie]:[A future capacity mechanism to ensure resource adequacy in the electricity market<br>(Svenska kraftnät)](https://www.svk.se/49d7cf/siteassets/om-oss/rapporter/2023/a-future-capacity-mechanism-to-ensure-resource-adequacy-in-the-electricity-market.pdf)
