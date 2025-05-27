@@ -11,7 +11,7 @@ Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder
 
 ## Aktuelle Entwicklungen
 Die erste Ausschreibung für die Strategische Reserve fand im Jahr 2019 [^Clean_Energy_Wire] [^netztransparenz_de_SR2020-2022] statt und wird seit dem Winterhalbjahr 2020/2021 außerhalb des Strommarkts vorgehalten[^netztransparenz_de_SR]. Derzeit wird in Deutschland die Einführung eines Kapazitätsmarktes geplant, der bis 2028 operativ sein soll [^BMWK_CM_bis2028]. Die 2024 zerbrochene Ampelkoalition bestehend aus SPD, FDP und Grünen hat sich dabei für einen kombinierten Kapazitätsmarkt bestehend aus zentralen und dezentralen Elementen ausgesprochen. Ob die neue deutsche Bundesregierung bestehend aus CDU, CSU und SPD diesen Weg fortsetzt bleibt abzuwarten. Laut einer ersten Einschätzung von Frontier Economics erscheint es unwahrscheinlich, dass die Bundesregierung am kombinierten Modell festhält und sieht die Einführung eines zentralen Kapazitätsmarkts nach belgischem oder britischem Vorbild als wahrscheinlicher [^Frontier_Koalition_DE].
-Weiters diskutiert die neue, deutsche Bundesregierung den Einsatz der Strategischen Reserve zur Stabilisierung der Strompreise zusätzlich zur Vermeidung von Versorgungsengpässen [^CDU_CSU_SPD].
+Weiters diskutiert die deutsche Bundesregierung den Einsatz der Strategischen Reserve zur Stabilisierung der Strompreise zusätzlich zur Vermeidung von Versorgungsengpässen [^CDU_CSU_SPD].
 
 ## Strategische Reserve
 
