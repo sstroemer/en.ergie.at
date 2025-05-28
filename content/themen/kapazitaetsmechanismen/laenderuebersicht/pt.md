@@ -1,13 +1,16 @@
 ---
 title: "Portugal"
 topics: []
-authors: ["afischer"]
+authors: ["afischer","dkrainer"]
 ---
 
 <br>
 {{< alert >}}
 Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per [GitHub Issue melden](https://github.com/ait-energy/en.ergie.at/issues).
 {{< /alert >}}
+
+## Aktuelle Entwicklungen
+Portugal verfügt derzeit über keinen aktiven Kapazitätsmechanismus. Im Nationalen Bericht zur Angemessenheit der Ressourcen (NRAA) 2024 wurde jedoch ein Versorgungssicherheitsproblem festgestellt. Der portugiesische Übertragungsnetzbetreiber REN (Redes Energéticas Nacionais) und die Generaldirektion für Energie und Geologie DGEG (Direção-Geral de Energia e Geologia) sprechen sich daher erstmals gemeinsam für die Einführung eines Kapazitätsmechanismus aus, um die Stillegung der bestehenden CCGTs zu vermeiden [^PT_NRAA_2024].
 
 ## Gezielte Kapazitätszahlungen
 
@@ -17,6 +20,8 @@ Im Jahr 2017 wurde in Portugal ein gezielter Kapazitätsmechanismus eingeführt,
 
 <!-- Fußnoten -->
 
-[^1]: ACER, “Security of EU electricity supply 2023,” 2023.
+[^1]: [Security of EU electricity supply 2023<br>(ACER)](https://acer.europa.eu/sites/default/files/documents/Publications/Security_of_EU_electricity_supply_2023.pdf)
 
-[^2]: Montel, “EU capacity mechanism costs to reach EUR 7.4bn – Acer,” MONTEL. Accessed: Apr. 18, 2024. [Online]. Available: https://montelnews.com/news/1525997/eu-capacity-mechanism-costs-to-reach-eur-7-4bn-acer
+[^2]: [EU capacity mechanism costs to reach EUR 7.4bn – Acer<br>(montelnews.com)](https://montelnews.com/news/1525997/eu-capacity-mechanism-costs-to-reach-eur-7-4bn-acer)
+
+[^PT_NRAA_2024]: [Linkedin Post<br>(Aurora Energy Research)](https://www.linkedin.com/feed/update/urn:li:activity:7297671676706615296/)

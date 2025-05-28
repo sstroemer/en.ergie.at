@@ -36,7 +36,7 @@ Ein neues System zur Kapazitätsvergütung wurde bislang nicht eingeführt. Das 
 
 [^2]: [The first call for tenders for access to the capacity of certain nodes of the electricity grid for renewable generation facilities is fast approaching<br>(osborneclarke.com)](https://www.osborneclarke.com/insights/first-call-tenders-access-capacity-certain-nodes-electricity-grid-renewable-generation)
 
-[^3]: [Security of EU electricity supply 2023<br>ACER](https://acer.europa.eu/sites/default/files/documents/Publications/Security_of_EU_electricity_supply_2023.pdf)
+[^3]: [Security of EU electricity supply 2023<br>(ACER)](https://acer.europa.eu/sites/default/files/documents/Publications/Security_of_EU_electricity_supply_2023.pdf)
 
 [^4]: [A tour of European capacity markets<br>(timera-energy.com)](https://timera-energy.com/blog/a-tour-of-european-capacity-markets/)
 
