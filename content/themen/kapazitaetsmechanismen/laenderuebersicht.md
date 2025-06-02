@@ -17,6 +17,7 @@ Es gibt acht EU-Mitgliedstaaten mit aktiven Kapazitätsmechanismen: Belgien, Fin
 
 ![Überblick über aktive und in Diskussion befindliche Kapazitätsmechanismen in Europa (basierend auf [29])](/images/laenderuebersicht/laenderuebersicht_aktive_diskutierte_KMs_Europa.png)
 
+Eine Übersicht über alle aktuell als staatliche Beihilfen genehmigten Kapazitätsmechanismen und deren genaue Ausgestaltung sowie im Laufe der Zeit genehmigten Anpassungen sind in der [Datenbank der Europäischen Kommission](https://competition-cases.ec.europa.eu/search?search=%22capacity%20mechanism%22&caseInstrument=SA&sortField=relevance&sortOrder=DESC) zu finden.
 
 ### Einzelseiten zu Kapazitätsmechanismen in den Ländern:
 - [Belgien]({{< ref "laenderuebersicht/be" >}})
