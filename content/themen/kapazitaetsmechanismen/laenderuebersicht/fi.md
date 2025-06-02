@@ -12,7 +12,7 @@ Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder
 ## Strategische Reserve
 
 ### Ausschreibung: 
-Finnland hat der Kommission ein finnisches Kapazitätsmechanismus in Höhe von 150 Millionen Euro in Form einer strategischen Reserve gemeldet. Die Maßnahme zielt darauf ab, ein Gleichgewicht zwischen Stromnachfrage und -angebot während Spitzenverbrauchszeiten in Finnland sicherzustellen [^1]. Das strategische Reservemodell lief im Juli 2022 aus und wurde durch ein neues Modell ersetzt, das bis 2032 in Kraft sein wird. Die erste Auktion des neuen Modells fand im Sommer 2022 statt und vergab keine Kapazitäten (jedoch blieb die Kapazität, die an der Auktion teilgenommen hatte, im Energiemarkt verfügbar). Im Allgemeinen ist der Ausschreibungsprozess transparent, diskriminierungsfrei und wettbewerblich, wobei die Begünstigten auf der Grundlage von Angeboten um die geringste Höhe der Unterstützung pro MW Kapazität konkurrieren (unter Berücksichtigung technischer und umweltbezogener Aspekte wie Flexibilität der Einheiten und CO2-Emissionen) [^1].
+Finnland hat der Kommission einen finnischen Kapazitätsmechanismus in Höhe von 150 Millionen Euro in Form einer strategischen Reserve gemeldet. Die Maßnahme zielt darauf ab, ein Gleichgewicht zwischen Stromnachfrage und -angebot während Spitzenverbrauchszeiten in Finnland sicherzustellen [^1]. Das strategische Reservemodell lief im Juli 2022 aus und wurde durch ein neues Modell ersetzt, das bis 2032 in Kraft sein wird. Die erste Auktion des neuen Modells fand im Sommer 2022 statt und vergab keine Kapazitäten (jedoch blieb die Kapazität, die an der Auktion teilgenommen hatte, im Energiemarkt verfügbar). Im Allgemeinen ist der Ausschreibungsprozess transparent, diskriminierungsfrei und wettbewerblich, wobei die Begünstigten auf der Grundlage von Angeboten um die geringste Höhe der Unterstützung pro MW Kapazität konkurrieren (unter Berücksichtigung technischer und umweltbezogener Aspekte wie Flexibilität der Einheiten und CO2-Emissionen) [^1].
 
 ### Vergütung: 
 Spitzenlastreserven werden aktiviert, wenn Angebot und Nachfrage im Day-Ahead-Markt nicht ausgeglichen werden. Die Vergütung für die Kapazitätsinhaber besteht aus einer festen jährlichen Zahlung. Im Falle einer Aktivierung erhalten sie nur ihre tatsächlichen (Start- und Betriebskosten) Kosten.
@@ -22,4 +22,4 @@ Stromerzeugungseinheiten, demand response Einheiten (Verbrauchsreduktion) und Sp
 
 <!-- Fußnoten -->
 
-[^1]: European Commission - European Commission. “State aid.” Accessed: Apr. 18, 2024. [Online]. Available: https://ec.europa.eu/commission/presscorner/detail/es/ip_22_5787
+[^1]: [State aid: Commission approves €150 million Finnish strategic reserve to support security of electricity supply<br>(ec.europa.eu)](https://ec.europa.eu/commission/presscorner/detail/es/ip_22_5787)
