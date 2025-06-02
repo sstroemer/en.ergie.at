@@ -20,6 +20,7 @@ Es gibt acht EU-Mitgliedstaaten mit aktiven Kapazitätsmechanismen: Belgien, Fin
 
 ### Einzelseiten zu Kapazitätsmechanismen in den Ländern:
 - [Belgien]({{< ref "laenderuebersicht/be" >}})
+- [Dänemark]({{< ref "laenderuebersicht/dk" >}})
 - [Deutschland]({{< ref "laenderuebersicht/de" >}})
 - [Finnland]({{< ref "laenderuebersicht/fi" >}})
 - [Frankreich]({{< ref "laenderuebersicht/fr" >}})
