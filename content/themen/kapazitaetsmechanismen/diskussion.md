@@ -226,7 +226,7 @@ Auf Grundlage dieser Befunde ziehen die Autoren zwei zentrale Schlussfolgerungen
 <details>
   <summary><span style="cursor: pointer; font-weight: 500;">Anzeigen: <u>Weitere Informationen</u></span></summary>
   <ul>
-    <li><a href="https://fsr.eui.eu/publications/?handle=1814/77489#:~:text=In%20this%20paper%2C%20we%20assess%20the%20effectiveness%20of,on%20a%20neighboring%20system%20without%20any%20capacity%20mechanism." target="_blank">Cross-border participation : a false hope for fixing capacity market externalities?</a></li>
+    <li><a href="https://fsr.eui.eu/publications/?handle=1814/77489#:~:text=In%20this%20paper%2C%20we%20assess%20the%20effectiveness%20of,on%20a%20neighboring%20system%20without%20any%20capacity%20mechanism." target="_blank">Cross-border participation: a false hope for fixing capacity market externalities?</a></li>
   </ul>
   </details>
 
