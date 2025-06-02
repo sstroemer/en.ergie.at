@@ -22,4 +22,6 @@ Leistbarkeitsoptionen (engl. affordability options) zielen darauf ab, Gewinne vo
 
 <!-- Fußnoten -->
 
-[^1]: T. Schittekatte and C. Batlle, “Assuring a Sustainable Decarbonization: Affordability Options,” IEEE Power Energy Mag., vol. 21, no. 4, pp. 72–79, Jul. 2023, doi: 10.1109/MPE.2023.3269540
+[^1]: [Assuring a Sustainable Decarbonization: Affordability Options  
+(Schittekatte & Batlle, 2023)](https://doi.org/10.1109/MPE.2023.3269540)
+

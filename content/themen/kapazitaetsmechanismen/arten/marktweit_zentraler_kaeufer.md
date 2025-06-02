@@ -33,11 +33,11 @@ Dieser Ansatz ermöglicht es, Skaleneffekte bei der Stromerzeugung zu nutzen und
 
 | **Vorteile**                                                                                      | **Herausforderungen**                                                                                 |
 |---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
-| Ermöglicht die Begrenzung von „windfall profits“[^1]                                              | Hauptnutznießer des Systems sind oft bestehende Einheiten (Polen)                                     |
+| Ermöglicht die Begrenzung von „windfall profits“ (In Kombination mit Zuverlässigkeitsoptionen)                                              | Hauptnutznießer des Systems sind oft bestehende Einheiten (Polen)                                     |
 | Stärkung der Anreize für Kapazitätsanbieter, die Versorgungssicherheit zu gewährleisten[^2]       | Fehlende Anreize für neue Investitionen                                                               |
-| Technologieneutral (abhängig vom Referenz-Ausübungspreis)[^2]                                     | Hauptanreiz zur Bereitstellung ist die Strafe[^2]                                                     |
+| Technologieneutral (abhängig vom Referenz-Ausübungspreis)                                     | Hauptanreiz zur Bereitstellung ist die Strafe                                                     |
 | Schützt die Nachfrage vor hohen Energiepreisen, ohne die Spotpreise zu verzerren                  | i. A. kein Anreiz für Verbraucher, Verbrauch in kritischen Situationen zu senken                      |
-| Teilweise Selbstfinanzierung[^2]                                                                  | Tendenziell großes Risiko, den Bedarf zu überschätzen                                                 |
+| Teilweise Selbstfinanzierung                                                                  | Tendenziell großes Risiko, den Bedarf zu überschätzen                                                 |
 | Vergleichbar geringer Aufwand für Marktteilnehmer                                                 | Langfristiger Mechanismus, daher nur bedingt anpassungsfähig                                          |
 | Menge an notwendiger Kapazität wird klar beziffert – Treffsicherheit und Transparenz             | –                                                                                                      |
 | Gut praxiserprobt                                                                                 | –                                                                                                      |
@@ -51,8 +51,3 @@ Dieser Ansatz ermöglicht es, Skaleneffekte bei der Stromerzeugung zu nutzen und
 - [Polen]({{< ref "themen/kapazitaetsmechanismen/laenderuebersicht/pl.md" >}})
 - [Belgien]({{< ref "themen/kapazitaetsmechanismen/laenderuebersicht/be.md" >}})
 - [Vereinigtes Königreich]({{< ref "themen/kapazitaetsmechanismen/laenderuebersicht/uk.md" >}})
-
-
-<!-- Fußnoten -->
-[^1]: In Kombination mit Zuverlässigkeitsoptionen  
-[^2]: Quelle: TekWavE | Energie Frei Raum – 3. Ausschreibung

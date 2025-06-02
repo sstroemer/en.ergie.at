@@ -26,4 +26,6 @@ Es sollte berücksichtigt werden, dass (<abbr title="Contracts for Differnce">Cf
 
 <!-- Fußnoten -->
 
-[^1]: C. Canestrini, “Contracts-for-Difference (CfDs),” Florence School of Regulation. Accessed: May 02, 2024. [Online]. Available: https://fsr.eui.eu/contracts-for-difference/
+[^1]: [Contracts-for-Difference  
+(Florence School of Regulation)](https://fsr.eui.eu/contracts-for-difference/)
+

@@ -63,16 +63,24 @@ Wichtige Gestaltungselemente in Kapazitätsmärkten sind die Vorlaufzeit zwische
 
 <!-- Fußnoten -->
 
-[^1]: Regulation 2019/943/EU, Regulation (EU) 2019/943 of the European Parliament and of the Council of 5 June 2019 on the internal market for electricity (recast). 2019, pp. 54–124.
+[^1]: [Regulation (EU) 2019/943 of the European Parliament and of the Council of 5 June 2019 on the internal market for electricity (recast)  
+(European Union)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32019R0943)
 
-[^2]: Regulation (EU) 2024/1747 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2019/942 and (EU) 2019/943 as regards improving the Union’s electricity market designText with EEA relevance. 2024. Accessed: Jul. 02, 2024. [Online]. Available: http://data.europa.eu/eli/reg/2024/1747/oj/eng
+[^2]: [Regulation (EU) 2024/1747 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2019/942 and (EU) 2019/943 as regards improving the Union’s electricity market design  
+(European Union)](http://data.europa.eu/eli/reg/2024/1747/oj/eng)
 
-[^3]: P. Holmberg and T. Tangerås, “A survey of capacity mechanisms: lessons for the Swedish electricity market a”.
+[^3]: [A Survey of Capacity Mechanisms: Lessons for the Swedish Electricity Market  
+(Holmberg & Tangerås, 2023)](https://doi.org/10.5547/01956574.44.6.phol)
 
-[^4]: “Svenska kraftnät proposes a future capacity mechanism to ensure resource adequacy in the electricity market.” Accessed: Apr. 18, 2024. [Online]. Available: https://www.svk.se/en/about-us/news/news/svenska-kraftnat-proposes-a-future-capacity-mechanism-to-ensure-resource-adequacy-in-the-electricity-market/
+[^4]: [Svenska kraftnät proposes a future capacity mechanism to ensure resource adequacy in the electricity market  
+(Svenska kraftnät)](https://www.svk.se/en/about-us/news/news/svenska-kraftnat-proposes-a-future-capacity-mechanism-to-ensure-resource-adequacy-in-the-electricity-market/)
 
-[^5]: D. Newbery, “Missing money and missing markets: Reliability, capacity auctions and interconnectors,” Energy Policy, vol. 94, pp. 401–410, Jul. 2016, doi: 10.1016/j.enpol.2015.10.028.
+[^5]: [Missing money and missing markets: Reliability, capacity auctions and interconnectors  
+(Newbery, 2016)](https://doi.org/10.1016/j.enpol.2015.10.028)
 
-[^6]: W. W. Hogan, “Electricity Scarcity Pricing Through Operating Reserves,” Econ. Energy Environ. Policy, vol. Volume 2, no. Number 2, 2013, Accessed: Jul. 22, 2024. [Online]. Available: https://econpapers.repec.org/article/aeneeepjl/2_5f2_5fa04.htm
+[^6]: [Electricity Scarcity Pricing Through Operating Reserves  
+(Hogan, 2013)](https://doi.org/10.5547/2160-5890.2.2.4)
 
-[^7]: European Comission, State aid No. SA.46100 (2017/N) – Poland – Planned Polish capacity mechanism. Accessed: Jul. 26, 2024. [Online]. Available: https://ec.europa.eu/competition/state_aid/cases/272253/272253_1977790_162_2.pdf
+[^7]: [State aid No. SA.46100 (2017/N) – Poland – Planned Polish capacity mechanism  
+(European Commission)](https://ec.europa.eu/competition/state_aid/cases/272253/272253_1977790_162_2.pdf)
+
