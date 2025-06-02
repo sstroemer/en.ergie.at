@@ -54,7 +54,7 @@ Tabelle 2 gibt einen Überblick über die Anwendung der Koeffizienten auf die Ge
 | Gebotspreis [€/MWh/a]     | -      | 40          | 40        |
 | Angepasster Gebotspreis [€/MWh/a] | - |   40,64     |      39,6   | 
 
-*Tabelle 2: Fiktives Beispiel zur Anpassung der Gebote durch Anwendung von realen, durch Terna definierte, Koeffizienten [^Terna_Koeffizienten]*
+*Tabelle 2: Fiktives Beispiel zur Anpassung der Gebote durch Anwendung von realen, durch Terna definierte, Koeffizienten [^Terna_Koeffizienten][^RSE_research]*
 
 Gebote, die die Mindestanforderungen übertreffen, wie in Tabelle 2 dargestellt, erhalten einen Koeffizienten < 100&nbsp;%, und werden in der Merit-Order niedriger gereiht.  
 
@@ -88,3 +88,5 @@ Im Rahmen von MACSE erhalten die bezuschlagten Anbieter eine jährliche Vergütu
 [^Terna_Marktstudie]: [STUDY ON REFERENCE TECHNOLOGIES FOR ELECTRICITY STORAGE<br>Terna](https://download.terna.it/terna/Study_on_electricity_storage_reference_technologies_8db99b53d98c32b.pdf)
 
 [^Terna_Koeffizienten]: [RELAZIONE TECNICA<br> (Terna)](https://download.terna.it/terna/Relazione%20tecnica_Batterie%20(1)_8dd5da56259953d.pdf)
+
+[^RSE_research]:[THE ELECTRICITY STORAGE CAPACITY PROCUREMENT MECHANISM (MACSE)<br>(RSE)](https://www.rse-web.it/wp-content/uploads/2024/05/08_MACSE-inglese.pdf)
