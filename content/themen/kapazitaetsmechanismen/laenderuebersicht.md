@@ -70,7 +70,7 @@ In der Y-4 Auktion des Kapazitätsvergütungsmechanismus für den Lieferzeitraum
 <br>
 <details>
 <summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
-Die T-4 Auktion 2023 sicherte 42.830,8&nbsp;MW Kapazität über 540 Einheiten zu einem Clearing-Preis von 65.000&nbsp;£/MW/Jahr. Davon entfielen 77,5% auf bestehende Erzeugung, 13% auf bestehende Interkonnektoren, 3,9% auf neue Erzeugung, 2,4% auf neue Interkonnektoren und 2,6% auf Demand Side Response (DSR). Die meisten Zuschläge gingen an Gaskraftwerke (66,97%) und Interkonnektoren (15,38%). Batteriespeicher hatten einen Anteil von 2,39%.
+Die T-4 Auktion 2023 sicherte <strong>42.830,8&nbsp;MW Kapazität</strong> über 540 Einheiten zu einem <strong>Clearing-Preis von 65.000&nbsp;£/MW/Jahr</strong>. Davon entfielen <strong>77,5% auf bestehende Erzeugung</strong>, 13% auf bestehende Interkonnektoren, <strong>3,9% auf neue Erzeugung</strong>, 2,4% auf neue Interkonnektoren und 2,6% auf Demand Side Response (DSR). Die meisten Zuschläge gingen an Gaskraftwerke (66,97%) und Interkonnektoren (15,38%). Batteriespeicher hatten einen Anteil von 2,39%.
 </i></details>
 </div>
 
@@ -80,7 +80,7 @@ Die T-4 Auktion 2023 sicherte 42.830,8&nbsp;MW Kapazität über 540 Einheiten zu
 <br>
 <details>
 <summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
-In der britischen T-1 Kapazitätsauktion für das Lieferjahr 2024/25 wurden 7639,609 MW über 277 Einheiten zu einem Clearing-Preis von 35790&nbsp;£/MW/Jahr vergeben. Der Zielwert lag bei 7700&nbsp;MW. Die Kapazität setzt sich zusammen aus 81% (6208,7&nbsp;MW) bestehender Erzeugung, 9,7% (745&nbsp;MW) Demand Side Response, und 9% (685,8&nbsp;MW) neuer Erzeugungskapazität. Hauptsächlich vertreten waren Gas (2943,8&nbsp;MW), Kernenergie (2767,3&nbsp;MW), DSR (710&nbsp;MW) sowie 655,16&nbsp;MW Batteriespeicher. Interkonnektoren und Kohle nahmen nicht teil bzw. erhielten keine Zuschläge.
+In der britischen T-1 Kapazitätsauktion für das Lieferjahr 2024/25 wurden <strong>7640 MW über 277 Einheiten</strong> zu einem <strong>Clearing-Preis von 35790&nbsp;£/MW/Jahr</strong> vergeben. Der Zielwert lag bei 7700&nbsp;MW. Die Kapazität setzt sich zusammen aus <strong>81% (6208,7&nbsp;MW) bestehender Erzeugung</strong>, 9,7% (745&nbsp;MW) Demand Side Response, und <strong>9% (685,8&nbsp;MW) neuer Erzeugungskapazität</strong>. <strong>Hauptsächlich vertreten waren Gas (2943,8&nbsp;MW), Kernenergie (2767,3&nbsp;MW)</strong>, DSR (710&nbsp;MW) sowie 655,16&nbsp;MW Batteriespeicher. Interkonnektoren und Kohle nahmen nicht teil bzw. erhielten keine Zuschläge.
 </i></details>
 </div>
 
@@ -90,7 +90,7 @@ In der britischen T-1 Kapazitätsauktion für das Lieferjahr 2024/25 wurden 7639
 <br>
 <details>
 <summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
-Die britische T-4 Auktion für das Lieferjahr 2026/27 sicherte 43.001&nbsp;MW zu einem Clearingpreis von 63.000&nbsp;£/MW/Jahr. 73,9% (31.771&nbsp;MW) entfielen auf bestehende Erzeugungseinheiten, 13,5% (5.812&nbsp;MW) auf bestehende Interkonnektoren und 8,0% (3.451&nbsp;MW) auf neue Erzeugung. Spitzenbrennstoffe waren Gas (67,5%, 29.039&nbsp;MW), Interkonnektoren (15,9%, 6.854&nbsp;MW), Batterie- und Pumpspeicher (7,2%, 3.494&nbsp;MW) und Demand Side Response (2,2%, 925&nbsp;MW). Insgesamt wurden 542 Kapazitätseinheiten (CMUs) prämiert.
+Die britische T-4 Auktion für das Lieferjahr 2026/27 sicherte <strong>43.001&nbsp;MW</strong> zu einem <strong>Clearingpreis von 63.000&nbsp;£/MW/Jahr</strong>. <strong>73,9% (31.771&nbsp;MW) entfielen auf bestehende Erzeugungseinheiten</strong>, 13,5% (5.812&nbsp;MW) auf bestehende Interkonnektoren und <strong>8,0% (3.451&nbsp;MW) auf neue Erzeugung</strong>. <strong>Spitzenbrennstoffe waren Gas (67,5%, 29.039&nbsp;MW)</strong>, Interkonnektoren (15,9%, 6.854&nbsp;MW), Batterie- und Pumpspeicher (7,2%, 3.494&nbsp;MW) und Demand Side Response (2,2%, 925&nbsp;MW). Insgesamt wurden 542 Kapazitätseinheiten (CMUs) prämiert.
 </i></details>
 </div>
 
@@ -100,7 +100,7 @@ Die britische T-4 Auktion für das Lieferjahr 2026/27 sicherte 43.001&nbsp;MW zu
 <br>
 <details>
 <summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
-In der britischen T-1 Kapazitätsauktion 2023/24 wurden 5.783&nbsp;MW bei einem Clearing-Preis von 60.000&nbsp;£/MW/Jahr vergeben. Der Großteil (80,1% bzw. 4.634&nbsp;MW) entfiel auf bestehende Erzeugungskapazitäten, während 12,9% (744&nbsp;MW) auf neue Erzeugung und 7,0% (405&nbsp;MW) auf DSR entfielen. Die wichtigsten Technologien waren Gas (45,3% / 2.619&nbsp;MW), Kernenergie (24,4% / 1.412&nbsp;MW) Batteriespeicher (10,7% / 621&nbsp;MW), und Kohle (7.1% / 412&nbsp;MW). Insgesamt nahmen 269 CMUs teil, 94,4% davon erhielten Verträge.
+In der britischen T-1 Kapazitätsauktion 2023/24 wurden <strong>5.783&nbsp;MW</strong> bei einem <strong>Clearing-Preis von 60.000&nbsp;£/MW/Jahr </strong> vergeben. Der Großteil <strong>(80,1% bzw. 4.634&nbsp;MW) entfiel auf bestehende Erzeugungskapazitäten</strong>, während <strong>12,9% (744&nbsp;MW) auf neue Erzeugung</strong> und <strong>7,0% (405&nbsp;MW) auf DSR</strong> entfielen. Die wichtigsten Technologien waren <strong>Gas (45,3% / 2.619&nbsp;MW), Kernenergie (24,4% / 1.412&nbsp;MW), Batteriespeicher (10,7% / 621&nbsp;MW), und Kohle (7.1% / 412&nbsp;MW)</strong>. Insgesamt nahmen 269 CMUs teil, 94,4% davon erhielten Verträge.
 </i></details>
 </div>
 
@@ -110,7 +110,7 @@ In der britischen T-1 Kapazitätsauktion 2023/24 wurden 5.783&nbsp;MW bei einem 
 <br>
 <details>
 <summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
-In der britischen T-4 Kapazitätsauktion für das Lieferjahr 2025/26 wurden 42.364&nbsp;MW gesicherte Kapazität zu einem Clearing-Preis von 30.590&nbsp;£/MW/Jahr vergeben. 76,3 % (32.305&nbsp;MW) entfielen auf bestehende Erzeugungseinheiten, während 4,5% (1.919&nbsp;MW) auf neue Erzeugungseinheiten und 6,6% (2.794&nbsp;MW) auf neue Interkonnektoren entfielen. Die dominierenden Brennstoffarten waren Gas (65,2% / 27.632&nbsp;MW), Interkonnektoren (16,5% / 6.966&nbsp;MW) und Pumpwasserspeicher (6,0% / 2.528&nbsp;MW) und Batteriespeicher (1094&nbsp;MW). Die Auktion sicherte Kapazität von insgesamt 574 Einheiten, darunter auch 988 MW Demand-Side-Response. 87,2% der eingereichten Kapazität erhielten einen Zuschlag
+In der britischen T-4 Kapazitätsauktion für das Lieferjahr 2025/26 wurden <strong>42.364&nbsp;MW</strong> gesicherte Kapazität zu einem <strong>Clearing-Preis von 30.590&nbsp;£/MW/Jahr</strong> vergeben. <strong>76,3 % (32.305&nbsp;MW)</strong> entfielen auf bestehende Erzeugungseinheiten, während <strong>4,5% (1.919&nbsp;MW) auf neue Erzeugungseinheiten</strong> und 6,6% (2.794&nbsp;MW) auf neue Interkonnektoren entfielen. Die <strong>dominierenden Brennstoffarten waren Gas (65,2% / 27.632&nbsp;MW), Interkonnektoren (16,5% / 6.966&nbsp;MW)</strong> und Pumpwasserspeicher (6,0% / 2.528&nbsp;MW) und <strong>Batteriespeicher (1094&nbsp;MW)</strong> . Die Auktion sicherte Kapazität von insgesamt 574 Einheiten, darunter auch 988 MW Demand-Side-Response. 87,2% der eingereichten Kapazität erhielten einen Zuschlag
 </i></details>
 </div>
 
@@ -120,7 +120,7 @@ In der britischen T-4 Kapazitätsauktion für das Lieferjahr 2025/26 wurden 42.3
 <br>
 <details>
 <summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
-In der T-1 Kapazitätsauktion für das Lieferjahr 2022/23 wurden exakt 4.996&nbsp;MW gesichert. Der Auktionspreis lag bei 75.000&nbsp;£/MW/Jahr. Der Anteil bestehender Anlagen betrug 62,1% (3.102&nbsp;MW), neue Erzeugungseinheiten machten 27,3% (1.366&nbsp;MW) aus und Demand Side Response (DSR) trug insgesamt 10,6% (528&nbsp;MW) bei. Nach Brennstofftypen dominierten Gaskraftwerke mit 67,7% (3.385&nbsp;MW), gefolgt mit weitem Abstand von Kohle (411&nbsp;MW) und Batteriespeichern (385&nbsp;MW). Alle teilnehmenden Einheiten bekamen einen Zuschlag.
+In der T-1 Kapazitätsauktion für das Lieferjahr 2022/23 wurden exakt <strong>4.996&nbsp;MW</strong> gesichert. Der <strong>Auktionspreis lag bei 75.000&nbsp;£/MW/Jahr</strong>. Der <strong>Anteil bestehender Anlagen betrug 62,1% (3.102&nbsp;MW)</strong>, <strong>neue Erzeugungseinheiten machten 27,3% (1.366&nbsp;MW) aus</strong> und Demand Side Response (DSR) trug insgesamt 10,6% (528&nbsp;MW) bei. Nach <strong>Brennstofftypen dominierten Gaskraftwerke mit 67,7% (3.385&nbsp;MW)</strong>, gefolgt mit weitem Abstand von Kohle (411&nbsp;MW) und Batteriespeichern (385&nbsp;MW). Alle teilnehmenden Einheiten bekamen einen Zuschlag.
 </i></details>
 </div>
 
@@ -130,7 +130,7 @@ In der T-1 Kapazitätsauktion für das Lieferjahr 2022/23 wurden exakt 4.996&nbs
 <br>
 <details>
 <summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
-In der T-4 Auktion 2020 für das Lieferjahr 2024/25 wurden 40.820&nbsp;MW zu einem Clearing-Preis von 18.000&nbsp;£/MW/Jahr vergeben. Davon entfielen 74,64% (30.469&nbsp;MW) auf bestehende und 4,25% (1.736&nbsp;MW) auf neue Erzeugungsanlagen (Rest: Interkonnektoren & DSR). Die größten Anteile nach Brennstofftyp stellten Gaskraftwerke mit 64,8% (26.446&nbsp;MW), Interkonnektoren mit 16,8% (6.874&nbsp;MW) und Kernkraft mit 5,0% (2.039&nbsp;MW). Speichertechnologien machten zusammen 5,7% (2.324&nbsp;MW) aus, aufgeteilt in Pumpspeicher mit 5,1% (2.072&nbsp;MW) und Batteriespeicher mit 0,6% (252&nbsp;MW). Demand Side Response trug 2,6% (1.066&nbsp;MW) bei. Die Auktion sicherte über 78% der angebotenen Kapazität.
+In der T-4 Auktion 2020 für das Lieferjahr 2024/25 wurden <strong>40.820&nbsp;MW</strong> zu einem <strong>Clearing-Preis von 18.000&nbsp;£/MW/Jahr</strong> vergeben. Davon entfielen <strong>74,64% (30.469&nbsp;MW)</strong> auf bestehende und 4,25% (1.736&nbsp;MW) auf neue Erzeugungsanlagen (Rest: Interkonnektoren & DSR). Die <strong>größten Anteile nach Brennstofftyp stellten Gaskraftwerke mit 64,8%</strong> (26.446&nbsp;MW), Interkonnektoren mit 16,8% (6.874&nbsp;MW) und Kernkraft mit 5,0% (2.039&nbsp;MW). Speichertechnologien machten zusammen 5,7% (2.324&nbsp;MW) aus, aufgeteilt in Pumpspeicher mit 5,1% (2.072&nbsp;MW) und Batteriespeicher mit 0,6% (252&nbsp;MW). Demand Side Response trug 2,6% (1.066&nbsp;MW) bei. Die Auktion sicherte über 78% der angebotenen Kapazität.
 </i></details>
 </div>
 
@@ -140,7 +140,7 @@ In der T-4 Auktion 2020 für das Lieferjahr 2024/25 wurden 40.820&nbsp;MW zu ein
 <br>
 <details>
 <summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
-In der T-1 Auktion 2020 für das Lieferjahr 2021/22 wurden 2.252&nbsp;MW zu einem Clearing-Preis von 45.000&nbsp;£/MW/Jahr vergeben. Davon entfielen 63,4% (1.427&nbsp;MW) auf bestehende und 12,9% (290&nbsp;MW) auf neue Erzeugungsanlagen; Interkonnektoren stellten 13,1% (295&nbsp;MW), Demand Side Response 10,6% (239&nbsp;MW). Die größten Anteile nach Brennstofftyp hatten Gaskraftwerke mit 43,8% (986&nbsp;MW), Kohle mit 19,3% (435&nbsp;MW) und Batteriespeicher mit 5,1% (114&nbsp;MW). Insgesamt sicherte die Auktion rund 90,7% der Zielkapazität von 2.482&nbsp;MW über 156 Einheiten ab.
+In der T-1 Auktion 2020 für das Lieferjahr 2021/22 wurden <strong>2.252&nbsp;MW</strong> zu einem <strong>Clearing-Preis von 45.000&nbsp;£/MW/Jahr</strong> vergeben. Davon entfielen <strong>63,4% (1.427&nbsp;MW) auf bestehende und 12,9% (290&nbsp;MW) auf neue Erzeugungsanlagen</strong>; Interkonnektoren stellten 13,1% (295&nbsp;MW), Demand Side Response 10,6% (239&nbsp;MW). Die größten Anteile nach Brennstofftyp hatten <strong>Gaskraftwerke mit 43,8% (986&nbsp;MW), Kohle mit 19,3% (435&nbsp;MW)</strong> und Batteriespeicher mit 5,1% (114&nbsp;MW). Insgesamt sicherte die Auktion rund 90,7% der Zielkapazität von 2.482&nbsp;MW über 156 Einheiten ab.
 </i></details>
 </div>
 
@@ -150,12 +150,11 @@ In der T-1 Auktion 2020 für das Lieferjahr 2021/22 wurden 2.252&nbsp;MW zu eine
 <br>
 <details>
 <summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
-In der T-4 Auktion 2019 für das Lieferjahr 2023/24 wurden 43.749&nbsp;MW zu einem Clearing-Preis von 15.970&nbsp;£/MW/Jahr vergeben. Davon entfielen 77,7% (33.983&nbsp;MW) auf bestehende und 4,1% (1.798&nbsp;MW) auf neue Erzeugungsanlagen; Interkonnektoren stellten 12,1% (5.272&nbsp;MW), Demand Side Response 2,7% (1.170&nbsp;MW). Die größten Anteile nach Brennstofftyp hatten CCGT Gaskraftwerke mit 41,9% (18.342&nbsp;MW), Kernkraft mit 9,1% (3.971&nbsp;MW) und Combined Heat and Power mit 10,3% (4.483&nbsp;MW). Insgesamt sicherte die Auktion rund 99,9 % der Zielkapazität von 43.774&nbsp;MW über 498 Einheiten ab.
+In der T-4 Auktion 2019 für das Lieferjahr 2023/24 wurden <strong>43.749&nbsp;MW</strong> zu einem <strong>Clearing-Preis von 15.970&nbsp;£/MW/Jahr</strong> vergeben. Davon entfielen <strong>77,7% (33.983&nbsp;MW) auf bestehende</strong> und <strong>4,1% (1.798&nbsp;MW) auf neue Erzeugungsanlagen</strong>; Interkonnektoren stellten 12,1% (5.272&nbsp;MW), Demand Side Response 2,7% (1.170&nbsp;MW). Die größten Anteile nach Brennstofftyp hatten <strong>CCGT Gaskraftwerke mit 41,9% (18.342&nbsp;MW), Combined Heat and Power mit 10,3% (4.483&nbsp;MW) und Kernkraft mit 9,1% (3.971&nbsp;MW)</strong>. Insgesamt sicherte die Auktion rund 99,9 % der Zielkapazität von 43.774&nbsp;MW über 498 Einheiten ab.
 </i></details>
 </div>
 
 Find additional auction results & information <a href="https://www.emrdeliverybody.com/CM/Capacity%20Auction%20Information_deleted.aspx" target="_blank" rel="noopener noreferrer">here</a>.
-
 
 {{< /timelineItem >}}
 
