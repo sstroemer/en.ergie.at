@@ -64,7 +64,7 @@ In der Y-4 Auktion des Kapazitätsvergütungsmechanismus für den Lieferzeitraum
 
 {{< timeline >}}
 
-{{< timelineItem icon="rss" header="Vereintes Königreich" badge="27.10.2024" >}}
+{{< timelineItem icon="rss" header="Vereintes Königreich">}}
 <div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
 <a href="https://www.emrdeliverybody.com/Capacity%20Markets%20Document%20Library/T-4%20DY%202027-28%20Final%20Results%20Report%20v1.pdf"><b>Bericht: <u>Y-4 Auktion für die Lieferperiode 2027-2028 vom 27.02.2024</u></b></a>
 <br>
