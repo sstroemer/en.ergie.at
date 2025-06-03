@@ -47,7 +47,7 @@ Eine Übersicht über alle aktuell als staatliche Beihilfen genehmigten Kapazit�
 <br>
 <details>
 <summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
-Die Y-1 Auktion des Kapazitätsvergütungsmechanismus für den belgischen Lieferzeitraum 2025-2026 sicherte fast 2,7&nbsp;GW Kapazität über 31 Einheiten zu einem durchschnittlichen Preis von knapp 16.000&nbsp;EUR/MW/Jahr und gewährleistete damit eine gesamte verfügbare Systemkapazität von 14,6&nbsp;GW. Dies übersteigt den erforderlichen Bedarf um etwa 0,5&nbsp;GW und markiert die erfolgreiche Integration von fast 1,3&nbsp;GW ausländischer Kapazität aus den Niederlanden und Deutschland in das belgische Netz.
+Die Y-1 Auktion des Kapazitätsvergütungsmechanismus für den Lieferzeitraum 2025-2026 sicherte fast <strong>2,7&nbsp;GW</strong> Kapazität über 31 Einheiten zu einem volumengewichteten, <strong>durchschnittlichen Preis</strong> von knapp <strong>16.000&nbsp;EUR/MW/Jahr</strong>. Der höchste Gebotspreis lag bei knapp 26.500&nbsp;EUR/MW/Jahr. Alle bezuschlagten Einheiten erhielten einen Kapazitätsvergütungsvertrag für die Laufzeit von einem Jahr. Zusätzliche, <strong>neu installierte Kapazität</strong> machten <strong> 2,3&nbsp;% </strong> des gesicherten Volumens aus. Im Rahmen der Auktion wurden Kapazitäten verschiedener Technologien ausgewählt: Kombikraftwerke (62,21 %), Gasturbinen (18,34 %), Pumpspeicherkraftwerke (10,68 %), SLA No Limit (2,82 %), Kraft-Wärme-Kopplung (2,55 %), Speicher 4h (2,30 %), Turbojets (0,98 %), SLA 8h (0,05 %), SLA 12h (0,04 %) und SLA 1h (0,04 %). Erstmal wurden fast <strong>1,3&nbsp;MW ausländischer Kapazität</strong> aus den Niederlanden (976&nbsp;MW) und Deutschland (284&nbsp;MW) im Rahmen der Auktion ausgewählt.
 </i></details>
 </div>
 
@@ -56,10 +56,42 @@ Die Y-1 Auktion des Kapazitätsvergütungsmechanismus für den belgischen Liefer
 <br>
 <details>
 <summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
-In der Y-4 Auktion des Kapazitätsvergütungsmechanismus für den Lieferzeitraum 2028-2029 vergab Elia knapp 2&nbsp;GW derated Kapazität über 30 Einheiten zu einem gewichteten durchschnittlichen Gebotspreis von ca. 28.000&nbsp;EUR/MW/Jahr - ein bedeutender Schritt zur Sicherung der zukünftigen Stromversorgung Belgiens.
+Die Y-4 Auktion des Kapazitätsvergütungsmechanismus für den Lieferzeitraum 2028–2029 sicherte rund <strong>2&nbsp;GW</strong> Kapazität über 30&nbsp;Einheiten zu einem volumengewichteten, <strong>durchschnittlichen Preis</strong> von rund <strong>28.000&nbsp;EUR/MW/Jahr</strong>. Der höchste Gebotspreis lag bei knapp 75.000&nbsp;EUR/MW/Jahr. Rund 10&nbsp;% der bezuschlagten Kapazitäten erhielten einen Kapazitätsvergütungsvertrag für eine Laufzeit von 15 Jahren, während rund 90&nbsp;% Einjahresverträge erhielten. <strong>Neu installierte Kapazitäten</strong> machten etwa <strong>10&nbsp;%</strong> des gesicherten Volumens aus. Im Rahmen der Auktion wurden Kapazitäten verschiedener Technologien ausgewählt: Kombikraftwerke (39,5 %), Gasturbinen (20,7 %), Kraft-Wärme-Kopplung (14,5 %), SLA No Limit (14,4 %), Speicher 4h (6,8 %), Speicher 3h (1,9 %), SLA 8h (1,1 %), Speicher 2h (0,9 %), SLA 2h (0,2 %), SLA 1h (0,07 %) und nicht spezifiziert (0,07 %).
+</i></details>
+</div>
+
+<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
+<a href="https://www.elia.be/-/media/project/elia/elia-site/grid-data/adequacy/crm-auction-results/2023/y-4-2023-auction-report_en.pdf"><b>Bericht: <u>Y-4 Auktion für die Lieferperiode 2027-2028</u></b></a>
+<br>
+<details>
+<summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
+Die Y-4-Auktion des Kapazitätsvergütungsmechanismus für den Lieferzeitraum 2027–2028 sicherte rund <strong>1,6 GW</strong> Kapazität über 22 Einheiten zu einem volumengewichteten, <strong>durchschnittlichen Preis</strong> von rund <strong>36.000 EUR/MW/Jahr</strong>. Der höchste Gebotspreis betrug 69.900 EUR/MW/Jahr. Rund 23&nbsp;% der bezuschlagten Kapazitäten erhielten einen Kapazitätsvergütungsvertrag für eine Laufzeit von 15 Jahren, fast 16&nbsp;% Dreijahresverträge und rund 61&nbsp;% Einjahresverträge. <strong>Neu installierte Kapazitäten</strong> machten rund <strong>22,7 %</strong> des gesicherten Volumens aus. Im Rahmen der Auktion wurden Kapazitäten verschiedener Technologien ausgewählt: Open-Cycle-Gasturbinen (41,08 %), Kombikraftwerke (22,84 %), Speicher 4h (21,45 %), Kraft-Wärme-Kopplung (8,34 %), SLA 8h (2,96 %), SLA No Limit (1,46 %), SLA 4h (0,88 %), SLA 3h (0,74 %), SLA 12h (0,18 %) und nicht spezifiziert (0,08 %).
+</i></details>
+</div>
+
+<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
+<a href="https://www.elia.be/-/media/project/elia/elia-site/grid-data/adequacy/crm-auction-results/2022/20221028_crm-auction-result-for-2026-2027_en_v2.pdf"><b>Bericht: <u>Y-4 Auktion für die Lieferperiode 2026-2027</u></b></a>
+<br>
+<details>
+<summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
+Die Y-4-Auktion des Kapazitätsvergütungsmechanismus für den Lieferzeitraum 2026–2027 sicherte <strong>keine Kapazität</strong>. Insgesamt wurden 13 verschiedene Kapazitätseinheiten (CMUs) von 8 Bietern eingereicht, aber keine davon wurde ausgewählt.
+</i></details>
+</div>
+
+<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
+<a href="https://www.elia.be/-/media/project/elia/elia-site/grid-data/adequacy/crm-auction-results/2022/20221028_crm-auction-result-for-2026-2027_en_v2.pdf"><b>Bericht: <u>Y-4 Auktion für die Lieferperiode 2025-2026</u></b></a>
+<br>
+<details>
+<summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
+<p>Die Y-4-Auktion des Kapazitätsvergütungsmechanismus für den Lieferzeitraum 2025–2026 sicherte insgesamt <strong>4,5&nbsp;GW</strong> Kapazität über 40 Einheiten zu einem volumengewichteten, <strong>durchschnittlichen Preis</strong> von rund <strong>31.700&nbsp;EUR/MW/Jahr</strong>. Der höchste gebotene Preis lag bei knapp 50.000&nbsp;EUR/MW/Jahr. Rund 37&nbsp;% der bezuschlagten Kapazitäten erhielten einen Kapazitätsvergütungsvertrag für eine Laufzeit von 15 Jahren, während rund 63&nbsp;% Einjahresverträge erhielten. <strong>Neu installierte Kapazitäten</strong> machten <strong>37,1 %</strong> des gesicherten Volumens aus. Im Rahmen der Auktion wurden vor allem Kombikraftwerke (80,6 %) bezuschlagt.</p>
+
+<p>Die Auktion wurde ursprünglich im Oktober 2021 durchgeführt und im April 2022 erneut ausgewertet. Dabei wurden nur die Volumina und Zuteilungen aktualisiert; die Preise blieben unverändert. </p>
+
 </i></details>
 </div>
 
 {{< /timelineItem >}}
+
+
 
 {{< /timeline >}}
