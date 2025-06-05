@@ -45,7 +45,11 @@ Eine zentral festgelegte Gesamtkapazität wird durch ein zentrales Ausschreibung
 
 Stromlieferanten/Händler sind verpflichtet, Verträge mit Kapazitätsanbietern abzuschließen, um die Gesamtkapazität zu sichern, die benötigt wird, um die Nachfrage ihrer Verbraucher zu decken, wobei die Marktkräfte den Preis ohne ein zentrales Ausschreibungsverfahren bestimmen. [Mehr Erfahren]({{< relref "arten/marktweit_dezentraler_kaeufer.md" >}})
 
-### 3. Marktweite Kapazitätszahlung
+### 3. Kombinierter Kapazitätsmarkt
+
+{{< embed_article link="/themen/kapazitaetsmechanismen/arten/kombinierter_KM.md" showHeader="false" >}}
+
+### 4. Marktweite Kapazitätszahlung
 
 Ein zentral festgelegter Kapazitätspreis, basierend auf Schätzungen, die erforderlich sind, um eine ausreichende Gesamtkapazität zu gewährleisten, wird an alle Kapazitätsanbieter des Marktes gezahlt.
 
@@ -131,9 +135,7 @@ Ein marktweiter Kapazitätsmechanismus ist nicht kosteneffektiv, wenn der Bedarf
 
 {{< embed_article link="/themen/kapazitaetsmechanismen/arten/unterbrechbarkeitsregeln.md" showHeader="false" >}}
 
-### 8. Kombinierter Kapazitätsmarkt
 
-{{< embed_article link="/themen/kapazitaetsmechanismen/arten/kombinierter_KM.md" showHeader="false" >}}
 
 <!-- Fußnoten -->
 [^1]: D. Newbery, “Missing money and missing markets: Reliability, capacity auctions and interconnectors,” Energy Policy, vol. 94, pp. 401–410, Jul. 2016, doi: 10.1016/j.enpol.2015.10.028.
