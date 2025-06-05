@@ -135,7 +135,7 @@ Ein marktweiter Kapazitätsmechanismus ist nicht kosteneffektiv, wenn der Bedarf
 [^1]: [Missing money and missing markets: Reliability, capacity auctions and interconnectors  
 (Newbery, 2016)](https://doi.org/10.1016/j.enpol.2015.10.028)
 
-[^2]: [Svenska kraftnät proposes a future capacity mechanism to ensure resource adequacy in the electricity market (Accessed: Apr. 18, 2024)  
+[^2]: [Svenska kraftnät proposes a future capacity mechanism to ensure resource adequacy in the electricity market   
 (Svenska kraftnät)](https://www.svk.se/en/about-us/news/news/svenska-kraftnat-proposes-a-future-capacity-mechanism-to-ensure-resource-adequacy-in-the-electricity-market/)
 
 
