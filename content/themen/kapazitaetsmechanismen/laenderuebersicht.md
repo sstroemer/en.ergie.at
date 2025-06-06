@@ -167,7 +167,7 @@ In der Y-4 Auktion des Kapazitätsvergütungsmechanismus für den Lieferzeitraum
   <br>
   <details>
     <summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
-      In der T-1 Auktion vom 07.02.2020 für das Lieferjahr 2020/21 wurden <strong>1.024,4&nbsp;MW zu einem Clearing-Preis von 1&nbsp;£/kW/Jahr vergeben</strong> (Ziel 300&nbsp;MW). Geboten wurden 3.027,2&nbsp;MW, davon wurden 33,8&nbsp;% erfolgreich; die Zielkapazität wurde um 724,4&nbsp;MW übertroffen. Davon entfielen 80,1&nbsp;% (820&nbsp;MW) auf Interkonnektoren, <strong>7,4&nbsp;% (75,5&nbsp;MW) auf Neuanlagen</strong>, <strong>4,1&nbsp;% (42,4&nbsp;MW) auf bestehende Erzeugungsanlagen</strong> und <strong> 8,4&nbsp;% (86,5&nbsp;MW) auf <abbr title="Demand Side Response">DSR</abbr> </strong>. <strong>Top Kapazität neben Interkonnektoren und <abbr title="Demand Side Response">DSR</abbr> war Gas mit 8,7&nbsp;% (89,3&nbsp;MW)</strong>.
+      In der Y-1 Auktion vom 07.02.2020 für das Lieferjahr 2020/21 wurden <strong>1.024,4&nbsp;MW zu einem Clearing-Preis von 1&nbsp;£/kW/Jahr vergeben</strong> (Ziel 300&nbsp;MW). Geboten wurden 3.027,2&nbsp;MW, davon wurden 33,8&nbsp;% erfolgreich; die Zielkapazität wurde um 724,4&nbsp;MW übertroffen. Davon entfielen 80,1&nbsp;% (820&nbsp;MW) auf Interkonnektoren, <strong>7,4&nbsp;% (75,5&nbsp;MW) auf Neuanlagen</strong>, <strong>4,1&nbsp;% (42,4&nbsp;MW) auf bestehende Erzeugungsanlagen</strong> und <strong> 8,4&nbsp;% (86,5&nbsp;MW) auf <abbr title="Demand Side Response">DSR</abbr> </strong>. <strong>Top Kapazität neben Interkonnektoren und <abbr title="Demand Side Response">DSR</abbr> war Gas mit 8,7&nbsp;% (89,3&nbsp;MW)</strong>.
     </i>
   </details>
 </div>
