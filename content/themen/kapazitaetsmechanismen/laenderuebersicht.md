@@ -63,7 +63,7 @@ In der Y-4 Auktion des Kapazitätsvergütungsmechanismus für den Lieferzeitraum
 
 {{< timeline >}}
 
-{{< timelineItem icon="rss" header="Vereintes Königreich" badge="Auktionsjahr 2024" >}}
+{{< timelineItem icon="rss" header="Vereinigtes Königreich" badge="Auktionsjahr 2024" >}}
 <div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
   <a href="https://www.emrdeliverybody.com/Capacity%20Markets%20Document%20Library/T-4%20DY%202027-28%20Final%20Results%20Report%20v1.pdf"><b>Bericht: <u>Y-4 Auktion für die Lieferperiode 2027-2028</u></b></a>
   <br>
@@ -85,7 +85,7 @@ In der Y-4 Auktion des Kapazitätsvergütungsmechanismus für den Lieferzeitraum
 </div>
 {{< /timelineItem >}}
 
-{{< timelineItem icon="rss" header="Vereintes Königreich" badge="Auktionsjahr 2023" >}}
+{{< timelineItem icon="rss" header="Vereinigtes Königreich" badge="Auktionsjahr 2023" >}}
 <div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
   <a href="https://www.emrdeliverybody.com/Capacity%20Markets%20Document%20Library/T-4%20DY%2026-27%20Final%20Auction%20Results%20Report%20v1.0.pdf"><b>Bericht: <u>Y-4 Auktion für die Lieferperiode 2026-2027</u></b></a>
   <br>
@@ -107,7 +107,7 @@ In der Y-4 Auktion des Kapazitätsvergütungsmechanismus für den Lieferzeitraum
 </div>
 {{< /timelineItem >}}
 
-{{< timelineItem icon="rss" header="Vereintes Königreich" badge="Auktionsjahr 2022" >}}
+{{< timelineItem icon="rss" header="Vereinigtes Königreich" badge="Auktionsjahr 2022" >}}
 <div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
   <a href="https://www.emrdeliverybody.com/Capacity%20Markets%20Document%20Library/T-4%20DY%2025-26%20Final%20Auction%20Results%20Report%20v1.0.pdf"><b>Bericht: <u>Y-4 Auktion für die Lieferperiode 2025-2026 </u></b></a>
   <br>
@@ -129,7 +129,7 @@ In der Y-4 Auktion des Kapazitätsvergütungsmechanismus für den Lieferzeitraum
 </div>
 {{< /timelineItem >}}
 
-{{< timelineItem icon="rss" header="Vereintes Königreich" badge="Auktionsjahr 2021" >}}
+{{< timelineItem icon="rss" header="Vereinigtes Königreich" badge="Auktionsjahr 2021" >}}
 <div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
   <a href="https://www.emrdeliverybody.com/Capacity%20Markets%20Document%20Library/Capacity%20Market%20Auction%20T4%20DY2024-25%20Final%20Report.pdf"><b>Bericht: <u>Y-4 Auktion für die Lieferperiode 2024-2025 </u></b></a>
   <br>
@@ -151,7 +151,7 @@ In der Y-4 Auktion des Kapazitätsvergütungsmechanismus für den Lieferzeitraum
 </div>
 {{< /timelineItem >}}
 
-{{< timelineItem icon="rss" header="Vereintes Königreich" badge="Auktionsjahr 2020" >}}
+{{< timelineItem icon="rss" header="Vereinigtes Königreich" badge="Auktionsjahr 2020" >}}
 <div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
   <a href="https://www.emrdeliverybody.com/Capacity%20Markets%20Document%20Library/T-4%202019%20DY2023%20Capacity%20Market%20Auction%20Final%20Results%20V1.0.pdf"><b>Bericht: <u>Y-4 Auktion für die Lieferperiode 2023-2024 </u></b></a>
   <br>
