@@ -23,6 +23,8 @@ authors: [dkrainer, sstroemer]
 
 In dieser Präsentation von Frontier Economics wird die Idee der deutschen Bundesregierung analysiert, Kraftwerke in der Strategischen Reserve zur Stabilisierung der Strompreise einzusetzen. In der statischen Analyse zeigt sich eine Reduzierung der Großhandelsstrompreise um 4&nbsp;€/MWh im Jahresmittel. Gleichzeitig verdrängt bzw. ersetzt die Rückkehr der Kraftwerke aus der Strategischen Reserve Investitionen, die ansonsten getätigt worden wären. Die dynamische Analyse weist hingegen eine moderate Reduzierung der Strompreise um weniger als 1&nbsp;€/MWh auf, wobei sich die Preisveränderung vor allem auf die teuersten Stunden konzentriert.
 
+<!--
 ## Weiterführende Links
 
 {{< keyword >}}Blogartikel{{< /keyword >}} [TITLE](URL)
+-->
