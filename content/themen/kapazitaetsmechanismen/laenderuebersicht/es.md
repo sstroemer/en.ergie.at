@@ -12,8 +12,7 @@ Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder
 ## Aktuelle Entwicklungen
 Die spanische Regierung plant die Einführung eines zentralen Kapazitätsmarktes, der bis 2026 in Betrieb genommen werden soll [^VectorRenewables] [^ES_Energieministerium]. Der Kapazitätsmarkt wird die Teilnahme von Erzeugungsanlagen, Speichern und flexiblen Lasten ermöglichen [^AleaSoft]. Die öffentliche Konsultation zu den Vorschlägen der Regierung fand zwischen Dezember 2024 und Ende Januar 2025 statt. Die nächsten Schritte umfassen die Auswertung der Konsultationsergebnisse, die Veröffentlichung des endgültigen Textes sowie die Beantragung der Genehmigung als staatliche Beihilfe bei der Europäischen Kommission [^VectorRenewables] [^ES_Ministerium_Webpage].
 
-
-## Ausschreibungen für neue Kapazitäten (Ausschreibung für den Zugang zur Kapazität bestimmter Knotenpunkte des Stromnetzes)
+## Ausschreibungen für neue Kapazitäten an Netzknotenpunkten
 
 ### Ausschreibung: 
 Im Juni 2022 hat das spanische Energieministerium den Entwurf einer Ministerialverordnung veröffentlicht, die die Ausschreibung für bestehende Kapazitäten in 17 Knotenpunkten des Stromübertragungsnetzes bis zu einer Gesamtleistung von 5.844&nbsp;MW regelt. Neue Ausschreibungen sollen alle sechs Monate stattfinden. Ziel der Ausschreibung ist es, die Installation von synchronen Stromerzeugungsmodulen zu fördern, um die Versorgungssicherheit und Systemflexibilität zu gewährleisten sowie die Integration anderer Technologien wie Photovoltaik oder Windkraft zu ermöglichen. Die ausgewählten Knotenpunkte sind Übergangsknotenpunkte, an denen der spanische Stromübertragungsnetzbetreiber REE ein Überangebot an synchroner Kapazität im Vergleich zur verfügbaren asynchronen Kapazität festgestellt hat und die die erforderlichen technischen und regulatorischen Bedingungen erfüllen[^1].
