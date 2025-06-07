@@ -63,19 +63,52 @@ Once installed, `markdownlint` will automatically check your files as you type, 
 - The "readmore" tag `<!--more-->` can be used.
 - Use ## (heading level 2) as the first allowed heading level, avoiding the use of # (heading level 1) altogether. This ensures consistency and aligns with the page's rendering style, as the title of the page is already rendered prominently on the website.
 
-#### Topics
+### Citations
+
+Citations that link to external sources should be done as footnotes. These should either look like
+
+```text
+This title draws in readers!?
+(microsoft.com)
+```
+
+for general links to online resources, or
+
+```text
+That is an interesting fact
+(Core Consulting)
+```
+
+when linking to the literature list containing a specific report (or PDF, ...), or
+
+```text
+Facts are all you need
+(Doe et al., 2023)
+```
+
+for academic works. Make sure the latter links to a proper DOI (and not some hoster).
+
+These can be achieved by using the following footnote content with slight variations
+
+```html
+[^core_consulting_fact]: [That is an interesting fact<br>(Core Consulting)](https://some.link.here)
+```
+
+which can then be used anywhere in the text by inserting `[^core_consulting_fact]`.
+
+### Topics
 
 Please stick to these topics to prevent duplicated entries (e.g., we use "markets" and not "market")
 
 - `markets`
 
-#### Series
+### Series
 
 The following series currently exist:
 
 - `Strommärkte`
 
-#### Creating a new author
+### Creating a new author
 
 Assuming a new author named `Jane Doe`:
 
