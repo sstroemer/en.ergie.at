@@ -24,4 +24,6 @@ In der Praxis kann der Vorschlag der EU-Kommission als ein gezielter Kapazitäts
 
 <!-- Fußnoten -->  
 
-[^1]: Directive (EU) 2019/944 of the European Parliament and of the Council of 5 June 2019 on common rules for the internal market for electricity and amending Directive 2012/27/EU (Text with EEA relevance.). 2019. Accessed: Jan. 25, 2022. [Online]. Available: http://data.europa.eu/eli/dir/2019/944/oj/eng
+[^1]: [Directive (EU) 2019/944 of the European Parliament and of the Council of 5 June 2019 on common rules for the internal market for electricity and amending Directive 2012/27/EU  
+(European Union)](http://data.europa.eu/eli/dir/2019/944/oj/eng)
+
