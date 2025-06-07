@@ -10,14 +10,17 @@ Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder
 {{< /alert >}}
 
 ## Aktuelle Entwicklungen
+
 Die spanische Regierung plant die Einführung eines zentralen Kapazitätsmarktes, der bis 2026 in Betrieb genommen werden soll [^VectorRenewables] [^ES_Energieministerium]. Der Kapazitätsmarkt wird die Teilnahme von Erzeugungsanlagen, Speichern und flexiblen Lasten ermöglichen [^AleaSoft]. Die öffentliche Konsultation zu den Vorschlägen der Regierung fand zwischen Dezember 2024 und Ende Januar 2025 statt. Die nächsten Schritte umfassen die Auswertung der Konsultationsergebnisse, die Veröffentlichung des endgültigen Textes sowie die Beantragung der Genehmigung als staatliche Beihilfe bei der Europäischen Kommission [^VectorRenewables] [^ES_Ministerium_Webpage].
 
 ## Ausschreibungen für neue Kapazitäten an Netzknotenpunkten
 
-### Ausschreibung: 
+### Ausschreibung
+
 Im Juni 2022 hat das spanische Energieministerium den Entwurf einer Ministerialverordnung veröffentlicht, die die Ausschreibung für bestehende Kapazitäten in 17 Knotenpunkten des Stromübertragungsnetzes bis zu einer Gesamtleistung von 5.844&nbsp;MW regelt. Neue Ausschreibungen sollen alle sechs Monate stattfinden. Ziel der Ausschreibung ist es, die Installation von synchronen Stromerzeugungsmodulen zu fördern, um die Versorgungssicherheit und Systemflexibilität zu gewährleisten sowie die Integration anderer Technologien wie Photovoltaik oder Windkraft zu ermöglichen. Die ausgewählten Knotenpunkte sind Übergangsknotenpunkte, an denen der spanische Stromübertragungsnetzbetreiber REE ein Überangebot an synchroner Kapazität im Vergleich zur verfügbaren asynchronen Kapazität festgestellt hat und die die erforderlichen technischen und regulatorischen Bedingungen erfüllen[^1].
 
-### Teilnahme: 
+### Teilnahme
+
 Zur Bewertung und Bepunktung der Ausschreibung werden mehrere Kriterien berücksichtigt. Zeitkriterien priorisieren Projekte, die früher mit der Einspeisung von Energie in das Netz beginnen. Technologische Kriterien bewerten die Kapazität des Projekts für Eigenverbrauch, Speicherung und Hybridisierung sowie technische Aspekte, die die Systemstabilität verbessern, wie die Einbindung von synchronen Kompensatoren und die Dämpfung von Schwingungen. Sozioökonomische Kriterien bewerten die positiven Auswirkungen des Projekts auf die Region. Dies wird durch Faktoren wie das Verhältnis der Landenteignung, die Schaffung direkter Arbeitsplätze während der Bau- und Betriebsphasen, lokale Investitionen, die Beteiligung lokaler Investoren, die Reinvestition von Gewinnen und den CO2-Fußabdruck des Unternehmens gemessen. Umweltkriterien bewerten die Umweltschäden, die durch die Anlage und die Stromabführungsleitung verursacht werden. Die Stromerzeugungsanlagen, die den Zuschlag erhalten, müssen vor Ablauf der Geltungsdauer des Zuschlagsbeschlusses bei der <abbr title="Übertragungsnetzbetreiber">ÜNB</abbr>/<abbr title="Verteilnetzbetreiber">VNB</abbr> die entsprechenden Zugangs- und Anschlussgenehmigungen beantragen[^2].
 
 ## Gezielte Kapazitätszahlungen

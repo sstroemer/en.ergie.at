@@ -11,7 +11,7 @@ authors: [dkrainer, sstroemer]
     {{< keyword >}}Originaldokument{{< /keyword >}}
     <blockquote style="margin-top: 0.5em;">
         <a href="https://positionen.wienenergie.at/wp-content/uploads/2025/05/Kapazitaetsmarkt-Oesterreich_Fraunhofer-ISI.pdf" target="_blank">
-            Studie Kapazitätsmarkt Österrreich 
+            Studie Kapazitätsmarkt Österrreich
         </a>
     </blockquote>
     <figcaption>— Fraunhofer ISI, im April 2025</figcaption>

@@ -30,6 +30,3 @@ Die Vorteile und Herausforderungen von Unterbrechbarkeitsregelungen sind in folg
 | Nachfrage kann schnell reduziert werden, wenn das Netz *überlastet* ist                                        | in der Regel ist die Teilnahme beschränkt auf große Energieverbraucher                                         |
 | flexible Lösung zur Deckung von kurzfristigen Versorgungsengpässen durch automatische Trennung großer Energieverbraucher vom Netz | Trennung vom Netz erfolgt oft ohne Vorankündigung und kann mehrere Stunden dauern                              |
 | –                                                                                                               | Umsetzung erfordert eine automatische Trennung, was technische Anpassungen bei den Teilnehmenden notwendig macht |
-
-*Tabelle1: Vorteile und Herausforderungen von Unterbrechbarkeitsregelungen*
-

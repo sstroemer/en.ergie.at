@@ -10,7 +10,6 @@ title: "Stefan Strömer"
 [{{< icon "hackernews" >}} kchnkrml](https://news.ycombinator.com/user?id=kchnkrml)&nbsp;&nbsp;&middot;&nbsp;
 [{{< icon "stack-overflow" >}} kchnkrml](https://stackoverflow.com/users/5377696/kchnkrml)
 
-
-Stefan ist Research Engineer in der Competence Unit Integrated Energy Systems am Center for Energy des AIT und forscht nebenbei an der TU Delft an komplexen Methoden zur Lösung von Optimierungsmodellen, unter der Betreuung von [Stefan Pfenninger](https://www.pfenninger.org/) und [Kenneth Bruninx](https://www.tudelft.nl/en/staff/k.bruninx/). 
+Stefan ist Research Engineer in der Competence Unit Integrated Energy Systems am Center for Energy des AIT und forscht nebenbei an der TU Delft an komplexen Methoden zur Lösung von Optimierungsmodellen, unter der Betreuung von [Stefan Pfenninger](https://www.pfenninger.org/) und [Kenneth Bruninx](https://www.tudelft.nl/en/staff/k.bruninx/).
 
 Stefan hat an den folgenden Inhalten mitgearbeitet:

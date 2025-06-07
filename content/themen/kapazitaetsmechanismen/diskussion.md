@@ -4,7 +4,7 @@ topics: []
 authors: [sstroemer, dkrainer]
 ---
 Dieser Abschnitt soll einen Überblick über den zeitlichen Verlauf der Diskussion zu Kapazitätsmechanismen in Europa vermitteln. Die zuletzt erschienenen Studien
-und Berichte unterschiedlicher Stakeholder sind in der dargestellten Timeline entsprechend ihrem Erscheinungsdatum angeordnet und es werden jeweils eine kurze inhaltliche Zusammenfassung und weiterführende Links zur Verfügung gestellt. 
+und Berichte unterschiedlicher Stakeholder sind in der dargestellten Timeline entsprechend ihrem Erscheinungsdatum angeordnet und es werden jeweils eine kurze inhaltliche Zusammenfassung und weiterführende Links zur Verfügung gestellt.
 
 <br>
 {{< alert >}}
@@ -12,12 +12,7 @@ Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder
 {{< /alert >}}
 <br>
 
-
 {{< timeline >}}
-
-
-
-
 
 <!-- ===================================== ENTSOE Policy Paper on CM =================================================================== -->
 
@@ -49,7 +44,7 @@ Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder
   <details>
     <summary><span style="cursor: pointer; font-weight: 500;">Anzeigen: <u>Zusammenfassung</u></span></summary>
     <blockquote>
-    Die Studie analysiert die Notwendigkeit und Ausgestaltung eines Kapazitätsmechanismus für den österreichischen Strommarkt. Die Autoren schlagen einen kombinierten Kapazitätsmarkt vor, der zentrale und dezentrale Elemente integriert, um Versorgungssicherheit und Investitionsanreize zu gewährleisten. 
+    Die Studie analysiert die Notwendigkeit und Ausgestaltung eines Kapazitätsmechanismus für den österreichischen Strommarkt. Die Autoren schlagen einen kombinierten Kapazitätsmarkt vor, der zentrale und dezentrale Elemente integriert, um Versorgungssicherheit und Investitionsanreize zu gewährleisten.
     <blockquote>
   </details>
 
@@ -109,7 +104,7 @@ In dieser Präsentation von Frontier Economics wird die Idee der deutschen Bunde
   <details>
     <summary><span style="cursor: pointer; font-weight: 500;">Anzeigen: <u>Zusammenfassung</u></span></summary>
     <blockquote>
-    Die Kurzstudie analysiert die Integration dezentraler Flexibilitäten wie Speicher und Lastmanagement in einen Integrierten Kapazitätsmarkt (IKM). Sie empfiehlt einen technologieoffenen Ansatz mit zentralen Ausschreibungen, um Investitionssicherheit zu gewährleisten und Flexibilitäten effizient einzubinden. Durch explizite Anreize in den Ausschreibungen sowie durch dynamische Umlagesysteme können dezentrale Flexibilitäten aktiviert werden. Internationale Erfahrungen zeigen, dass zentrale Märkte Flexibilität effektiv integrieren können, wenn geeignete Instrumente eingesetzt werden. 
+    Die Kurzstudie analysiert die Integration dezentraler Flexibilitäten wie Speicher und Lastmanagement in einen Integrierten Kapazitätsmarkt (IKM). Sie empfiehlt einen technologieoffenen Ansatz mit zentralen Ausschreibungen, um Investitionssicherheit zu gewährleisten und Flexibilitäten effizient einzubinden. Durch explizite Anreize in den Ausschreibungen sowie durch dynamische Umlagesysteme können dezentrale Flexibilitäten aktiviert werden. Internationale Erfahrungen zeigen, dass zentrale Märkte Flexibilität effektiv integrieren können, wenn geeignete Instrumente eingesetzt werden.
     </blockquote>
   </details>
   <details>
@@ -164,7 +159,7 @@ In dieser Präsentation von Frontier Economics wird ein kurzer Überblick über 
   <details>
     <summary><span style="cursor: pointer; font-weight: 500;">Anzeigen: <u>Zusammenfassung</u></span></summary>
   <blockquote>
-  Anhang 1 dieses Gesetzesentwurfs beschreibt die maßgeblichen Kriterien für eine zügige Bewertung und Genehmigung der Anfragen von Mitgliedstaaten zu Kapazitätsmechanismen durch die Kommission. Im Rahmen des beschleunigten Genehmigungsverfahrens gelten zwei Kapazitätsmechanismen als zulässig: eine strategische Reserve und ein marktweites zentrales Käufermodell. 
+  Anhang 1 dieses Gesetzesentwurfs beschreibt die maßgeblichen Kriterien für eine zügige Bewertung und Genehmigung der Anfragen von Mitgliedstaaten zu Kapazitätsmechanismen durch die Kommission. Im Rahmen des beschleunigten Genehmigungsverfahrens gelten zwei Kapazitätsmechanismen als zulässig: eine strategische Reserve und ein marktweites zentrales Käufermodell.
   </blockquote>
 </details>
 <details>
@@ -324,7 +319,7 @@ Dieser Policy Brief untersucht die Verpflichtung in einem Kapazitätsmechanismus
   <details>
    <summary><span style="cursor: pointer; font-weight: 500;">Anzeigen: <u>Zusammenfassung</u></span></summary>
     <blockquote>
-      In dem Papier Strommarktdesign der Zukunft stellt die deutsche Bundesregierung verschiedene Optionen für ein sicheres, bezahlbares und nachhaltiges Marktdesign vor und stellt diese zur Diskussion. Zur Sicherstellung der Finanzierung steuerbarer Kapazitäten werden vier Optionen diskutiert: Kapazitätsabsicherungsmechanismus durch Spitzenpreishedging, Dezentraler Kapazitätsmarkt, Zentraler Kapazitätsmarkt, Kombinierter Kapazitätsmarkt. Aus Sicht des BMWK wird zum Zeitpunkt der Veröffentlichung der Kombinierte Kapazitätsmarkt als die kosteneffizienteste Option bewertet, um die Versorgungssicherheit langfristig zu gewährleisten. 
+      In dem Papier Strommarktdesign der Zukunft stellt die deutsche Bundesregierung verschiedene Optionen für ein sicheres, bezahlbares und nachhaltiges Marktdesign vor und stellt diese zur Diskussion. Zur Sicherstellung der Finanzierung steuerbarer Kapazitäten werden vier Optionen diskutiert: Kapazitätsabsicherungsmechanismus durch Spitzenpreishedging, Dezentraler Kapazitätsmarkt, Zentraler Kapazitätsmarkt, Kombinierter Kapazitätsmarkt. Aus Sicht des BMWK wird zum Zeitpunkt der Veröffentlichung der Kombinierte Kapazitätsmarkt als die kosteneffizienteste Option bewertet, um die Versorgungssicherheit langfristig zu gewährleisten.
     </blockquote>
   </details>
 
@@ -350,7 +345,7 @@ Dieser Policy Brief untersucht die Verpflichtung in einem Kapazitätsmechanismus
   <details>
    <summary><span style="cursor: pointer; font-weight: 500;">Anzeigen: <u>Zusammenfassung</u></span></summary>
     <blockquote>
-      In der von den vier deutschen Übertragungsnetzbetreibern beauftragten Studie wird die Ausgestaltung eines umfassenden, zentralen Kapazitätsmarkt diskutiert. 
+      In der von den vier deutschen Übertragungsnetzbetreibern beauftragten Studie wird die Ausgestaltung eines umfassenden, zentralen Kapazitätsmarkt diskutiert.
       50hertz, Amprion, TenneT and Transnet BW sprechen sich für einen zentralen Kapazitätsmarkt mit lokaler Komponente aus. Dabei sollen
       Ausschreibungen derart gestaltet sein, dass nicht nur die Verfügbarkeit von Leistung im gesamten Bundesgebiet beanreizt wird, sondern dass lokale Investitionsanreize entstehen.  Die vier deutschen Übertragungsnetzbetreiber erwarten sich durch die lokale Komponente eine Verringerung der CO2-Emissionen, des Redispatch- und Netzreservebedarfs, der Kosten für Systemdienstleistungen sowie folglich auch der Netzentgelte.
     </blockquote>
