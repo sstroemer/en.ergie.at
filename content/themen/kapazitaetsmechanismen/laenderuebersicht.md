@@ -13,6 +13,7 @@ Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder
 <br>
 
 ## Europa im Überblick
+
 Es gibt acht EU-Mitgliedstaaten mit aktiven Kapazitätsmechanismen: Belgien, Finnland, Frankreich, Deutschland, Irland (SEM), Italien, Polen und Schweden. Drei von ihnen (Finnland, Deutschland und Schweden) haben strategische Reserven eingerichtet, während die fünf anderen Mitgliedstaaten marktweite Kapazitätsmechanismen unterhalten. Spanien und Portugal haben keinen aktiven Kapazitätsmechanismus, aber einige langfristige Altverträge (gezielte Kapazitätszahlungen) gelten noch. 
 
 <!--![Überblick über aktive und in Diskussion befindliche Kapazitätsmechanismen in Europa (basierend auf [29])] -->
