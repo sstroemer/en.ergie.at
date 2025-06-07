@@ -24,4 +24,5 @@ Im Allgemeinen könnte das Produkt als ein gezielter Kapazitätsmarkt (für Last
 
 <!-- Fußnoten -->  
 
-[^1]: Regulation (EU) 2024/1747 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2019/942 and (EU) 2019/943 as regards improving the Union’s electricity market designText with EEA relevance. 2024. Accessed: Jul. 02, 2024. [Online]. Available: http://data.europa.eu/eli/reg/2024/1747/oj/eng
+[^1]: [Regulation (EU) 2024/1747 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2019/942 and (EU) 2019/943 as regards improving the Union’s electricity market design  
+(European Union)](http://data.europa.eu/eli/reg/2024/1747/oj/eng)

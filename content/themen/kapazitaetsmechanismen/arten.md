@@ -45,7 +45,11 @@ Eine zentral festgelegte Gesamtkapazität wird durch ein zentrales Ausschreibung
 
 Stromlieferanten/Händler sind verpflichtet, Verträge mit Kapazitätsanbietern abzuschließen, um die Gesamtkapazität zu sichern, die benötigt wird, um die Nachfrage ihrer Verbraucher zu decken, wobei die Marktkräfte den Preis ohne ein zentrales Ausschreibungsverfahren bestimmen. [Mehr Erfahren]({{< relref "arten/marktweit_dezentraler_kaeufer.md" >}})
 
-### 3. Marktweite Kapazitätszahlung
+### 3. Kombinierter Kapazitätsmarkt
+
+{{< embed_article link="/themen/kapazitaetsmechanismen/arten/kombinierter_KM.md" showHeader="false" >}}
+
+### 4. Marktweite Kapazitätszahlung
 
 Ein zentral festgelegter Kapazitätspreis, basierend auf Schätzungen, die erforderlich sind, um eine ausreichende Gesamtkapazität zu gewährleisten, wird an alle Kapazitätsanbieter des Marktes gezahlt.
 
@@ -131,10 +135,15 @@ Ein marktweiter Kapazitätsmechanismus ist nicht kosteneffektiv, wenn der Bedarf
 
 {{< embed_article link="/themen/kapazitaetsmechanismen/arten/unterbrechbarkeitsregeln.md" showHeader="false" >}}
 
-<!-- Fußnoten -->
-[^1]: D. Newbery, “Missing money and missing markets: Reliability, capacity auctions and interconnectors,” Energy Policy, vol. 94, pp. 401–410, Jul. 2016, doi: 10.1016/j.enpol.2015.10.028.
 
-[^2]: Svenska kraftnät proposes a future capacity mechanism to ensure resource adequacy in the electricity market. Accessed: Apr. 18, 2024. [Online]. Available: https://www.svk.se/en/about-us/news/news/svenska-kraftnat-proposes-a-future-capacity-mechanism-to-ensure-resource-adequacy-in-the-electricity-market/
+
+<!-- Fußnoten -->
+[^1]: [Missing money and missing markets: Reliability, capacity auctions and interconnectors  
+(Newbery, 2016)](https://doi.org/10.1016/j.enpol.2015.10.028)
+
+[^2]: [Svenska kraftnät proposes a future capacity mechanism to ensure resource adequacy in the electricity market   
+(Svenska kraftnät)](https://www.svk.se/en/about-us/news/news/svenska-kraftnat-proposes-a-future-capacity-mechanism-to-ensure-resource-adequacy-in-the-electricity-market/)
+
 
 
 <!-- #

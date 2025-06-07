@@ -127,14 +127,21 @@ Sämtlichen hier genannten Limitationen sprechen tendenziell für eine <u>Über<
 
 <!-- Fußnoten -->
 
-[^1]: ENTSO-E, “ENTSO-E Transparency Platform,” ENTSO-E Transparency Platform. Accessed: Aug. 03, 2024. [Online]. Available: https://transparency.entsoe.eu
+[^1]: [ENTSO-E Transparency Platform (Accessed: Aug. 03, 2024)  
+(ENTSO-E)](https://transparency.entsoe.eu)
 
-[^2]: Trading Economics, “Trading Economics Gas,” EU Natural Gas TTF. Accessed: Aug. 03, 2024. [Online]. Available: https://tradingeconomics.com/commodity/eu-natural-gas
+[^2]: [Trading Economics Gas (Accessed: Aug. 03, 2024)  
+(Trading Economics)](https://tradingeconomics.com/commodity/eu-natural-gas)
 
-[^3]: Trading Economics, “Trading Economics Coal,” Trading Economics Coal. Accessed: Aug. 03, 2024. [Online]. Available: https://tradingeconomics.com/commodity/coal
+[^3]: [Trading Economics Coal (Accessed: Aug. 03, 2024)  
+(Trading Economics)](https://tradingeconomics.com/commodity/coal)
 
-[^4]: Trading Economics, “Trading Economics EU-ETS,” EU Carbon Permits. Accessed: Aug. 03, 2024. [Online]. Available: https://tradingeconomics.com/commodity/carbon
+[^4]: [Trading Economics EU-ETS (Accessed: Aug. 03, 2024)  
+(Trading Economics)](https://tradingeconomics.com/commodity/carbon)
 
-[^5]: Danish Energy Agency, “Technology Data for Power and Heat Production Plants,” Copenhagen, Apr. 2024. [Online]. Available: https://ens.dk/en/our-services/technology-catalogues/technology-data-generation-electricity-and-district-heating
+[^5]: [Technology Data for Power and Heat Production Plants  
+(Danish Energy Agency)](https://ens.dk/en/analyses-and-statistics/technology-data-individual-heating-plants)
 
-[^6]: Eurostat, “Harmonised index of consumer prices (HICP).” doi: https://doi.org/10.2908/PRC_HICP_AIND.
+[^6]: [Harmonised index of consumer prices (HICP)  
+(Eurostat)](https://doi.org/10.2908/PRC_HICP_AIND)
+
