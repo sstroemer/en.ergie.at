@@ -242,38 +242,57 @@ Es könnte eher das Gegenteil der Fall sein, da Versorgungssicherheit den Charak
 
 <!-- Fußnoten -->
 
-[^1]: G. A. Akerlof, “The Market for ‘Lemons’: Quality Uncertainty and the Market Mechanism,” *Q. J. Econ.*, vol. 84, no. 3, p. 488, Aug. 1970, doi: 10.2307/1879431.
+[^1]: [The Market for ‘Lemons’: Quality Uncertainty and the Market Mechanism  
+(Akerlof, 1970)](https://doi.org/10.2307/1879431)
 
-[^2]: Frontier Economics, “Formaet Services (2014) Strommarkt in Deutschland–Gewährleistet das derzeitige Marktdesign Versorgungssicherheit,” *Ber. Für Bundesminist. Für Wirtsch. Energ. BMWi Front. Econ. Lond.*, 2014.
+[^2]: [Strommarkt in Deutschland – Gewährleistet das derzeitige Marktdesign Versorgungssicherheit  
+(Frontier Economics)](https://www.frontier-economics.com/media/pxbdnenr/20171006_stommarkt-in-deutschland-gewaehrleistet-das-derzeitige-marktdesign-versorgungssicherheit_frontier.pdf)
 
-[^3]: P. Cramton, A. Ockenfels, and S. Stoft, “Capacity Market Fundamentals,” *Econ. Energy Environ. Policy*, vol. 2, no. 2, Apr. 2013, doi: 10.5547/2160-5890.2.2.2.
+[^3]: [Capacity Market Fundamentals  
+(Cramton et al., 2013)](https://doi.org/10.5547/2160-5890.2.2.2)
 
-[^4]: P. Cramton and A. Ockenfels, “Economics and Design of Capacity Markets for the Power Sector,” *Z. Für Energiewirtschaft*, vol. 36, no. 2, pp. 113–134, Jun. 2012, doi: 10.1007/s12398-012-0084-2.
+[^4]: [Economics and Design of Capacity Markets for the Power Sector  
+(Cramton & Ockenfels, 2012)](https://doi.org/10.1007/s12398-012-0084-2)
 
-[^5]: L. De Vries and P. Heijnen, “The impact of electricity market design upon investment under uncertainty: The effectiveness of capacity mechanisms,” *Util. Policy*, vol. 16, no. 3, pp. 215–227, Sep. 2008, doi: 10.1016/j.jup.2007.12.002.
+[^5]: [The impact of electricity market design upon investment under uncertainty: The effectiveness of capacity mechanisms  
+(De Vries & Heijnen, 2008)](https://doi.org/10.1016/j.jup.2007.12.002)
 
-[^6]: S. Hacopian Dolatabadi, M. A. Latify, H. Karshenas, and A. Sharifi, “On pricing issues in electricity markets in the presence of externalities,” *Energy*, vol. 246, p. 123273, May 2022, doi: 10.1016/j.energy.2022.123273.
+[^6]: [On pricing issues in electricity markets in the presence of externalities  
+(Dolatabadi et al., 2022)](https://doi.org/10.1016/j.energy.2022.123273)
 
-[^7]: D. Newbery, “Missing money and missing markets: Reliability, capacity auctions and interconnectors,” *Energy Policy*, vol. 94, pp. 401–410, Jul. 2016, doi: 10.1016/j.enpol.2015.10.028.
+[^7]: [Missing money and missing markets: Reliability, capacity auctions and interconnectors  
+(Newbery, 2016)](https://doi.org/10.1016/j.enpol.2015.10.028)
 
-[^8]: P. Cramton and S. Stoft, “Forward reliability markets: Less risk, less market power, more efficiency,” *Util. Policy*, vol. 16, no. 3, pp. 194–201, Sep. 2008, doi: 10.1016/j.jup.2008.01.007.
+[^8]: [Forward reliability markets: Less risk, less market power, more efficiency  
+(Cramton & Stoft, 2008)](https://doi.org/10.1016/j.jup.2008.01.007)
 
-[^9]: P. L. Joskow, “Competitive Electricity Markets and Investment in New Generating Capacity,” *SSRN Electron. J.*, 2006, doi: 10.2139/ssrn.902005.
+[^9]: [Competitive Electricity Markets and Investment in New Generating Capacity  
+(Joskow, 2006)](https://doi.org/10.2139/ssrn.902005)
 
-[^10]: J. H. Keppler, S. Quemin, and M. Saguan, “Why the sustainable provision of low-carbon electricity needs hybrid markets,” *Energy Policy*, vol. 171, p. 113273, Dec. 2022, doi: 10.1016/j.enpol.2022.113273.
+[^10]: [Why the sustainable provision of low-carbon electricity needs hybrid markets  
+(Keppler et al., 2022)](https://doi.org/10.1016/j.enpol.2022.113273)
 
-[^11]: K. Gugler, A. Haxhimusa, M. Liebensteiner, and N. Schindler, “Investment opportunities, uncertainty, and renewables in European electricity markets,” *Energy Econ.*, vol. 85, p. 104575, Jan. 2020, doi: 10.1016/j.eneco.2019.104575.
+[^11]: [Investment opportunities, uncertainty, and renewables in European electricity markets  
+(Gugler et al., 2020)](https://doi.org/10.1016/j.eneco.2019.104575)
 
-[^12]: ACER, “Harmonised maximum and minimum clearing prices for single day-ahead coupling in accordance with Article 41(1) of Commission Regulation (EU) 2015/1222 of 24 July 2015 establishing a guideline on capacity allocation and congestion management (CACM Regulation),” Ljubljana, Jan. 2023. [Online]. Available: https://www.nemo-committee.eu/assets/files/ACER%20Decision%2001-2023%20on%20HMMCP%20SDAC%20-%20Annex%201-ac8ad8689e50f1338ecbef2cb1239bb2.pdf
+[^12]: [Harmonised maximum and minimum clearing prices for single day-ahead coupling (Jan. 2023)  
+(Agency for the Cooperation of Energy Regulators)](https://www.nemo-committee.eu/assets/files/ACER%20Decision%2001-2023%20on%20HMMCP%20SDAC%20-%20Annex%201-ac8ad8689e50f1338ecbef2cb1239bb2.pdf)
 
-[^13]: ACER, “Harmonised maximum and minimum clearing prices for single intraday coupling in accordance with Article 54(1) of Commission Regulation (EU) 2015/1222 of 24 July 2015 establishing a guideline on capacity allocation and congestion management (CACM Regulation),” Ljubljana, Jan. 2023. [Online]. Available: https://www.nemo-committee.eu/assets/files/ACER%20Decision%2002-2023%20on%20HMMCP%20SIDC%20-%20Annex%201-6ef85fb4e7ab3780d8df0c1d0a68334c.pdf
+[^13]: [Harmonised maximum and minimum clearing prices for single intraday coupling (Jan. 2023)  
+(Agency for the Cooperation of Energy Regulators)](https://www.nemo-committee.eu/assets/files/ACER%20Decision%2002-2023%20on%20HMMCP%20SIDC%20-%20Annex%201-6ef85fb4e7ab3780d8df0c1d0a68334c.pdf)
 
-[^14]: ACER, “Harmonised maximum and minimum clearing prices for single day-ahead coupling in accordance with Article 41(1) of Commission Regulation (EU) 2015/1222 of 24 July 2015 establishing a guideline on capacity allocation and congestion management (CACM Regulation),” Ljubljana, Nov. 2017. [Online]. Available: https://www.nemo-committee.eu/assets/files/Annex%20I_ACER%20DA%20MAX-MIN-d4974421d5ed9ae4510c382d32be55e2.pdf
+[^14]: [Harmonised maximum and minimum clearing prices for single day-ahead coupling (Nov. 2017)  
+(Agency for the Cooperation of Energy Regulators)](https://www.nemo-committee.eu/assets/files/Annex%20I_ACER%20DA%20MAX-MIN-d4974421d5ed9ae4510c382d32be55e2.pdf)
 
-[^15]: EPEX Spot, “Harmonised maximum clearing price for SDAC to be set to +4,000 EUR/MWh from 10th May 2022.” Accessed: Sep. 13, 2024. [Online]. Available: https://www.epexspot.com/en/news/harmonised-maximum-clearing-price-sdac-be-set-4000-eurmwh-10th-may-2022
+[^15]: [Harmonised maximum clearing price for SDAC to be set to +4,000 EUR/MWh from 10th May 2022  
+(EPEX Spot)](https://www.epexspot.com/en/news/harmonised-maximum-clearing-price-sdac-be-set-4000-eurmwh-10th-may-2022)
 
-[^16]: Nemo-Committee, “Harmonised maximum clearing price for SDAC to be set to +5,000 EUR/MWh from 20 th September (trading date),” Aug. 2022. Accessed: Sep. 20, 2024. [Online]. Available: https://www.nemo-committee.eu/assets/files/test.pdf
+[^16]: [Harmonised maximum clearing price for SDAC to be set to +5,000 EUR/MWh from 20th September (trading date)  
+(NEMO Committee)](https://www.nemo-committee.eu/assets/files/test.pdf)
 
-[^17]: Nemo-Committee, “No changes in harmonised maximum clearing price for SDAC from 20 September: it remains at 4,000 EUR/MWh,” Sep. 2022. Accessed: Sep. 20, 2024. [Online]. Available: https://www.epexspot.com/sites/default/files/download_center_files/SDAC%20Coms%20note_suspension%20of%20HMMCP_final.pdf
+[^17]: [No changes in harmonised maximum clearing price for SDAC from 20 September: it remains at 4,000 EUR/MWh  
+(NEMO Committee)](https://www.epexspot.com/sites/default/files/download_center_files/SDAC%20Coms%20note_suspension%20of%20HMMCP_final.pdf)
 
-[^18]: M. Abbott, “Is the Security of Electricity Supply a Public Good?,” *Electr. J.*, vol. 14, no. 7, pp. 31–33, Aug. 2001, doi: 10.1016/S1040-6190(01)00224-X.
+[^18]: [Is the Security of Electricity Supply a Public Good?  
+(Abbott, 2001)](https://doi.org/10.1016/S1040-6190(01)00224-X)
+

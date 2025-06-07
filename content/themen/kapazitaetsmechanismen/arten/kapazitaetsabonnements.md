@@ -22,4 +22,5 @@ Kapazitätsabonnements sind Maßnahmen zur Nachfragesteuerung, die Verträge bei
 
 <!-- Fußnoten -->
 
-[^1]: C. Carella, “The potential of capacity subscription contracts,” Florence School of Regulation. Accessed: Apr. 18, 2024. [Online]. Available: https://fsr.eui.eu/the-potential-of-capacity-subscription-contracts/
+[^1]: [The potential of capacity subscription contracts  
+(Florence School of Regulation)](https://fsr.eui.eu/the-potential-of-capacity-subscription-contracts/)

@@ -102,9 +102,21 @@ Hohe Knappheitspreise müssen durch Zahlungsbereitschaft der Konsumenten gedeckt
 
 <!-- Fußnoten -->
 
-[^1]: N. G. Mankiw, *Principles of economics*. Cengage Learning, 2021.
-[^2]: A. Feldman and R. Serrano, *Welfare Economics and Social Choice Theory*, 2nd Edition. Boston: Kluwer Academic Publishers, 2006. doi: 10.1007/0-387-29368-X.
-[^3]: J. C. Moorhouse, “Competitive markets for electricity generation,” *Cato J*, vol. 14, p. 421, 1994.
-[^4]: W. J. Baumol, J. C. Panzar, and R. D. Willig, “Contestable markets: An uprising in the theory of industry structure: Reply,” *Am. Econ. Rev.*, vol. 73, no. 3, pp. 491–496, 1983.
-[^5]: M. Ezekiel, “The Cobweb Theorem,” *Q. J. Econ.*, vol. 52, no. 2, p. 255, Feb. 1938, doi: 10.2307/1881734.
-[^6]: Arthur Hanau, “Die Prognose der Schweinepreise,” Berlin, 1927. [Online]. Available: http://www.diw.de/documents/dokumentenarchiv/17/43353/viertel_1928.pdf
+[^1]: [Principles of Economics  
+(Mankiw, 2021)](https://www.cengage.com/c/principles-of-economics-10e-mankiw/9780357722718//)
+
+[^2]: [Welfare Economics and Social Choice Theory  
+(Feldman & Serrano, 2006)](https://doi.org/10.1007/0-387-29368-X)
+
+[^3]: [Competitive Markets for Electricity Generation  
+(Moorhouse, 1995)](https://www.cato.org/sites/cato.org/files/serials/files/cato-journal/1995/1/cj14n3-3.pdf)
+
+[^4]: [Contestable Markets: An Uprising in the Theory of Industry Structure: Comment  
+(Baumol et al., 1983)](https://www.jstor.org/stable/1808144)
+
+[^5]: [The Cobweb Theorem  
+(Ezekiel, 1938)](https://doi.org/10.2307/1881734)
+
+[^6]: [Die Prognose der Schweinepreise  
+(Institut für Konjunkturforschung, 1928)](http://www.diw.de/documents/dokumentenarchiv/17/43353/viertel_1928.pdf)
+
