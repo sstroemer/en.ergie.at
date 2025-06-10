@@ -13,17 +13,16 @@ Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder
 
 Um die Integration von 98&nbsp;GW erneuerbarer Energien bis 2030 zu ermöglichen, sind vor allem großskalige Energiespeicher erforderlich, wie aus Italiens nationalem Energie- und Klimaplan (<abbr title="National Energy and Climate Plan">NECP</abbr>) hervorgeht. Die Stromerzeugung aus erneuerbaren Energien wird dabei vor allem in Süditalien und auf den Inseln stattfinden, während der Verbrauchsschwerpunkt in Norditalien liegt. Da die Übertragungskapazitäten bislang nicht ausreichen und die Entwicklung der erforderlichen Speicherprojekte aufgrund hoher Investitionskosten in diesem kurzen Zeithorizont bis 2030 unsicher ist, führt Italien zusätzlich zu seinem bestehenden Kapazitätsmechanismus einen Fördermechanismus für eigenständige Speicher ein. Der Fokus der neuen Speicherprojekte soll dabei - im Gegensatz zu den Batterieprojekten im Rahmen des Kapazitätsmechanismus - auf einer langfristigen Energiespeicherung liegen. Im Rahmen des Kapazitätsmechanismus wurden bisher vor allem kurzfristige Batteriespeicher, deren mittlere Speicherdauer bei vier Stunden liegt, beanreizt. Außerdem wurde durch den Kapazitätsmechanismus nicht die benötigte Menge an neuen Speicherprojekten beanreizt um Italiens Ziel von zusätzlichen 71&nbsp;GWh an Speicherkapazität bis 2030 zu erreichen [^StateAid_storage].
 
-Der neue Mechanismus zur Beschaffung von Speicherkapazität (<abbr title="Meccanismo di Approvvigionamento di Capacità di Stoccaggio Elettrico">MACSE</abbr>) soll 50&nbsp;GWh der benötigten 71&nbsp;GWh beanreizen und die ersten Auktionen für das Lieferjahr 2028 sollen im zweiten Quartal 2025 stattfinden [^Aurora_MACSE]. 
+Der neue Mechanismus zur Beschaffung von Speicherkapazität (<abbr title="Meccanismo di Approvvigionamento di Capacità di Stoccaggio Elettrico">MACSE</abbr>) soll 50&nbsp;GWh der benötigten 71&nbsp;GWh beanreizen und die ersten Auktionen für das Lieferjahr 2028 sollen im zweiten Quartal 2025 stattfinden [^Aurora_MACSE].
 
-Tabelle 1 stellt die wichtigsten Unterschiede zwischen dem Kapazitätsmechanismus und MACSE dar.
-| **Element**      | **MACSE** | **Kapazitätsmarkt** | 
+Die nachfolgende Tabelle stellt die wichtigsten Unterschiede zwischen dem Kapazitätsmechanismus und MACSE dar:
+
+| **Element**      | **MACSE** | **Kapazitätsmarkt** |
 |--------------------|:----------------------------------------:|:-----------:|
 | Auktionsart      |  Pay-as-bid | Pay-as-cleared  |  
-| Teilnahme Voraussetzungen        | Neue, eigenständige Speicherkapazitäten. Die Bauphase darf noch nicht begonnen haben. | Neue und existierende Kapazitäten. | 99   | 
+| Teilnahme Voraussetzungen        | Neue, eigenständige Speicherkapazitäten. Die Bauphase darf noch nicht begonnen haben. | Neue und existierende Kapazitäten. |
 | Vergütung    | €/MWh/a     | €/MW/a          |
 | Reihung der Gebote | Technische Parameter werden durch Koeffizienten berücksichtigt |   Speicherdauer hat nur Einfluss auf Derating Faktoren, aber nicht auf Reihung der Gebote  |  
-
-*Tabelle 1: Unterschiede zwischen MACSE und dem Kapazitätsmarkt.*
 
 ## Marktweiter Kapazitätsmechanismus mit zentralem Käufer
 
@@ -43,30 +42,28 @@ Im italienischen Mechanismus erhalten Kapazitätsanbieter Auktionsprämien als Z
 
 ### Ausschreibung
 
-Der neue Mechanismus zur Beschaffung von Speicherkapazität (<abbr title="Meccanismo di Approvvigionamento di Capacità di Stoccaggio Elettrico">MACSE</abbr>) wird als Pay-as-Bid-Auktion durchgeführt, bei der die Anbieter Gebote für die Bereitstellung von Speicherkapazität abgeben. Zum Zweck der Reihung in der Merit-Order werden diese Gebote in €/MWh/a mit zuvor definierten Koeffizienten angepasst, die die technischen Eigenschaften der Speicherprojekte im Vergleich zu den Mindestanforderungen des <abbr title="Übertragungsnetzbetreibers">ÜNB</abbr> berücksichtigen. Diese Koeffizienten werden mindestens 60 Werktage vor der Auktion veröffentlicht und vor jeder Auktion neu evaluiert und aktualisiert. 
+Der neue Mechanismus zur Beschaffung von Speicherkapazität (<abbr title="Meccanismo di Approvvigionamento di Capacità di Stoccaggio Elettrico">MACSE</abbr>) wird als Pay-as-Bid-Auktion durchgeführt, bei der die Anbieter Gebote für die Bereitstellung von Speicherkapazität abgeben. Zum Zweck der Reihung in der Merit-Order werden diese Gebote in €/MWh/a mit zuvor definierten Koeffizienten angepasst, die die technischen Eigenschaften der Speicherprojekte im Vergleich zu den Mindestanforderungen des <abbr title="Übertragungsnetzbetreibers">ÜNB</abbr> berücksichtigen. Diese Koeffizienten werden mindestens 60 Werktage vor der Auktion veröffentlicht und vor jeder Auktion neu evaluiert und aktualisiert.
 
-Tabelle 2 gibt einen Überblick über die Anwendung der Koeffizienten auf die Gebote und die damit einhergehende Reihung in der Merit-Order.
+Die nachfolgende Tabelle gibt einen Überblick über die Anwendung der Koeffizienten auf die Gebote und die damit einhergehende Reihung in der Merit-Order, anhand eines fiktiven Beispiels zur Anpassung der Gebote durch Anwendung von realen, durch Terna definierte, Koeffizienten [^Terna_Koeffizienten][^RSE_research]:
 
-| **Parameter**      | **Zielparameter** | **Gebot 1** | **Gebot 2** | 
+| **Parameter**      | **Zielparameter** | **Gebot 1** | **Gebot 2** |
 |--------------------|:----------------------------------------:|:-----------:|:-----------:|
-| Lade- und Entladezeit  [h]      | 4  | 6  |      2 | 
-| Koeffizient   [%]        | 100     | 101,6     | 99   | 
+| Lade- und Entladezeit  [h]      | 4  | 6  |      2 |
+| Koeffizient   [%]        | 100     | 101,6     | 99   |
 | Gebotspreis [€/MWh/a]     | -      | 40          | 40        |
-| Angepasster Gebotspreis [€/MWh/a] | - |   40,64     |      39,6   | 
+| Angepasster Gebotspreis [€/MWh/a] | - |   40,64     |      39,6   |
 
-*Tabelle 2: Fiktives Beispiel zur Anpassung der Gebote durch Anwendung von realen, durch Terna definierte, Koeffizienten [^Terna_Koeffizienten][^RSE_research]*
-
-Gebote, die die Mindestanforderungen übertreffen, wie in Tabelle 2 dargestellt, erhalten einen Koeffizienten < 100&nbsp;%, und werden in der Merit-Order niedriger gereiht.  
+Gebote, die die Mindestanforderungen übertreffen (wie in der Tabelle dargestellt), erhalten einen Koeffizienten < 100&nbsp;%, und werden in der Merit-Order niedriger gereiht.  
 
 Für jede Gebotzone wird eine minimale und maximale Zielmenge an Speicherkapazität festgelegt, sowie eine maximale Zielmenge auf nationaler Ebene. Die Gebote werden in aufsteigender Reihenfolge unabhängig von ihrem geografischen Standort sortiert. Die Anbieter mit den niedrigsten Geboten werden ausgewählt und der jeweiligen Gebotszone zugeordnet, bis die minimale Zielmenge pro Gebotszone erreicht ist. Liegen zusätzliche Gebote innerhalb einer Gebotszone vor, die über die minimale Zielmenge hinausgehen, werden diese ebenfalls in aufsteigender Reihenfolge ausgewählt, bis entweder die maximale Zielmenge der Gebotszone oder die nationale Zielmenge erreicht ist.
 
-Es werden zwei separate Auktionen für Batteriespeicher und Pumpspeicherkraftwerke durchgeführt, um die unterschiedliche Konstruktions- und Betriebsdauer der Technologien zu berücksichtigen [^StateAid_storage]. 
+Es werden zwei separate Auktionen für Batteriespeicher und Pumpspeicherkraftwerke durchgeführt, um die unterschiedliche Konstruktions- und Betriebsdauer der Technologien zu berücksichtigen [^StateAid_storage].
 
 ### Teilnahme
 
-Teilnahmeberechtigt sind alle neuen Speichertechnologien, die ein angemessenes Level an technologischer und kommerzieller Reife erreicht haben. Der italienische Übertragungsnetzbetreiber Terna veröffentlicht hierfür alle zwei Jahre eine Markstudie [^Terna_Marktstudie], in der alle vorhandenen Speichertechnologien hinsichtlich ihrer Reife und der Fähigkeit dem Stromsystem die benötigten Dienstleistungen bereitzustellen, analysiert werden. Neue, kleinskalige Speichertechnologien, die noch nicht die erforderliche kommerzielle Reife aufweisen, dürfen ebenfalls an den Auktionen teilnehmen, wobei die bezuschlagte Kapazität auf 10&nbsp;% des gesamten Auktionsvolumens begrenzt ist. Aus der Marktstudie geht hervor, dass die derzeitigen Technologien mit der benötigten technologischen und kommerziellen Reife Lithium-Ionen Batterien und Pumpspeicherkraftwerke sind [^Terna_Marktstudie]. Förderfähige Technologien, die sich stark in ihrer Bauweise und ihrer Betriebsdauer unterscheiden, erhalten separate Standard-Förderverträge und es werden separate Auktionen für diese Technologien durchgeführt (Batterien und Pumpspeicherkraftwerke). 
+Teilnahmeberechtigt sind alle neuen Speichertechnologien, die ein angemessenes Level an technologischer und kommerzieller Reife erreicht haben. Der italienische Übertragungsnetzbetreiber Terna veröffentlicht hierfür alle zwei Jahre eine Markstudie [^Terna_Marktstudie], in der alle vorhandenen Speichertechnologien hinsichtlich ihrer Reife und der Fähigkeit dem Stromsystem die benötigten Dienstleistungen bereitzustellen, analysiert werden. Neue, kleinskalige Speichertechnologien, die noch nicht die erforderliche kommerzielle Reife aufweisen, dürfen ebenfalls an den Auktionen teilnehmen, wobei die bezuschlagte Kapazität auf 10&nbsp;% des gesamten Auktionsvolumens begrenzt ist. Aus der Marktstudie geht hervor, dass die derzeitigen Technologien mit der benötigten technologischen und kommerziellen Reife Lithium-Ionen Batterien und Pumpspeicherkraftwerke sind [^Terna_Marktstudie]. Förderfähige Technologien, die sich stark in ihrer Bauweise und ihrer Betriebsdauer unterscheiden, erhalten separate Standard-Förderverträge und es werden separate Auktionen für diese Technologien durchgeführt (Batterien und Pumpspeicherkraftwerke).
 
-Teilnahmeberechtigte Anbieter dürfen für die Laufzeit der Unterstützung nicht durch weitere Fördermaßnahmen für die Investition oder den Betrieb der Anlage profitieren und müssen bereits die Berechtigung zur Errichtung und des Betriebs der jeweiligen Anlage besitzen. Außerdem müssen teilnehmende Anbieter eine finanzielle Absicherung beim italienischen Übertragungsnetzbetreiber Terna hinterlegen [^StateAid_storage]. 
+Teilnahmeberechtigte Anbieter dürfen für die Laufzeit der Unterstützung nicht durch weitere Fördermaßnahmen für die Investition oder den Betrieb der Anlage profitieren und müssen bereits die Berechtigung zur Errichtung und des Betriebs der jeweiligen Anlage besitzen. Außerdem müssen teilnehmende Anbieter eine finanzielle Absicherung beim italienischen Übertragungsnetzbetreiber Terna hinterlegen [^StateAid_storage].
 
 ### Vergütung
 
@@ -74,7 +71,7 @@ Im Rahmen von MACSE erhalten die bezuschlagten Anbieter eine jährliche Vergütu
 
 <!-- Fußnoten -->
 
-[^1]: [Overview of EU Capacity Remuneration Mechanisms<br>(Anthony Papavasiliou)](https://www.raaey.gr/energeia/wp-content/uploads/2021/05/Report-I-CRM-final.pdf) 
+[^1]: [Overview of EU Capacity Remuneration Mechanisms<br>(Anthony Papavasiliou)](https://www.raaey.gr/energeia/wp-content/uploads/2021/05/Report-I-CRM-final.pdf)
 
 [^2]: [Capacity market<br>(terna.it)](https://www.terna.it/en/electric-system/capacity-market)
 
@@ -83,8 +80,6 @@ Im Rahmen von MACSE erhalten die bezuschlagten Anbieter eine jährliche Vergütu
 [^StateAid_storage]: [State Aid SA.104106 (2023/N) – Italy. Support for the development of a centralised electricity storage system in Italy<br>(Europäische Kommission)](https://ec.europa.eu/competition/state_aid/cases1/202414/SA_104106_202FA48E-0000-CC73-8839-192E7D98527F_174_1.pdf)
 
 [^Aurora_MACSE]: [MACSE auction set to transform Italy’s energy storage landscape by 2030<br>(auroraer.com)](https://auroraer.com/media/macse-auction-italy-battery-storage-capacity-energy-power-electricity-price/)
-
-[^Timera_MACSE]: [MACSE strategy<br>(Timera Energy)](https://timera-energy.com/wp-content/uploads/2024/11/MACSE-Strategy-Timera-webinar-on-Italian-BESS-investment-Slides.pdf)
 
 [^Terna_Marktstudie]: [STUDY ON REFERENCE TECHNOLOGIES FOR ELECTRICITY STORAGE<br>Terna](https://download.terna.it/terna/Study_on_electricity_storage_reference_technologies_8db99b53d98c32b.pdf)
 

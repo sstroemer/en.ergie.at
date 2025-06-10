@@ -14,7 +14,7 @@ Obwohl sich dieser Bericht auf die EU bezieht, wollen wir darauf hinweisen, dass
 
 ## Beschreibung
 
-Marktweite Kapazitätsmechanismen mit zentralem Käufer zeichnen sich dadurch aus, dass eine zentrale Stelle – meist der <abbr title="Übertragungsnetzbetreiber">ÜNB</abbr> oder eine spezielle Behörde – Kapazitäten im Namen des gesamten Systems beschafft. Ziel ist es, durch wettbewerbliche Auktionen ausreichend gesicherte Leistung für zukünftige Versorgungsperioden zu kontrahieren und so die Versorgungssicherheit zu gewährleisten. 
+Marktweite Kapazitätsmechanismen mit zentralem Käufer zeichnen sich dadurch aus, dass eine zentrale Stelle – meist der <abbr title="Übertragungsnetzbetreiber">ÜNB</abbr> oder eine spezielle Behörde – Kapazitäten im Namen des gesamten Systems beschafft. Ziel ist es, durch wettbewerbliche Auktionen ausreichend gesicherte Leistung für zukünftige Versorgungsperioden zu kontrahieren und so die Versorgungssicherheit zu gewährleisten.
 
 Eine strukturierte Übersicht über verschiedene Ausgestaltungsfaktoren von Kapaziätsmärkten finden Sie hier: [Übersicht Ausgestaltungsfaktoren von Kapazitätsmärkten]({{< ref "themen/kapazitaetsmechanismen/ausgestaltungsfaktoren/index.md" >}})
 
@@ -42,10 +42,8 @@ Dieser Ansatz ermöglicht es, Skaleneffekte bei der Stromerzeugung zu nutzen und
 | Menge an notwendiger Kapazität wird klar beziffert – Treffsicherheit und Transparenz             | –                                                                                                      |
 | Gut praxiserprobt                                                                                 | –                                                                                                      |
 
-*Tabelle 1: Vorteile und Herausforderungen zentraler Kapazitätsmechanismen*
+## Länderbeispiele
 
-
-## Länderbeispiele:
 - [Irland]({{< ref "themen/kapazitaetsmechanismen/laenderuebersicht/ie.md" >}})
 - [Italien]({{< ref "themen/kapazitaetsmechanismen/laenderuebersicht/it.md" >}})
 - [Polen]({{< ref "themen/kapazitaetsmechanismen/laenderuebersicht/pl.md" >}})

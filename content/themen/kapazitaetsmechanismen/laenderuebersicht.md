@@ -33,21 +33,61 @@ General structure:
 
 <br>
 {{< alert >}}
-Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per [GitHub Issue melden](https://github.com/ait-energy/en.ergie.at/issues).
+Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder
+fehlende Details kannst Du direkt per [GitHub Issue melden](https://github.com/ait-energy/en.ergie.at/issues).
 {{< /alert >}}
 <br>
 
 ## Europa im Überblick
 
-Es gibt acht EU-Mitgliedstaaten mit aktiven Kapazitätsmechanismen: Belgien, Finnland, Frankreich, Deutschland, Irland (SEM), Italien, Polen und Schweden. Drei von ihnen (Finnland, Deutschland und Schweden) haben strategische Reserven eingerichtet, während die fünf anderen Mitgliedstaaten marktweite Kapazitätsmechanismen unterhalten. Spanien und Portugal haben keinen aktiven Kapazitätsmechanismus, aber einige langfristige Altverträge (gezielte Kapazitätszahlungen) gelten noch.
+Es gibt acht EU-Mitgliedstaaten mit aktiven Kapazitätsmechanismen: Belgien, Finnland, Frankreich, Deutschland, Irland
+(SEM), Italien, Polen und Schweden. Drei von ihnen (Finnland, Deutschland und Schweden) haben strategische Reserven
+eingerichtet, während die fünf anderen Mitgliedstaaten marktweite Kapazitätsmechanismen unterhalten. Spanien und
+Portugal haben keinen aktiven Kapazitätsmechanismus, aber einige langfristige Altverträge (gezielte Kapazitätszahlungen)
+gelten noch.
 
 <!--![Überblick über aktive und in Diskussion befindliche Kapazitätsmechanismen in Europa (basierend auf [29])] -->
 <!--(/images/laenderuebersicht/laenderuebersicht_aktive_diskutierte_KMs_Europa.png) -->
-<style>.responsive23-pjSfJybsFZpRaOLY-choro-cms-europe { width: 100%; padding-top: 100%; } @media (max-width: 600px) { .responsive23-pjSfJybsFZpRaOLY-choro-cms-europe { padding-top: 100%; } } @media (max-width: 360px) { .responsive23-pjSfJybsFZpRaOLY-choro-cms-europe { padding-top: 142.86%; } }</style>
-<div id="container23-pjSfJybsFZpRaOLY-choro-cms-europe" class="responsive23-pjSfJybsFZpRaOLY-choro-cms-europe" style="position: relative;"><iframe title="CMs Europe" src="https://app.23degrees.io/embed/pjSfJybsFZpRaOLY-choro-cms-europe" allow="fullscreen" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0"></iframe></div>
-<script src="https://app.23degrees.io/services/public/embed-code/pjSfJybsFZpRaOLY-choro-cms-europe"></script>
+<style>
+.responsive23-pjSfJybsFZpRaOLY-choro-cms-europe {
+    width: 100%;
+    padding-top: 100%;
+}
 
-Eine Übersicht über alle aktuell als staatliche Beihilfen genehmigten Kapazitätsmechanismen und deren genaue Ausgestaltung sowie im Laufe der Zeit genehmigten Anpassungen sind in der [Datenbank der Europäischen Kommission](https://competition-cases.ec.europa.eu/search?search=%22capacity%20mechanism%22&caseInstrument=SA&sortField=relevance&sortOrder=DESC) zu finden.
+@media (max-width: 600px) {
+    .responsive23-pjSfJybsFZpRaOLY-choro-cms-europe {
+        padding-top: 100%;
+    }
+}
+
+@media (max-width: 360px) {
+    .responsive23-pjSfJybsFZpRaOLY-choro-cms-europe {
+        padding-top: 142.86%;
+    }
+}
+</style>
+
+<div
+    id="container23-pjSfJybsFZpRaOLY-choro-cms-europe"
+    class="responsive23-pjSfJybsFZpRaOLY-choro-cms-europe"
+    style="position: relative;"
+>
+<iframe
+    title="CMs Europe"
+    src="https://app.23degrees.io/embed/pjSfJybsFZpRaOLY-choro-cms-europe"
+    allow="fullscreen"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0"
+>
+</iframe>
+</div>
+
+<script src="https://app.23degrees.io/services/public/embed-code/pjSfJybsFZpRaOLY-choro-cms-europe">
+</script>
+
+Eine Übersicht über alle aktuell als staatliche Beihilfen genehmigten Kapazitätsmechanismen und deren genaue
+Ausgestaltung sowie im Laufe der Zeit genehmigten Anpassungen sind in der
+[Datenbank der Europäischen Kommission](https://competition-cases.ec.europa.eu/search?search=%22capacity%20mechanism%22&caseInstrument=SA&sortField=relevance&sortOrder=DESC)
+zu finden.
 
 ### Einzelseiten zu Kapazitätsmechanismen in den Ländern
 
@@ -506,3 +546,4 @@ Find additional UK auction results & information <a href="https://www.emrdeliver
     </p></li>
   </ol>
 </div>
+

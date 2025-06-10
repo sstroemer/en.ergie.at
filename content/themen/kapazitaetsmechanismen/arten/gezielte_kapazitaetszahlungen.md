@@ -30,6 +30,3 @@ Ein zentrales Problem ist, dass sie im Normalfall nicht auf dem Gleichgewicht zw
 | In der Regel klimaneutral                                                                                                        | *Kann* zu Verzerrungen von Marktsignalen führen          |
 | *Kann* Investitionen in neue Kapazitäten fördern                                                                                 | Kein Anreiz, in Zeiten des Bedarfs bereitzustellen       |
 | Potenzial, das *„Missing Money“* Problem zu lösen                                                                                |                                                          |
-
-*Tabelle 1: Vorteile und Herausforderungen gezielter Kapazitätszahlungen*
-

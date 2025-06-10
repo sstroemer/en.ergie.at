@@ -27,4 +27,4 @@ Die Teilnahme an Kapazitätsauktionen ist derzeit auf Kapazitätsanbieter auf de
 
 [^1]: [Capacity Market<br>(sem-o.com)](http://www.sem-o.com/markets/capacity-market-overview/)
 
-[^2]: [Overview of EU Capacity Remuneration Mechanisms<br>(Anthony Papavasiliou)](https://www.raaey.gr/energeia/wp-content/uploads/2021/05/Report-I-CRM-final.pdf) 
+[^2]: [Overview of EU Capacity Remuneration Mechanisms<br>(Anthony Papavasiliou)](https://www.raaey.gr/energeia/wp-content/uploads/2021/05/Report-I-CRM-final.pdf)

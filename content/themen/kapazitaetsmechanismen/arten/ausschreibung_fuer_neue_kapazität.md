@@ -34,8 +34,6 @@ Zu den Vorteilen von Ausschreibungen für neue Kapazitäten gehört, dass sie n�
 | Möglichkeit, *nodale* Signale zu senden (Spanien)                                                                                   | In der Regel nicht technologieneutral                                                                      |
 | Bietet Sichtbarkeit und einen stabilen Preis, um neue Investitionen zu erleichtern                                                 | –                                                                                                           |
 
-*Tabelle 3: Vorteile und Herausforderungen bei der Ausschreibung für neue Kapazität*
-
 ## Länderbeispiele
 
 - [Frankreich]({{< ref "themen/kapazitaetsmechanismen/laenderuebersicht/fr.md" >}})

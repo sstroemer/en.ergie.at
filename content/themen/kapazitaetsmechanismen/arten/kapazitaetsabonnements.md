@@ -17,9 +17,6 @@ Kapazitätsabonnements sind Maßnahmen zur Nachfragesteuerung, die Verträge bei
 |                                                                                                              | Keine Anreize für Kapazitätsanbieter, die Versorgungssicherheit zu gewährleisten                      |
 |                                                                                                              | Keine Anreize für neue Investitionen                                                                   |
 
-*Tabelle 1: Vorteile und Herausforderungen von Kapazitätsabonnements*
-
-
 <!-- Fußnoten -->
 
 [^1]: [The potential of capacity subscription contracts  
