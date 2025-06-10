@@ -20,7 +20,7 @@ Die nachfolgende Tabelle stellt die wichtigsten Unterschiede zwischen dem Kapazi
 | **Element**      | **MACSE** | **Kapazitätsmarkt** |
 |--------------------|:----------------------------------------:|:-----------:|
 | Auktionsart      |  Pay-as-bid | Pay-as-cleared  |  
-| Teilnahme Voraussetzungen        | Neue, eigenständige Speicherkapazitäten. Die Bauphase darf noch nicht begonnen haben. | Neue und existierende Kapazitäten. | 99   |
+| Teilnahme Voraussetzungen        | Neue, eigenständige Speicherkapazitäten. Die Bauphase darf noch nicht begonnen haben. | Neue und existierende Kapazitäten. |
 | Vergütung    | €/MWh/a     | €/MW/a          |
 | Reihung der Gebote | Technische Parameter werden durch Koeffizienten berücksichtigt |   Speicherdauer hat nur Einfluss auf Derating Faktoren, aber nicht auf Reihung der Gebote  |  
 
