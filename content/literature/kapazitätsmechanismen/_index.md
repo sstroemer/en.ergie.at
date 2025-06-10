@@ -1,25 +1,12 @@
 ---
-title: "Diskussion im Verlauf der Zeit"
-topics: [] 
-authors: [sstroemer, dkrainer]
+title: "Kapazitätsmechanismen"
 ---
-Dieser Abschnitt soll einen Überblick über den zeitlichen Verlauf der Diskussion zu Kapazitätsmechanismen in Europa vermitteln. Die zuletzt erschienenen Studien
-und Berichte unterschiedlicher Stakeholder sind in der dargestellten Timeline entsprechend ihrem Erscheinungsdatum angeordnet und es werden jeweils eine kurze inhaltliche Zusammenfassung und weiterführende Links zur Verfügung gestellt. 
 
-<br>
-{{< alert >}}
-Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder teilweise inkorrekt sein. Fehler oder fehlende Details kannst Du direkt per [GitHub Issue melden](https://github.com/ait-energy/en.ergie.at/issues).
-{{< /alert >}}
-<br>
-
+<!--
 
 {{< timeline >}}
 
-
-
-
-
-<!-- ===================================== ENTSOE Policy Paper on CM =================================================================== -->
+<!~~ ===================================== ENTSOE Policy Paper on CM =================================================================== ~~>
 
 {{< timelineItem icon="comment" header="The role of Capacity Mechanisms to enable a secure and competitive energy transition" badge="16.04.2025" subheader="Von: ENTSO-E" >}}
 
@@ -41,7 +28,7 @@ Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder
 </div>
 
 {{< /timelineItem >}}
-<!-- ===================================== Studie Kapazitätsmarkt Österrreich =================================================================== -->
+<!~~ ===================================== Studie Kapazitätsmarkt Österrreich =================================================================== ~~>
 
 {{< timelineItem icon="comment" header="Studie Kapazitätsmarkt Österreich" badge="14.04.2025" subheader="Von: Fraunhofer ISI">}}
 
@@ -65,7 +52,7 @@ Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder
 </div>
 
 {{< /timelineItem >}}
-<!-- ===================================== Studie Die Ausgestaltung der Absicherungspflicht =================================================================== -->
+<!~~ ===================================== Studie Die Ausgestaltung der Absicherungspflicht =================================================================== ~~>
 {{< timelineItem icon="comment" header="Die Ausgestaltung der Absicherungspflicht" badge="08.04.2025" subheader="Von: Connect Energy Economics">}}
 
 <div style="margin-bottom: -1.5em;">
@@ -87,7 +74,7 @@ Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder
 </div>
 
 {{< /timelineItem >}}
-<!-- ===================================== Frontier Economics DE:Rückkehr SR in Markt =================================================================== -->
+<!~~ ===================================== Frontier Economics DE:Rückkehr SR in Markt =================================================================== ~~>
 
 {{< timelineItem icon="comment" header="Kurzanalyse zum Beitrag von Reservekraftwerken im Strommarkt" badge="31.03.2025" subheader="Von: Frontier Economics" >}}
 <div style="margin-bottom: -1.5em;">
@@ -102,7 +89,7 @@ In dieser Präsentation von Frontier Economics wird die Idee der deutschen Bunde
 
 {{< /timelineItem >}}
 
-<!-- ===================================== Frontier Economics DR in CMs =================================================================== -->
+<!~~ ===================================== Frontier Economics DR in CMs =================================================================== ~~>
 
 {{< timelineItem icon="comment" header="Einbindung von dezentraler Flexibilität in einen integrierten Kapazitätsmarkt" badge="17.03.2025" subheader="Von: Frontier Economics" >}}
 <div style="margin-bottom: -1.5em;">
@@ -124,7 +111,7 @@ In dieser Präsentation von Frontier Economics wird die Idee der deutschen Bunde
 
 {{< /timelineItem >}}
 
-<!-- ===================================== Frontier Economics DE:Kapazitätsmarkt + Kraftwerksstrategie neuer CM =================================================================== -->
+<!~~ ===================================== Frontier Economics DE:Kapazitätsmarkt + Kraftwerksstrategie neuer CM =================================================================== ~~>
 
 {{< timelineItem icon="comment" header="Wie geht es weiter bei Kraftwerksstrategie und Kapazitätsmarkt?" badge="15.03.2025" subheader="Von: Frontier Economics" >}}
 <div style="margin-bottom: -1.5em;">
@@ -139,7 +126,7 @@ In dieser Präsentation von Frontier Economics wird ein kurzer Überblick über 
 
 {{< /timelineItem >}}
 
-<!-- ===================================== European Comission Report on streamlining CMs =================================================================== -->
+<!~~ ===================================== European Comission Report on streamlining CMs =================================================================== ~~>
 
 {{< timelineItem icon="comment" header="Bewertung der Möglichkeiten zur Straffung und Vereinfachung des Verfahrens für die Anwendung eines Kapazitätsmechanismus" badge="03.03.2025" subheader="Von: Europäische Kommission" >}}
 
@@ -156,7 +143,7 @@ In dieser Präsentation von Frontier Economics wird ein kurzer Überblick über 
 
 {{< /timelineItem >}}
 
-<!-- ===================================== European Comission Draft Framework for State Aid measures =================================================================== -->
+<!~~ ===================================== European Comission Draft Framework for State Aid measures =================================================================== ~~>
 
 {{< timelineItem icon="comment" header="Draft: Clean Industrial Deal State Aid Framework" badge="11.03.2025" subheader="Von: Europäische Kommission" >}}
 
@@ -185,7 +172,7 @@ In dieser Präsentation von Frontier Economics wird ein kurzer Überblick über 
 
 {{< /timelineItem >}}
 
-<!-- ===================================== ACER Security of Supply Monitoring Report 2024 =================================================================== -->
+<!~~ ===================================== ACER Security of Supply Monitoring Report 2024 =================================================================== ~~>
 
 {{< timelineItem icon="comment" header="Security of EU electricity supply 2024 Monitoring Report" badge="16.12.2024" subheader="Von: ACER" >}}
 
@@ -209,7 +196,7 @@ In dieser Präsentation von Frontier Economics wird ein kurzer Überblick über 
 
 {{< /timelineItem >}}
 
-<!-- ===================================== Florence School of Regulation  Cross-Border participation =================================================================== -->
+<!~~ ===================================== Florence School of Regulation  Cross-Border participation =================================================================== ~~>
 
 {{< timelineItem icon="comment" header="Cross-Border participation: A false hope for fixing capacity market externalities?" badge="22.11.2024" subheader="Von: Florence School of Regulation" >}}
 
@@ -235,7 +222,7 @@ In dieser Präsentation von Frontier Economics wird ein kurzer Überblick über 
 
 {{< /timelineItem >}}
 
-<!-- ===================================== Florence School of Regulation: An easy fix to streamline capacity markets =================================================================== -->
+<!~~ ===================================== Florence School of Regulation: An easy fix to streamline capacity markets =================================================================== ~~>
 
 {{< timelineItem icon="comment" header="An easy fix to streamline capacity markets" badge="22.11.2024" subheader="Von: Florence School of Regulation" >}}
 
@@ -258,7 +245,7 @@ Dieser Policy Brief untersucht die Verpflichtung in einem Kapazitätsmechanismus
 </div>
 
 {{< /timelineItem >}}
-<!-- ===================================== Frontier Kombinierter Kapazitätsmarkt =================================================================== -->
+<!~~ ===================================== Frontier Kombinierter Kapazitätsmarkt =================================================================== ~~>
 
 {{< timelineItem icon="comment" header="Kombinierter Kapazitätsmarkt - eine Analyse der Vor- und Nachteile" badge="14.11.2024" subheader="Von: Frontier Economics" >}}
 
@@ -281,7 +268,7 @@ Dieser Policy Brief untersucht die Verpflichtung in einem Kapazitätsmechanismus
 
 {{< /timelineItem >}}
 
-<!-- ===================================== Consentec Kombinierter Kapazitätsmarkt =================================================================== -->
+<!~~ ===================================== Consentec Kombinierter Kapazitätsmarkt =================================================================== ~~>
 
 {{< timelineItem icon="comment" header="Überblick zur Ausgestaltung eines kombinierten Kapazitätsmarkts" badge="10.09.2024" subheader="Von: Consentec, energy consulting und Öko-Institut e.V." >}}
 
@@ -316,7 +303,7 @@ Dieser Policy Brief untersucht die Verpflichtung in einem Kapazitätsmechanismus
 
 {{< /timelineItem >}}
 
-<!-- ===================================== BMWK Strommarktdesign der Zukunft =================================================================== -->
+<!~~ ===================================== BMWK Strommarktdesign der Zukunft =================================================================== ~~>
 
 {{< timelineItem icon="comment" header="Strommarktdesign der Zukunft" badge="04.09.2024" subheader="Von: Bundesministerium für Wirtschaft und Klimaschutz" >}}
 
@@ -342,7 +329,7 @@ Dieser Policy Brief untersucht die Verpflichtung in einem Kapazitätsmechanismus
 
 {{< /timelineItem >}}
 
-<!-- ===================================== DE TSOs Studie zentraler KM =================================================================== -->
+<!~~ ===================================== DE TSOs Studie zentraler KM =================================================================== ~~>
 
 {{< timelineItem icon="comment" header="Ausarbeitung eines Kapazitätsmechanismus für den deutschen Strommarkt" badge="15.05.2024" subheader="Von: Consentec" >}}
 
@@ -377,3 +364,5 @@ Dieser Policy Brief untersucht die Verpflichtung in einem Kapazitätsmechanismus
 {{< /timelineItem >}}
 
 {{< /timeline >}}
+
+-->

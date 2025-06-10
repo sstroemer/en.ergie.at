@@ -29,7 +29,6 @@ Darüber hinaus handelt es sich bei Strom um ein sehr homogenes Gut, wodurch Uns
 </details>
 </div>
 
-
 ### Freier Marktzutritt
 
 <div style="border-left: 4px solid #3c763d; padding-left: 1em; margin-bottom: 1.5em;">
@@ -47,8 +46,6 @@ Vor allem im Bereich der Erneuerbaren (z.B. Wind und PV) haben sich in den letzt
 </details>
 </div>
 
-
-
 ### Marktaustritt
 
 <div style="border-left: 4px solid #e67e22; padding-left: 1em; margin-bottom: 1.5em; border-radius: 4px;">
@@ -63,7 +60,6 @@ Der Bau von Kraftwerken ist mit signifikanten versunkenen Kosten verbunden, ein 
 
 </details>
 </div>
-
 
 ### Symmetrische Information
 
@@ -80,8 +76,6 @@ Darüber hinaus handelt es sich bei Strom um ein sehr homogenes Gut, wodurch Uns
 
 </details>
 </div>
-
-
 
 ### Marktteilnehmer als Mengenanpasser
 
@@ -100,7 +94,6 @@ Unelastische Nachfrage stellt möglicherweise ein Problem für die langfristig e
 </details>
 </div>
 
-
 ### Kurze Reaktionszeit
 
 <div style="border-left: 4px solid #a94442; padding-left: 1em; margin-bottom: 1.5em;">
@@ -116,8 +109,6 @@ Daher können Marktteilnehmer mit nur sehr unzureichend auf beobachtbare Preissi
 
 </details>
 </div>
-
-
 
 ### Abwesenheit von Externalitäten
 
@@ -135,7 +126,6 @@ Weitere Externalitäten betreffen die nicht-Konvexität von Produktionsmöglichk
 
 </details>
 </div>
-
 
 ## Ausreichende Planungssicherheit
 
@@ -158,7 +148,6 @@ Weitere Literatur einbauen: [^7], [^8], [^9], Struktur von [^10] verwenden, Hoga
 </details>
 </div>
 
-
 ### Absehbarkeit von regulatorischen Eingriffen
 
 <div style="border-left: 4px solid #a94442; padding-left: 1em; margin-bottom: 1.5em;">
@@ -176,7 +165,6 @@ Darüber hinaus führt die potenzielle Einführung von KMs im eigenen Land mögl
 
 </details>
 </div>
-
 
 ## Ausreichend Knappheitspreise
 
@@ -201,7 +189,6 @@ Demzufolge werden Preise um 500 €/MWh erhöht, wenn der Preis 70 % der Obe
 </details>
 </div>
 
-
 ### Keine impliziten Preisobergrenzen
 
 <div style="border-left: 4px solid #a94442; padding-left: 1em; margin-bottom: 1.5em;">
@@ -220,7 +207,6 @@ Politisch/gesellschaftliche Akzeptanz von hohen Preisen im Energy-Only-Markt mus
 </details>
 </div>
 
-
 ### Ausreichend Zahlungsbereitschaft
 
 <div style="border-left: 4px solid #e67e22; padding-left: 1em; margin-bottom: 1.5em;">
@@ -238,7 +224,6 @@ Es könnte eher das Gegenteil der Fall sein, da Versorgungssicherheit den Charak
 
 </details>
 </div>
-
 
 <!-- Fußnoten -->
 
@@ -295,4 +280,3 @@ Es könnte eher das Gegenteil der Fall sein, da Versorgungssicherheit den Charak
 
 [^18]: [Is the Security of Electricity Supply a Public Good?  
 (Abbott, 2001)](https://doi.org/10.1016/S1040-6190(01)00224-X)
-

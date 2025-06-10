@@ -14,4 +14,3 @@ Im Gegensatz zum Börsenhandel erfolgt der außerbörsliche Handel – auch <abb
 [^kraftwerke]: [Was ist der OTC-Handel?<br>(next-kraftwerke.at)](https://www.next-kraftwerke.de/wissen/otc-handel)
 [^ÖE]: [Die Einflussfaktoren auf den Preis im Stromgroßhandel<br>(oesterreichsenergie.at)](https://oesterreichsenergie.at/publikationen/dossiers/stromgrosshandel)
 [^ig]: [OTC-Definition<br>(ig.com)](https://www.ig.com/at/trading-glossar/otc-definition)
-[^captrader]: [OTC - Over the Counter<br>(captrader.com)](https://www.captrader.com/glossar/otc-over-the-counter/)

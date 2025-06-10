@@ -16,7 +16,6 @@ Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder
 ![Übersicht der Kapazitätsmechanismen](/images/arten/uebersicht_kapazitaetsmechanismen.jpg)
 *Quelle: [Übersicht der Kapazitätsmechanismen]*
 
-
 ## Gezielte Mechanismen
 
 Belohnen nur bestimmte Technologien. Sie identifizieren die zusätzlich benötigte Kapazität, die über das hinausgeht, was der Markt natürlicherweise bereitstellen würde, und unterstützen nur diese zusätzliche „Top-up“'-Kapazität. Es gibt drei Haupttypen:
@@ -25,11 +24,11 @@ Belohnen nur bestimmte Technologien. Sie identifizieren die zusätzlich benötig
 
 {{< embed_article link="/themen/kapazitaetsmechanismen/arten/ausschreibung_fuer_neue_kapazität" showHeader="false" >}}
 
-### 2. Strategische Reserve:
+### 2. Strategische Reserve
 
 {{< embed_article link="/themen/kapazitaetsmechanismen/arten/strategische_reserve" showHeader="false" >}}
 
-### 3. Gezielte Kapazitätszahlung:
+### 3. Gezielte Kapazitätszahlung
 
 {{< embed_article link="/themen/kapazitaetsmechanismen/arten/gezielte_kapazitaetszahlungen" showHeader="false" >}}
 
@@ -77,8 +76,6 @@ Ein marktweiter Kapazitätsmechanismus ist nicht kosteneffektiv, wenn der Bedarf
 
 </details>
 
-
-
 ## Vergleich Gezielte vs. Marktweite Mechanismen (ggf. verschieben)
 
 <details>
@@ -102,10 +99,7 @@ Ein marktweiter Kapazitätsmechanismus ist nicht kosteneffektiv, wenn der Bedarf
 
 </details>
 
-
-
-
-##	Weitere Mechanismen der Investitionsanreizung zur Steigerung der Versorgungssicherheit
+## Weitere Mechanismen der Investitionsanreizung zur Steigerung der Versorgungssicherheit
 
 ### 1. Leistbarkeitsoptionen
 
@@ -135,16 +129,12 @@ Ein marktweiter Kapazitätsmechanismus ist nicht kosteneffektiv, wenn der Bedarf
 
 {{< embed_article link="/themen/kapazitaetsmechanismen/arten/unterbrechbarkeitsregeln.md" showHeader="false" >}}
 
-
-
 <!-- Fußnoten -->
 [^1]: [Missing money and missing markets: Reliability, capacity auctions and interconnectors  
 (Newbery, 2016)](https://doi.org/10.1016/j.enpol.2015.10.028)
 
-[^2]: [Svenska kraftnät proposes a future capacity mechanism to ensure resource adequacy in the electricity market   
+[^2]: [Svenska kraftnät proposes a future capacity mechanism to ensure resource adequacy in the electricity market
 (Svenska kraftnät)](https://www.svk.se/en/about-us/news/news/svenska-kraftnat-proposes-a-future-capacity-mechanism-to-ensure-resource-adequacy-in-the-electricity-market/)
-
-
 
 <!-- #
 

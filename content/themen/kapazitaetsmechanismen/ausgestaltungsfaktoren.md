@@ -25,7 +25,6 @@ Kapazitätsmechanismen sind komplexe Instrumente zur Gewährleistung der Versorg
 
 {{< /timelineItem >}}
 
-
 <a id="kapazitätsdefinition"
    style="display:block; position:relative; top:-3rem; visibility:hidden;">
 </a>
@@ -43,8 +42,6 @@ Kapazitätsmechanismen sind komplexe Instrumente zur Gewährleistung der Versorg
 
 {{< /timelineItem >}}
 
-
-
 <a id="derating"
    style="display:block; position:relative; top:-3rem; visibility:hidden;">
 </a>
@@ -60,8 +57,6 @@ Kapazitätsmechanismen sind komplexe Instrumente zur Gewährleistung der Versorg
 </ul>
 
 {{< /timelineItem >}}
-
-
 
 <a id="vertragsparameter"
    style="display:block; position:relative; top:-3rem; visibility:hidden;">
@@ -84,8 +79,6 @@ Kapazitätsmechanismen sind komplexe Instrumente zur Gewährleistung der Versorg
 
 {{< /timelineItem >}}
 
-
-
 <a id="verguetungsstruktur"
    style="display:block; position:relative; top:-3rem; visibility:hidden;">
 </a>
@@ -101,8 +94,6 @@ Kapazitätsmechanismen sind komplexe Instrumente zur Gewährleistung der Versorg
   Diese Struktur hilft, Mitnahmeeffekte zu begrenzen und stellt sicher, dass Kapazitätsanbieter auch bei hohen Marktpreisen zur Systemstabilisierung beitragen.
 </ul>
 {{< /timelineItem >}}
-
-
 
 <a id="kostenallokation"
    style="display:block; position:relative; top:-3rem; visibility:hidden;">
@@ -129,7 +120,6 @@ Kapazitätsmechanismen sind komplexe Instrumente zur Gewährleistung der Versorg
 </ul>
 {{< /timelineItem >}}
 
-
 <a id="governance"
    style="display:block; position:relative; top:-3rem; visibility:hidden;">
 </a>
@@ -145,6 +135,5 @@ Kapazitätsmechanismen sind komplexe Instrumente zur Gewährleistung der Versorg
 
 {{< /timelineItem >}}
 {{< /timeline >}}
-
 
 {{< backtotop >}}

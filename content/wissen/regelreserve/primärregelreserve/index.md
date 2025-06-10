@@ -29,6 +29,5 @@ Der Markt für Primärregelreserve hat nur eine [Leistungsausschreibung](/wissen
 [^kraftwerke.at]: [Regelenergie in Österreich<br>(next-kraftwerke.at)](https://www.next-kraftwerke.at/wissen/regelenergie)
 [^kraftwerke_primär]: [Was ist die Primärreserveleistung (PRL)?<br>(next-kraftwerke.at)](https://www.next-kraftwerke.at/wissen/primaerregelung-prl#vergtung-in-der-primrreserve)
 [^A1]: [Regelenergie kurz erklärt<br>(a1energysolutions.at)](https://www.a1energysolutions.at/regelenergie-pool/)
-[^econtrol]: [Marktbasierte Beschaffung Regelreserve<br>(e-control.at)](https://www.e-control.at/industrie/strom/strommarkt/marktbasierte-beschaffung-regelreserve#:~:text=In%20%C3%96sterreich%20erfolgt%20die%20vollst%C3%A4ndig,werden%20Erzeugern%20und%20Bilanzgruppen%20verrechnet)
 [^APG_primär]: [Primärregelung (PRR)<br>(markt.apg.at)](https://markt.apg.at/netz/netzregelung/primaerregelung/)
 [^APCS]: [Regelenergie<br>(apcs.at)](https://www.apcs.at/de/regelenergie)
