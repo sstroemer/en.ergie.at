@@ -34,7 +34,7 @@ Folgende Grafik bietet einen Überblick über die Struktur des Systemnutzungsent
 
 *Abb. 1: Überblick über die Komponenten des Systemnutzungsentgelts © E-Control [^2]*
 
-## Ausnahmen und Sonderfälle 
+## Ausnahmen und Sonderfälle
 
 ### Energiegemeinschaften
 

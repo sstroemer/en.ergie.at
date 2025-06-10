@@ -29,4 +29,3 @@ Im Vereinigten Königreich können bestehende und neue Erzeugungskapazitäten, I
 [^1]: [Overview of EU Capacity Remuneration Mechanisms<br>(Anthony Papavasiliou)](https://www.raaey.gr/energeia/wp-content/uploads/2021/05/Report-I-CRM-final.pdf)
 
 [^Timera]: [A tour of European capacity markets<br>(timera-energy.com)](https://timera-energy.com/blog/a-tour-of-european-capacity-markets/)
-

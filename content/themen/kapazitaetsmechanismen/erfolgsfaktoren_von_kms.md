@@ -19,7 +19,7 @@ In kapazitätsbeschränkten Systemen entsteht Knappheit, wenn die installierte L
 In energiebegrenzten Systemen ist es genau umgekehrt: Hier entsteht Knappheit, weil nicht genug Energie zur Verfügung steht. Zwar könnte die Spitzenlast bedient werden, jedoch reicht die verfügbare Energie nicht aus, um die Nachfrage über längere Zeiträume hinweg (z. B. Stunden oder Wochen) vollständig zu decken.
 Ein kapazitätsbeschränktes System sollte daher die Fähigkeit der Akteure honorieren, kurzfristig Leistung bereitzustellen, um Spitzenlasten auszugleichen. Ein energiebegrenztes System hingegen sollte Anreize setzen, Ressourcen langfristig so zu bewirtschaften, dass sie insbesondere in Zeiten knapper Energie (z. B. in trockenen Jahren) verfügbar bleiben.
 
-## Übersicht der Aspekte eines erfolgreichen Kapazitätsmechanismus:
+## Übersicht der Aspekte eines erfolgreichen Kapazitätsmechanismus
 
 ![Säulen eines erfolgreichen KMs](/images/erfolgsfaktoren_von_kms/saeulen_eines_erfolgeichen_kms.png)
 *Abb. 1: Säulen eines erfolgreichen Kapazitätsmechanismuses*

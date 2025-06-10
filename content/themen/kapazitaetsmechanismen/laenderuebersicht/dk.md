@@ -10,6 +10,7 @@ Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder
 {{< /alert >}}
 
 ## Aktuelle Entwicklungen
+
 In Dänemark ist bislang keine Einführung eines Kapazitätsmechanismus geplant. Der dänische Übertragungsnetzbetreiber Energinet führt jedoch gemeinsam mit der dänischen Energieagentur Energistyrelsen derzeit eine Studie zu den Voraussetzungen und Möglichkeiten einer Einführung eines Kapazitätsmechanismus durch. Im Rahmen der Studie werden außerdem die Vor- und Nachteile verschiedener Varianten von Kapazitätsmechanismen sowie deren Auswirkungen auf andere Märkte untersucht. Die Studie soll voraussichtlich 2026 abgeschlossen werden. Nach Abschluss der Studie wird entschieden, ob ein Antrag auf staatliche Beihilfe für einen Kapazitätsmechanismus bei der Europäischen Kommission gestellt wird [^Energinet].
 
 <!-- Fußnoten -->

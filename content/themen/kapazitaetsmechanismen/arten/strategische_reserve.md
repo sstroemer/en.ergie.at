@@ -43,12 +43,10 @@ Generell ist die Aufgabe der strategischen Reserve, existierende Kraftwerke am L
 | –                                                                                                                                        | Verpflichtung bestimmter Kraftwerke zur Teilnahme                                                                              |
 | –                                                                                                                                        | Schwache Interaktion mit dem Energiemarkt kann zu ineffizienter Nutzung der verfügbaren Ressourcen führen                     |
 
-*Tabelle 1: Vorteile und Herausforderungen einer strategischen Reserve*
-
-
 Zusammenfassend lässt sich sagen, dass eine strategische Reserve eine kosteneffiziente Lösung sein kann, wenn der Bedarf an zusätzlicher Kapazität zur Erfüllung des nationalen Zuverlässigkeitsstandards minimal ist und nur eine geringe Anzahl von Betriebsstunden erwartet wird. Dies gilt insbesondere, wenn bereits bestehende Kapazitäten im System vorhanden sind, die andernfalls aus Rentabilitätsgründen stillgelegt würden. Die reaktive Verwaltung von Ressourcenangemessenheitsproblemen und die Unfähigkeit, Anreize für neue Investitionen zu schaffen, könnten jedoch die Bewältigung bedeutender Ressourcenengpassprobleme erschweren.
 
-## Länderbeispiele:
+## Länderbeispiele
+
 - [Deutschland]({{< ref "themen/kapazitaetsmechanismen/laenderuebersicht/de.md" >}})
 - [Schweden]({{< ref "themen/kapazitaetsmechanismen/laenderuebersicht/se.md" >}})
 - [Finnland]({{< ref "themen/kapazitaetsmechanismen/laenderuebersicht/fi.md" >}})

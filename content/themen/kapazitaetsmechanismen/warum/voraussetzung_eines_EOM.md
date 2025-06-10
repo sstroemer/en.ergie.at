@@ -25,7 +25,6 @@ Damit sich ein solches Gleichgewicht aber tatsächlich einstellt, müssen eine R
 ![Voraussetzungen für ausreichend Investitionsanreize im EOM](/images/voraussetzungen_eines_EOM/voraussetzungen_fuer_ausreichend_investitionsanreize_im_eom.jpg)
 *Abb. 1: Voraussetzungen für ausreichend Investitionsanreize im <abbr title="Energy-Only-Markt">EOM</abbr>*
 
-
 ## Vollkommene Märkte
 
 Damit Märkte zu einer pareto-effizienten Ressourcenallokation führen, keine Knappheiten oder anhaltende Überschüsse entstehen und genügend Anreize für versorgungsrelevante Investitionen bestehen, müssen eine Reihe von Voraussetzungen im Sinne eines ‚vollkommenen Marktes‘ erfüllt sein.
@@ -99,7 +98,6 @@ Hohe Knappheitspreise müssen durch Zahlungsbereitschaft der Konsumenten gedeckt
 
 </details>
 
-
 <!-- Fußnoten -->
 
 [^1]: [Principles of Economics  
@@ -119,4 +117,3 @@ Hohe Knappheitspreise müssen durch Zahlungsbereitschaft der Konsumenten gedeckt
 
 [^6]: [Die Prognose der Schweinepreise  
 (Institut für Konjunkturforschung, 1928)](http://www.diw.de/documents/dokumentenarchiv/17/43353/viertel_1928.pdf)
-
