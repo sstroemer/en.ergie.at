@@ -69,7 +69,22 @@ Eine Übersicht über alle aktuell als staatliche Beihilfen genehmigten Kapazit�
 - [Vereinigtes Königreich]({{< ref "laenderuebersicht/uk" >}})
 
 ## Auktionsergebnisse
+### Auktionsjahr 2025
+{{< timeline >}}
+{{< timelineItem icon="rss" header="Italien" badge="Auktionsjahr 2025" >}}
 
+<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
+<a href="https://download.terna.it/terna/Rendiconto-Esiti-Asta-Madre_2027_8dd97982c75d724.pdf"><b>Bericht: <u>Hauptauktion für das Lieferjahr 2027</u></b></a>
+<br>
+<details>
+<summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
+Die Hauptauktion des italienischen Kapazitätsmarkts für das Lieferjahr 2027 fand am 26. und 27. Februar 2025 statt. Insgesamt wurden <strong>594 MW neu installierte Kapazität</strong> zu einem Preis von <strong>47.000 €/MW/Jahr</strong> bezuschlagt. Die neu installierte Kapazität setzt sich zu etwa <strong>94,8&nbsp;%</strong> aus <strong>Batteriespeichern</strong>, zu 4,8&nbsp;% aus thermischen Kraftwerken und zu 0,4&nbsp;% aus Solarenergie zusammen. Darüber hinaus wurden <strong>38.047&nbsp;MW bestehende Kapazität</strong> zu einem Preis von ebenfalls <strong>47.000&nbsp;€/MW/Jahr</strong> bezuschlagt. Zudem wurden <strong>4.365&nbsp;MW an ausländischer Kapazität</strong> bezuschlagt, darunter 4.200&nbsp;MW von Estero Nord zu 7.199&nbsp;€/MW/Jahr, 113&nbsp;MW von Estero Centro Sud zu 5.579&nbsp;€/MW/Jahr und 52&nbsp;MW von Estero Sud zu 6.500&nbsp;€/MW/Jahr. Die <strong>Gesamtkosten</strong> der Auktion belaufen sich auf <strong>1.847,3&nbsp;Mio.&nbsp;€</strong>.
+</i></details>
+</div>
+{{< /timelineItem >}}
+
+{{< /timeline >}}
+### Auktionsjahr 2024
 {{< timeline >}}
 
 {{< timelineItem icon="rss" header="Belgien" badge="Auktionsjahr 2024" >}}
@@ -93,158 +108,6 @@ Die Y-4 Auktion des Kapazitätsvergütungsmechanismus für den Lieferzeitraum 20
 </div>
 {{< /timelineItem >}}
 
-{{< timelineItem icon="rss" header="Belgien" badge="Auktionsjahr 2023" >}}
-
-
-<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
-<a href="https://www.elia.be/-/media/project/elia/elia-site/grid-data/adequacy/crm-auction-results/2023/y-4-2023-auction-report_en.pdf"><b>Bericht: <u>Y-4 Auktion für die Lieferperiode 2027-2028</u></b></a>
-<br>
-<details>
-<summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
-Die Y-4-Auktion des Kapazitätsvergütungsmechanismus für den Lieferzeitraum 2027-2028 sicherte rund <strong>1,6 GW</strong> Kapazität über 22 Einheiten zu einem volumengewichteten, <strong>durchschnittlichen Preis</strong> von rund <strong>36.000 EUR/MW/Jahr</strong>. Der höchste Gebotspreis betrug 69.900 EUR/MW/Jahr. Rund 23&nbsp;% der bezuschlagten Kapazitäten erhielten einen Kapazitätsvergütungsvertrag für eine Laufzeit von 15 Jahren, fast 16&nbsp;% Dreijahresverträge und rund 61&nbsp;% Einjahresverträge. <strong>Neu installierte Kapazitäten</strong> machten rund <strong>22,7 %</strong> des gesicherten Volumens aus. Im Rahmen der Auktion wurden Kapazitäten verschiedener Technologien ausgewählt: Open-Cycle-Gasturbinen (41,08 %), Kombikraftwerke (22,84 %), Speicher 4h (21,45 %), Kraft-Wärme-Kopplung (8,34 %), SLA 8h (2,96 %), SLA No Limit (1,46 %), SLA 4h (0,88 %), SLA 3h (0,74 %), SLA 12h (0,18 %) und nicht spezifiziert (0,08 %).
-</i></details>
-</div>
-{{< /timelineItem >}}
-
-{{< timelineItem icon="rss" header="Belgien" badge="Auktionsjahr 2022/2021" >}}
-<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
-<a href="https://www.elia.be/-/media/project/elia/elia-site/grid-data/adequacy/crm-auction-results/2022/20221028_crm-auction-result-for-2026-2027_en_v2.pdf"><b>Bericht: <u>Y-4 Auktion für die Lieferperiode 2026-2027</u></b></a>
-<br>
-<details>
-<summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
-Die Y-4-Auktion des Kapazitätsvergütungsmechanismus für den Lieferzeitraum 2026-2027 sicherte <strong>keine Kapazität</strong>. Insgesamt wurden 13 verschiedene Kapazitätseinheiten (CMUs) von 8 Bietern eingereicht, aber keine davon wurde ausgewählt.
-</i></details>
-</div>
-
-<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
-<a href="https://www.elia.be/-/media/project/elia/elia-site/grid-data/adequacy/crm-auction-results/2022/20221028_crm-auction-result-for-2026-2027_en_v2.pdf"><b>Bericht: <u>Y-4 Auktion für die Lieferperiode 2025-2026</u></b></a>
-<br>
-<details>
-<summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
-<p>Die Y-4-Auktion des Kapazitätsvergütungsmechanismus für den Lieferzeitraum 2025-2026 sicherte insgesamt <strong>4,5&nbsp;GW</strong> Kapazität über 40 Einheiten zu einem volumengewichteten, <strong>durchschnittlichen Preis</strong> von rund <strong>31.700&nbsp;EUR/MW/Jahr</strong>. Der höchste gebotene Preis lag bei knapp 50.000&nbsp;EUR/MW/Jahr. Rund 37&nbsp;% der bezuschlagten Kapazitäten erhielten einen Kapazitätsvergütungsvertrag für eine Laufzeit von 15 Jahren, während rund 63&nbsp;% Einjahresverträge erhielten. <strong>Neu installierte Kapazitäten</strong> machten <strong>37,1 %</strong> des gesicherten Volumens aus. Im Rahmen der Auktion wurden vor allem Kombikraftwerke (80,6 %) bezuschlagt.</p>
-
-<p>Die Auktion wurde ursprünglich im Oktober 2021 durchgeführt und im April 2022 erneut ausgewertet. Dabei wurden nur die Volumina und Zuteilungen aktualisiert; die Preise blieben unverändert. </p>
-
-</i></details>
-</div>
-
-{{< /timelineItem >}}
-
-{{< timelineItem icon="rss" header="Italien" badge="Auktionsjahr 2025" >}}
-
-<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
-<a href="https://download.terna.it/terna/Rendiconto-Esiti-Asta-Madre_2027_8dd97982c75d724.pdf"><b>Bericht: <u>Hauptauktion für das Lieferjahr 2027</u></b></a>
-<br>
-<details>
-<summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
-Die Hauptauktion des italienischen Kapazitätsmarkts für das Lieferjahr 2027 fand am 26. und 27. Februar 2025 statt. Insgesamt wurden <strong>594 MW neu installierte Kapazität</strong> zu einem Preis von <strong>47.000 €/MW/Jahr</strong> bezuschlagt. Die neu installierte Kapazität setzt sich zu etwa <strong>94,8&nbsp;%</strong> aus <strong>Batteriespeichern</strong>, zu 4,8&nbsp;% aus thermischen Kraftwerken und zu 0,4&nbsp;% aus Solarenergie zusammen. Darüber hinaus wurden <strong>38.047&nbsp;MW bestehende Kapazität</strong> zu einem Preis von ebenfalls <strong>47.000&nbsp;€/MW/Jahr</strong> bezuschlagt. Zudem wurden <strong>4.365&nbsp;MW an ausländischer Kapazität</strong> bezuschlagt, darunter 4.200&nbsp;MW von Estero Nord zu 7.199&nbsp;€/MW/Jahr, 113&nbsp;MW von Estero Centro Sud zu 5.579&nbsp;€/MW/Jahr und 52&nbsp;MW von Estero Sud zu 6.500&nbsp;€/MW/Jahr. Die <strong>Gesamtkosten</strong> der Auktion belaufen sich auf <strong>1.847,3&nbsp;Mio.&nbsp;€</strong>.
-</i></details>
-</div>
-{{< /timelineItem >}}
-
-{{< timelineItem icon="rss" header="Italien" badge="Auktionsjahr 2024" >}}
-<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
-<a href="https://download.terna.it/terna/Rendiconto_Esiti_Asta_Madre_2026_8dd4c48aa98baa4.pdf"><b>Bericht: <u>Hauptauktion für das Lieferjahr 2026</u></b></a>
-<br>
-<details>
-<summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
-Die Hauptauktion des italienischen Kapazitätsmarkts für das Lieferjahr 2026 fand am 18. Dezember 2024 statt. Insgesamt wurden <strong>140&nbsp;MW neu installierte Kapazität</strong> zu einem Preis von <strong>56.160&nbsp;€/MW/Jahr</strong> bezuschlagt. Die erfolgreiche neue Kapazität setzt sich dabei zu <strong>60&nbsp;%</strong> aus <strong>Batteriespeichern</strong>, zu 30,7&nbsp;% aus thermischen Kraftwerken (davon fast ausschließlich Repowering von Gas-Kombikraftwerken), zu 7,1&nbsp;% aus Windkraft und zu 2,1&nbsp;% aus Solarenergie zusammen. Darüber hinaus wurden <strong>38.265&nbsp;MW bestehende Kapazität</strong> zu einem Preis von <strong>46.000&nbsp;€/MW/Jahr</strong> bezuschlagt. Außerdem wurden <strong>4.365&nbsp;MW</strong> an <strong>ausländischer Kapazität</strong> erfolgreich bezuschlagt, davon 4.200&nbsp;MW von Estero Nord (zu 11.200&nbsp;€/MW/Jahr), 113&nbsp;MW von Estero Centro Sud (zu 7.199 €/MW/Jahr) und 52 MW von Estero Sud(zu 4.500&nbsp;€/MW/Jahr). Insgesamt belaufen sich die <strong>Kosten</strong> der Auktion auf <strong>1.816,1&nbsp;Mio.&nbsp;€</strong>.
-</i></details>
-</div>
-
-<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
-<a href="https://download.terna.it/terna/Rendiconto_Esiti_Asta_Madre_2025_8dcf4ef84018b81.pdf"><b>Bericht: <u>Hauptauktion für das Lieferjahr 2025</u></b></a>
-<br>
-<details>
-<summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
-Die Hauptauktion des italienischen Kapazitätsmarkts für das Lieferjahr 2025 fand am 25. und 26. Juli 2024 statt. Insgesamt wurden <strong>174&nbsp;MW neu installierte Kapazität</strong> zu einem Preis von <strong>67.500&nbsp;€/MW/Jahr</strong> bezuschlagt. Diese neue Kapazität besteht zu <strong>51,1&nbsp;%</strong> aus <strong>Batteriespeichern</strong> und zu 48,9&nbsp;% aus thermischen Kraftwerken. Darüber hinaus wurden <strong>37.581 MW bestehende Kapazität</strong> zu einem Preis von <strong>45.000&nbsp;€/MW/Jahr</strong> bezuschlagt. Zusätzlich wurden <strong>4.365&nbsp;MW ausländische Kapazität</strong> ausgewählt, davon 4.200&nbsp;MW von Estero Nord zu 4.788&nbsp;€/MW/Jahr, 113&nbsp;MW von Estero Centro Sud zu 3.968&nbsp;€/MW/Jahr und 52&nbsp;MW von Estero Sudzu 3.491&nbsp;€/MW/Jahr. Die <strong>Gesamtkosten</strong> der Auktion beliefen sich auf <strong>1.723,6&nbsp;Mio.&nbsp;€</strong>.
-</i></details>
-</div>
-{{< /timelineItem >}}
-{{< timelineItem icon="rss" header="Italien" badge="Auktionsjahr 2022" >}}
-<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
-<a href="https://download.terna.it/terna/Mercato_Capacit%C3%A0_Rendiconto_esiti_Asta_madre_2024_8da140f8874afcd.pdf"><b>Bericht: <u>Hauptauktion für das Lieferjahr 2024</u></b></a>
-<br>
-<details>
-<summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
-Die Hauptauktion des italienischen Kapazitätsmarkts für das Lieferjahr 2024 fand am 21. Februar 2022 statt. Insgesamt wurden <strong>1.504&nbsp;MW neu installierte Kapazität</strong> zu einem Preis von <strong>70.000&nbsp;€/MW/Jahr</strong>(autorisierte Kapazität) sowie 2.274&nbsp;MW neu installierte Kapazität zu einem Preis von 48.110–51.012&nbsp;€/MW/Jahr (nicht autorisierte Kapazität, je nach Region) bezuschlagt. Die neue Kapazität bestand zu <strong>59,7 %</strong> aus <strong>kombinierten Gaskraftwerken</strong>, zu <strong>29,7&nbsp;%</strong> aus <strong>Batteriespeichern</strong>, zu 8,3&nbsp;% aus Turbogasturbinen, zu 0,9&nbsp;% aus sonstigen thermischen Kraftwerken, zu 0,8&nbsp;% aus Solarenergie und zu 0,6&nbsp;% aus Pumpspeicherkraftwerken. Darüber hinaus wurden <strong>34.153&nbsp;MW bestehende Kapazität</strong> zu einem Preis von <strong>33.000&nbsp;€/MW/Jahr</strong> bezuschlagt. Außerdem wurden <strong>3.610&nbsp;MW an ausländischer Kapazität</strong> ausgewählt, darunter 3.445&nbsp;MW von Estero Nord zu 33.000&nbsp;€/MW/Jahr, 113 MW von Estero Centro Sud zu 17.010&nbsp;€/MW/Jahr und 52&nbsp;MW von Estero Sud zu 25.075&nbsp;€/MW/Jahr. Die <strong>Gesamtkosten</strong> der Auktion beliefen sich auf <strong>1.459,3&nbsp;Mio.&nbsp;€</strong>.
-</i></details>
-</div>
-{{< /timelineItem >}}
-{{< timelineItem icon="rss" header="Italien" badge="Auktionsjahr 2019" >}}
-<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
-<a href="https://download.terna.it/terna/Rendiconto%20EsitiAsta%202023_8d78adbacbbe508.pdf"><b>Bericht: <u>Hauptauktion für das Lieferjahr 2023</u></b></a>
-<br>
-<details>
-<summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
-Die Hauptauktion des italienischen Kapazitätsmarkts für das Lieferjahr 2023 fand am 28. November 2019 statt. Insgesamt wurden <strong>4.004&nbsp;MW neu installierte Kapazität</strong> bezuschlagt, davon 528&nbsp;MW autorisierte und 3.476&nbsp;MW nicht autorisierte Kapazität, jeweils zu einem Preis von <strong>75.000&nbsp;€/MW/Jahr</strong>. Die neue Kapazität bestand zu <strong>66&nbsp;%</strong> aus <strong>kombinierten Gaskraftwerken</strong>, zu 21,6&nbsp;% aus Turbogasturbinen, zu 8,7&nbsp;% aus sonstigen thermischen Kraftwerken, zu 2,4&nbsp;% aus Batteriespeichern, zu 1,1&nbsp;% aus Pumpspeicherkraftwerken und zu 0,2&nbsp;% aus Solarenergie. Darüber hinaus wurden <strong>35.013&nbsp;MW bestehende Kapazität</strong> zu einem Preis von <strong>33.000&nbsp;€/MW/Jahr</strong> bezuschlagt. Außerdem wurden <strong>4.394&nbsp;MW an ausländischer Kapazität</strong> ausgewählt, davon 4.241&nbsp;MW von Estero Nord zu einem durchschnittlichen Preis von 4.400&nbsp;€/MW/Jahr, 104&nbsp;MW von Estero Centro Sud zu 4.949&nbsp;€/MW/Jahr und 49&nbsp;MW von Estero Sudzu 3.999&nbsp;€/MW/Jahr. Die <strong>Gesamtkosten</strong> der Auktion beliefen sich auf <strong>1.475&nbsp;Mio.&nbsp;€</strong>.
-</i></details>
-</div>
-
-<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
-<a href="https://download.terna.it/terna/2019_12_06_Rendiconto%20EsitiAsta%202022_PUBBLICATO_8d7c06cc9f8470b.pdf"><b>Bericht: <u>Hauptauktion für das Lieferjahr 2022</u></b></a>
-<br>
-<details>
-<summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
-Die Hauptauktion des italienischen Kapazitätsmarkts für das Lieferjahr 2022 fand am 6. November 2019 statt. Insgesamt wurden <strong>1.767&nbsp;MW neu installierte Kapazität</strong> zu einem Preis von <strong>75.000&nbsp;€/MW/Jahr</strong> bezuschlagt. Diese neue Kapazität bestand zu <strong>72,8&nbsp;%</strong> aus <strong>kombinierten Gaskraftwerken</strong>, zu 24,7&nbsp;% aus sonstigen thermischen Kraftwerken, zu 2,3&nbsp;% aus Turbogasturbinen und zu 0,2&nbsp;% aus Solarenergie. Darüber hinaus wurde <strong>34.758&nbsp;MW bestehende Kapazität</strong> zu einem Preis von <strong>33.000&nbsp;€/MW/Jahr</strong> bezuschlagt. Zusätzlich wurden <strong>4,4&nbsp;GW an ausländischer Kapazität</strong> ausgewählt, davon etwa 4,2&nbsp;GW von Estero Nord zu 4.400&nbsp;€/MW/Jahr, 104&nbsp;MW von Estero Centro Sud zu 4.400&nbsp;€/MW/Jahr und 49&nbsp;MW von Estero Sud zu 4.400&nbsp;€/MW/Jahr. Die <strong>Gesamtkosten</strong> der Auktion beliefen sich auf <strong>1,3&nbsp;Mrd.&nbsp;€</strong>.
-</i></details>
-</div>
-
-{{< /timelineItem >}}
-
-
-{{< timelineItem icon="rss" header="Polen" badge="Auktionsjahr 2024" >}}
-<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
-  <a href="https://www.ure.gov.pl/en/communication/news/413,Electricity-Market-The-President-of-URE-Announces-Final-Results-of-The-2029-Main.html"><b>Bericht: <u>Y-5 Auktion für die Lieferperiode 2029</u></b></a>
-  <br>
-  <details>
-    <summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
-      In der Hauptauktion für das Lieferjahr 2029 wurden am 12. Dezember 2024 insgesamt über 8&nbsp;GW Kapazität vergeben, davon etwa 1,5&nbsp;GW (18,75&nbsp;%) an ausländische Einheiten aus der Tschechischen Republik, der Slowakei und Schweden. Der Clearing-Preis betrug 264,9&nbsp;PLN/kW/Jahr für polnische Einheiten und 247,9&nbsp;PLN/kW/Jahr für ausländische Einheiten in derselben Synchronzone. Einheiten aus dem schwedischen Netzgebiet erhielten denselben Preis wie polnische Einheiten. Insgesamt wurden 245 Anbieter bezuschlagt, darunter 181 aus Polen. Die Gesamtverpflichtungen für 2029 belaufen sich nach allen bisherigen Auktionen auf 20,4&nbsp;GW. Bemerkenswert war der signifikante Anstieg von Batteriespeichern mit 82 Einheiten und einer kumulierten Verpflichtung von rund 2,5&nbsp;GW, was etwa 30&nbsp;% der Gesamtvergabe entspricht <sup><a href="#fn-PO-2029" id="ref-PO-2029">1</a></sup>.
-    </i>
-  </details>
-</div>
-{{< /timelineItem >}}
-
-{{< timelineItem icon="rss" header="Polen" badge="Auktionsjahr 2023" >}}
-<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
-  <a href="https://www.ure.gov.pl/en/communication/news/368,Electricity-market-President-of-URE-announces-the-results-of-the-main-auction-on.html"><b>Bericht: <u>Y-5 Auktion für die Lieferperiode 2028</u></b></a>
-  <br>
-  <details>
-    <summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
-      In der am 14. Dezember 2023 durchgeführten Hauptauktion für das Lieferjahr 2028 wurden Verträge über mehr als 7&nbsp;GW Kapazität abgeschlossen, darunter über 1&nbsp;GW mit ausländischen Einheiten aus Tschechien, der Slowakei und Schweden. Der Schlusspreis für polnische Einheiten betrug 244,9&nbsp;PLN/kW/Jahr, während ausländische Einheiten in derselben Synchronzone 207&nbsp;PLN/kW/Jahr erhielten. Den größten Anteil stellten Batteriespeicher mit 24,5&nbsp;% (1.734&nbsp;MW), gefolgt von Wasserkraft mit 16,4&nbsp;% (1.158&nbsp;MW), Co-firing mit 14,2&nbsp;% (1.004&nbsp;MW), <abbr title="Demand Side Response">DSR</abbr> mit 13,9&nbsp;% (981&nbsp;MW), Gaskapazitäten mit 12,5&nbsp;% (882&nbsp;MW). Insgesamt wurden 159 Kapazitätsmarkteinheiten kontrahiert, davon 111 aus Polen und 48 aus dem Ausland. Die Gesamtverpflichtungen für die Lieferung im Jahr 2028 belaufen sich auf 21,15&nbsp;GW.
-    </i>
-  </details>
-</div>
-{{< /timelineItem >}}
-
-{{< timelineItem icon="rss" header="Polen" badge="Auktionsjahr 2022" >}}
-<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
-  <a href="https://www.pse.pl/documents/31287/5147015702/2_Wyniki_aukcji_g%C5%82ownej_na_rok_dostaw_2027.pdf"><b>Bericht: <u>Y-5 Auktion für die Lieferperiode 2027</u></b></a>
-  <br>
-  <details>
-    <summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
-      In der Hauptauktion vom 15. Dezember 2022 für das Lieferjahr 2027 wurden Kapazitätsverträge über 5.379&nbsp;MW abgeschlossen. Der Schlusspreis betrug 406,4&nbsp;PLN/kW/Jahr für polnische Einheiten, 399,00&nbsp;PLN/kW/Jahr für ausländische Einheiten in derselben Synchronzone und 298,00&nbsp;PLN/kW/Jahr für Einheiten in Litauen. Insgesamt wurden 95 Kapazitätsmarkteinheiten bezuschlagt, davon 88 aus Polen und 7 (550&nbsp;MW) aus dem Ausland. Den größten Anteil stellte <abbr title="Demand Side Response">DSR</abbr> mit 28,6&nbsp;% (1.539&nbsp;MW), gefolgt von Gaskapazitäten mit 25,9&nbsp;% (1.389&nbsp;MW), Co-firing mit 20,4&nbsp;% (1.148&nbsp;MW), Wasserkraft mit 10,9&nbsp;% (588&nbsp;MW), Batteriespeichern mit 3,1&nbsp;% (165&nbsp;MW) <sup><a href="#fn-PO-2027" id="ref-PO-2027">2</a></sup>. Einschließlich der bereits zuvor abgeschlossenen Mehrjahresverträge stehen für das Lieferjahr 2027 nun insgesamt 18,71&nbsp;GW vertraglich gesicherte Kapazität zur Verfügung.
-    </i>
-  </details>
-</div>
-{{< /timelineItem >}}
-
-{{< timelineItem icon="rss" header="Polen" badge="Auktionsjahr 2021" >}}
-<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
-  <a href="https://www.pse.pl/documents/31287/5146869379/2_Ostateczne_wyniki_aukcji_glownej_na_dostawy_2026.pdf"><b>Bericht: <u>Y-5 Auktion für die Lieferperiode 2026 </u></b></a>
-  <br>
-  <details>
-    <summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
-      In der Hauptauktion vom 16. Dezember 2021 für das Lieferjahr 2026 wurden Verträge über 7.189&nbsp;MW abgeschlossen. Der Schlusspreis für polnische Einheiten lag bei 400,39&nbsp;PLN/kW/Jahr, während Einheiten im schwedischen Netzgebiet 399&nbsp;PLN/kW/Jahr erhielten. Insgesamt wurden 128 Gebote bezuschlagt, davon 89 aus Polen und 39 aus dem Ausland. Den größten Anteil stellten Gaskapazitäten mit 42,4&nbsp;% (3.047&nbsp;MW), gefolgt von <abbr title="Demand Side Response">DSR</abbr> mit 20,9&nbsp;% (1.504&nbsp;MW), Wasserkraft mit 15,9&nbsp;% (1.144&nbsp;MW), Co-firing mit 14,0&nbsp;% (1.004&nbsp;MW) <sup><a href="#fn-PO-2026" id="ref-PO-2026">3</a></sup>. Einschließlich früher vergebener langfristiger Verpflichtungen summieren sich die gesicherten Kapazitäten für 2026 auf 18.822&nbsp;MW.
-    </i>
-  </details>
-</div>
-{{< /timelineItem >}}
-
-{{< /timeline >}}
-
-{{< timeline >}} 
-  
 {{< timelineItem icon="rss" header="Irland" badge="Auktionsjahr 2024" >}}
 
 <div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
@@ -267,6 +130,77 @@ Die Y-1-Kapazitätsauktion für das Lieferjahr 2024/2025 im irischen Strommarkt 
 </div>
 
 {{< /timelineItem >}}
+{{< timelineItem icon="rss" header="Italien" badge="Auktionsjahr 2024" >}}
+<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
+<a href="https://download.terna.it/terna/Rendiconto_Esiti_Asta_Madre_2026_8dd4c48aa98baa4.pdf"><b>Bericht: <u>Hauptauktion für das Lieferjahr 2026</u></b></a>
+<br>
+<details>
+<summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
+Die Hauptauktion des italienischen Kapazitätsmarkts für das Lieferjahr 2026 fand am 18. Dezember 2024 statt. Insgesamt wurden <strong>140&nbsp;MW neu installierte Kapazität</strong> zu einem Preis von <strong>56.160&nbsp;€/MW/Jahr</strong> bezuschlagt. Die erfolgreiche neue Kapazität setzt sich dabei zu <strong>60&nbsp;%</strong> aus <strong>Batteriespeichern</strong>, zu 30,7&nbsp;% aus thermischen Kraftwerken (davon fast ausschließlich Repowering von Gas-Kombikraftwerken), zu 7,1&nbsp;% aus Windkraft und zu 2,1&nbsp;% aus Solarenergie zusammen. Darüber hinaus wurden <strong>38.265&nbsp;MW bestehende Kapazität</strong> zu einem Preis von <strong>46.000&nbsp;€/MW/Jahr</strong> bezuschlagt. Außerdem wurden <strong>4.365&nbsp;MW</strong> an <strong>ausländischer Kapazität</strong> erfolgreich bezuschlagt, davon 4.200&nbsp;MW von Estero Nord (zu 11.200&nbsp;€/MW/Jahr), 113&nbsp;MW von Estero Centro Sud (zu 7.199 €/MW/Jahr) und 52 MW von Estero Sud(zu 4.500&nbsp;€/MW/Jahr). Insgesamt belaufen sich die <strong>Kosten</strong> der Auktion auf <strong>1.816,1&nbsp;Mio.&nbsp;€</strong>.
+</i></details>
+</div>
+
+<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
+<a href="https://download.terna.it/terna/Rendiconto_Esiti_Asta_Madre_2025_8dcf4ef84018b81.pdf"><b>Bericht: <u>Hauptauktion für das Lieferjahr 2025</u></b></a>
+<br>
+<details>
+<summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
+Die Hauptauktion des italienischen Kapazitätsmarkts für das Lieferjahr 2025 fand am 25. und 26. Juli 2024 statt. Insgesamt wurden <strong>174&nbsp;MW neu installierte Kapazität</strong> zu einem Preis von <strong>67.500&nbsp;€/MW/Jahr</strong> bezuschlagt. Diese neue Kapazität besteht zu <strong>51,1&nbsp;%</strong> aus <strong>Batteriespeichern</strong> und zu 48,9&nbsp;% aus thermischen Kraftwerken. Darüber hinaus wurden <strong>37.581 MW bestehende Kapazität</strong> zu einem Preis von <strong>45.000&nbsp;€/MW/Jahr</strong> bezuschlagt. Zusätzlich wurden <strong>4.365&nbsp;MW ausländische Kapazität</strong> ausgewählt, davon 4.200&nbsp;MW von Estero Nord zu 4.788&nbsp;€/MW/Jahr, 113&nbsp;MW von Estero Centro Sud zu 3.968&nbsp;€/MW/Jahr und 52&nbsp;MW von Estero Sudzu 3.491&nbsp;€/MW/Jahr. Die <strong>Gesamtkosten</strong> der Auktion beliefen sich auf <strong>1.723,6&nbsp;Mio.&nbsp;€</strong>.
+</i></details>
+</div>
+{{< /timelineItem >}}
+
+{{< timelineItem icon="rss" header="Polen" badge="Auktionsjahr 2024" >}}
+<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
+  <a href="https://www.ure.gov.pl/en/communication/news/413,Electricity-Market-The-President-of-URE-Announces-Final-Results-of-The-2029-Main.html"><b>Bericht: <u>Y-5 Auktion für die Lieferperiode 2029</u></b></a>
+  <br>
+  <details>
+    <summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
+      In der Hauptauktion für das Lieferjahr 2029 wurden am 12. Dezember 2024 insgesamt über 8&nbsp;GW Kapazität vergeben, davon etwa 1,5&nbsp;GW (18,75&nbsp;%) an ausländische Einheiten aus der Tschechischen Republik, der Slowakei und Schweden. Der Clearing-Preis betrug 264,9&nbsp;PLN/kW/Jahr für polnische Einheiten und 247,9&nbsp;PLN/kW/Jahr für ausländische Einheiten in derselben Synchronzone. Einheiten aus dem schwedischen Netzgebiet erhielten denselben Preis wie polnische Einheiten. Insgesamt wurden 245 Anbieter bezuschlagt, darunter 181 aus Polen. Die Gesamtverpflichtungen für 2029 belaufen sich nach allen bisherigen Auktionen auf 20,4&nbsp;GW. Bemerkenswert war der signifikante Anstieg von Batteriespeichern mit 82 Einheiten und einer kumulierten Verpflichtung von rund 2,5&nbsp;GW, was etwa 30&nbsp;% der Gesamtvergabe entspricht <sup><a href="#fn-PO-2029" id="ref-PO-2029">1</a></sup>.
+    </i>
+  </details>
+</div>
+{{< /timelineItem >}}
+
+{{< timelineItem icon="rss" header="Vereinigtes Königreich" badge="Auktionsjahr 2024" >}}
+<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
+  <a href="https://www.emrdeliverybody.com/Capacity%20Markets%20Document%20Library/T-4%20DY%202027-28%20Final%20Results%20Report%20v1.pdf"><b>Bericht: <u>Y-4 Auktion für die Lieferperiode 2027-2028</u></b></a>
+  <br>
+  <details>
+    <summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
+      Die Y-4 Auktion vom 27.02.2024 für die Lieferperiode 2027/2028 sicherte <strong>42.830,8&nbsp;MW Kapazität</strong> über 540 Einheiten zu einem <strong>Clearing-Preis von 65.000&nbsp;£/MW/Jahr</strong>. Davon entfielen <strong>77,5&nbsp;% auf bestehende Erzeugung</strong>, 13&nbsp;% auf bestehende Interkonnektoren, <strong>3,9&nbsp;% auf neue Erzeugung</strong>, 2,4&nbsp;% auf neue Interkonnektoren und 2,6&nbsp;% auf Demand Side Response (<abbr title="Demand Side Response">DSR</abbr>). Die meisten Zuschläge gingen an Gaskraftwerke (67&nbsp;%) und Interkonnektoren (15,4&nbsp;%). Batteriespeicher hatten einen Anteil von 2,4&nbsp;%.
+    </i>
+  </details>
+</div>
+
+<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
+  <a href="https://www.emrdeliverybody.com/Capacity%20Markets%20Document%20Library/T-1%20DY%202024-25%20Final%20Results%20Report%20v1.0.pdf"><b>Bericht: <u>Y-1 Auktion für die Lieferperiode 2024-2025</u></b></a>
+  <br>
+  <details>
+    <summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
+      In der britischen Y-1 Kapazitätsauktion vom 20.02.2024 für das Lieferjahr 2024/25 wurden <strong>7.640 MW über 277 Einheiten</strong> zu einem <strong>Clearing-Preis von 3.5790&nbsp;£/MW/Jahr</strong> vergeben. Der Zielwert lag bei 7.700 MW. Die Kapazität setzt sich zusammen aus <strong>81&nbsp;% (6.208,7&nbsp;MW) bestehender Erzeugung</strong>, 9,7&nbsp;% (745&nbsp;MW) <abbr title="Demand Side Response">DSR</abbr>, und <strong>9&nbsp;% (685,8&nbsp;MW) neuer Erzeugungskapazität</strong>. <strong>Hauptsächlich vertreten waren Gas (2.943,8&nbsp;MW), Kernenergie (2.767,3&nbsp;MW)</strong>, DSR (710&nbsp;MW) sowie 655,2&nbsp;MW Batteriespeicher. Interkonnektoren und Kohle nahmen nicht teil bzw. erhielten keine Zuschläge.
+    </i>
+  </details>
+</div>
+{{< /timelineItem >}}
+
+{{< /timeline >}}
+### Auktionsjahr 2023
+{{< timeline >}}
+
+{{< timelineItem icon="rss" header="Belgien" badge="Auktionsjahr 2023" >}}
+
+
+<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
+<a href="https://www.elia.be/-/media/project/elia/elia-site/grid-data/adequacy/crm-auction-results/2023/y-4-2023-auction-report_en.pdf"><b>Bericht: <u>Y-4 Auktion für die Lieferperiode 2027-2028</u></b></a>
+<br>
+<details>
+<summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
+Die Y-4-Auktion des Kapazitätsvergütungsmechanismus für den Lieferzeitraum 2027-2028 sicherte rund <strong>1,6 GW</strong> Kapazität über 22 Einheiten zu einem volumengewichteten, <strong>durchschnittlichen Preis</strong> von rund <strong>36.000 EUR/MW/Jahr</strong>. Der höchste Gebotspreis betrug 69.900 EUR/MW/Jahr. Rund 23&nbsp;% der bezuschlagten Kapazitäten erhielten einen Kapazitätsvergütungsvertrag für eine Laufzeit von 15 Jahren, fast 16&nbsp;% Dreijahresverträge und rund 61&nbsp;% Einjahresverträge. <strong>Neu installierte Kapazitäten</strong> machten rund <strong>22,7 %</strong> des gesicherten Volumens aus. Im Rahmen der Auktion wurden Kapazitäten verschiedener Technologien ausgewählt: Open-Cycle-Gasturbinen (41,08 %), Kombikraftwerke (22,84 %), Speicher 4h (21,45 %), Kraft-Wärme-Kopplung (8,34 %), SLA 8h (2,96 %), SLA No Limit (1,46 %), SLA 4h (0,88 %), SLA 3h (0,74 %), SLA 12h (0,18 %) und nicht spezifiziert (0,08 %).
+</i></details>
+</div>
+{{< /timelineItem >}}
+
 
 {{< timelineItem icon="rss" header="Irland" badge="Auktionsjahr 2023" >}}
 
@@ -298,71 +232,13 @@ Die Y-1-Kapazitätsauktion für das Lieferjahr 2023/2024 im irischen Strommarkt 
 </div>
 {{< /timelineItem >}}
 
-{{< timelineItem icon="rss" header="Irland" badge="Auktionsjahr 2022" >}}
-
+{{< timelineItem icon="rss" header="Polen" badge="Auktionsjahr 2023" >}}
 <div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
-<a href="https://www.sem-o.com/sites/semo/files/documents/general-publications/T-4-2025-26-Final-Capacity-Auction-Results-Report.pdf"><b>Bericht: <u>Y-4 Auktion für die Lieferperiode 2025-2026</u></b></a>
-<br>
-<details>
-<summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
-Die Y-4-Kapazitätsauktion für das Lieferjahr 2025/2026 im irischen Strommarkt (SEM) sicherte rund <strong>6,5&nbsp;GW</strong> Kapazität von 112 <abbr title="Capacity Market Units">CMUs</abbr>. Der <strong>Clearing-Preis</strong> der Auktion lag bei rund <strong>46.000&nbsp;€/MW/Jahr</strong>. Die Auktionsmengen für Nordirland und Rest von Irland wurden vollständig erfüllt, während für Irland 102,35&nbsp;MW und für Greater Dublin 350,511&nbsp;MW an Kapazität fehlten. Insgesamt wurden rund <strong>687&nbsp;MW</strong> an <strong>neuer, de-rated Kapazität</strong> erfolgreich bezuschlagt, darunter Gaskraftwerke, nachfrageseitige Flexibilität und Batteriespeicher.
-</i></details>
-</div>
-
-<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
-<a href="https://www.sem-o.com/sites/semo/files/documents/general-publications/T-3-2024-2025-Final-Capacity-Auction-Results-Report.pdf"><b>Bericht: <u>Y-3 Auktion für die Lieferperiode 2025-2026</u></b></a>
-<br>
-<details>
-<summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
-Die Y-3-Kapazitätsauktion für das Lieferjahr 2024/2025 im irischen Strommarkt (SEM) sicherte rund <strong>1,5&nbsp;GW</strong> Kapazität von 41 <abbr title="Capacity Market Units">CMUs</abbr>. Der <strong>Clearing-Preis</strong> der Auktion lag bei etwa <strong>147.00&nbsp;€/MW/Jahr</strong>. Die Auktionsmengen für die Regionen Irland, Nordirland und Greater Dublin wurden nur teilweise erfüllt. Insgesamt wurden rund <strong>1.447&nbsp;MW</strong> an <strong>neuer, de-rated Kapazität</strong> erfolgreich bezuschlagt. Diese bestand aus Gasturbinen, nachfrageseitiger Flexibilität, Batteriespeichern und Windkraftanlagen.
-</i></details>
-</div>
-{{< /timelineItem >}}
-
-{{< timelineItem icon="rss" header="Irland" badge="Auktionsjahr 2021" >}}
-
-
-<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
-<a href="https://www.sem-o.com/sites/semo/files/documents/general-publications/T-1-2022-2023-Final-Capacity-Auction-Results-Report.pdf"><b>Bericht: <u>Y-1 Auktion für die Lieferperiode 2022-2023</u></b></a>
-<br>
-<details>
-<summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
-Die Y-1-Kapazitätsauktion für das Lieferjahr 2022/2023 im irischen Strommarkt (SEM) sicherte insgesamt rund <strong>1,1&nbsp;GW</strong> Kapazität von 52 <abbr title="Capacity Market Units">CMUs</abbr>. Der <strong>Clearing-Preis</strong> der Auktion lag bei etwa <strong>46.150&nbsp;€/MW/Jahr</strong>. Die Auktionsmengen für die Regionen Irland, Nordirland und Greater Dublin wurden nicht vollständig erfüllt. Insgesamt wurden rund <strong>97&nbsp;MW</strong> an <strong>neuer, de-rated Kapazität</strong> erfolgreich bezuschlagt. Diese bestand vor allem aus nachfrageseitige Flexibilität und Batteriespeichern.
-</i></details>
-</div>
-
-<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
-<a href="https://www.sem-o.com/sites/semo/files/documents/general-publications/T-4-2024-2025-Final-Capacity-Auction-Results-Report.pdf"><b>Bericht: <u>Y-4 Auktion für die Lieferperiode 2024-2025</u></b></a>
-<br>
-<details>
-<summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
-Die Y-4-Kapazitätsauktion für das Lieferjahr 2024/2025 im irischen Strommarkt (SEM) sicherte rund <strong>6,2&nbsp;GW</strong> Kapazität von 105 <abbr title="Capacity Market Units">CMUs</abbr>. Der <strong>Clearing-Preis</strong> der Auktion lag bei rund <strong>48.000&nbsp;€/MW/Jahr</strong>. Die Auktionsmenge für die Regionen Irland, Nordirland und Greater Dublin wurde größtenteils erfüllt, lediglich für Irland fehlten 31 MW. Insgesamt wurden rund <strong>452&nbsp;MW</strong> an <strong>neuer, de-rated Kapazität</strong> erfolgreich bezuschlagt, darunter Gaskraftwerke, nachfrageseitige Flexibilität, Batteriespeicher und Windkraft.
-</i></details>
-</div>
-{{< /timelineItem >}}
-
-{{< /timeline >}}
-
-
-{{< timeline >}}
-
-{{< timelineItem icon="rss" header="Vereinigtes Königreich" badge="Auktionsjahr 2024" >}}
-<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
-  <a href="https://www.emrdeliverybody.com/Capacity%20Markets%20Document%20Library/T-4%20DY%202027-28%20Final%20Results%20Report%20v1.pdf"><b>Bericht: <u>Y-4 Auktion für die Lieferperiode 2027-2028</u></b></a>
+  <a href="https://www.ure.gov.pl/en/communication/news/368,Electricity-market-President-of-URE-announces-the-results-of-the-main-auction-on.html"><b>Bericht: <u>Y-5 Auktion für die Lieferperiode 2028</u></b></a>
   <br>
   <details>
     <summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
-      Die Y-4 Auktion vom 27.02.2024 für die Lieferperiode 2027/2028 sicherte <strong>42.830,8&nbsp;MW Kapazität</strong> über 540 Einheiten zu einem <strong>Clearing-Preis von 65.000&nbsp;£/MW/Jahr</strong>. Davon entfielen <strong>77,5&nbsp;% auf bestehende Erzeugung</strong>, 13&nbsp;% auf bestehende Interkonnektoren, <strong>3,9&nbsp;% auf neue Erzeugung</strong>, 2,4&nbsp;% auf neue Interkonnektoren und 2,6&nbsp;% auf Demand Side Response (<abbr title="Demand Side Response">DSR</abbr>). Die meisten Zuschläge gingen an Gaskraftwerke (67&nbsp;%) und Interkonnektoren (15,4&nbsp;%). Batteriespeicher hatten einen Anteil von 2,4&nbsp;%.
-    </i>
-  </details>
-</div>
-
-<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
-  <a href="https://www.emrdeliverybody.com/Capacity%20Markets%20Document%20Library/T-1%20DY%202024-25%20Final%20Results%20Report%20v1.0.pdf"><b>Bericht: <u>Y-1 Auktion für die Lieferperiode 2024-2025</u></b></a>
-  <br>
-  <details>
-    <summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
-      In der britischen Y-1 Kapazitätsauktion vom 20.02.2024 für das Lieferjahr 2024/25 wurden <strong>7.640 MW über 277 Einheiten</strong> zu einem <strong>Clearing-Preis von 3.5790&nbsp;£/MW/Jahr</strong> vergeben. Der Zielwert lag bei 7.700 MW. Die Kapazität setzt sich zusammen aus <strong>81&nbsp;% (6.208,7&nbsp;MW) bestehender Erzeugung</strong>, 9,7&nbsp;% (745&nbsp;MW) <abbr title="Demand Side Response">DSR</abbr>, und <strong>9&nbsp;% (685,8&nbsp;MW) neuer Erzeugungskapazität</strong>. <strong>Hauptsächlich vertreten waren Gas (2.943,8&nbsp;MW), Kernenergie (2.767,3&nbsp;MW)</strong>, DSR (710&nbsp;MW) sowie 655,2&nbsp;MW Batteriespeicher. Interkonnektoren und Kohle nahmen nicht teil bzw. erhielten keine Zuschläge.
+      In der am 14. Dezember 2023 durchgeführten Hauptauktion für das Lieferjahr 2028 wurden Verträge über mehr als 7&nbsp;GW Kapazität abgeschlossen, darunter über 1&nbsp;GW mit ausländischen Einheiten aus Tschechien, der Slowakei und Schweden. Der Schlusspreis für polnische Einheiten betrug 244,9&nbsp;PLN/kW/Jahr, während ausländische Einheiten in derselben Synchronzone 207&nbsp;PLN/kW/Jahr erhielten. Den größten Anteil stellten Batteriespeicher mit 24,5&nbsp;% (1.734&nbsp;MW), gefolgt von Wasserkraft mit 16,4&nbsp;% (1.158&nbsp;MW), Co-firing mit 14,2&nbsp;% (1.004&nbsp;MW), <abbr title="Demand Side Response">DSR</abbr> mit 13,9&nbsp;% (981&nbsp;MW), Gaskapazitäten mit 12,5&nbsp;% (882&nbsp;MW). Insgesamt wurden 159 Kapazitätsmarkteinheiten kontrahiert, davon 111 aus Polen und 48 aus dem Ausland. Die Gesamtverpflichtungen für die Lieferung im Jahr 2028 belaufen sich auf 21,15&nbsp;GW.
     </i>
   </details>
 </div>
@@ -389,6 +265,77 @@ Die Y-4-Kapazitätsauktion für das Lieferjahr 2024/2025 im irischen Strommarkt 
   </details>
 </div>
 {{< /timelineItem >}}
+{{< /timeline >}}
+### Auktionsjahr 2022
+{{< timeline >}}
+{{< timelineItem icon="rss" header="Belgien" badge="Auktionsjahr 2022/2021" >}}
+<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
+<a href="https://www.elia.be/-/media/project/elia/elia-site/grid-data/adequacy/crm-auction-results/2022/20221028_crm-auction-result-for-2026-2027_en_v2.pdf"><b>Bericht: <u>Y-4 Auktion für die Lieferperiode 2026-2027</u></b></a>
+<br>
+<details>
+<summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
+Die Y-4-Auktion des Kapazitätsvergütungsmechanismus für den Lieferzeitraum 2026-2027 sicherte <strong>keine Kapazität</strong>. Insgesamt wurden 13 verschiedene Kapazitätseinheiten (CMUs) von 8 Bietern eingereicht, aber keine davon wurde ausgewählt.
+</i></details>
+</div>
+
+<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
+<a href="https://www.elia.be/-/media/project/elia/elia-site/grid-data/adequacy/crm-auction-results/2022/20221028_crm-auction-result-for-2026-2027_en_v2.pdf"><b>Bericht: <u>Y-4 Auktion für die Lieferperiode 2025-2026</u></b></a>
+<br>
+<details>
+<summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
+<p>Die Y-4-Auktion des Kapazitätsvergütungsmechanismus für den Lieferzeitraum 2025-2026 sicherte insgesamt <strong>4,5&nbsp;GW</strong> Kapazität über 40 Einheiten zu einem volumengewichteten, <strong>durchschnittlichen Preis</strong> von rund <strong>31.700&nbsp;EUR/MW/Jahr</strong>. Der höchste gebotene Preis lag bei knapp 50.000&nbsp;EUR/MW/Jahr. Rund 37&nbsp;% der bezuschlagten Kapazitäten erhielten einen Kapazitätsvergütungsvertrag für eine Laufzeit von 15 Jahren, während rund 63&nbsp;% Einjahresverträge erhielten. <strong>Neu installierte Kapazitäten</strong> machten <strong>37,1 %</strong> des gesicherten Volumens aus. Im Rahmen der Auktion wurden vor allem Kombikraftwerke (80,6 %) bezuschlagt.</p>
+
+<p>Die Auktion wurde ursprünglich im Oktober 2021 durchgeführt und im April 2022 erneut ausgewertet. Dabei wurden nur die Volumina und Zuteilungen aktualisiert; die Preise blieben unverändert. </p>
+
+</i></details>
+</div>
+
+{{< /timelineItem >}}
+
+{{< timelineItem icon="rss" header="Irland" badge="Auktionsjahr 2022" >}}
+
+<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
+<a href="https://www.sem-o.com/sites/semo/files/documents/general-publications/T-4-2025-26-Final-Capacity-Auction-Results-Report.pdf"><b>Bericht: <u>Y-4 Auktion für die Lieferperiode 2025-2026</u></b></a>
+<br>
+<details>
+<summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
+Die Y-4-Kapazitätsauktion für das Lieferjahr 2025/2026 im irischen Strommarkt (SEM) sicherte rund <strong>6,5&nbsp;GW</strong> Kapazität von 112 <abbr title="Capacity Market Units">CMUs</abbr>. Der <strong>Clearing-Preis</strong> der Auktion lag bei rund <strong>46.000&nbsp;€/MW/Jahr</strong>. Die Auktionsmengen für Nordirland und Rest von Irland wurden vollständig erfüllt, während für Irland 102,35&nbsp;MW und für Greater Dublin 350,511&nbsp;MW an Kapazität fehlten. Insgesamt wurden rund <strong>687&nbsp;MW</strong> an <strong>neuer, de-rated Kapazität</strong> erfolgreich bezuschlagt, darunter Gaskraftwerke, nachfrageseitige Flexibilität und Batteriespeicher.
+</i></details>
+</div>
+
+<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
+<a href="https://www.sem-o.com/sites/semo/files/documents/general-publications/T-3-2024-2025-Final-Capacity-Auction-Results-Report.pdf"><b>Bericht: <u>Y-3 Auktion für die Lieferperiode 2025-2026</u></b></a>
+<br>
+<details>
+<summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
+Die Y-3-Kapazitätsauktion für das Lieferjahr 2024/2025 im irischen Strommarkt (SEM) sicherte rund <strong>1,5&nbsp;GW</strong> Kapazität von 41 <abbr title="Capacity Market Units">CMUs</abbr>. Der <strong>Clearing-Preis</strong> der Auktion lag bei etwa <strong>147.00&nbsp;€/MW/Jahr</strong>. Die Auktionsmengen für die Regionen Irland, Nordirland und Greater Dublin wurden nur teilweise erfüllt. Insgesamt wurden rund <strong>1.447&nbsp;MW</strong> an <strong>neuer, de-rated Kapazität</strong> erfolgreich bezuschlagt. Diese bestand aus Gasturbinen, nachfrageseitiger Flexibilität, Batteriespeichern und Windkraftanlagen.
+</i></details>
+</div>
+{{< /timelineItem >}}
+
+
+{{< timelineItem icon="rss" header="Italien" badge="Auktionsjahr 2022" >}}
+<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
+<a href="https://download.terna.it/terna/Mercato_Capacit%C3%A0_Rendiconto_esiti_Asta_madre_2024_8da140f8874afcd.pdf"><b>Bericht: <u>Hauptauktion für das Lieferjahr 2024</u></b></a>
+<br>
+<details>
+<summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
+Die Hauptauktion des italienischen Kapazitätsmarkts für das Lieferjahr 2024 fand am 21. Februar 2022 statt. Insgesamt wurden <strong>1.504&nbsp;MW neu installierte Kapazität</strong> zu einem Preis von <strong>70.000&nbsp;€/MW/Jahr</strong>(autorisierte Kapazität) sowie 2.274&nbsp;MW neu installierte Kapazität zu einem Preis von 48.110–51.012&nbsp;€/MW/Jahr (nicht autorisierte Kapazität, je nach Region) bezuschlagt. Die neue Kapazität bestand zu <strong>59,7 %</strong> aus <strong>kombinierten Gaskraftwerken</strong>, zu <strong>29,7&nbsp;%</strong> aus <strong>Batteriespeichern</strong>, zu 8,3&nbsp;% aus Turbogasturbinen, zu 0,9&nbsp;% aus sonstigen thermischen Kraftwerken, zu 0,8&nbsp;% aus Solarenergie und zu 0,6&nbsp;% aus Pumpspeicherkraftwerken. Darüber hinaus wurden <strong>34.153&nbsp;MW bestehende Kapazität</strong> zu einem Preis von <strong>33.000&nbsp;€/MW/Jahr</strong> bezuschlagt. Außerdem wurden <strong>3.610&nbsp;MW an ausländischer Kapazität</strong> ausgewählt, darunter 3.445&nbsp;MW von Estero Nord zu 33.000&nbsp;€/MW/Jahr, 113 MW von Estero Centro Sud zu 17.010&nbsp;€/MW/Jahr und 52&nbsp;MW von Estero Sud zu 25.075&nbsp;€/MW/Jahr. Die <strong>Gesamtkosten</strong> der Auktion beliefen sich auf <strong>1.459,3&nbsp;Mio.&nbsp;€</strong>.
+</i></details>
+</div>
+{{< /timelineItem >}}
+
+{{< timelineItem icon="rss" header="Polen" badge="Auktionsjahr 2022" >}}
+<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
+  <a href="https://www.pse.pl/documents/31287/5147015702/2_Wyniki_aukcji_g%C5%82ownej_na_rok_dostaw_2027.pdf"><b>Bericht: <u>Y-5 Auktion für die Lieferperiode 2027</u></b></a>
+  <br>
+  <details>
+    <summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
+      In der Hauptauktion vom 15. Dezember 2022 für das Lieferjahr 2027 wurden Kapazitätsverträge über 5.379&nbsp;MW abgeschlossen. Der Schlusspreis betrug 406,4&nbsp;PLN/kW/Jahr für polnische Einheiten, 399,00&nbsp;PLN/kW/Jahr für ausländische Einheiten in derselben Synchronzone und 298,00&nbsp;PLN/kW/Jahr für Einheiten in Litauen. Insgesamt wurden 95 Kapazitätsmarkteinheiten bezuschlagt, davon 88 aus Polen und 7 (550&nbsp;MW) aus dem Ausland. Den größten Anteil stellte <abbr title="Demand Side Response">DSR</abbr> mit 28,6&nbsp;% (1.539&nbsp;MW), gefolgt von Gaskapazitäten mit 25,9&nbsp;% (1.389&nbsp;MW), Co-firing mit 20,4&nbsp;% (1.148&nbsp;MW), Wasserkraft mit 10,9&nbsp;% (588&nbsp;MW), Batteriespeichern mit 3,1&nbsp;% (165&nbsp;MW) <sup><a href="#fn-PO-2027" id="ref-PO-2027">2</a></sup>. Einschließlich der bereits zuvor abgeschlossenen Mehrjahresverträge stehen für das Lieferjahr 2027 nun insgesamt 18,71&nbsp;GW vertraglich gesicherte Kapazität zur Verfügung.
+    </i>
+  </details>
+</div>
+{{< /timelineItem >}}
 
 {{< timelineItem icon="rss" header="Vereinigtes Königreich" badge="Auktionsjahr 2022" >}}
 <div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
@@ -411,6 +358,45 @@ Die Y-4-Kapazitätsauktion für das Lieferjahr 2024/2025 im irischen Strommarkt 
   </details>
 </div>
 {{< /timelineItem >}}
+{{< /timeline >}}
+
+### Auktionsjahr 2021
+{{< timeline >}}
+
+{{< timelineItem icon="rss" header="Irland" badge="Auktionsjahr 2021" >}}
+
+
+<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
+<a href="https://www.sem-o.com/sites/semo/files/documents/general-publications/T-1-2022-2023-Final-Capacity-Auction-Results-Report.pdf"><b>Bericht: <u>Y-1 Auktion für die Lieferperiode 2022-2023</u></b></a>
+<br>
+<details>
+<summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
+Die Y-1-Kapazitätsauktion für das Lieferjahr 2022/2023 im irischen Strommarkt (SEM) sicherte insgesamt rund <strong>1,1&nbsp;GW</strong> Kapazität von 52 <abbr title="Capacity Market Units">CMUs</abbr>. Der <strong>Clearing-Preis</strong> der Auktion lag bei etwa <strong>46.150&nbsp;€/MW/Jahr</strong>. Die Auktionsmengen für die Regionen Irland, Nordirland und Greater Dublin wurden nicht vollständig erfüllt. Insgesamt wurden rund <strong>97&nbsp;MW</strong> an <strong>neuer, de-rated Kapazität</strong> erfolgreich bezuschlagt. Diese bestand vor allem aus nachfrageseitige Flexibilität und Batteriespeichern.
+</i></details>
+</div>
+
+<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
+<a href="https://www.sem-o.com/sites/semo/files/documents/general-publications/T-4-2024-2025-Final-Capacity-Auction-Results-Report.pdf"><b>Bericht: <u>Y-4 Auktion für die Lieferperiode 2024-2025</u></b></a>
+<br>
+<details>
+<summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
+Die Y-4-Kapazitätsauktion für das Lieferjahr 2024/2025 im irischen Strommarkt (SEM) sicherte rund <strong>6,2&nbsp;GW</strong> Kapazität von 105 <abbr title="Capacity Market Units">CMUs</abbr>. Der <strong>Clearing-Preis</strong> der Auktion lag bei rund <strong>48.000&nbsp;€/MW/Jahr</strong>. Die Auktionsmenge für die Regionen Irland, Nordirland und Greater Dublin wurde größtenteils erfüllt, lediglich für Irland fehlten 31 MW. Insgesamt wurden rund <strong>452&nbsp;MW</strong> an <strong>neuer, de-rated Kapazität</strong> erfolgreich bezuschlagt, darunter Gaskraftwerke, nachfrageseitige Flexibilität, Batteriespeicher und Windkraft.
+</i></details>
+</div>
+{{< /timelineItem >}}
+
+{{< timelineItem icon="rss" header="Polen" badge="Auktionsjahr 2021" >}}
+<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
+  <a href="https://www.pse.pl/documents/31287/5146869379/2_Ostateczne_wyniki_aukcji_glownej_na_dostawy_2026.pdf"><b>Bericht: <u>Y-5 Auktion für die Lieferperiode 2026 </u></b></a>
+  <br>
+  <details>
+    <summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
+      In der Hauptauktion vom 16. Dezember 2021 für das Lieferjahr 2026 wurden Verträge über 7.189&nbsp;MW abgeschlossen. Der Schlusspreis für polnische Einheiten lag bei 400,39&nbsp;PLN/kW/Jahr, während Einheiten im schwedischen Netzgebiet 399&nbsp;PLN/kW/Jahr erhielten. Insgesamt wurden 128 Gebote bezuschlagt, davon 89 aus Polen und 39 aus dem Ausland. Den größten Anteil stellten Gaskapazitäten mit 42,4&nbsp;% (3.047&nbsp;MW), gefolgt von <abbr title="Demand Side Response">DSR</abbr> mit 20,9&nbsp;% (1.504&nbsp;MW), Wasserkraft mit 15,9&nbsp;% (1.144&nbsp;MW), Co-firing mit 14,0&nbsp;% (1.004&nbsp;MW) <sup><a href="#fn-PO-2026" id="ref-PO-2026">3</a></sup>. Einschließlich früher vergebener langfristiger Verpflichtungen summieren sich die gesicherten Kapazitäten für 2026 auf 18.822&nbsp;MW.
+    </i>
+  </details>
+</div>
+{{< /timelineItem >}}
+
 
 {{< timelineItem icon="rss" header="Vereinigtes Königreich" badge="Auktionsjahr 2021" >}}
 <div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
@@ -434,6 +420,11 @@ Die Y-4-Kapazitätsauktion für das Lieferjahr 2024/2025 im irischen Strommarkt 
 </div>
 {{< /timelineItem >}}
 
+{{< /timeline >}}
+
+### Auktionsjahr 2020
+{{< timeline >}}
+
 {{< timelineItem icon="rss" header="Vereinigtes Königreich" badge="Auktionsjahr 2020" >}}
 <div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
   <a href="https://www.emrdeliverybody.com/Capacity%20Markets%20Document%20Library/T-4%202019%20DY2023%20Capacity%20Market%20Auction%20Final%20Results%20V1.0.pdf"><b>Bericht: <u>Y-4 Auktion für die Lieferperiode 2023-2024 </u></b></a>
@@ -454,8 +445,33 @@ Die Y-4-Kapazitätsauktion für das Lieferjahr 2024/2025 im irischen Strommarkt 
     </i>
   </details>
 </div>
+{{< /timelineItem >}}
+
+{{< /timeline >}}
+### Auktionsjahr 2019
+{{< timeline >}}
+
+{{< timelineItem icon="rss" header="Italien" badge="Auktionsjahr 2019" >}}
+<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
+<a href="https://download.terna.it/terna/Rendiconto%20EsitiAsta%202023_8d78adbacbbe508.pdf"><b>Bericht: <u>Hauptauktion für das Lieferjahr 2023</u></b></a>
+<br>
+<details>
+<summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
+Die Hauptauktion des italienischen Kapazitätsmarkts für das Lieferjahr 2023 fand am 28. November 2019 statt. Insgesamt wurden <strong>4.004&nbsp;MW neu installierte Kapazität</strong> bezuschlagt, davon 528&nbsp;MW autorisierte und 3.476&nbsp;MW nicht autorisierte Kapazität, jeweils zu einem Preis von <strong>75.000&nbsp;€/MW/Jahr</strong>. Die neue Kapazität bestand zu <strong>66&nbsp;%</strong> aus <strong>kombinierten Gaskraftwerken</strong>, zu 21,6&nbsp;% aus Turbogasturbinen, zu 8,7&nbsp;% aus sonstigen thermischen Kraftwerken, zu 2,4&nbsp;% aus Batteriespeichern, zu 1,1&nbsp;% aus Pumpspeicherkraftwerken und zu 0,2&nbsp;% aus Solarenergie. Darüber hinaus wurden <strong>35.013&nbsp;MW bestehende Kapazität</strong> zu einem Preis von <strong>33.000&nbsp;€/MW/Jahr</strong> bezuschlagt. Außerdem wurden <strong>4.394&nbsp;MW an ausländischer Kapazität</strong> ausgewählt, davon 4.241&nbsp;MW von Estero Nord zu einem durchschnittlichen Preis von 4.400&nbsp;€/MW/Jahr, 104&nbsp;MW von Estero Centro Sud zu 4.949&nbsp;€/MW/Jahr und 49&nbsp;MW von Estero Sudzu 3.999&nbsp;€/MW/Jahr. Die <strong>Gesamtkosten</strong> der Auktion beliefen sich auf <strong>1.475&nbsp;Mio.&nbsp;€</strong>.
+</i></details>
+</div>
+
+<div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
+<a href="https://download.terna.it/terna/2019_12_06_Rendiconto%20EsitiAsta%202022_PUBBLICATO_8d7c06cc9f8470b.pdf"><b>Bericht: <u>Hauptauktion für das Lieferjahr 2022</u></b></a>
+<br>
+<details>
+<summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
+Die Hauptauktion des italienischen Kapazitätsmarkts für das Lieferjahr 2022 fand am 6. November 2019 statt. Insgesamt wurden <strong>1.767&nbsp;MW neu installierte Kapazität</strong> zu einem Preis von <strong>75.000&nbsp;€/MW/Jahr</strong> bezuschlagt. Diese neue Kapazität bestand zu <strong>72,8&nbsp;%</strong> aus <strong>kombinierten Gaskraftwerken</strong>, zu 24,7&nbsp;% aus sonstigen thermischen Kraftwerken, zu 2,3&nbsp;% aus Turbogasturbinen und zu 0,2&nbsp;% aus Solarenergie. Darüber hinaus wurde <strong>34.758&nbsp;MW bestehende Kapazität</strong> zu einem Preis von <strong>33.000&nbsp;€/MW/Jahr</strong> bezuschlagt. Zusätzlich wurden <strong>4,4&nbsp;GW an ausländischer Kapazität</strong> ausgewählt, davon etwa 4,2&nbsp;GW von Estero Nord zu 4.400&nbsp;€/MW/Jahr, 104&nbsp;MW von Estero Centro Sud zu 4.400&nbsp;€/MW/Jahr und 49&nbsp;MW von Estero Sud zu 4.400&nbsp;€/MW/Jahr. Die <strong>Gesamtkosten</strong> der Auktion beliefen sich auf <strong>1,3&nbsp;Mrd.&nbsp;€</strong>.
+</i></details>
+</div>
 
 {{< /timelineItem >}}
+
 
 Find additional UK auction results & information <a href="https://www.emrdeliverybody.com/CM/Capacity%20Auction%20Information_deleted.aspx" target="_blank" rel="noopener noreferrer">here</a>.
 
