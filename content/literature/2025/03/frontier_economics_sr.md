@@ -10,7 +10,7 @@ authors: [dkrainer, sstroemer]
 <figure>
     {{< keyword >}}Originaldokument{{< /keyword >}}
     <blockquote style="margin-top: 0.5em;">
-        <a href="URL" target="_blank">
+        <a href="/documents/frontier_20250331.pdf" target="_blank">
             Kurzanalyse zum Beitrag von Reservekraftwerken im Strommarkt
         </a>
     </blockquote>

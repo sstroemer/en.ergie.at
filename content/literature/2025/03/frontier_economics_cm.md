@@ -10,7 +10,7 @@ authors: [dkrainer, sstroemer]
 <figure>
     {{< keyword >}}Originaldokument{{< /keyword >}}
     <blockquote style="margin-top: 0.5em;">
-        <a href="URL" target="_blank">
+        <a href="/documents/frontier_20250313.pdf" target="_blank">
             Wie geht es weiter bei Kraftwerksstrategie und Kapazitätsmarkt?
         </a>
     </blockquote>
