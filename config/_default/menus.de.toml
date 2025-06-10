@@ -39,6 +39,7 @@
 
 [[main]]
   name = "Kapazitätsmechanismen"
+  identifier = "themen-kapazitaetsmechanismen"
   parent = "Themen"
   pageRef = "themen/kapazitaetsmechanismen"
   weight = 22
@@ -54,6 +55,7 @@
 
 [[main]]
   name = "Kapazitätsmechanismen"
+  identifier = "literature-kapazitaetsmechanismen"
   parent = "Literatur"
   pageRef = "literature/kapazitätsmechanismen"
   weight = 32
