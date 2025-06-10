@@ -40,11 +40,11 @@ fehlende Details kannst Du direkt per [GitHub Issue melden](https://github.com/a
 
 ## Europa im Überblick
 
-Es gibt acht EU-Mitgliedstaaten mit aktiven Kapazitätsmechanismen: Belgien, Finnland, Frankreich, Deutschland, Irland
-(SEM), Italien, Polen und Schweden. Drei von ihnen (Finnland, Deutschland und Schweden) haben strategische Reserven
-eingerichtet, während die fünf anderen Mitgliedstaaten marktweite Kapazitätsmechanismen unterhalten. Spanien und
-Portugal haben keinen aktiven Kapazitätsmechanismus, aber einige langfristige Altverträge (gezielte Kapazitätszahlungen)
-gelten noch.
+Es gibt neun europäische Länder mit aktiven Kapazitätsmechanismen: Belgien, Finnland, Frankreich, Deutschland,
+Vereinigtes Königreich, Irland (SEM), Italien, Polen und Schweden. Drei von ihnen (Finnland, Deutschland und Schweden)
+haben strategische Reserven eingerichtet, während die sechs anderen Staaten marktweite Kapazitätsmechanismen
+unterhalten. Spanien und Portugal haben keinen aktiven Kapazitätsmechanismus, aber einige langfristige Altverträge
+(gezielte Kapazitätszahlungen) gelten noch.
 
 <!--![Überblick über aktive und in Diskussion befindliche Kapazitätsmechanismen in Europa (basierend auf [29])] -->
 <!--(/images/laenderuebersicht/laenderuebersicht_aktive_diskutierte_KMs_Europa.png) -->
@@ -105,7 +105,7 @@ Ausgestaltung sowie im Laufe der Zeit genehmigten Anpassungen sind in der
 [Datenbank der Europäischen Kommission](https://competition-cases.ec.europa.eu/search?search=%22capacity%20mechanism%22&caseInstrument=SA&sortField=relevance&sortOrder=DESC)
 zu finden.
 
-### Einzelseiten zu Kapazitätsmechanismen in den Ländern
+## Die Länder im Detail
 
 - [Belgien]({{< ref "laenderuebersicht/be" >}})
 - [Dänemark]({{< ref "laenderuebersicht/dk" >}})
@@ -562,4 +562,3 @@ Find additional UK auction results & information <a href="https://www.emrdeliver
     </p></li>
   </ol>
 </div>
-
