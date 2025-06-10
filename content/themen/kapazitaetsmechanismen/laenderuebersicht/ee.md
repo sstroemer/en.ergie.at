@@ -10,7 +10,8 @@ Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder
 {{< /alert >}}
 
 ## Aktuelle Entwicklungen
-Estland verfügt derzeit über keinen aktiven Kapazitätsmechanismus. Im Jahr 2024 wurde jedoch der nationale Umsetzungsplan zu Marktreformen bei der Europäischen Kommission eingereicht, der gemäß der Elektrizitätsverordnung der EU (2019/943) eine Voraussetzung für die Genehmigung eines Kapazitätsmechanismus darstellt [^Estland]. 
+
+Estland verfügt derzeit über keinen aktiven Kapazitätsmechanismus. Im Jahr 2024 wurde jedoch der nationale Umsetzungsplan zu Marktreformen bei der Europäischen Kommission eingereicht, der gemäß der Elektrizitätsverordnung der EU (2019/943) eine Voraussetzung für die Genehmigung eines Kapazitätsmechanismus darstellt [^Estland].
 
 <!-- Fußnoten -->
-[^Estland]: [Capacity mechanisms<br>(energy.ec.europa.eu)](https://energy.ec.europa.eu/topics/markets-and-consumers/capacity-mechanisms_en#related-links)	
+[^Estland]: [Capacity mechanisms<br>(energy.ec.europa.eu)](https://energy.ec.europa.eu/topics/markets-and-consumers/capacity-mechanisms_en#related-links)

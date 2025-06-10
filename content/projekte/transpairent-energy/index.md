@@ -153,14 +153,14 @@ Die Projektziele werden mithilfe von sechs dedizierten Arbeitspaketen innerhalb 
 {{< timelineItem icon="star" header="1. Konsortialmeeting" badge="27.05.2024" >}}
 Kickoff-Meeting mit dem Projektteam am AIT in Wien
 {{< gallery >}}
-  <img src="assets/kickoff.jpg" class="grid-w50" />
+  <img src="assets/kickoff.jpg" class="grid-w50" alt="Kickoff"/>
 {{< /gallery >}}
 {{< /timelineItem >}}
 <!-- =============================================================================================================== -->
 {{< timelineItem icon="star" header="2. Konsortialmeeting" badge="25.11.2024" >}}
 Konsortialmeeting und Besichtigung der Biogasanlage Bleier in Weingraben im Burgenland
 {{< gallery >}}
-  <img src="assets/konsortialmeeting1.jpg" class="grid-w50" />
+  <img src="assets/konsortialmeeting1.jpg" class="grid-w50" alt="Konsortialmeeting"/>
 {{< /gallery >}}
 {{< /timelineItem >}}
 <!-- =============================================================================================================== -->

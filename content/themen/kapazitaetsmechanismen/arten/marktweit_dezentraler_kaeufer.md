@@ -26,7 +26,7 @@ Dezentrale Kapazitätsmärkte sind in Ländern mit vertikal integrierten und wen
 ## Analyse
 
 Ein Vorteil eines dezentralen Kapazitätsmarkts ist, dass die Entscheidung über die ausgeschriebenen Volumina von einem Betreiber getroffen wird, der näher am Kunden ist, was zu besseren Verbrauchsprognosen führen sollte. Ein weiterer Vorteil des dezentralen Beschaffungsmodells besteht darin, dass es Möglichkeiten für maßgeschneiderte und innovative Lösungen schafft, die bestimmten Betreibern zugutekommen können.
-Jedoch gibt es auch Nachteile: Dezentralisierte Beschaffung führt oft zu höherem bürokratischen Aufwand, da mehrere Betreiber beteiligt sind, und erhöhten Transaktionskosten aufgrund der verringerten Liquidität durch die Vielzahl kleinerer Beschaffungen von möglicherweise nicht standardisierten Produkten. Ein weiterer Nachteil des dezentralen Kapazitätsmarkts ist, dass er nicht garantieren kann, dass zentrale Planer ihre Ziele hinsichtlich der Ressourcensicherheit im Hinblick auf den Zuverlässigkeitsstandard erreichen. Zudem ist es nicht möglich, die Übertragungskapazität in einem dezentralen Kapazitätsmarkt zu verwalten. 
+Jedoch gibt es auch Nachteile: Dezentralisierte Beschaffung führt oft zu höherem bürokratischen Aufwand, da mehrere Betreiber beteiligt sind, und erhöhten Transaktionskosten aufgrund der verringerten Liquidität durch die Vielzahl kleinerer Beschaffungen von möglicherweise nicht standardisierten Produkten. Ein weiterer Nachteil des dezentralen Kapazitätsmarkts ist, dass er nicht garantieren kann, dass zentrale Planer ihre Ziele hinsichtlich der Ressourcensicherheit im Hinblick auf den Zuverlässigkeitsstandard erreichen. Zudem ist es nicht möglich, die Übertragungskapazität in einem dezentralen Kapazitätsmarkt zu verwalten.
 
 | **Vorteile**                                                  | **Herausforderungen**                                                                 |
 |---------------------------------------------------------------|----------------------------------------------------------------------------------------|
@@ -36,10 +36,6 @@ Jedoch gibt es auch Nachteile: Dezentralisierte Beschaffung führt oft zu höher
 | Einbindung dezentralen Wissens über die Nachfrageentwicklung  | Preisgestaltung von Kapazitätsgarantien kann kompliziert sein                         |
 | Überforderung kann tendenziell vermieden werden               | Nicht klimaneutral                                                                    |
 | Eher kurzfristig, daher sehr anpassungsfähig                  | Keine Investitionsanreize                                                             |
-
-*Tabelle 1: Vorteile und Herausforderungen eines dezentralen Kapazitätsmarktes*
-
-
 
 ## Länderbeispiel
 

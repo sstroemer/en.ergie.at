@@ -10,6 +10,7 @@ Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder
 {{< /alert >}}
 
 ## Aktuelle Entwicklungen
+
 Portugal verfügt derzeit über keinen aktiven Kapazitätsmechanismus. Im Nationalen Bericht zur Angemessenheit der Ressourcen (NRAA) 2024 wurde jedoch ein Versorgungssicherheitsproblem festgestellt. Der portugiesische Übertragungsnetzbetreiber REN (Redes Energéticas Nacionais) und die Generaldirektion für Energie und Geologie DGEG (Direção-Geral de Energia e Geologia) sprechen sich daher erstmals gemeinsam für die Einführung eines Kapazitätsmechanismus aus, um die Stillegung der bestehenden CCGTs zu vermeiden [^PT_NRAA_2024].
 
 ## Gezielte Kapazitätszahlungen
