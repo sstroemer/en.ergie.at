@@ -44,4 +44,8 @@ Der Strommarkt unterliegt starken Schwankungen und Markteingriffen, die die Vers
 
 ## Diskussion im Verlauf der Zeit
 
-{{< embed_article link="/themen/kapazitaetsmechanismen/diskussion" showHeader="false" >}}
+<!-- {{< embed_article link="/literature/kapazitätsmechanismen" showHeader="false" >}} -->
+
+Einen Überblick über die Entwicklung der Diskussion zu Kapazitätsmechanismen in den letzten Jahren bietet die
+[Literaturübersicht]({{< ref "/literature/kapazitätsmechanismen" >}}). Diese zeigt, wie sich die Ansichten und Ansätze
+im Laufe der Zeit verändert haben und welche Faktoren dabei eine Rolle gespielt haben.
