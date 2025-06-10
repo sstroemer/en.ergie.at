@@ -21,7 +21,13 @@ authors: [dkrainer, sstroemer]
 
 #### Kapazitätsmechanismen
 
-In der von den vier deutschen Übertragungsnetzbetreibern beauftragten Studie wird die Ausgestaltung eines umfassenden, zentralen Kapazitätsmarkt diskutiert. 50Hertz, Amprion, TenneT and Transnet BW sprechen sich für einen zentralen Kapazitätsmarkt mit lokaler Komponente aus. Dabei sollen Ausschreibungen derart gestaltet sein, dass nicht nur die Verfügbarkeit von Leistung im gesamten Bundesgebiet beanreizt wird, sondern dass lokale Investitionsanreize entstehen.  Die vier deutschen Übertragungsnetzbetreiber erwarten sich durch die lokale Komponente eine Verringerung der CO2-Emissionen, des Redispatch- und Netzreservebedarfs, der Kosten für Systemdienstleistungen sowie folglich auch der Netzentgelte.
+In der von den vier deutschen Übertragungsnetzbetreibern beauftragten Studie wird die Ausgestaltung eines umfassenden,
+zentralen Kapazitätsmarkt diskutiert. Im zugehörigen Begleitschreiben, sprechen sich 50Hertz, Amprion, TenneT und
+Transnet BW daher für einen zentralen Kapazitätsmarkt mit lokaler Komponente aus. Dabei sollen Ausschreibungen derart
+gestaltet sein, dass nicht nur die Verfügbarkeit von Leistung im gesamten Bundesgebiet beanreizt wird, sondern dass
+lokale Investitionsanreize entstehen. Die vier deutschen Übertragungsnetzbetreiber erwarten sich durch die lokale
+Komponente eine Verringerung der CO<sub>2</sub>-Emissionen, des Redispatch- und Netzreservebedarfs, der Kosten für
+Systemdienstleistungen sowie folglich auch der Netzentgelte.
 
 ## Weiterführende Links
 
