@@ -23,7 +23,21 @@ Es gibt acht EU-Mitgliedstaaten mit aktiven Kapazitätsmechanismen: Belgien, Fin
 <!--(/images/laenderuebersicht/laenderuebersicht_aktive_diskutierte_KMs_Europa.png) -->
 <style>.responsive23-pjSfJybsFZpRaOLY-choro-cms-europe { width: 100%; padding-top: 100%; } @media (max-width: 600px) { .responsive23-pjSfJybsFZpRaOLY-choro-cms-europe { padding-top: 100%; } } @media (max-width: 360px) { .responsive23-pjSfJybsFZpRaOLY-choro-cms-europe { padding-top: 142.86%; } }</style>
 <div id="container23-pjSfJybsFZpRaOLY-choro-cms-europe" class="responsive23-pjSfJybsFZpRaOLY-choro-cms-europe" style="position: relative;"><iframe title="CMs Europe" src="https://app.23degrees.io/embed/pjSfJybsFZpRaOLY-choro-cms-europe" allow="fullscreen" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0"></iframe></div>
-<script src="https://app.23degrees.io/services/public/embed-code/pjSfJybsFZpRaOLY-choro-cms-europe"></script>
+<script src="https://app.23degrees.io/services/public/embed-code/pjSfJybsFZpRaOLY-choro-cms-europe"></script> <br>
+Tabelle 1 fasst die Kapazitätsmechanismen, deren Auktionsart, das Jahr der Einführung sowie die aktuelle Diskussion in den einzelnen Ländern zusammen. 
+
+
+| **Land**      | **Kapazitätsmechanismus** | **Auktionsart** |**Jahr** | **Diskussion** |
+|--------------------|:----------------------------------------:|:-----------:|:-----------:|:-----------:|
+| BE     | Zentraler Markt  | Pay-as-bid  |      2021 | - | 
+| DE       | Strategische Reserve     | Pay-as-cleared     | 2019   | Kapazitätsmarkt |
+| FI |  Strategische Reserve          | Pay-as-cleared        | 2022        |- |
+| FR | Dezentraler Markt     |      -   | 2018|Zentraler Markt |
+| IE | Zentraler Markt    |      Pay-as-cleared   | 2017 | - |
+| IT | Zentraler Markt     |      Pay-as-cleared   | 2019 |- |
+| PL | Zentraler Markt     |      Pay-as-cleared   | 2018 | - |
+| SE | Strategische Reserve|      Pay-as-bid   | 2002 | Zentraler Markt |
+| UK | Zentraler Markt     |      Pay-as-cleared   | 2014 | - |
 
 Eine Übersicht über alle aktuell als staatliche Beihilfen genehmigten Kapazitätsmechanismen und deren genaue Ausgestaltung sowie im Laufe der Zeit genehmigten Anpassungen sind in der [Datenbank der Europäischen Kommission](https://competition-cases.ec.europa.eu/search?search=%22capacity%20mechanism%22&caseInstrument=SA&sortField=relevance&sortOrder=DESC) zu finden.
 
