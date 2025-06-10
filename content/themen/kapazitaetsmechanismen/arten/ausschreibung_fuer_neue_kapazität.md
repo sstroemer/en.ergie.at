@@ -36,7 +36,6 @@ Zu den Vorteilen von Ausschreibungen für neue Kapazitäten gehört, dass sie n�
 
 *Tabelle 3: Vorteile und Herausforderungen bei der Ausschreibung für neue Kapazität*
 
-
 ## Länderbeispiele
 
 - [Frankreich]({{< ref "themen/kapazitaetsmechanismen/laenderuebersicht/fr.md" >}})

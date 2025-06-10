@@ -26,7 +26,6 @@ General structure:
             Try to keep the same style for countries as in the examples below.
             ChatGPT can help you with the summary if you provide the report and ask it to summarize the auction results in a similar style as the examples below. -> CHECK OF THE GENERATED SUMMARY NECESSARY!
 
-
             </i></details>
             </div> 
       {{< /timelineItem >}}
@@ -40,7 +39,7 @@ Wir arbeiten gerade an diesem Artikel. Informationen können unvollständig oder
 
 ## Europa im Überblick
 
-Es gibt acht EU-Mitgliedstaaten mit aktiven Kapazitätsmechanismen: Belgien, Finnland, Frankreich, Deutschland, Irland (SEM), Italien, Polen und Schweden. Drei von ihnen (Finnland, Deutschland und Schweden) haben strategische Reserven eingerichtet, während die fünf anderen Mitgliedstaaten marktweite Kapazitätsmechanismen unterhalten. Spanien und Portugal haben keinen aktiven Kapazitätsmechanismus, aber einige langfristige Altverträge (gezielte Kapazitätszahlungen) gelten noch. 
+Es gibt acht EU-Mitgliedstaaten mit aktiven Kapazitätsmechanismen: Belgien, Finnland, Frankreich, Deutschland, Irland (SEM), Italien, Polen und Schweden. Drei von ihnen (Finnland, Deutschland und Schweden) haben strategische Reserven eingerichtet, während die fünf anderen Mitgliedstaaten marktweite Kapazitätsmechanismen unterhalten. Spanien und Portugal haben keinen aktiven Kapazitätsmechanismus, aber einige langfristige Altverträge (gezielte Kapazitätszahlungen) gelten noch.
 
 <!--![Überblick über aktive und in Diskussion befindliche Kapazitätsmechanismen in Europa (basierend auf [29])] -->
 <!--(/images/laenderuebersicht/laenderuebersicht_aktive_diskutierte_KMs_Europa.png) -->
@@ -69,7 +68,9 @@ Eine Übersicht über alle aktuell als staatliche Beihilfen genehmigten Kapazit�
 - [Vereinigtes Königreich]({{< ref "laenderuebersicht/uk" >}})
 
 ## Auktionsergebnisse
+
 ### Auktionsjahr 2025
+
 {{< timeline >}}
 {{< timelineItem icon="rss" header="Italien" badge="Auktionsjahr 2025" >}}
 
@@ -84,7 +85,9 @@ Die Hauptauktion des italienischen Kapazitätsmarkts für das Lieferjahr 2027 fa
 {{< /timelineItem >}}
 
 {{< /timeline >}}
+
 ### Auktionsjahr 2024
+
 {{< timeline >}}
 
 {{< timelineItem icon="rss" header="Belgien" badge="Auktionsjahr 2024" >}}
@@ -185,11 +188,12 @@ Die Hauptauktion des italienischen Kapazitätsmarkts für das Lieferjahr 2025 fa
 {{< /timelineItem >}}
 
 {{< /timeline >}}
+
 ### Auktionsjahr 2023
+
 {{< timeline >}}
 
 {{< timelineItem icon="rss" header="Belgien" badge="Auktionsjahr 2023" >}}
-
 
 <div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
 <a href="https://www.elia.be/-/media/project/elia/elia-site/grid-data/adequacy/crm-auction-results/2023/y-4-2023-auction-report_en.pdf"><b>Bericht: <u>Y-4 Auktion für die Lieferperiode 2027-2028</u></b></a>
@@ -200,7 +204,6 @@ Die Y-4-Auktion des Kapazitätsvergütungsmechanismus für den Lieferzeitraum 20
 </i></details>
 </div>
 {{< /timelineItem >}}
-
 
 {{< timelineItem icon="rss" header="Irland" badge="Auktionsjahr 2023" >}}
 
@@ -313,7 +316,6 @@ Die Y-3-Kapazitätsauktion für das Lieferjahr 2024/2025 im irischen Strommarkt 
 </div>
 {{< /timelineItem >}}
 
-
 {{< timelineItem icon="rss" header="Italien" badge="Auktionsjahr 2022" >}}
 <div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
 <a href="https://download.terna.it/terna/Mercato_Capacit%C3%A0_Rendiconto_esiti_Asta_madre_2024_8da140f8874afcd.pdf"><b>Bericht: <u>Hauptauktion für das Lieferjahr 2024</u></b></a>
@@ -361,10 +363,10 @@ Die Hauptauktion des italienischen Kapazitätsmarkts für das Lieferjahr 2024 fa
 {{< /timeline >}}
 
 ### Auktionsjahr 2021
+
 {{< timeline >}}
 
 {{< timelineItem icon="rss" header="Irland" badge="Auktionsjahr 2021" >}}
-
 
 <div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
 <a href="https://www.sem-o.com/sites/semo/files/documents/general-publications/T-1-2022-2023-Final-Capacity-Auction-Results-Report.pdf"><b>Bericht: <u>Y-1 Auktion für die Lieferperiode 2022-2023</u></b></a>
@@ -397,7 +399,6 @@ Die Y-4-Kapazitätsauktion für das Lieferjahr 2024/2025 im irischen Strommarkt 
 </div>
 {{< /timelineItem >}}
 
-
 {{< timelineItem icon="rss" header="Vereinigtes Königreich" badge="Auktionsjahr 2021" >}}
 <div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
   <a href="https://www.emrdeliverybody.com/Capacity%20Markets%20Document%20Library/Capacity%20Market%20Auction%20T4%20DY2024-25%20Final%20Report.pdf"><b>Bericht: <u>Y-4 Auktion für die Lieferperiode 2024-2025 </u></b></a>
@@ -423,6 +424,7 @@ Die Y-4-Kapazitätsauktion für das Lieferjahr 2024/2025 im irischen Strommarkt 
 {{< /timeline >}}
 
 ### Auktionsjahr 2020
+
 {{< timeline >}}
 
 {{< timelineItem icon="rss" header="Vereinigtes Königreich" badge="Auktionsjahr 2020" >}}
@@ -448,7 +450,9 @@ Die Y-4-Kapazitätsauktion für das Lieferjahr 2024/2025 im irischen Strommarkt 
 {{< /timelineItem >}}
 
 {{< /timeline >}}
+
 ### Auktionsjahr 2019
+
 {{< timeline >}}
 
 {{< timelineItem icon="rss" header="Italien" badge="Auktionsjahr 2019" >}}
@@ -471,7 +475,6 @@ Die Hauptauktion des italienischen Kapazitätsmarkts für das Lieferjahr 2022 fa
 </div>
 
 {{< /timelineItem >}}
-
 
 Find additional UK auction results & information <a href="https://www.emrdeliverybody.com/CM/Capacity%20Auction%20Information_deleted.aspx" target="_blank" rel="noopener noreferrer">here</a>.
 
