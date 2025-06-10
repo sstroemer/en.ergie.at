@@ -5,8 +5,31 @@ authors: [afischer, sstroemer, dkrainer]
 ---
 
 <!--
-NOTE: format of auction result structure
-      TODO
+NOTE: Format of auction result structure for adding future auction results
+General information:
+      Always use Y-x  and not T-x for auction years
+      Always write numbers and units as: 12345&nbsp;MW (creates space between value and unit and avoids line breaks)
+
+General structure:
+      {{< timelineItem icon="rss" header="Country" badge="Auktionsjahr 20xx" >}}
+      <div style="border-left: 4px solid #999999; padding-left: 1em; margin-bottom: 1.5em;">
+            <a href="Link to report"><b>Bericht: <u> Title of the acution result report </u></b></a>
+            <br>
+            <details>
+            <summary><span style="cursor: pointer; font-weight: 500;">Zusammenfassung anzeigen</span></summary><i>
+
+            Summary of auction results: 
+            Should contain total awarded capacity, clearing price, volume-weighted average price in case of pay-as-bid, awarded new and existing capacity, awarded foreign capacity and share of successful technology type if available.
+
+            TIPPS: 
+            Use the <b> tag to highlight important values.
+            Try to keep the same style for countries as in the examples below.
+            ChatGPT can help you with the summary if you provide the report and ask it to summarize the auction results in a similar style as the examples below. -> CHECK OF THE GENERATED SUMMARY NECESSARY!
+
+
+            </i></details>
+            </div> 
+      {{< /timelineItem >}}
 -->
 
 <br>
