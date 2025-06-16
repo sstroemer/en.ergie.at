@@ -6,7 +6,7 @@ authors: [dkrainer, sstroemer]
 
 bib:
   type: Präsentation
-  author: e-control
+  author: E-Control
   date: 2025-02-27
   description: |
     Dieser Konferenzvortrag (IEWT 2025) diskutiert, wie viel österreichische Verbraucher bereit sind zu zahlen, um eine Lastunterdeckung bzw. eine Versorgungsunterbrechnung zu vermeiden ("Value of Lost Load). Hintergründe, die Datenerhebung, sowie resultierende Werte - nach Sektoren aufgeschlüsselt - werden angeführt.
