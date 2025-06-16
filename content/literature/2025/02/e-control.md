@@ -1,5 +1,5 @@
 ---
-title: "Value of Lost Load (VOLL)"
+title: "Die Bewertung der unterbrechungsfreien Stromversorgung in Österreich (VoLL)"
 type: literature
 literature: [Präsentation, Kapazitätsmechanismen, VOLL]
 authors: [dkrainer, sstroemer]
