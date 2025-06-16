@@ -7,7 +7,7 @@ authors: [dkrainer, sstroemer]
 bib:
   type: Studie
   author: Consentec, energy consulting und Öko-Institut e.V.
-  date: 10.09.2024
+  date: 2024-09-10
   description: blablabla
 
 ---

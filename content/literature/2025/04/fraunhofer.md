@@ -7,7 +7,7 @@ authors: [dkrainer, sstroemer]
 bib:
   type: Studie
   author: Fraunhofer ISI
-  date: 14.04.2025
+  date: 2025-04-16
   description: blablabla
 ---
 

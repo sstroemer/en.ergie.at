@@ -7,7 +7,7 @@ authors: [dkrainer, sstroemer]
 bib:
   type: Positionspapier
   author: ENTSO-E
-  date: 16.04.2025
+  date: 2025-04-16
   description: blablabla
 ---
 

@@ -7,7 +7,7 @@ authors: [dkrainer, sstroemer]
 bib:
   type: Präsentation
   author: Frontier Economics
-  date: 31.03.2025
+  date: 2025-03-31
   description: blablabla
 ---
 

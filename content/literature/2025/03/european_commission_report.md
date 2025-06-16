@@ -7,7 +7,7 @@ authors: [dkrainer, sstroemer]
 bib:
   type: Bericht
   author: Europäische Kommission
-  date: 03.03.2025
+  date: 2025-03-03
   description: blablabla
 ---
 

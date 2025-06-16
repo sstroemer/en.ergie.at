@@ -7,7 +7,7 @@ authors: [dkrainer, sstroemer]
 bib:
   type: Bericht
   author: ACER
-  date: 16.12.2024
+  date: 2024-12-16
   description: blablabla
 
 ---

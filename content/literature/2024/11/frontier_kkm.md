@@ -7,7 +7,7 @@ authors: [dkrainer, sstroemer]
 bib:
   type: Studie
   author: Frontier Economics
-  date: 14.11.2024
+  date: 2024-11-14
   description: blablabla
 
 ---

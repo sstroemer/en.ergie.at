@@ -7,7 +7,7 @@ authors: [dkrainer, sstroemer]
 bib:
   type: Gesetzentwurf
   author: Europäische Kommission
-  date: 11.03.2025
+  date: 2025-03-11
   description: blablabla
 ---
 

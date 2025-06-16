@@ -7,7 +7,7 @@ authors: [dkrainer, sstroemer]
 bib:
   type: Positionspapier
   author: Bundesministerium für Wirtschaft und Klimaschutz der Bundesrepublik Deutschland
-  date: 04.09.2024
+  date: 2024-09-04
   description: blablabla
 
 ---

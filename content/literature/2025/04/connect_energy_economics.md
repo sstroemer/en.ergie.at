@@ -7,7 +7,7 @@ authors: [dkrainer, sstroemer]
 bib:
   type: Studie
   author: Connect Energy Economics
-  date: 08.04.2025
+  date: 2025-04-08
   description: blablabla
 ---
 

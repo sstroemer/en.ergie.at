@@ -7,7 +7,7 @@ authors: [dkrainer, sstroemer]
 bib:
   type: Studie
   author: Constentec
-  date: 15.05.2024
+  date: 2024-05-15
   description: blablabla
 
 ---

@@ -7,7 +7,7 @@ authors: [dkrainer, sstroemer]
 bib:
   type: Studie
   author: Florence School of Regulation
-  date: 22.11.2024
+  date: 2024-11-22
   description: blablabla
 
 ---
