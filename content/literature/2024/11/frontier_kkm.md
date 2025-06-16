@@ -3,6 +3,13 @@ title: "Kombinierter Kapazitätsmarkt - eine Analyse der Vor- und Nachteile"
 type: literature
 literature: [Studie, Kapazitätsmechanismen]
 authors: [dkrainer, sstroemer]
+
+bib:
+  type: Studie
+  author: Frontier Economics
+  date: 2024-11-14
+  description: blablabla
+
 ---
 
 ## Überblick

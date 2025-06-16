@@ -3,6 +3,12 @@ title: "Die Rolle von Kapazitätsmechanismen für eine sichere und wettbewerbsf�
 type: literature
 literature: [Positionspapier, Kapazitätsmechanismen]
 authors: [dkrainer, sstroemer]
+
+bib:
+  type: Positionspapier
+  author: ENTSO-E
+  date: 2025-04-16
+  description: blablabla
 ---
 
 ## Überblick

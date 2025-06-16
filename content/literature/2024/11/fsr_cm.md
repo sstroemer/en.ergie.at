@@ -3,6 +3,13 @@ title: "Eine einfache Lösung zur Harmonisierung von Kapazitätsmärkten"
 type: literature
 literature: [Positionspapier, Kapazitätsmechanismen]
 authors: [dkrainer, sstroemer]
+
+bib:
+  type: Positionspapier
+  author: Florence School of Regulation
+  date: 2024-11-22
+  description: blablabla
+
 ---
 
 ## Überblick

@@ -3,6 +3,12 @@ title: "Kurzanalyse zum Beitrag von Reservekraftwerken im Strommarkt"
 type: literature
 literature: [Präsentation, Kapazitätsmechanismen]
 authors: [dkrainer, sstroemer]
+
+bib:
+  type: Präsentation
+  author: Frontier Economics
+  date: 2025-03-31
+  description: blablabla
 ---
 
 ## Überblick

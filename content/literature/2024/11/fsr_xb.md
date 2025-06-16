@@ -3,6 +3,13 @@ title: "Grenzüberschreitende Teilnahme: Eine trügerische Hoffnung zur Behebung
 type: literature
 literature: [Studie, Kapazitätsmechanismen]
 authors: [dkrainer, sstroemer]
+
+bib:
+  type: Studie
+  author: Florence School of Regulation
+  date: 2024-11-22
+  description: blablabla
+
 ---
 
 ## Überblick

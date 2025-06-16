@@ -3,6 +3,12 @@ title: "Die Ausgestaltung der Absicherungspflicht"
 type: literature
 literature: [Studie, Kapazitätsmechanismen]
 authors: [dkrainer, sstroemer]
+
+bib:
+  type: Studie
+  author: Connect Energy Economics
+  date: 2025-04-08
+  description: blablabla
 ---
 
 ## Überblick
