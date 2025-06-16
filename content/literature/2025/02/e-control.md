@@ -21,7 +21,7 @@ bib:
             Value of Lost Load (VOLL): Die Bewertung der unterbrechungsfreien Stromversorgung in Österreich.
         </a>
     </blockquote>
-    <figcaption>— e-control, im Februar 2025</figcaption>
+    <figcaption>— E-Control, im Februar 2025</figcaption>
 </figure>
 
 ### Inhalte
