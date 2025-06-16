@@ -30,7 +30,7 @@ bib:
 
 Die Präsentation von e-control beschreibt die Methodik und Ergebnisse der Erhebung der Value of Lost Load (VOLL)
 in Österreich. Dazu wurde die Zahlungsbereitschaft unterschiedlicher Verbraucherkategorien zur Vermeidung von
-Versorgungsunterbrechungen in verschiedenen Szenarien untersucht. Die befragten Verbrauchergurppen umfassten private
+Versorgungsunterbrechungen in verschiedenen Szenarien untersucht. Die befragten Verbrauchergruppen umfassten private
 Haushalte (1002), den produzierenden Bereich (205) und öffentliche und private Dienstleistungen & Transportswesen (230).
 Die Ergebnisse weisen eine ausgeprägte Heterogenität der sektorealen VOLL-Werte
 in den unterschiedlichen Szenarien zwischen 1.800&nbsp;EUR/MWh und 13.000&nbsp;EUR/MWh auf.
