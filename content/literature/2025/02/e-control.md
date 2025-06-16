@@ -28,7 +28,7 @@ bib:
 
 #### Value of Lost Load (VOLL)
 
-Die Präsentation von e-control beschreibt die Methodik und Ergebnisse der Erhebung der Value of Lost Load (VOLL)
+Die Präsentation von E-Control beschreibt die Methodik und Ergebnisse der Erhebung der Value of Lost Load (VOLL)
 in Österreich. Dazu wurde die Zahlungsbereitschaft unterschiedlicher Verbraucherkategorien zur Vermeidung von
 Versorgungsunterbrechungen in verschiedenen Szenarien untersucht. Die befragten Verbrauchergruppen umfassten private
 Haushalte (1002), den produzierenden Bereich (205) und öffentliche und private Dienstleistungen & Transportswesen (230).
