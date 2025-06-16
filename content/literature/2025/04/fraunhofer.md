@@ -9,9 +9,10 @@ bib:
   author: Fraunhofer ISI
   date: 2025-04-16
   description: |
-    REPLACE THIS with a summary of the document, its purpose, and key findings or recommendations; lorem ipsum dolor sit
-    amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-    minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Das Dokument schlägt einen kombinierten Kapazitätsmarkt für Österreich vor, der dezentrale Unterstützung für
+    Bestandskraftwerke und zentral organisierte Ausschreibungen für Neuanlagen kombiniert, um Versorgungssicherheit und
+    Investitionsstabilität zu gewährleisten.
+
 ---
 
 ## Überblick

@@ -9,9 +9,10 @@ bib:
   author: Europäische Kommission
   date: 2025-03-03
   description: |
-    REPLACE THIS with a summary of the document, its purpose, and key findings or recommendations; lorem ipsum dolor sit
-    amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-    minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Das Dokument ist ein Kommissionsbericht, der Möglichkeiten zur Straffung und Vereinfachung des Verfahrens zur
+    Umsetzung von Kapazitätsmechanismen gemäß Kapitel IV der Verordnung (EU) 2019/943 bewertet und entsprechende
+    Vorschläge enthält.
+
 ---
 
 ## Überblick

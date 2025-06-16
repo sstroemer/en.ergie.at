@@ -9,9 +9,9 @@ bib:
   author: Consentec, energy consulting und Öko-Institut e.V.
   date: 2024-09-10
   description: |
-    REPLACE THIS with a summary of the document, its purpose, and key findings or recommendations; lorem ipsum dolor sit
-    amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-    minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Das Dokument stell ein Konzept für einen kombinierten Kapazitätsmarkt (KKM) vor - ein hybrides Modell aus zentraler
+    Ausschreibung für Investitionssicherheit und dezentralem Zertifikatehandel zur Einbindung flexibler Lasten und
+    Speicherung, angepasst an die Energiewende.
 
 ---
 

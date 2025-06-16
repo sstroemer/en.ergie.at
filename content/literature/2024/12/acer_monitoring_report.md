@@ -9,9 +9,9 @@ bib:
   author: ACER
   date: 2024-12-16
   description: |
-    REPLACE THIS with a summary of the document, its purpose, and key findings or recommendations; lorem ipsum dolor sit
-    amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-    minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Das Dokument analysiert in einem Jahr‑über‑Jahr‑Vergleich die Versorgungssicherheit, das
+    Ressourcen‑Adequacy‑Rahmenwerk, nationale Kapazitätsmechanismen sowie die Förderung flexibler, CO2‑armer
+    Energiereserven im europäischen Stromnetz.
 
 ---
 

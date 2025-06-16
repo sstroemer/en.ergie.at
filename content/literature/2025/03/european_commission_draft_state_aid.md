@@ -9,9 +9,11 @@ bib:
   author: Europäische Kommission
   date: 2025-03-11
   description: |
-    REPLACE THIS with a summary of the document, its purpose, and key findings or recommendations; lorem ipsum dolor sit
-    amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-    minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Das Dokument stellt einen Entwurf des "Clean Industrial State Aid Framework" (CISAF) vor - einen EU‑Rahmen bis Ende
+    2030, der darauf abzielt, staatliche Beihilfen zu vereinfachen, um erneuerbare Energien, industrielle
+    Dekarbonisierung, saubere Produktionstechnologien und private Investitionen zu fördern und beschreibt wie
+    Mitgliedstaaten schnell und gezielt Klimainvestitionen unterstützen können.
+
 ---
 
 

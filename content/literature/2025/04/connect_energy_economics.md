@@ -9,9 +9,10 @@ bib:
   author: Connect Energy Economics
   date: 2025-04-08
   description: |
-    REPLACE THIS with a summary of the document, its purpose, and key findings or recommendations; lorem ipsum dolor sit
-    amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-    minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Das Dokument analysiert, wie durch die Einführung und konkrete Ausgestaltung einer "Absicherungspflicht" im
+    Strommarkt - im Unterschied zu staatlichen Kapazitätssubventionen – marktwirtschaftlich Versorgungssicherheit
+    gefördert und Risikoexternalitäten internalisiert werden können.
+    
 ---
 
 ## Überblick

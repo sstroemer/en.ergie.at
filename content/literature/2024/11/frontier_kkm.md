@@ -9,9 +9,9 @@ bib:
   author: Frontier Economics
   date: 2024-11-14
   description: |
-    REPLACE THIS with a summary of the document, its purpose, and key findings or recommendations; lorem ipsum dolor sit
-    amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-    minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Die Kurzstudie bewertet das Konzept des "Kombinierten Kapazitätsmarkts" (KKM), prüft dessen praktische Vor‑ und
+    Nachteile und gelangt zu dem Ergebnis, dass die politischen Erwartungen an den Mechanismus voraussichtlich nicht
+    erfüllt werden.
 
 ---
 
