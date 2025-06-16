@@ -3,6 +3,12 @@ title: "Wie geht es weiter bei Kraftwerksstrategie und Kapazitätsmarkt?"
 type: literature
 literature: [Präsentation, Kapazitätsmechanismen]
 authors: [dkrainer, sstroemer]
+
+bib:
+  type: Präsentation
+  author: Frontier Economics
+  date: 15.03.2025
+  description: blablabla
 ---
 
 ## Überblick

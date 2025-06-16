@@ -3,6 +3,12 @@ title: "Studie Kapazitätsmarkt Österreich"
 type: literature
 literature: [Studie, Kapazitätsmechanismen]
 authors: [dkrainer, sstroemer]
+
+bib:
+  type: Studie
+  author: Fraunhofer ISI
+  date: 14.04.2025
+  description: blablabla
 ---
 
 ## Überblick

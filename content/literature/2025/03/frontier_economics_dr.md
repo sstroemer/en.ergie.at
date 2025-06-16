@@ -3,6 +3,12 @@ title: "Einbindung von dezentraler Flexibilität in einen integrierten Kapazitä
 type: literature
 literature: [Studie, Kapazitätsmechanismen]
 authors: [dkrainer, sstroemer]
+
+bib:
+  type: Studie
+  author: Frontier Economics
+  date: 17.03.2025
+  description: blablabla
 ---
 
 ## Überblick

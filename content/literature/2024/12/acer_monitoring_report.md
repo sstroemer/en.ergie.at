@@ -3,6 +3,13 @@ title: "Sicherheit der Stromversorgung in der EU"
 type: literature
 literature: [Bericht, Kapazitätsmechanismen]
 authors: [dkrainer, sstroemer]
+
+bib:
+  type: Bericht
+  author: ACER
+  date: 16.12.2024
+  description: blablabla
+
 ---
 
 ## Überblick

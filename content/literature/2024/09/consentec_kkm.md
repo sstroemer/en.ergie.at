@@ -3,6 +3,13 @@ title: "Überblick zur Ausgestaltung eines kombinierten Kapazitätsmarkts"
 type: literature
 literature: [Studie, Kapazitätsmechanismen]
 authors: [dkrainer, sstroemer]
+
+bib:
+  type: Studie
+  author: Consentec, energy consulting und Öko-Institut e.V.
+  date: 10.09.2024
+  description: blablabla
+
 ---
 
 ## Überblick

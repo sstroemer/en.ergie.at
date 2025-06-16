@@ -3,6 +3,12 @@ title: "Bewertung der Möglichkeiten zur Straffung und Vereinfachung des Verfahr
 type: literature
 literature: [Bericht, Kapazitätsmechanismen]
 authors: [dkrainer, sstroemer]
+
+bib:
+  type: Bericht
+  author: Europäische Kommission
+  date: 03.03.2025
+  description: blablabla
 ---
 
 ## Überblick

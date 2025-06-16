@@ -3,6 +3,13 @@ title: "Ausarbeitung eines Kapazitätsmechanismus für den deutschen Strommarkt"
 type: literature
 literature: [Studie, Kapazitätsmechanismen]
 authors: [dkrainer, sstroemer]
+
+bib:
+  type: Studie
+  author: Constentec
+  date: 15.05.2024
+  description: blablabla
+
 ---
 
 ## Überblick

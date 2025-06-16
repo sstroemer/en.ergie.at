@@ -3,7 +3,14 @@ title: "Gesetzentwurf: Clean Industrial Deal State Aid Framework"
 type: literature
 literature: [Gesetzentwurf, Kapazitätsmechanismen]
 authors: [dkrainer, sstroemer]
+
+bib:
+  type: Gesetzentwurf
+  author: Europäische Kommission
+  date: 11.03.2025
+  description: blablabla
 ---
+
 
 ## Überblick
 
