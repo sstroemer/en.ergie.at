@@ -9,9 +9,7 @@ bib:
   author: Florence School of Regulation
   date: 2024-11-22
   description: |
-    REPLACE THIS with a summary of the document, its purpose, and key findings or recommendations; lorem ipsum dolor sit
-    amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-    minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    In diesem Dokument wird die Verpflichtung in einem Kapazitätsmechanismus, explizite grenzüberschreitende Teilnahme zu ermöglichen, untersucht und deren Wirksamkeit bei der Minderung grenzüberschreitender Effekte infrage gestellt. Die Autoren schlagen vor, diese Anforderung kurzfristig durch implizite Teilnahme zu ersetzen, was einfacher umzusetzen ist und vergleichbare Vorteile bietet.
 
 ---
 

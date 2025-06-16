@@ -9,10 +9,7 @@ bib:
   author: ENTSO-E
   date: 2025-04-16
   description: |
-    Dieses Dokument betrachtet die sich entwickelnde Rolle, die gestalterischen Herausforderungen und evidenzbasierte
-    Empfehlungen für Kapazitätsmechanismen in den europäischen Strommärkten darlegt - mit dem Ziel,
-    Versorgungssicherheit, Markteffizienz, Dekarbonisierung und grenzüberschreitende Integration im Rahmen der
-    Energiewende sicherzustellen.
+    Dieses Dokument untersucht die sich wandelnde Rolle von Kapazitätsmechanismen in den europäischen Strommärkten, beleuchtet die damit verbundenen gestalterischen Herausforderungen und präsentiert evidenzbasierte Empfehlungen - mit dem Ziel, Versorgungssicherheit, Markteffizienz, Dekarbonisierung und grenzüberschreitende Integration im Rahmen der Energiewende sicherzustellen.
 
 ---
 

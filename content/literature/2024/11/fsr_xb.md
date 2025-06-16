@@ -9,9 +9,7 @@ bib:
   author: Florence School of Regulation
   date: 2024-11-22
   description: |
-    REPLACE THIS with a summary of the document, its purpose, and key findings or recommendations; lorem ipsum dolor sit
-    amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-    minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    In diesem Dokument wird explizite und implizite grenzüberschreitende Teilnahme in Kapazitätsmärkten anhand eines Equilibriummodells und drei Gebotszonen untersucht. Die Autoren kommen zu dem Schluss, dass explizite grenzüberschreitende Teilnahme nicht die gewünschten Effekte hat und schlagen stattdessen vor, implizite Teilnahme kurzfristig zuzulassen und langfristig die Kapazitätsmärkte auf europäischer Ebene zu harmonisieren, um grenzüberschreitende Effekte zu vermeiden.
 
 ---
 

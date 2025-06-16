@@ -9,9 +9,7 @@ bib:
   author: Frontier Economics
   date: 2025-03-15
   description: |
-    REPLACE THIS with a summary of the document, its purpose, and key findings or recommendations; lorem ipsum dolor sit
-    amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-    minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Dieses Dokument bietet einen Überblick über die bisherige Diskussion zur Einführung der Kraftwerksstrategie und eines Kapazitätsmarkts in Deutschland und analysiert, in welche Richtung sich beide Konzepte unter der neuen Bundesregierung entwickeln könnten.
 ---
 
 ## Überblick
